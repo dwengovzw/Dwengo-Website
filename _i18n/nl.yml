@@ -1,3 +1,4 @@
+# Global translations
 global:
   dutch: Nederlands
   english: Engels
@@ -5,6 +6,7 @@ global:
   german: Duits
   select_language: Kies taal
 
+# Translations for the home page split into the strengths section and learning paths section
 strengths:
   title: Onze sterktes
   innovative: Innovatief

@@ -6,7 +6,6 @@ global:
   german: Allemand
   select_language: Kies taal
 
-
 # Translations for the home page split into the strengths section and learning paths section
 strengths:
   title: Nos atouts
