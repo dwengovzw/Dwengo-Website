@@ -1,0 +1,44 @@
+global:
+  dutch: Nederlands
+  english: Engels
+  french: Frans
+  german: Duits
+  select_language: Kies taal
+
+strengths:
+  title: Onze sterktes
+  innovative: Innovatief
+  research_based: Onderzoeksgedreven
+  inclusive: Inclusief
+  socially_relevant: Maatschappelijk relevant
+  innovative_text: We voegen steeds nieuwe projecten en methodieken toe aan al onze projecten.
+  research_based_text: Alle lespakketten van Dwengo vzw zijn gebaseerd op gedegen wetenschappelijk onderzoek.
+  inclusive_text: We richten ons op alle kinderen en jongeren met een specifieke aandacht voor het evenwicht tussen meisjes en jongens en leerlingen uit kansengroepen.
+  socially_relevant_text: We zoeken projecten uit die passen binnen de actualiteit en maatschappelijke thema's.
+  quote:
+    text: Je maakt iets praktisch, je leert werken met hardware en je kan zelf iets nieuws cre&euml;ren. 
+    name: Matthias en Bruno
+    affiliation: 4e middelbaar
+
+learning_paths:
+  title: Leerpaden
+
+
+# Translations for the about page
+about_page:
+  title: Over
+
+# Translations for the contact page
+contact_page:
+  title: Contact
+
+# Translations for the projects page
+projects_page:
+  title: Projecten
+
+
+# Translations for the menu items
+about: Over
+contact: Contact
+projects: Projecten
+  
