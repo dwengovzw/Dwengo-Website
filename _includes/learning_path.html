@@ -1,16 +1,37 @@
 <div id="learning_path" class="container">
+
     <div class="row">
-        <div class="col-3">
-            <div class="row">
-                <h5 id="lp_title" class="col">
-                </h5>
+        <!-- vanaf lg => col-3 en col-9
+        xs, sm en md =>  nog te bepalen -->
+        <!-- zichtbaar: d-md-block of onzichtbaar: d-md-none -->
+        <nav class="navbar navbar-light d-md-none" style="width: 100%;">
+            <button class="navbar-toggler" style="width: 100%;" type="button" data-toggle="collapse"
+                data-target="#toggleSidebar" aria-controls="toggleSidebar" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <h4 class="d-inline lp_title"></h4>
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </nav>
+        <div class="col-12 col-md-3 collapse d-md-block" id="toggleSidebar">
+            <div class="row d-none d-md-block">
+                <div class="col">
+                    <h5 class="lp_title">
+                    </h5>
+                </div>
             </div>
             <div class="row">
-                <div id="lp_visualisation" class="col">
+                <div class="col">
+                    <ul id="lp_visualisation" class="list-group ml-0"></ul>
                 </div>
             </div>
         </div>
-        <div id="lo_content" class="col">
+        <div class="col-12 col-md-9">
+            <div id="lo_content"></div>
+            <div class="row">
+                <button id="btn_previous_lo" class="btn btn-outline-secondary col m-3 invisible"
+                    type="button">Previous</button>
+                <button id="btn_next_lo" class="btn btn-outline-primary col m-3" type="button">Next</button>
+            </div>
         </div>
     </div>
 </div>
