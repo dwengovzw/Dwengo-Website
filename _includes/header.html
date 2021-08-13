@@ -1,75 +1,74 @@
-
 <header class="site-header" role="banner">
 
-    <div class="wrapper">
-      {%- assign default_paths = site.pages | map: "path" -%}
-      {%- assign page_paths = site.header_pages | default: default_paths -%}
-  
-      {%- if page_paths -%}
-        <nav class="navbar navbar-expand-md navbar-light bg-light">
-          {% if site.lang == "en" %}
-            <a class="navbar-brand" href="/en" >
-              <img src="/images/logos/dwengo-groen-zwart.svg" width="124" height="50" alt="">
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+
+    {%- if page_paths -%}
+    <nav class="navbar navbar-expand-md navbar-light bg-light">
+      {% if site.lang == "en" %}
+      <a class="navbar-brand" href="/en">
+        <img src="/images/logos/dwengo-groen-zwart.svg" width="124" height="50" alt="">
+      </a>
+      {% elsif site.lang == "nl" %}
+      <a class="navbar-brand" href="/">
+        <img src="/images/logos/dwengo-groen-zwart.svg" width="124" height="50" alt="">
+      </a>
+      {% elsif site.lang == "de" %}
+      {% capture link3 %}{{ site.baseurl_root }}/de{% endcapture %}
+      <a class="navbar-brand" href="/de">
+        <img src="/images/logos/dwengo-groen-zwart.svg" width="124" height="50" alt="">
+      </a>
+      {% elsif site.lang == "fr" %}
+      {% capture link4 %}{{ site.baseurl_root }}/fr{% endcapture %}
+      <a class="navbar-brand" href="/fr">
+        <img src="/images/logos/dwengo-groen-zwart.svg" width="124" height="50" alt="">
+      </a>
+      {% endif %}
+
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          {%- for path in page_paths -%}
+          {%- assign my_page = site.pages | where: "path", path | first -%}
+          {%- if my_page.title -%}
+          {% if site.lang == "nl" %}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ my_page.url | relative_url }}">{% t my_page.title %}</a>
+          </li>
+          {% else %}
+          <li class="nav-item">
+            <a class="nav-link" href="/{{site.lang}}{{ my_page.url | relative_url }}">{% t my_page.title %}</a>
+          </li>
+          {%- endif -%}
+          {%- endif -%}
+          {%- endfor -%}
+          <li id="nav-language-selection" class="dropdown nav-item">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false">
+              {% t global.select_language %}
             </a>
-          {% elsif site.lang == "nl" %}
-            <a class="navbar-brand" href="/" >
-              <img src="/images/logos/dwengo-groen-zwart.svg" width="124" height="50" alt="">
-            </a>
-          {% elsif site.lang == "de" %}
-            {% capture link3 %}{{ site.baseurl_root }}/de{% endcapture %}
-            <a class="navbar-brand" href="/de" >
-              <img src="/images/logos/dwengo-groen-zwart.svg" width="124" height="50" alt="">
-            </a>
-          {% elsif site.lang == "fr" %}
-            {% capture link4 %}{{ site.baseurl_root }}/fr{% endcapture %}
-            <a class="navbar-brand" href="/fr" >
-              <img src="/images/logos/dwengo-groen-zwart.svg" width="124" height="50" alt="">
-            </a>
-          {% endif %}
-          
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
-                {%- for path in page_paths -%}
-                    {%- assign my_page = site.pages | where: "path", path | first -%}
-                    {%- if my_page.title -%}
-                      {% if site.lang == "nl" %}
-                        <li class="nav-item">
-                          <a class="nav-link" href="{{ my_page.url | relative_url }}">{% t my_page.title %}</a>
-                        </li>
-                      {% else %}
-                        <li class="nav-item">
-                          <a class="nav-link" href="/{{site.lang}}{{ my_page.url | relative_url }}">{% t my_page.title %}</a>
-                        </li>
-                      {%- endif -%}
-                    {%- endif -%}
-                {%- endfor -%}
-              <li class="dropdown nav-item">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  {% t global.select_language %}
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    {% capture link1 %}{{ site.baseurl_root }}/en{{ page.url}}{% endcapture %}
-                    <a class="dropdown-item" href="{{ link1 }}" >{% t global.english %}</a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              {% capture link1 %}{{ site.baseurl_root }}/en{{ page.url}}{% endcapture %}
+              <a class="dropdown-item" href="{{ link1 }}">{% t global.english %}</a>
 
-                    {% capture link2 %}{{ site.baseurl_root }}/fr{{ page.url }}{% endcapture %}
-                    <a class="dropdown-item" href="{{ link2 }}" >{% t global.french %}</a>
+              {% capture link2 %}{{ site.baseurl_root }}/fr{{ page.url }}{% endcapture %}
+              <a class="dropdown-item" href="{{ link2 }}">{% t global.french %}</a>
 
-                    {% capture link3 %}{{ site.baseurl_root }}/de{{ page.url  }}{% endcapture %}
-                    <a class="dropdown-item" href="{{ link3 }}" >{% t global.german %}</a>
+              {% capture link3 %}{{ site.baseurl_root }}/de{{ page.url }}{% endcapture %}
+              <a class="dropdown-item" href="{{ link3 }}">{% t global.german %}</a>
 
-                    {% capture link4 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
-                    <a class="dropdown-item" href="{{ link4 }}" >{% t global.dutch %}</a>
+              {% capture link4 %}{{ site.baseurl_root }}{{ page.url }}{% endcapture %}
+              <a class="dropdown-item" href="{{ link4 }}">{% t global.dutch %}</a>
 
-                </div>
-              </li>
-            </ul>
-          </div>
-        </nav>
-      {%- endif -%}
-    </div>
-  </header>
-
-
+            </div>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    {%- endif -%}
+  </div>
+</header>
