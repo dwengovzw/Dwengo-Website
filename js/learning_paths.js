@@ -1,17 +1,13 @@
-// ---
-// ---
 function visualizeLearningPaths(paths) {
     let dwengoColors = ["#0f5faa", "#0f5d6d", "#115b4e", "#115933", "#3c8227", "#73b51e", "#f9d713", "#f4a72c", "#e87b66"];
     let col = 0;
     document.getElementById("learning_paths").innerHTML = "";
 
     if (paths.length == 0) {
-        let p = document.createElement("p");
-        p.className = "col-12 py-4"
-        // TODO vertalingen
-        p.innerHTML = "No learning-paths could be found with your preferences.";
-        document.getElementById("learning_paths").appendChild(p);
+        document.getElementById("lp_error_message").className = "row d-block";
     } else {
+        document.getElementById("lp_error_message").className = "row d-none";
+
         paths.forEach(path => {
             let div = document.createElement("div");
             div.className = "col-lg-4 col-md-6 col-sm-12 py-3";
@@ -58,7 +54,6 @@ function loadLearningPaths(filter = "", lang = "") {
             visualizeLearningPaths(learning_paths);
         }
     };
-    console.log("http://localhost:8085/api/learningPath/search?all=" + filter + "&language=" + lang)
     xhttp.open("GET", "http://localhost:8085/api/learningPath/search?all=" + filter + "&language=" + lang, true);
     xhttp.send();
 }
@@ -67,22 +62,9 @@ function loadObjectContent(object_id) {
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
-            // let content = document.getElementById("lo_content")
+            // Must be with the jquery .html() function! 
+            // => This function evaluates the javascript in the <script> tags, normal JS (document.getElementbyId) does not.
             $("#lo_content").html(this.response);
-            content.innerHTML = this.response;
-            // for (let i = 0; i < content.getElementsByTagName("script").length; i++) {
-            //     const element = content.getElementsByTagName("script")[i];
-            //     console.log(element.src);
-            // }
-            // check for script tags
-            // console.log(content.childNodes)
-            // content.children.forEach(element => {
-            //     console.log(element);
-            //     if (element.nodeName == "SCRIPT"){
-            //         console.log(element);
-            //         console.log(element)
-            //     }
-            // });
         }
     };
     xhttp.open("GET", "http://localhost:8085/api/learningObject/getContent/" + object_id, true);
@@ -244,7 +226,7 @@ if (document.getElementById("learning_paths")) {
 
     Object.entries(languages).forEach(([key, value]) => {
         let option = document.createElement("option")
-        if (document.querySelector("html").lang == key){
+        if (document.querySelector("html").lang == key) {
             option.selected = true;
         }
         option.value = key;
@@ -261,8 +243,6 @@ if (document.getElementById("learning_paths")) {
     }
 
     showLanguageSelection();
-    // console.log(document.querySelector("html").lang)
-    // console.log("{% t language %}") // TODO zou en, fr, de of nl moeten teruggeven naargelang geselecteerde taal, maar geeft enkel nl terug
     loadLearningPaths("", document.querySelector("html").lang);
 } else if (document.getElementById("learning_path")) {
     hideLanguageSelection();

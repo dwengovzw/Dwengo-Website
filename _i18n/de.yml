@@ -23,8 +23,9 @@ strengths:
     affiliation: 4e middelbaar
 
 learning_paths:
-  title: Learning paths
-
+  title: Lernpfade
+  filter_placeholder: Suche
+  error_message: Es sind keine Lernpfade mit Ihren Präferenzen verfügbar.
 
 # Translations for the about page
 about_page:
@@ -38,6 +39,11 @@ contact_page:
 projects_page:
   title: Projects
 
+# Translations for the learning-path page
+learning_path_page:
+  title: Leerpad
+  btn_next: Nächste
+  btn_previous: Vorherige
 
 # Translations for the menu items
 about: About

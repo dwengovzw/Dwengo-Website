@@ -24,7 +24,8 @@ strengths:
 
 learning_paths:
   title: Learning paths
-
+  filter_placeholder: Search
+  error_message: No learning-paths could be found with your preferences.
 
 # Translations for the about page
 about_page:
@@ -38,6 +39,11 @@ contact_page:
 projects_page:
   title: Projects
 
+# Translations for the learning-path page
+learning_path_page:
+  title: Leerpad
+  btn_next: Next
+  btn_previous: Previous
 
 # Translations for the menu items
 about: About

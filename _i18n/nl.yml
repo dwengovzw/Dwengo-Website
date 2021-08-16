@@ -24,7 +24,8 @@ strengths:
 
 learning_paths:
   title: Leerpaden
-
+  filter_placeholder: Zoek
+  error_message: Er zijn geen leerpaden beschikbaar met uw voorkeuren.
 
 # Translations for the about page
 about_page:
@@ -38,6 +39,11 @@ contact_page:
 projects_page:
   title: Projecten
 
+# Translations for the learning-path page
+learning_path_page:
+  title: Leerpad
+  btn_next: Volgende
+  btn_previous: Vorige
 
 # Translations for the menu items
 about: Over
