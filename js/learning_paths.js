@@ -58,7 +58,7 @@ function loadLearningPaths(filter = "", lang = "") {
     xhttp.send();
 }
 
-function loadObjectContent(object_id) {
+function loadObjectContent(hruid, language, version) {
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
@@ -67,56 +67,40 @@ function loadObjectContent(object_id) {
             $("#lo_content").html(this.response);
         }
     };
-    xhttp.open("GET", "http://localhost:8085/api/learningObject/getContent/" + object_id, true);
+    xhttp.open("GET", `http://localhost:8085/api/learningObject/getContent?hruid=${hruid}&version=${version}&language=${language}`, true);
     xhttp.send();
 }
 
-function objectButtonClicked(object_id, path) {
-
+function objectButtonClicked(hruid, language, version, path) {
     document.getElementById("lp_visualisation").childNodes.forEach((item) => {
-        item.className = "list-group-item list-group-item-action" + (item.id == "btn_obj_" + object_id ? " active" : "");
+        item.className = "list-group-item list-group-item-action" + (item.id == "btn_obj_" + hruid + language + version ? " active" : "");
     })
-    let node = path.nodes.find((n) => n.learningobject_id == object_id)
+    let node = path.nodes.find((n) => n.learningobject_hruid == hruid && n.language == language && n.version == version)
 
     if (node.transitions && node.transitions.length > 0) {
         document.getElementById("btn_next_lo").className = "btn btn-outline-primary col m-3"
         document.getElementById("btn_next_lo").onclick = (ev) => {
-            objectButtonClicked(node.transitions[0].next, path);
+            let next = node.transitions[0].next
+            objectButtonClicked(next.hruid, next.language, next.version, path);
         }
     } else {
         document.getElementById("btn_next_lo").className = "btn btn-outline-primary col m-3 invisible"
     }
 
     let prev = path.nodes.find((n) => {
-        return n.transitions && n.transitions.length > 0 && n.transitions[0].next == object_id;
+        return n.transitions && n.transitions.length > 0 && n.transitions[0].next.hruid == hruid && n.transitions[0].next.language == language && n.transitions[0].next.version == version;
     })
     if (prev) {
         document.getElementById("btn_previous_lo").className = "btn btn-outline-secondary col m-3"
         document.getElementById("btn_previous_lo").onclick = (ev) => {
-            objectButtonClicked(prev.learningobject_id, path);
+            objectButtonClicked(prev.learningobject_hruid, prev.language, prev.version, path);
         }
     } else {
         document.getElementById("btn_previous_lo").className = "btn btn-outline-secondary col m-3 invisible"
 
     }
 
-    loadObjectContent(object_id);
-
-}
-
-function nextButtonClicked(node, path) {
-    let next = node.transitions[0].next
-    objectButtonClicked(next, path);
-
-    let nextNode = path.nodes.find((n) => n.learningobject_id == next)
-
-    if (nextNode.transitions && nextNode.transitions.length > 0) {
-        document.getElementById("btn_next_lo").onclick = (ev) => {
-            nextButtonClicked(nextNode, path);
-        }
-    } else {
-        document.getElementById("btn_next_lo").className += " invisible";
-    }
+    loadObjectContent(hruid, language, version);
 
 }
 
@@ -131,20 +115,21 @@ function visualizeLearningPath(path) {
     if (node.transitions && node.transitions.length > 0) {
         let nodeCopy = Object.assign(node);
         document.getElementById("btn_next_lo").onclick = (ev) => {
-            nextButtonClicked(nodeCopy, path);
+            let next = nodeCopy.transitions[0].next
+            objectButtonClicked(next.hruid, next.language, next.version, path);
         }
     } else {
         document.getElementById("btn_next_lo").className += " invisible";
     }
 
 
-    loadObjectContent(node.learningobject_id)
+    loadObjectContent(node.learningobject_hruid, node.language, node.version)
 
     while (counter < path.nodes.length) {
-        const next = node.transitions && node.transitions.length > 0 ? nodes.find((n) => n.learningobject_id == node.transitions[0].next) : undefined;
+        const next = node.transitions && node.transitions.length > 0 ? nodes.find((n) => n.learningobject_hruid == node.transitions[0].next.hruid && n.version == node.transitions[0].next.version && n.language == node.transitions[0].next.language) : undefined;
 
         let item = document.createElement("button")
-        item.id = "btn_obj_" + node.learningobject_id;
+        item.id = "btn_obj_" + node.learningobject_hruid + node.language + node.version
         item.type = "button"
         item.className = "list-group-item list-group-item-action" + (node.start_node ? " active" : "");
 
@@ -156,10 +141,10 @@ function visualizeLearningPath(path) {
             if (this.readyState == 4 && this.status == 200) {
                 try {
                     let metadata = JSON.parse(this.response);
-                    let item = document.getElementById("btn_obj_" + metadata._id);
+                    let item = document.getElementById("btn_obj_" + metadata.hruid + metadata.language + metadata.version);
                     item.innerHTML = metadata.title;
                     item.onclick = (ev) => {
-                        objectButtonClicked(metadata._id, path);
+                        objectButtonClicked(metadata.hruid, metadata.language, metadata.version, path);
                     }
                 } catch (e) {
                     console.error(this.response);
@@ -167,7 +152,7 @@ function visualizeLearningPath(path) {
 
             }
         };
-        xhttp.open("GET", "http://localhost:8085/api/learningObject/getMetadata/" + node.learningobject_id, true);
+        xhttp.open("GET", `http://localhost:8085/api/learningObject/getMetadata?hruid=${node.learningobject_hruid}&version=${node.version}&language=${node.language}`, true);
         xhttp.send();
         const index = nodes.indexOf(node);
         if (index > -1) {
