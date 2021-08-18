@@ -15,32 +15,44 @@ function visualizeLearningPaths(paths) {
         paths.forEach(path => {
             let div = document.createElement("div");
             div.className = "col-lg-4 col-md-6 col-sm-12 py-3";
-
             let a = document.createElement("a");
             a.href = `learning-path?id=${path._id}`
             a.style.textDecoration = "none"
 
+            let card = document.createElement("div");
+            card.className = "card h-100 position-relative";
+
             let img = document.createElement("img");
+            img.className = "card-img-top"
             img.src = "data:image/jpeg;base64, " + path.image;
             img.style.filter = "grayscale(100%)";
             let info = document.createElement("div");
-            info.className = "p-2"
+            info.className = "card-body"
             info.style.backgroundColor = dwengoColors[col];
             info.style.color = "white";
 
+            let icon = document.createElement("img");
+            // TODO dynamic src based on target-ages in learning-objects
+            icon.src = "../images/agegroup-icons/sec1.png"
+            icon.className = "position-absolute w-25"
+            icon.style.right = "0.1em";
+            icon.style.top = "0.1em";
 
             let title = document.createElement("h5");
             title.innerHTML = path.title;
-            title.className = "mb-3"
+            title.className = "card-title"
             let desc = document.createElement("p");
             desc.innerHTML = path.description;
+            desc.className = "card-text"
 
             info.appendChild(title);
             info.appendChild(desc);
 
-            a.appendChild(img);
-            a.appendChild(info)
+            card.appendChild(img);
+            card.appendChild(info);
+            card.appendChild(icon);
 
+            a.appendChild(card);
             div.appendChild(a)
             document.getElementById("learning_paths").appendChild(div);
 
@@ -71,7 +83,7 @@ function loadObjectContent(hruid, language, version) {
             $("#lo_content").html(this.response);
         }
     };
-    xhttp.open("GET", `http://localhost:8085/api/learningObject/getContent?hruid=${hruid}&version=${version}&language=${language}`, true);
+    xhttp.open("GET", `http://localhost:8085/api/learningObject/getRaw?hruid=${hruid}&version=${version}&language=${language}`, true);
     xhttp.send();
 }
 
