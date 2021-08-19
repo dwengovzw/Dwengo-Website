@@ -70,7 +70,7 @@ function loadLearningPaths(filter = "", lang = "") {
             visualizeLearningPaths(learning_paths);
         }
     };
-    xhttp.open("GET", "http://localhost:8085/api/learningPath/search?all=" + filter + "&language=" + lang, true);
+    xhttp.open("GET", "http://83.217.67.53:8085/api/learningPath/search?all=" + filter + "&language=" + lang, true);
     xhttp.send();
 }
 
@@ -83,7 +83,7 @@ function loadObjectContent(hruid, language, version) {
             $("#lo_content").html(this.response);
         }
     };
-    xhttp.open("GET", `http://localhost:8085/api/learningObject/getRaw?hruid=${hruid}&version=${version}&language=${language}`, true);
+    xhttp.open("GET", `http://83.217.67.53:8085/api/learningObject/getRaw?hruid=${hruid}&version=${version}&language=${language}`, true);
     xhttp.send();
 }
 
@@ -168,7 +168,7 @@ function visualizeLearningPath(path) {
 
             }
         };
-        xhttp.open("GET", `http://localhost:8085/api/learningObject/getMetadata?hruid=${node.learningobject_hruid}&version=${node.version}&language=${node.language}`, true);
+        xhttp.open("GET", `http://83.217.67.53:8085/api/learningObject/getMetadata?hruid=${node.learningobject_hruid}&version=${node.version}&language=${node.language}`, true);
         xhttp.send();
         const index = nodes.indexOf(node);
         if (index > -1) {
@@ -206,7 +206,7 @@ function loadLearningPath() {
             }
         }
     };
-    xhttp.open("GET", "http://localhost:8085/api/learningPath/" + id, true);
+    xhttp.open("GET", "http://83.217.67.53:8085/api/learningPath/" + id, true);
     xhttp.send();
 
 }
@@ -247,7 +247,7 @@ function loadFilters() {
             }
         }
     };
-    xhttp.open("GET", "http://localhost:8085/api/learningPath/languages", true);
+    xhttp.open("GET", "http://83.217.67.53:8085/api/learningPath/languages", true);
     xhttp.send();
 
     filter_input.onchange = (ev) => {
