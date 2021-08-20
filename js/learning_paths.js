@@ -158,7 +158,7 @@ function visualizeLearningPath(path) {
                 try {
                     let metadata = JSON.parse(this.response);
                     let item = document.getElementById("btn_obj_" + metadata.hruid + metadata.language + metadata.version);
-                    item.innerHTML = metadata.title;
+                    item.innerHTML = `${metadata.title}<br/>(\xB1 ${metadata.estimated_time} min)`;
                     item.onclick = (ev) => {
                         objectButtonClicked(metadata.hruid, metadata.language, metadata.version, path);
                     }
