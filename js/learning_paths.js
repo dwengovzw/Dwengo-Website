@@ -19,7 +19,7 @@ function visualizeLearningPaths(paths) {
             let div = document.createElement("div");
             div.className = "col-lg-4 col-md-6 col-sm-12 py-3";
             let a = document.createElement("a");
-            a.href = `learning-path?id=${path._id}`
+            a.href = `learning-path.html?id=${path._id}`
             a.style.textDecoration = "none"
 
             let card = document.createElement("div");
