@@ -1,7 +1,10 @@
 let allLanguages = { "aa": "Qafaraf", "ab": "Аԥсуа бызшәа", "af": "Afrikaans", "ak": "Akan", "sq": "yângâ tî sängö", "am": "አማርኛ Amârıñâ", "ar": "العَرَبِيَّة al'Arabiyyeẗ", "an": "aragonés", "hy": "Հայերէն Hayerèn", "as": "অসমীয়া", "av": "Магӏарул мацӏ", "ae": "Avestan", "ay": "Aymar aru", "az": "Azərbaycan dili", "ba": "Башҡорт теле", "bm": "ߓߊߡߊߣߊߣߞߊߣ", "eu": "euskara", "be": "Беларуская мова", "bn": "বাংলা Bāŋlā", "bh": "Bihari", "bi": "Bislama", "bs": "bosanski", "br": "Brezhoneg", "bg": "български език", "my": "မြန်မာစာ Mrãmācā", "ca": "català", "ch": "Finu' Chamoru", "ce": "Нохчийн мотт", "zh": "中文 Zhōngwén", "cu": "Славе́нскїй ѧ҆зы́къ", "cv": "Чӑвашла", "kw": "Kernowek", "co": "Corsu", "cr": "Cree", "cs": "čeština", "da": "dansk", "dv": "ދިވެހިބަސް", "nl": "Nederlands", "dz": "རྫོང་ཁ་ Ĵoŋkha", "en": "English", "eo": "Esperanto", "et": "eesti keel", "ee": "Èʋegbe", "fo": "føroyskt", "fj": "Na Vosa Vakaviti", "fi": "suomen kieli", "fr": "français", "fy": "Frysk", "ff": "Fulfulde", "ka": "ქართული Kharthuli", "de": "Deutsch", "gd": "Gàidhlig", "ga": "Gaeilge", "gl": "galego", "gv": "Gaelg", "el": "Νέα Ελληνικά Néa", "gn": "Avañe'ẽ", "gu": "ગુજરાતી Gujarātī", "ht": "kreyòl ayisyen", "ha": "Harshen Hausa", "he": "עברית 'Ivriyþ", "hz": "Otjiherero", "hi": "हिन्दी Hindī", "ho": "Hiri Motu", "hr": "hrvatski", "hu": "magyar nyelv", "ig": "Asụsụ Igbo", "is": "íslenska", "io": "Ido", "ii": "ꆈꌠꉙ Nuosuhxop", "iu": "ᐃᓄᒃᑎᑐᑦ Inuktitut", "ie": "Interlingue", "ia": "	Interlingua", "id": "bahasa Indonesia", "ik": "Iñupiaq", "it": "italiano", "jv": "ꦧꦱꦗꦮ", "ja": "日本語 Nihongo", "kl": "Kalaallisut", "kn": "ಕನ್ನಡ Kannađa", "ks": "कॉशुर / كأشُر", "kr": "Kanuri", "kk": "қазақ тілі qazaq tili", "km": "ភាសាខ្មែរ", "ki": "Gĩkũyũ", "rw": "Ikinyarwanda", "ky": "кыргызча kırgızça", "kv": "Коми кыв", "kg": "Kongo", "ko": "한국어 Han'gug'ô", "kj": "Kuanyama", "ku": "کوردی", "lo": "ພາສາລາວ Phasalaw", "la": "Lingua latīna", "lv": "Latviešu valoda", "li": "Lèmburgs", "ln": "Lingala", "lt": "lietuvių kalba", "lb": "Lëtzebuergesch", "lu": "Kiluba", "lg": "Luganda", "mk": "македонски јазик", "mh": "Kajin M̧ajeļ", "ml": "മലയാളം Malayāļã", "mi": "Te Reo Māori", "mr": "मराठी Marāţhī", "ms": "Bahasa Melayu", "mg": "Malagasy", "mt": "Malti", "mn": "монгол хэл", "na": "dorerin Naoero", "nv": "Diné bizaad", "nr": "isiNdebele seSewula", "nd": "siNdebele saseNyakatho", "ng": "ndonga", "ne": "नेपाली भाषा", "nn": "norsk nynorsk", "nb": "norsk bokmål", "no": "norsk", "ny": "Chichewa", "oc": "occitan", "oj": "Ojibwa", "or": "ଓଡ଼ିଆ", "om": "Afaan Oromoo", "os": "Ирон æвзаг", "pa": "ਪੰਜਾਬੀ", "fa": "فارسی", "pi": "Pāli", "pl": "polski", "pt": "português", "ps": "پښتو", "qu": "Runa simi", "rm": "Rumantsch", "ro": "limba română", "rn": "Ikirundi", "ru": "русский язык", "sg": "yângâ tî sängö", "sa": "संस्कृतम्", "si": "සිංහල", "sk": "slovenčina", "sl": "slovenski jezik", "se": "davvisámegiella", "sm": "Gagana faʻa Sāmoa", "sn": "chiShona", "sd": "سنڌي", "so": "af Soomaali", "st": "Sesotho", "es": "español", "sc": "sardu", "sr": "српски", "ss": "siSwati", "su": "ᮘᮞ ᮞᮥᮔ᮪ᮓ", "sw": "Kiswahili", "sv": "svenska", "ty": "Reo Tahiti", "ta": "தமிழ்", "tt": "татар теле", "te": "తెలుగు", "tg": "тоҷикӣ", "tl": "Wikang Tagalog", "th": "ภาษาไทย", "bo": "བོད་སྐད་", "ti": "ትግርኛ", "to": "lea faka-Tonga", "tn": "Setswana", "ts": "Xitsonga", "tk": "Türkmençe", "tr": "Türkçe", "tw": "Twi", "ug": "ئۇيغۇر تىلى", "uk": "Українська мова", "ur": "اُردُو", "uz": "Oʻzbekcha", "ve": "Tshivenḓa", "vi": "Tiếng Việt", "vo": "Volapük", "cy": "Cymraeg", "wa": "Walon", "wo": "Wolof", "xh": "isiXhosa", "yi": "אידיש", "yo": "èdè Yorùbá", "za": "話僮", "zu": "isiZulu" };
 let siteLanguages = ["nl", "en", "fr", "de"]
 
-
+/**
+ * visualises all learning paths (on home screen)
+ * @param {array} paths array of learning-paths
+ */
 function visualizeLearningPaths(paths) {
     let dwengoColors = ["#0f5faa", "#0f5d6d", "#115b4e", "#115933", "#3c8227", "#73b51e", "#f9d713", "#f4a72c", "#e87b66"];
     let col = 0;
@@ -62,6 +65,11 @@ function visualizeLearningPaths(paths) {
 
 }
 
+/**
+ * requests all learning-paths based on filter and language from backend
+ * @param {string} filter 
+ * @param {string} lang language
+ */
 function loadLearningPaths(filter = "", lang = "") {
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
@@ -74,6 +82,12 @@ function loadLearningPaths(filter = "", lang = "") {
     xhttp.send();
 }
 
+/**
+ * requests content learning-object based on hruid, language and version from backend
+ * @param {string} hruid 
+ * @param {string} language 
+ * @param {integer} version 
+ */
 function loadObjectContent(hruid, language, version) {
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
@@ -87,6 +101,14 @@ function loadObjectContent(hruid, language, version) {
     xhttp.send();
 }
 
+/**
+ * fires when next/previous-button or button for specific object is clicked
+ * makes sure the new content is shown and the buttons are updated
+ * @param {string} hruid 
+ * @param {string} language 
+ * @param {string} version 
+ * @param {object} path learning-path
+ */
 function objectButtonClicked(hruid, language, version, path) {
     document.getElementById("lp_visualisation").childNodes.forEach((item) => {
         item.className = "list-group-item list-group-item-action" + (item.id == "btn_obj_" + hruid + language + version ? " active" : "");
@@ -120,6 +142,11 @@ function objectButtonClicked(hruid, language, version, path) {
 
 }
 
+/**
+ * visualizes the learning path by adding buttons for all learning-objects in the correct order
+ * and displaying the first object
+ * @param {object} path learing-path
+ */
 function visualizeLearningPath(path) {
     document.querySelectorAll('.lp_title').forEach((element) => {
         element.innerHTML = path.title;
@@ -158,7 +185,7 @@ function visualizeLearningPath(path) {
                 try {
                     let metadata = JSON.parse(this.response);
                     let item = document.getElementById("btn_obj_" + metadata.hruid + metadata.language + metadata.version);
-                    item.innerHTML = metadata.title;
+                    item.innerHTML = `${metadata.title}<br/>(\xB1 ${metadata.estimated_time} min)`;
                     item.onclick = (ev) => {
                         objectButtonClicked(metadata.hruid, metadata.language, metadata.version, path);
                     }
@@ -181,6 +208,13 @@ function visualizeLearningPath(path) {
 
 }
 
+/**
+ * gets a certain parameter from the current url based on the name
+ * for example: www.example.com/learning_path?id=34dd5fqsef4E1 
+ *              => 34dd5fqsef4E1
+ * @param {string} name 
+ * @returns the value of the named parameter
+ */
 function getParameterByName(name) {
     let url = window.location.href;
     name = name.replace(/[\[\]]/g, '\\$&');
@@ -191,6 +225,9 @@ function getParameterByName(name) {
     return decodeURIComponent(results[2].replace(/\+/g, ' '));
 }
 
+/**
+ * requests a learningpath by id from the backend and visualizes it
+ */
 function loadLearningPath() {
     var id = getParameterByName('id');
 
@@ -211,14 +248,23 @@ function loadLearningPath() {
 
 }
 
+/**
+ * shows language selection in navigation bar
+ */
 function showLanguageSelection() {
     document.getElementById("nav-language-selection").className.replace(" invisible", "");
 }
 
+/**
+ * hides language selection in navigation bar
+ */
 function hideLanguageSelection() {
     document.getElementById("nav-language-selection").className += " invisible";
 }
 
+/**
+ * request all available languages from backend and update the learning-path filters
+ */
 function loadFilters() {
     let filter_input = document.getElementById("filter_input")
     let lang_select = document.getElementById("language_select")
@@ -228,6 +274,7 @@ function loadFilters() {
         if (this.readyState == 4 && this.status == 200) {
             try {
                 let availableLanguages = JSON.parse(this.response);
+                // adds the 4 default languages (nl, fr, en, de), this is not necessary anymore in future if there are enough learning-paths for each language
                 siteLanguages.forEach(lang => {
                     if (!availableLanguages.includes(lang)) {
                         availableLanguages.push(lang);
@@ -259,6 +306,11 @@ function loadFilters() {
     }
 }
 
+// if the element learning_paths is present it means the user has loaded the front page
+//      load the filters, show the language selection and visualize all learning-paths
+// if the element learning_path is present it means the user has loaded a learning-path page
+//      hide the language selection and visualize the learning-path based on an id in the url
+// otherwise show language selection
 if (document.getElementById("learning_paths")) {
     loadFilters();
     showLanguageSelection();
