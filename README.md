@@ -37,3 +37,4 @@ To add a new page, four steps are required:
 
 - Use bootstrap as much as possible and make sure the website is mobile responsive.
 - Additional style elements can be added to the /_sass/minima.scss file.
+
