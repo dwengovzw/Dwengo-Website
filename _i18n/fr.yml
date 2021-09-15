@@ -1,22 +1,22 @@
 # Global translations
 global:
-  dutch: Nederlands
-  english: Engels
-  french: Français
-  german: Allemand
-  select_language: Kies taal
+  dutch: néerlandais
+  english: anglais
+  french: français
+  german: allemand
+  select_language: Choisissez la langue
 
 # Translations for the home page split into the strengths section and learning paths section
 strengths:
   title: Nos atouts
-  innovative: Innovative
-  research_based: Research-based
-  inclusive: Inclusive
-  socially_relevant: Socially relevant
-  innovative_text: We voegen steeds nieuwe projecten en methodieken toe aan al onze projecten.
-  research_based_text: Alle lespakketten van Dwengo vzw zijn gebaseerd op gedegen wetenschappelijk onderzoek.
-  inclusive_text: We richten ons op alle kinderen en jongeren met een specifieke aandacht voor het evenwicht tussen meisjes en jongens en leerlingen uit kansengroepen.
-  socially_relevant_text: We zoeken projecten uit die passen binnen de actualiteit en maatschappelijke thema's.
+  innovative: Innovatif
+  research_based: Fondé sur la recherche
+  inclusive: Inclusif
+  socially_relevant: Socialement pertinent
+  innovative_text: On ajoute fréquemment de nouveaux projets et utilise de nouvelles méthodologies dans les projets.
+  research_based_text: Tout le matériel de cours de Dwengo ASBL est fondé sur la recherche scientifique profonde.
+  inclusive_text: On se concentre à atteindre tous les enfants avec une attention particulière pour l'égalite de genre et l'inclusion sociale.
+  socially_relevant_text: Nous recherchons des projects qui s'inscrivent dans l'actualité et les thèmes sociaux.
   quote:
     text: Je maakt iets praktisch, je leert werken met hardware en je kan zelf iets nieuws cre&euml;ren. 
     name: Matthias en Bruno
@@ -24,12 +24,12 @@ strengths:
 
 learning_paths:
   title: Parcours d'apprentissage
-  filter_placeholder: Cherche
+  filter_placeholder: Chercher
   error_message: Il n'y a pas de parcours d'apprentissage disponibles avec vos préférences.
 
 # Translations for the about page
 about_page:
-  title: About
+  title: À propos de nous
 
 # Translations for the contact page
 contact_page:
@@ -37,15 +37,15 @@ contact_page:
 
 # Translations for the projects page
 projects_page:
-  title: Projects
+  title: Projets
 
 # Translations for the learning-path page
 learning_path_page:
-  title: Leerpad
+  title: Parcour d'apprentissage
   btn_next: Suivant
   btn_previous: Précédent
 
 # Translations for the menu items
-about: About
+about: À propos de nous
 contact: Contact
-projects: Projects
+projects: Projets
