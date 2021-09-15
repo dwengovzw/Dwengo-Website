@@ -50,9 +50,20 @@ $on-laptop:        800px !default;
 // Responsive iframe
 .iframe-container {
   overflow: hidden;
+  position: relative;
+}
+
+.iframe-16-9 {
   /* 16:9 aspect ratio */
   padding-top: 56.25%;
-  position: relative;
+}
+
+.iframe-1-1 {
+  padding-top: 100%;
+}
+
+.iframe-1-2 {
+  padding-top: 200%;
 }
 
 .iframe-container iframe {
