@@ -13,19 +13,19 @@ strengths:
   research_based: Research-based
   inclusive: Inclusive
   socially_relevant: Socially relevant
-  innovative_text: We voegen steeds nieuwe projecten en methodieken toe aan al onze projecten.
-  research_based_text: Alle lespakketten van Dwengo vzw zijn gebaseerd op gedegen wetenschappelijk onderzoek.
-  inclusive_text: We richten ons op alle kinderen en jongeren met een specifieke aandacht voor het evenwicht tussen meisjes en jongens en leerlingen uit kansengroepen.
-  socially_relevant_text: We zoeken projecten uit die passen binnen de actualiteit en maatschappelijke thema's.
+  innovative_text: We continuously add new projects and apply new methodologies in our projects.
+  research_based_text: All learning materials of Dwengo are based on profound scientific research.
+  inclusive_text: We target all children, making gender inclusion and accessibility for disadvantaged children a priority.
+  socially_relevant_text: We look for projects that fit current events and are socially relevant.
   quote:
-    text: Je maakt iets praktisch, je leert werken met hardware en je kan zelf iets nieuws cre&euml;ren. 
-    name: Matthias en Bruno
-    affiliation: 4e middelbaar
+    text: You make something practical, learn how to use the hardware and create something new. 
+    name: Matthias and Bruno
+    affiliation: Grade 10
 
 learning_paths:
   title: Learning paths
   filter_placeholder: Search
-  error_message: No learning-paths could be found with your preferences.
+  error_message: No learning paths could be found with your preferences.
 
 # Translations for the about page
 about_page:
@@ -41,7 +41,7 @@ projects_page:
 
 # Translations for the learning-path page
 learning_path_page:
-  title: Leerpad
+  title: Learning path
   btn_next: Next
   btn_previous: Previous
 
