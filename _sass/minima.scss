@@ -17,6 +17,9 @@ $spacing-unit:     30px !default;
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
 $brand-color:      #2a7ae2 !default;
+//$teacher-exclusive-color: hsl(294, 37%, 85%) !default;
+//$teacher-exclusive-color: #FFDFD3 !default;
+$teacher-exclusive-color: #E9D3FF !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -73,6 +76,21 @@ $on-laptop:        800px !default;
    position: absolute;
    top: 0;
    width: 100%;
+}
+
+.list-group-item.teacher_exclusive {
+  background-color: $teacher-exclusive-color;
+  border-color: $teacher-exclusive-color;
+}
+
+.list-group-item.teacher_exclusive:hover {
+  background-color: $teacher-exclusive-color;
+  border-color: $teacher-exclusive-color;
+}
+
+.list-group-item.teacher_exclusive.active {
+  background-color: darken($teacher-exclusive-color, 25%);
+  border-color: darken($teacher-exclusive-color, 25%);
 }
 
 // Import partials.
