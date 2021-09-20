@@ -93,6 +93,12 @@ $on-laptop:        800px !default;
   border-color: darken($teacher-exclusive-color, 25%);
 }
 
+// Fill out text in learning objects
+.lo_content {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 // Import partials.
 @import
   "minima/base",
