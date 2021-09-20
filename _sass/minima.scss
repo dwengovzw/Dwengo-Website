@@ -20,8 +20,9 @@ $brand-color:      #2a7ae2 !default;
 //$teacher-exclusive-color: hsl(294, 37%, 85%) !default;
 //$teacher-exclusive-color: #FFDFD3 !default;
 //$teacher-exclusive-color: #E9D3FF !default;
-$teacher-exclusive-color: #ffdd04 !default;
-$teacher-exclusive-color-active: #fab63c !default;
+$teacher-exclusive-color-active: #e22b41 !default;
+$teacher-exclusive-color: lighten($teacher-exclusive-color-active, 35%) !default;
+
 $lo-color: #88BD28 !default;
 $lo-color-active: #4A9234 !default;
 
@@ -82,7 +83,7 @@ $on-laptop:        800px !default;
    width: 100%;
 }
 
-#lp_visualisation .list-group-item {
+/*#lp_visualisation .list-group-item {
   background-color: $lo-color;
   border-color: $lo-color;
 }
@@ -90,7 +91,7 @@ $on-laptop:        800px !default;
 #lp_visualisation .list-group-item.active {
   background-color: $lo-color-active;
   border-color: $lo-color-active;
-}
+}*/
 
 #lp_visualisation .list-group-item.teacher_exclusive {
   background-color: $teacher-exclusive-color;
