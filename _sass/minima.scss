@@ -6,6 +6,12 @@
 
 // Define defaults for each variable.
 
+$brand-primary:         darken(#428bca, 6.5%) !default; // #337ab7
+$brand-success:         #5cb85c !default;
+$brand-info:            #5bc0de !default;
+$brand-warning:         #f0ad4e !default;
+$brand-danger:          #d9534f !default;
+
 $base-font-family: "Roboto", sans-serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
@@ -20,11 +26,11 @@ $brand-color:      #2a7ae2 !default;
 //$teacher-exclusive-color: hsl(294, 37%, 85%) !default;
 //$teacher-exclusive-color: #FFDFD3 !default;
 //$teacher-exclusive-color: #E9D3FF !default;
-$teacher-exclusive-color-active: rgb(202, 55, 64) !default;
-$teacher-exclusive-color: lighten($teacher-exclusive-color-active, 35%) !default;
+$teacher-exclusive-color-active: #87C544 !default;
+$teacher-exclusive-color: #B9DD92 !default;
 
-$lo-color: #88BD28 !default;
-$lo-color-active: #4A9234 !default;
+$lo-color: #ffffff !default;
+$lo-color-active: #87C544 !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -83,7 +89,7 @@ $on-laptop:        800px !default;
    width: 100%;
 }
 
-/*#lp_visualisation .list-group-item {
+#lp_visualisation .list-group-item {
   background-color: $lo-color;
   border-color: $lo-color;
 }
@@ -91,7 +97,7 @@ $on-laptop:        800px !default;
 #lp_visualisation .list-group-item.active {
   background-color: $lo-color-active;
   border-color: $lo-color-active;
-}*/
+}
 
 #lp_visualisation .list-group-item.teacher_exclusive {
   background-color: $teacher-exclusive-color;
@@ -107,9 +113,9 @@ $on-laptop:        800px !default;
 /*#lp_visualisation.list-group-item.teacher_exclusive:hover {
   background-color: $teacher-exclusive-color;
   border-color: $teacher-exclusive-color;
-}*/
+}
 
-/*#lp_visualisation .list-group-item.teacher_exclusive.active {
+#lp_visualisation .list-group-item.teacher_exclusive.active {
   background-color: darken($teacher-exclusive-color, 25%);
   border-color: darken($teacher-exclusive-color, 25%);
 }*/
