@@ -20,7 +20,7 @@ $brand-color:      #2a7ae2 !default;
 //$teacher-exclusive-color: hsl(294, 37%, 85%) !default;
 //$teacher-exclusive-color: #FFDFD3 !default;
 //$teacher-exclusive-color: #E9D3FF !default;
-$teacher-exclusive-color-active: #e22b41 !default;
+$teacher-exclusive-color-active: rgb(202, 55, 64) !default;
 $teacher-exclusive-color: lighten($teacher-exclusive-color-active, 35%) !default;
 
 $lo-color: #88BD28 !default;
