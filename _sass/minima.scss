@@ -19,7 +19,11 @@ $background-color: #fdfdfd !default;
 $brand-color:      #2a7ae2 !default;
 //$teacher-exclusive-color: hsl(294, 37%, 85%) !default;
 //$teacher-exclusive-color: #FFDFD3 !default;
-$teacher-exclusive-color: #E9D3FF !default;
+//$teacher-exclusive-color: #E9D3FF !default;
+$teacher-exclusive-color: #ffdd04 !default;
+$teacher-exclusive-color-active: #fab63c !default;
+$lo-color: #88BD28 !default;
+$lo-color-active: #4A9234 !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -78,20 +82,36 @@ $on-laptop:        800px !default;
    width: 100%;
 }
 
-.list-group-item.teacher_exclusive {
+#lp_visualisation .list-group-item {
+  background-color: $lo-color;
+  border-color: $lo-color;
+}
+
+#lp_visualisation .list-group-item.active {
+  background-color: $lo-color-active;
+  border-color: $lo-color-active;
+}
+
+#lp_visualisation .list-group-item.teacher_exclusive {
   background-color: $teacher-exclusive-color;
   border-color: $teacher-exclusive-color;
 }
 
-.list-group-item.teacher_exclusive:hover {
-  background-color: $teacher-exclusive-color;
-  border-color: $teacher-exclusive-color;
+#lp_visualisation .list-group-item.teacher_exclusive.active {
+  background-color: $teacher-exclusive-color-active;
+  border-color: $teacher-exclusive-color-active;
 }
 
-.list-group-item.teacher_exclusive.active {
+
+/*#lp_visualisation.list-group-item.teacher_exclusive:hover {
+  background-color: $teacher-exclusive-color;
+  border-color: $teacher-exclusive-color;
+}*/
+
+/*#lp_visualisation .list-group-item.teacher_exclusive.active {
   background-color: darken($teacher-exclusive-color, 25%);
   border-color: darken($teacher-exclusive-color, 25%);
-}
+}*/
 
 // Fill out text in learning objects
 #lo_content {
