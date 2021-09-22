@@ -34,11 +34,11 @@ about_page:
 # Translations for the contact page
 contact_page:
   title: Contact
-  introduction: Do you want to know more about how you can use Dwengo learning materials in your school? Or did you create an interesting project with class that you want to share with us? Let us know!
-  you_can_contact_dwengo: "You can reach Dwengo:"
-  email: By email on info@dwengo.org
-  phone: By phone on +32 473 30 07 29
-  mail: "By mail:"
+  introduction: Wil je meer weten over hoe je met Dwengo aan de slag kan op school? Of heb je net een kei-cool project uitgewerkt met je leerlingen en wil je dat delen? Laat dan zeker iets weten!
+  you_can_contact_dwengo: "Je kan Dwengo vzw contacteren:"
+  email: Via e-mail op info@dwengo.org
+  phone: Per telefoon op +32 473 30 07 29
+  mail: "Per post:"
   address_line_1: Dwengo vzw
   address_line_2: Marcel Thirylaan 194
   address_line_3: 1200 Brussel
