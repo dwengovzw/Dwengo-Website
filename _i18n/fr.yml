@@ -34,6 +34,16 @@ about_page:
 # Translations for the contact page
 contact_page:
   title: Contact
+  introduction: Vous voulez savoir plus comment utiliser les matériaux Dwengo à votre école? Ou vous avez crée un projet intéressant avec vos élèves que vous souhaitez partager avec nous? Contactez-nous!
+  you_can_contact_dwengo: "Vous pouvez contacter Dwengo:"
+  email: Par email sur info@dwengo.org
+  phone: Par téléphone sur +32 473 30 07 29
+  mail: "Par la poste:"
+  address_line_1: Dwengo asbl
+  address_line_2: Avenue Marcel Thiry 194
+  address_line_3: 1200 Bruxelles
+  country: Belgique
+  vat_number: Dwengo asbl est enregistrée en Belgique sous le numéro de TVA BE 0811.397.278.
 
 # Translations for the projects page
 projects_page:

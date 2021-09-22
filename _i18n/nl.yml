@@ -34,6 +34,16 @@ about_page:
 # Translations for the contact page
 contact_page:
   title: Contact
+  introduction: Do you want to know more about how you can use Dwengo learning materials in your school? Or did you create an interesting project with class that you want to share with us? Let us know!
+  you_can_contact_dwengo: "You can reach Dwengo:"
+  email: By email on info@dwengo.org
+  phone: By phone on +32 473 30 07 29
+  mail: "By mail:"
+  address_line_1: Dwengo vzw
+  address_line_2: Marcel Thirylaan 194
+  address_line_3: 1200 Brussel
+  country: België
+  vat_number: Dwengo vzw is in België geregistreerd onder BTW-nummer BE 0811.397.278.
 
 # Translations for the projects page
 projects_page:
