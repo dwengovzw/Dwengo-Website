@@ -30,6 +30,31 @@ learning_paths:
 # Translations for the about page
 about_page:
   title: Over
+  who: Over ons
+  changing_the_future: De toekomst van STEM veranderen
+  changing_the_future_body: Dwengo bouwt internationale netwerken op en organiseert onderwijsactiviteiten over de hele wereld. Dankzij deze internationale activiteiten brengen we een wereldwijde samenwerking tot stand tussen studenten en leerkrachten op het gebied van computerwetenschappen en robotica. Door ervaring hebben we ontdekt dat onderwijs in sociaal achtergestelde landen andere behoeften en verschillende uitdagingen heeft dan dat in westerse landen. Door samen te werken met lokale partners kunnen we deze uitdagingen overwinnen om onze doelen te verwezenlijken. Ons doel is zaadjes te planten en de nodige voedingsstoffen te leveren door lokaal te werken om de groei van een wereldwijd netwerk levensvatbaar te maken. 
+  our_history: Onze geschiedenis
+  our_history_body: Dwengo is een jonge en dynamische non-profitorganisatie, opgericht in 2009 door zes Belgische ingenieurs, die iedereen ondersteunt die aan de slag gaat met microcontrollers. Door middel van online handleidingen, ondersteuning en hands-on workshops begon Dwengo scholen in België te benaderen. Vandaag heeft Dwengo zijn activiteiten internationaal uitgebreid en wil het iedereen in de wereld bereiken, in het bijzonder sociaal-economisch achtergestelde gebieden waar technologie niet zo gemakkelijk toegankelijk is. Om dit te doen, probeert Dwengo reeds bestaande lokale gemeenschappen te helpen door hen kennis en expertise aan te bieden. 
+  vision: Onze visie
+  vision_subtitle: De wonderen van robotica en AI ontsluieren
+  vision_body: "Door workshops voor studenten aan te bieden en samen te werken met leerkrachten en vrijwilligers over de hele wereld en door middel van train-de-trainersessies stellen we hen in staat onze hands-on workshops naar de studenten te brengen. Onze belangrijkste doelen zijn: "
+  vision_list_1: "De impact meten: opvolgen van # deelnemers en de duurzaamheid van het project "
+  vision_list_2: De uitdagingen van STEM-onderwijs in kaart brengen en hoe ze te overwinnen
+  vision_list_3: Kennisoverdracht naar sociaal-economisch achtergestelde studenten
+  vision_list_4: Het opzetten van een nieuwe wereldwijde duurzame gemeenschap van leerkrachten en vrijwilligers
+  vision_list_5: Meerdere culturen samenbrengen door een jaarlijkse robotweek te organiseren
+  mission: We Gebruiken de Steun van Industrieën, Overheden en Vrijwilligers om  Kinderen over de hele Wereld te Helpen
+  mission_subtitle: De wonderen van robotica en AI ontsluieren
+  mission_column_1: CONTINENTEN
+  mission_column_2: KINDEREN BEREIKT ELK JAAR
+  mission_column_3: VRIJWILLIGERS
+  mission_column_4: VRIJWILLIG
+  commitment: Onze Verbintenissen
+  commitment_column_1: Kennis delen en samenwerking
+  commitment_column_2: Internationale focus met projecten op 4 continenten
+  commitment_column_3: Voor kinderen vanaf 8 jaar tot universiteitsstudenten
+  commitment_column_4: Al onze software en documentatie zijn open source
+  team: Team
 
 # Translations for the contact page
 contact_page:

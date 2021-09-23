@@ -30,6 +30,31 @@ learning_paths:
 # Translations for the about page
 about_page:
   title: À propos de nous
+  who: Who We Are
+  changing_the_future: Changing the Future of STEM
+  changing_the_future_body: Dwengo builds international networks and organises teaching activities in the world. By international activities we achieve worldwide collaboration between students and teachers in the field of computer science and robotics. Through experience we found that education in social-disadvantaged countries has other needs and different challenges than those in Western countries. By working together with local partners, we are able overcome these challenges to achieve our goals. Our goal is to plant seeds and provide the necessary nutrients by working locally to make the growth of a global network viable.
+  our_history: Our History
+  our_history_body: Dwengo is a young and dynamic non-profit organization founded in 2009 by six Belgian engineers who support everyone who starts with micro-controllers. By means of online tutorials, support and hands-on workshops, Dwengo started to reach out for schools in Belgium. Nowadays, Dwengo has internationally expanded its activities and wants to reach out for everyone on the globe, in particular to social-economical disadvantaged regions where technology cannot be accessed easily. To do this, Dwengo tries to help already existing local communities by offering them knowledge and expertise.
+  vision: Our Vision
+  vision_subtitle: Demystifying the wonders of robotics and AI by
+  vision_body: "Providing workshops for students and collaborating with teachers and volunteers around the globe and via train-the-trainer sessions we enable them to bring our hands-on workshops to the students. Our main goals are:"
+  vision_list_1: "Measuring the impact: tracking # participants and project sustainability"
+  vision_list_2: Identifying the challenges with STEM education and how to overcome them
+  vision_list_3: Knowledge transfer to socially-economically disadvantaged students
+  vision_list_4: Establishing a new global sustainable community of teachers and volunteers
+  vision_list_5: Bringing multiple cultures together by organizing a yearly robot week
+  mission: We Use the Support of Industries, Governments and Volunteers to Help Children All Over the World
+  mission_subtitle: Demystifying the wonders of robotics and AI
+  mission_column_1: CONTINENTS
+  mission_column_2: CHILDREN REACHED EVERY YEAR
+  mission_column_3: VOLUNTEERS
+  mission_column_4: VOLUNTARY
+  commitment: Our Commitments
+  commitment_column_1: Knowledge sharing and collaboration
+  commitment_column_2: International focus with projects on 4 continents
+  commitment_column_3: For children from the age of 8 to university students
+  commitment_column_4: All our software and documentation is open source
+  team: Team
 
 # Translations for the contact page
 contact_page:

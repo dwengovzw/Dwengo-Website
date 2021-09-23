@@ -61,6 +61,68 @@ $on-laptop:        800px !default;
   font-size: $base-font-size * $ratio;
 }
 
+.lighten {
+ color: $lo-color;
+}
+
+.social {
+  width: 40px;
+  padding: 5px;
+}
+
+.bg-image {
+  background-image: url("../images/about/map.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: contain;
+  background-color: #3B3B3B;
+  margin: 0 -100rem;
+  /* add back negative margin value */
+  padding: 0.25rem 100rem;
+}
+
+.mission {
+  background-color: rgba(2,2,2,0.3);
+  border-radius: 15px;
+}
+
+.mission h3{
+  font-size: 38px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.mission h4{
+  font-weight: 300;
+  text-align: center;
+}
+
+.mission p{
+  text-align: center;
+}
+
+.commitment h3{
+  font-weight: 300;
+  text-align: center;
+}
+
+.commitment p{
+  text-align: center;
+}
+
+.team h3{
+  text-align: center;
+}
+
+.team p{
+  text-align: center;
+}
+
+.p-counting {
+  font-size: 48px;
+}
+
 // Responsive iframe
 .iframe-container {
   overflow: hidden;
