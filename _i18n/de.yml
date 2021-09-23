@@ -5,6 +5,7 @@ global:
   french: Französisch
   german: Deutsch
   select_language: Sprache wählen
+  simulator: Simulator
 
 # Translations for the home page split into the strengths section and learning paths section
 strengths:
@@ -79,6 +80,17 @@ learning_path_page:
   title: Lernpfad
   btn_next: Nächste
   btn_previous: Vorherige
+
+footer:
+  follow: Folge Sie uns
+  contact: Kontakte
+  email: info@dwengo.org
+  phone: +32 473 30 07 29
+  address_line_1: Dwengo vzw
+  address_line_2: Marcel Thirylaan 194
+  address_line_3: 1200 Brüssel
+  country: Belgien
+  vat_number: BE 0811.397.278
 
 # Translations for the menu items
 about: Über uns

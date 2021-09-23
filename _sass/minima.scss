@@ -6,7 +6,7 @@
 
 // Define defaults for each variable.
 
-$brand-primary:         darken(#428bca, 6.5%) !default; // #337ab7
+$brand-primary:         #87C544 !default;//darken(#428bca, 6.5%) !default; // #337ab7
 $brand-success:         #5cb85c !default;
 $brand-info:            #5bc0de !default;
 $brand-warning:         #f0ad4e !default;
@@ -60,6 +60,27 @@ $on-laptop:        800px !default;
 @mixin relative-font-size($ratio) {
   font-size: $base-font-size * $ratio;
 }
+
+.simulator {
+  background-color: $brand-primary;
+  color: $lo-color;
+}
+
+a.simulator{
+  color: $lo-color !important;
+}
+
+a.simulator:hover{
+  color: $text-color !important;
+} 
+
+a.footer{
+  color: $text-color !important;
+}
+
+a.footer:hover{
+  color: $text-color !important;
+} 
 
 .lighten {
  color: $lo-color;

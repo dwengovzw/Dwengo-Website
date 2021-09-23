@@ -5,6 +5,7 @@ global:
   french: français
   german: allemand
   select_language: Choisissez la langue
+  simulator: Simulateur
 
 # Translations for the home page split into the strengths section and learning paths section
 strengths:
@@ -79,6 +80,17 @@ learning_path_page:
   title: Parcour d'apprentissage
   btn_next: Suivant
   btn_previous: Précédent
+
+footer:
+  follow: Suivez-nous
+  contact: Contact
+  email: info@dwengo.org
+  phone: +32 473 30 07 29
+  address_line_1: Dwengo asbl
+  address_line_2: Avenue Marcel Thiry 194
+  address_line_3: 1200 Bruxelles
+  country: Belgique
+  vat_number: BE 0811.397.278
 
 # Translations for the menu items
 about: À propos de nous
