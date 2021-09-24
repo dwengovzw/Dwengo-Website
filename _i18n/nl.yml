@@ -128,6 +128,7 @@ learning_path_page:
   title: Leerpad
   btn_next: Volgende
   btn_previous: Vorige
+  btn_to_lp: Naar alle leerpaden
 
 footer:
   follow: Volg ons

@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Website with all dwengo learning content.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://83.217.67.53/backend" # the base hostname & protocol for your site, e.g. http://example.com
+frontend-url: "https://83.217.67.53"
 twitter_username: dwengo
 github_username:  dwengo
 

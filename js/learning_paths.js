@@ -19,8 +19,8 @@ function visualizeLearningPaths(paths) {
     } else {
         document.getElementById("lp_error_message").className = "row d-none";
 
-        let sorted_paths = sortResults(paths, 'title', true);
-        sorted_paths.forEach(path => {
+        sortResults(paths, 'title', true);
+        paths.forEach(path => {
             let div = document.createElement("div");
             div.className = "col-lg-3 col-md-4 col-sm-6 col-xs-12 py-3";
             let a = document.createElement("a");
@@ -133,16 +133,17 @@ function objectButtonClicked(hruid, language, version, path) {
     })
     // Add back active class to clicked item
     document.getElementById("btn_group_obj_" + hruid + language + version).classList.add("active");
-    let node = path.nodes.find((n) => n.learningobject_hruid == hruid && n.language == language && n.version == version)
+    let node = path.nodes.find((n) => n.learningobject_hruid == hruid && n.language == language && n.version == version);
 
     if (node.transitions && node.transitions.length > 0) {
-        document.getElementById("btn_next_lo").className = "btn btn-outline-primary col m-3"
+        document.getElementById("btn_next_lo").className = "btn btn-outline-primary col m-3";
         document.getElementById("btn_next_lo").onclick = (ev) => {
-            let next = node.transitions[0].next
+            let next = node.transitions[0].next;
             objectButtonClicked(next.hruid, next.language, next.version, path);
         }
     } else {
-        document.getElementById("btn_next_lo").className = "btn btn-outline-primary col m-3 invisible"
+        document.getElementById("btn_next_lo").style.display = "none";
+        document.getElementById("btn_to_lp").style.display = "inline-block";
     }
 
     let prev = path.nodes.find((n) => {
@@ -178,11 +179,12 @@ function visualizeLearningPath(path) {
     if (node.transitions && node.transitions.length > 0) {
         let nodeCopy = Object.assign(node);
         document.getElementById("btn_next_lo").onclick = (ev) => {
-            let next = nodeCopy.transitions[0].next
+            let next = nodeCopy.transitions[0].next;
             objectButtonClicked(next.hruid, next.language, next.version, path);
         }
     } else {
-        document.getElementById("btn_next_lo").className += " invisible";
+        document.getElementById("btn_next_lo").style.display += " none";
+        document.getElementById("btn_to_lp").style.display = "inline-block";
     }
 
 
@@ -220,12 +222,12 @@ function visualizeLearningPath(path) {
                     if (metadata.teacher_exclusive){
                         btnGroup.classList.add('teacher_exclusive')
                     }
+                    btnGroup.onclick = (ev) => {
+                        objectButtonClicked(metadata.hruid, metadata.language, metadata.version, path);
+                    }
 
                     let item = document.getElementById("btn_obj_" + metadata.hruid + metadata.language + metadata.version);
                     item.innerHTML = `${metadata.title}`
-                    item.onclick = (ev) => {
-                        objectButtonClicked(metadata.hruid, metadata.language, metadata.version, path);
-                    }
 
                     let timeLabel = document.getElementById("btn_obj_time_" + metadata.hruid + metadata.language + metadata.version);
                     // Add class to item if teacher only
@@ -233,9 +235,6 @@ function visualizeLearningPath(path) {
                         timeLabel.classList.add('teacher_exclusive')
                     }
                     timeLabel.innerHTML = `${metadata.estimated_time}\'`;
-                    timeLabel.onclick = (ev) => {
-                        objectButtonClicked(metadata.hruid, metadata.language, metadata.version, path);
-                    }
                     
                 } catch (e) {
                     console.error(this.response);

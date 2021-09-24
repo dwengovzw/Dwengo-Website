@@ -5,6 +5,7 @@
 layout: default
 title: learning-path
 permalink: /learning-path
+frontend-url: site.frontend-url
 ---
 
 {%- include learning_path.html -%}

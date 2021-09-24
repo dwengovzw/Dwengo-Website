@@ -128,6 +128,7 @@ learning_path_page:
   title: Lernpfad
   btn_next: Nächste
   btn_previous: Vorherige
+  btn_to_lp: Zu allen Lernpfaden
 
 footer:
   follow: Folge Sie uns
