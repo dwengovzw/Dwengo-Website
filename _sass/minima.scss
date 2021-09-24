@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
 
-
+$enable-rounded:   false;
 // Define defaults for each variable.
 
 $brand-primary:         #87C544 !default;//darken(#428bca, 6.5%) !default; // #337ab7
@@ -51,7 +51,6 @@ $on-laptop:        800px !default;
 //     padding-left: $spacing-unit / 2;
 //   }
 // }
-
 
 .wrapper {
   max-width: -webkit-calc(1100px - (15px * 2))!important;
@@ -218,24 +217,23 @@ a.footer:hover{
 
 #lp_visualisation .list-group-item {
   background-color: $lo-color;
-  border-color: $lo-color;
+  border: 1px solid #ced4da;
 }
 
 #lp_visualisation .list-group-item.active {
   background-color: $lo-color-active;
-  border-color: $lo-color-active;
+  border: 1px solid #ced4da;
 }
 
 #lp_visualisation .list-group-item.teacher_exclusive {
   background-color: $teacher-exclusive-color;
-  border-color: $teacher-exclusive-color;
+  border: 1px solid #ced4da;
 }
 
 #lp_visualisation .list-group-item.teacher_exclusive.active {
   background-color: $teacher-exclusive-color-active;
-  border-color: $teacher-exclusive-color-active;
+  border: 1px solid #ced4da;
 }
-
 
 /*#lp_visualisation.list-group-item.teacher_exclusive:hover {
   background-color: $teacher-exclusive-color;

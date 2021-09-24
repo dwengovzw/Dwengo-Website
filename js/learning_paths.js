@@ -132,7 +132,7 @@ function objectButtonClicked(hruid, language, version, path) {
         item.classList.remove("active")  
     })
     // Add back active class to clicked item
-    document.getElementById("btn_obj_" + hruid + language + version).classList.add("active");
+    document.getElementById("btn_group_obj_" + hruid + language + version).classList.add("active");
     let node = path.nodes.find((n) => n.learningobject_hruid == hruid && n.language == language && n.version == version)
 
     if (node.transitions && node.transitions.length > 0) {
@@ -191,12 +191,23 @@ function visualizeLearningPath(path) {
     while (counter < path.nodes.length) {
         const next = node.transitions && node.transitions.length > 0 ? nodes.find((n) => n.learningobject_hruid == node.transitions[0].next.hruid && n.version == node.transitions[0].next.version && n.language == node.transitions[0].next.language) : undefined;
 
-        let item = document.createElement("button")
-        item.id = "btn_obj_" + node.learningobject_hruid + node.language + node.version
-        item.type = "button"
-        item.className = "list-group-item list-group-item-action" + (node.start_node ? " active" : "");
+        let btnGroup = document.createElement("div");
+        btnGroup.id = "btn_group_obj_" + node.learningobject_hruid + node.language + node.version;
+        btnGroup.className = "lo-button btn-group list-group-item list-group-item-action d-flex justify-content-between align-items-center "  + (node.start_node ? " active" : "");
+        btnGroup.role = "group";
 
-        document.getElementById("lp_visualisation").appendChild(item);
+        let btn1 = document.createElement("span");
+        btn1.id = "btn_obj_" + node.learningobject_hruid + node.language + node.version
+        btn1.type = "button"
+
+        let btn2 = document.createElement("span");
+        btn2.id = "btn_obj_time_" + node.learningobject_hruid + node.language + node.version
+        btn2.type = "button"
+        btn2.className = "text-right"; // + (node.start_node ? " active" : "");
+
+        document.getElementById("lp_visualisation").appendChild(btnGroup);
+        document.getElementById("btn_group_obj_" + node.learningobject_hruid + node.language + node.version).appendChild(btn1);
+        document.getElementById("btn_group_obj_" + node.learningobject_hruid + node.language + node.version).appendChild(btn2);
 
         var xhttp = new XMLHttpRequest();
 
@@ -204,15 +215,28 @@ function visualizeLearningPath(path) {
             if (this.readyState == 4 && this.status == 200) {
                 try {
                     let metadata = JSON.parse(this.response);
-                    let item = document.getElementById("btn_obj_" + metadata.hruid + metadata.language + metadata.version);
+                    let btnGroup = document.getElementById("btn_group_obj_" + metadata.hruid + metadata.language + metadata.version);
                     // Add class to item if teacher only
                     if (metadata.teacher_exclusive){
-                        item.classList.add('teacher_exclusive')
+                        btnGroup.classList.add('teacher_exclusive')
                     }
-                    item.innerHTML = `${metadata.title}<br/>(\xB1 ${metadata.estimated_time} min)`;
+
+                    let item = document.getElementById("btn_obj_" + metadata.hruid + metadata.language + metadata.version);
+                    item.innerHTML = `${metadata.title}`
                     item.onclick = (ev) => {
                         objectButtonClicked(metadata.hruid, metadata.language, metadata.version, path);
                     }
+
+                    let timeLabel = document.getElementById("btn_obj_time_" + metadata.hruid + metadata.language + metadata.version);
+                    // Add class to item if teacher only
+                    if (metadata.teacher_exclusive){
+                        timeLabel.classList.add('teacher_exclusive')
+                    }
+                    timeLabel.innerHTML = `${metadata.estimated_time}\'`;
+                    timeLabel.onclick = (ev) => {
+                        objectButtonClicked(metadata.hruid, metadata.language, metadata.version, path);
+                    }
+                    
                 } catch (e) {
                     console.error(this.response);
                 }
