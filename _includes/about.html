@@ -4,6 +4,7 @@
     {% t about_page.title %}
 </h2>
 
+<!-- Who is Dwengo -->
 <section class="section mt-5">
     <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
@@ -31,38 +32,7 @@
     </div>
 </section>
 
-<section class="section mt-5">
-    <div class="row">
-        <div class="col-md-12 col-sm-12 col-xs-12">
-            <h3>{% t about_page.vision %}</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-7 col-sm-7 col-xs-12">
-            <div class="row">
-                <div class="col-md-12 col-sm-12 col-xs-12">
-                    <p><b>{% t about_page.vision_subtitle %}</b></p>
-                    <p class="text-justify">{% t about_page.vision_body %}</p>
-                    <ul>
-                        <li>{% t about_page.vision_list_1 %}</li>
-                        <li>{% t about_page.vision_list_2 %}</li>
-                        <li>{% t about_page.vision_list_3 %}</li>
-                        <li>{% t about_page.vision_list_4 %}</li>
-                        <li>{% t about_page.vision_list_5 %}</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-5 col-sm-5 col-xs-12">
-            <img src="/images/about/robot.jpg">
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-12 col-sm-12 col-xs-12">
-            
-        </div>
-    </div>
-</section>
+<!-- Our mission -->
 <section class="section mt-5 md-5 pt-5 pb-5 lighten bg-image bg-color">
     <div class="row mission pt-4 pb-4">
         <div class="col-md-12 col-sm-12 col-xs-12 ">
@@ -95,29 +65,31 @@
     </div>
 </section>
 
+<!-- Our vision -->
 <section class="section mt-5">
     <div class="row">
-        <div class="col-md-12 col-sm-12 col-xs-12 commitment">
-            <h3>{% t about_page.commitment %}</h3>
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <h3>{% t about_page.vision %}</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-7 col-sm-7 col-xs-12">
             <div class="row">
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <p><img src="" alt="" class="values" /></p>
-                    <p>{% t about_page.commitment_column_1 %}</p>
-
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <p><b>{% t about_page.vision_subtitle %}</b></p>
+                    <p class="text-justify">{% t about_page.vision_body %}</p>
+                    <ul>
+                        <li>{% t about_page.vision_list_1 %}</li>
+                        <li>{% t about_page.vision_list_2 %}</li>
+                        <li>{% t about_page.vision_list_3 %}</li>
+                        <li>{% t about_page.vision_list_4 %}</li>
+                        <li>{% t about_page.vision_list_5 %}</li>
+                    </ul>
                 </div>
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <p><img src="" alt="" class="values" /></p>
-                    <p>{% t about_page.commitment_column_2 %}</p>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <p><img src="" alt="" class="values" /></p>
-                    <p>{% t about_page.commitment_column_3 %}</p>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <p><img src="" alt="" class="values" /></p>
-                    <p>{% t about_page.commitment_column_4 %}</p>
-                </div>
-            </div>    
+            </div>
+        </div>
+        <div class="col-md-5 col-sm-5 col-xs-12">
+            <img src="/images/about/robot.jpg">
         </div>
     </div>
     <div class="row">
@@ -125,57 +97,143 @@
             
         </div>
     </div>
-    
 </section>
 
+<!-- Our commitment -->
+<section class="section mt-5">
+    <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12 commitment">
+            <h3 class="mb-5">{% t about_page.commitment %}</h3>
+            <div class="row">
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="number-circle"><strong>1</strong></div>
+                    <p class="mt-3"><strong>{% t about_page.commitment_column_1 %}</strong></p>
+
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="number-circle"><strong>2</strong></div>
+                    <p class="mt-3"><strong>{% t about_page.commitment_column_2 %}</strong></p>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="number-circle"><strong>3</strong></div>
+                    <p class="mt-3"><strong>{% t about_page.commitment_column_3 %}</strong></p>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="number-circle"><strong>4</strong></div>
+                    <p class="mt-3"><strong>{% t about_page.commitment_column_4 %}</strong></p>
+                </div>
+            </div>    
+        </div>
+    </div>
+</section>
+
+<!-- Our team -->
 <section class="section mt-5">
     <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12 team">
             <h3>{% t about_page.team %}</h3>
-            <div class="row">
+            <div class="row mt-5 mb-2">
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <p><img src="" alt="" class="values" /></p>
-                    <p class=""><strong>Francis wyffels</strong></p>
-                    <p>{% t about_page.team_member_1 %}</p>
-
+                    <img src="{{ page.img.team_member_1_photo }}" alt="" class="team-member img-fluid" />
+                    <p class=""><strong>{% t about_page.team_member_1_name %}</strong></p>
+                    <p class="text-primary">{% t about_page.team_member_1_role %}</p>
+                    <p class="font-weight-light font-italic">{% t about_page.team_member_1_description %}</p>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <p><img src="" alt="" class="values" /></p>
-                    <p class=""><strong>Peter Bertels</strong></p>
-                    <p>{% t about_page.team_member_2 %}</p>
+                    <img src="{{ page.img.team_member_2_photo }}" alt="" class="team-member img-fluid" />
+                    <p class=""><strong>{% t about_page.team_member_2_name %}</strong></p>
+                    <p class="text-primary">{% t about_page.team_member_2_role %}</p>
+                    <p class="font-weight-light font-italic">{% t about_page.team_member_2_description %}</p>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <p><img src="" alt="" class="values" /></p>
-                    <p class=""><strong>Wim Heirman</strong></p>
-                    <p>{% t about_page.team_member_3 %}</p>
+                    <img src="{{ page.img.team_member_3_photo }}" alt="" class="team-member img-fluid" />
+                    <p class=""><strong>{% t about_page.team_member_3_name %}</strong></p>
+                    <p class="text-primary">{% t about_page.team_member_3_role %}</p>
+                    <p class="font-weight-light font-italic">{% t about_page.team_member_3_description %}</p>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <p><img src="" alt="" class="values" /></p>
-                    <p class=""><strong>Nele Van Beveren</strong></p>
-                    <p>{% t about_page.team_member_4 %}</p>
+                    <img src="{{ page.img.team_member_4_photo }}" alt="" class="team-member img-fluid" />
+                    <p class=""><strong>{% t about_page.team_member_4_name %}</strong></p>
+                    <p class="text-primary">{% t about_page.team_member_4_role %}</p>
+                    <p class="font-weight-light font-italic">{% t about_page.team_member_4_description %}</p>
                 </div>
             </div>    
-            <div class="row">
+            <div class="row mt-2 mb-2">
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <p><img src="" alt="" class="values" /></p>
-                    <p class=""><strong>Natacha Gesquière</strong></p>
-                    <p>{% t about_page.team_member_5 %}</p>
-
+                    <p><img src="{{ page.img.team_member_5_photo }}" alt="" class="team-member img-fluid" /></p>
+                    <p class=""><strong>{% t about_page.team_member_5_name %}</strong></p>
+                    <p class="text-primary">{% t about_page.team_member_5_role %}</p>
+                    <p class="font-weight-light font-italic">{% t about_page.team_member_5_description %}</p>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <p><img src="" alt="" class="values" /></p>
-                    <p class=""><strong></strong></p>
-                    <p>{% t about_page.team_member_6 %}</p>
+                    <p><img src="{{ page.img.team_member_6_photo }}" alt="" class="team-member img-fluid" /></p>
+                    <p class=""><strong>{% t about_page.team_member_6_name %}</strong></p>
+                    <p class="text-primary">{% t about_page.team_member_6_role %}</p>
+                    <p class="font-weight-light font-italic">{% t about_page.team_member_6_description %}</p>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <p><img src="" alt="" class="values" /></p>
-                    <p class=""><strong></strong></p>
-                    <p>{% t about_page.team_member_7 %}</p>
+                    <p><img src="{{ page.img.team_member_7_photo }}" alt="" class="team-member img-fluid" /></p>
+                    <p class=""><strong>{% t about_page.team_member_7_name %}</strong></p>
+                    <p class="text-primary">{% t about_page.team_member_7_role %}</p>
+                    <p class="font-weight-light font-italic">{% t about_page.team_member_7_description %}</p>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <p><img src="" alt="" class="values" /></p>
-                    <p class=""><strong></strong></p>
-                    <p>{% t about_page.team_member_8 %}</p>
+                    <p><img src="{{ page.img.team_member_8_photo }}" alt="" class="team-member img-fluid" /></p>
+                    <p class=""><strong>{% t about_page.team_member_8_name %}</strong></p>
+                    <p class="text-primary">{% t about_page.team_member_8_role %}</p>
+                    <p class="font-weight-light font-italic">{% t about_page.team_member_8_description %}</p>
+                </div>
+            </div>  
+            <div class="row mt-2 mb-2">
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <p><img src="{{ page.img.team_member_9_photo }}" alt="" class="team-member img-fluid" /></p>
+                    <p class=""><strong>{% t about_page.team_member_9_name %}</strong></p>
+                    <p class="text-primary">{% t about_page.team_member_9_role %}</p>
+                    <p class="font-weight-light font-italic">{% t about_page.team_member_9_description %}</p>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <p><img src="{{ page.img.team_member_10_photo }}" alt="" class="team-member img-fluid" /></p>
+                    <p class=""><strong>{% t about_page.team_member_10_name %}</strong></p>
+                    <p class="text-primary">{% t about_page.team_member_10_role %}</p>
+                    <p class="font-weight-light font-italic">{% t about_page.team_member_10_description %}</p>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <p><img src="{{ page.img.team_member_11_photo }}" alt="" class="team-member img-fluid" /></p>
+                    <p class=""><strong>{% t about_page.team_member_11_name %}</strong></p>
+                    <p class="text-primary">{% t about_page.team_member_11_role %}</p>
+                    <p class="font-weight-light font-italic">{% t about_page.team_member_11_description %}</p>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <p><img src="{{ page.img.team_member_12_photo }}" alt="" class="team-member img-fluid" /></p>
+                    <p class=""><strong>{% t about_page.team_member_12_name %}</strong></p>
+                    <p class="text-primary">{% t about_page.team_member_12_role %}</p>
+                    <p class="font-weight-light font-italic">{% t about_page.team_member_12_description %}</p>
+                </div>
+            </div>  
+            <div class="row mt-2 mb-2">
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <p><img src="{{ page.img.team_member_13_photo }}" alt="" class="team-member img-fluid" /></p>
+                    <p class=""><strong>{% t about_page.team_member_13_name %}</strong></p>
+                    <p class="text-primary">{% t about_page.team_member_13_role %}</p>
+                    <p class="font-weight-light font-italic">{% t about_page.team_member_13_description %}</p>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <p><img src="{{ page.img.team_member_14_photo }}" alt="" class="team-member img-fluid" /></p>
+                    <p class=""><strong>{% t about_page.team_member_14_name %}</strong></p>
+                    <p class="text-primary">{% t about_page.team_member_14_role %}</p>
+                    <p class="font-weight-light font-italic">{% t about_page.team_member_14_description %}</p>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <p><img src="{{ page.img.team_member_15_photo }}" alt="" class="team-member img-fluid" /></p>
+                    <p class=""><strong>{% t about_page.team_member_15_name %}</strong></p>
+                    <p class="text-primary">{% t about_page.team_member_15_role %}</p>
+                    <p class="font-weight-light font-italic">{% t about_page.team_member_15_description %}</p>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <p><img src="{{ page.img.team_member_16_photo }}" alt="" class="team-member img-fluid" /></p>
+                    <p class=""><strong>{% t about_page.team_member_16_name %}</strong></p>
+                    <p class="text-primary">{% t about_page.team_member_16_role %}</p>
+                    <p class="font-weight-light font-italic">{% t about_page.team_member_16_description %}</p>
                 </div>
             </div>  
         </div>
