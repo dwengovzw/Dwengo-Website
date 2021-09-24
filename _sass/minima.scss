@@ -51,6 +51,17 @@ $on-laptop:        800px !default;
 //     padding-left: $spacing-unit / 2;
 //   }
 // }
+
+
+.wrapper {
+  max-width: -webkit-calc(1100px - (15px * 2))!important;
+  max-width: calc(1100 - (15px * 2))!important;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
     @content;
@@ -59,6 +70,11 @@ $on-laptop:        800px !default;
 
 @mixin relative-font-size($ratio) {
   font-size: $base-font-size * $ratio;
+}
+
+.values {
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .team-member {

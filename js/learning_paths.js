@@ -6,7 +6,7 @@ let allLanguages = { "aa": "Qafaraf", "ab": "Аԥсуа бызшәа", "af": "Af
 let siteLanguages = ["nl", "en", "fr", "de"]
 
 /**
- * visualises all learning paths (on home screen)
+ * visualises all learning paths (on home screen), currently alphabetically ordered by title
  * @param {array} paths array of learning-paths
  */
 function visualizeLearningPaths(paths) {
@@ -19,9 +19,10 @@ function visualizeLearningPaths(paths) {
     } else {
         document.getElementById("lp_error_message").className = "row d-none";
 
-        paths.forEach(path => {
+        let sorted_paths = sortResults(paths, 'title', true);
+        sorted_paths.forEach(path => {
             let div = document.createElement("div");
-            div.className = "col-lg-4 col-md-6 col-sm-12 py-3";
+            div.className = "col-lg-3 col-md-4 col-sm-6 col-xs-12 py-3";
             let a = document.createElement("a");
             a.href = `learning-path.html?id=${path._id}`
             a.style.textDecoration = "none"
@@ -66,7 +67,17 @@ function visualizeLearningPaths(paths) {
             col = (col + 1) % dwengoColors.length;
         });
     }
+}
 
+function sortResults(my_array, prop, asc) {
+    my_array.sort(function(a, b) {
+        if (asc) {
+            return (a[prop] > b[prop]) ? 1 : ((a[prop] < b[prop]) ? -1 : 0);
+        } else {
+            return (b[prop] > a[prop]) ? 1 : ((b[prop] < a[prop]) ? -1 : 0);
+        }
+    });
+    return my_array;
 }
 
 /**
