@@ -56,6 +56,54 @@ about_page:
   commitment_column_3: For children from the age of 8 to university students
   commitment_column_4: All our software and documentation is open source
   team: Team
+    team_member_1_name: Francis wyffels
+  team_member_1_role: Chairman & Co-founder
+  team_member_1_description: Educator @Dwengo, roboticist and ML specialist @UGent IDLab, ice cream cook, amateur light artist and child 
+  team_member_2_name: Peter Bertels
+  team_member_2_role: Co-founder & Secretary
+  team_member_2_description: Expert in Creativity and Innovation. Passionate about STEM education  
+  team_member_3_name: Wim Heirman
+  team_member_3_role: Co-founder & Treasurer
+  team_member_3_description: High-performance computing researcher during the day, microcontroller hacker at night
+  team_member_4_name: Nele Van Beveren
+  team_member_4_role: Board Member
+  team_member_4_description: "Launched #WeGoSTEM, passionate about (computer) science, change, (agile) leadership and crafts"
+  team_member_5_name: Natacha Gesquière
+  team_member_5_role: Board Member
+  team_member_5_description: STEM coach @Dwengo vzw and @UGent, exploring AI, math lover, teacher, teaching the teacher
+  team_member_6_name: Karel Bruneel
+  team_member_6_role: Co-founder & Honorary Chairman
+  team_member_6_description: Senior software architect at Autodesk
+  team_member_7_name: Michiel D'Haene
+  team_member_7_role: Co-founder & Tinkerer
+  team_member_7_description: Research engineer, passionate electronics hobbyist, bass clarinet player
+  team_member_8_name: Zimcke Van de Staey
+  team_member_8_role: STEM & AI Researcher
+  team_member_8_description: Software developer, data science researcher, STEM enthusiast
+  team_member_9_name: Jelle Roets
+  team_member_9_role: Hardware developer
+  team_member_9_description: Hardware / Software Engineer, Docent in electronics, educator, robotfan
+  team_member_10_name: Tim Waegeman
+  team_member_10_role: Webmaster
+  team_member_10_description: Research Engineer; Former researcher @UGent; Tinkerer, Roboticist, ...
+  team_member_11_name: Valerie Taerwe
+  team_member_11_role: WeGoSTEM
+  team_member_11_description: Launched WeGoSTEM, Young ICT Lady of 2017, interested in technology, diversity & innovation
+  team_member_12_name: Juan Pablo Carbajal
+  team_member_12_role: Engagement Manager
+  team_member_12_description: Physicist, Open Scientist, GNU Octave developer, researcher, Human
+  team_member_13_name: Naveen Kuppuswamy
+  team_member_13_role: Engagement Manager
+  team_member_13_description: Roboticist @Italian Institute of Technology, Genova, passionate cook, fake comic artist
+  team_member_14_name: Suriyanath Seralathan
+  team_member_14_role: Software Developer & Trainer
+  team_member_14_description: A Software Developer and robot enthusiast who dreams of a self sustaining technology
+  team_member_15_name: Paul Bertels
+  team_member_15_role: Quality & Shipment Manager
+  team_member_15_description: Passionate about STEM & official member of the STEM platform Belgium
+  team_member_16_name: Panagiotis Theocharis
+  team_member_16_role: Mentor for Creativity & Innovation
+  team_member_16_description: Computer scientist, Mentor for Creativity & Innovation, Founder @MakerlabGR
 
 # Translations for the contact page
 contact_page:
