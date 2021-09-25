@@ -270,24 +270,38 @@ a.footer:hover{
    width: 100%;
 }
 
+#print_lp {
+  /*border: 1px solid #ced4da;*/
+  background-color: $lo-color;
+  text-align: left;
+  text-decoration: underline;
+  font-style: italic;
+  padding-left: 0px!important;
+  font-size: smaller;
+}
+
 #lp_visualisation .list-group-item {
   background-color: $lo-color;
   border: 1px solid #ced4da;
+  cursor: pointer;
 }
 
 #lp_visualisation .list-group-item.active {
   background-color: $lo-color-active;
   border: 1px solid #ced4da;
+  cursor: pointer;
 }
 
 #lp_visualisation .list-group-item.teacher_exclusive {
   background-color: $teacher-exclusive-color;
   border: 1px solid #ced4da;
+  cursor: pointer;
 }
 
 #lp_visualisation .list-group-item.teacher_exclusive.active {
   background-color: $teacher-exclusive-color-active;
   border: 1px solid #ced4da;
+  cursor: pointer;
 }
 
 /*#lp_visualisation.list-group-item.teacher_exclusive:hover {
