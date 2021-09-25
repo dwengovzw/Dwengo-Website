@@ -52,6 +52,26 @@ $on-laptop:        800px !default;
 //   }
 // }
 
+/* Allow for print-friendly version of learning object page */
+@media print {
+  body {
+    background-image: none;
+  }
+
+  body footer {
+    display: none;
+  }
+
+  body header {
+    display: none;
+  }
+
+  #btn_previous_lo, #btn_next_lo, #btn_to_lp {
+    display: none;
+  }
+}
+
+
 .wrapper {
   max-width: -webkit-calc(1100px - (15px * 2))!important;
   max-width: calc(1100 - (15px * 2))!important;
