@@ -129,6 +129,7 @@ learning_path_page:
   btn_next: Volgende
   btn_previous: Vorige
   btn_to_lp: Naar alle leerpaden
+  print_learning_path: Volledige leerpad printen
 
 footer:
   follow: Volg ons

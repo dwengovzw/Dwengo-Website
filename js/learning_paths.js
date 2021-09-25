@@ -169,6 +169,7 @@ function objectButtonClicked(hruid, language, version, path) {
  * @param {object} path learing-path
  */
 function visualizeLearningPath(path) {
+    $('#lo_content').empty();
     document.querySelectorAll('.lp_title').forEach((element) => {
         element.innerHTML = path.title;
     })
@@ -176,6 +177,17 @@ function visualizeLearningPath(path) {
     let counter = 0;
     let node = nodes.find((n) => n.start_node);
 
+    /**
+     * Print learning path handler
+     */
+    let entirePath = Object.assign(path);
+    document.getElementById("print_lp").onclick = (ev) => {
+        displayLearningPathForPrint(entirePath);
+    }
+
+    /**
+     *  Display previous and next buttons
+     */
     if (node.transitions && node.transitions.length > 0) {
         let nodeCopy = Object.assign(node);
         document.getElementById("btn_next_lo").onclick = (ev) => {
@@ -187,9 +199,14 @@ function visualizeLearningPath(path) {
         document.getElementById("btn_to_lp").style.display = "inline-block";
     }
 
-
+    /** 
+     * Load content of the first learning object in the path
+     */
     loadObjectContent(node.learningobject_hruid, node.language, node.version)
 
+    /**
+     * Display list of learning objects in this learning path on the left side of the page
+     */
     while (counter < path.nodes.length) {
         const next = node.transitions && node.transitions.length > 0 ? nodes.find((n) => n.learningobject_hruid == node.transitions[0].next.hruid && n.version == node.transitions[0].next.version && n.language == node.transitions[0].next.language) : undefined;
 
@@ -253,6 +270,72 @@ function visualizeLearningPath(path) {
     }
 
 
+}
+
+/**
+ * Display the entire learning path on the page for printing purposes and open the printing console.
+ * @param {object} path 
+ */
+function displayLearningPathForPrint(path){
+    $("#lo_content").empty();
+
+    document.getElementById("lp_visualisation").childNodes.forEach((item) => {
+        //item.className = "list-group-item list-group-item-action" + (item.id == "btn_obj_" + hruid + language + version ? " active" : "");
+        // remove active classname
+        item.classList.remove("active")  
+    })
+
+    let nodes = path.nodes.slice();
+    let node = nodes.find((n) => n.start_node);
+    let next = null;
+
+
+    if(node.transitions && node.transitions.length > 0){
+        displayLearningObjectForPrint(node.learningobject_hruid, node.language, node.version, false);
+    } else {
+        displayLearningObjectForPrint(node.learningobject_hruid, node.language, node.version, true);
+    }
+
+    while (node.transitions && node.transitions.length > 0) {
+        next = node.transitions[0].next;
+        node = path.nodes.find((n) => n.learningobject_hruid == next.hruid && n.language == next.language && n.version == next.version);
+        if(node.transitions && node.transitions.length > 0){
+            displayLearningObjectForPrint(next.hruid, next.language, next.version, false);
+        } else {
+            displayLearningObjectForPrint(next.hruid, next.language, next.version, true);
+        }
+        
+    }
+
+    
+}
+
+/**
+ * Append the learning object to the current display learning path for printing view. If this is the last learning object
+ * to append, print will be true and indicates that the printing console should open
+ * @param {string} hruid 
+ * @param {string} language 
+ * @param {string} version 
+ * @param {boolean} print 
+ */
+function displayLearningObjectForPrint(hruid, language, version, print){
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+            // Must be with the jquery .html() function! 
+            // => This function evaluates the javascript in the <script> tags, normal JS (document.getElementbyId) does not.
+            $("#lo_content").append('<section id="section_'+hruid+language+version+'" class="lp-section mt-5 mb-5"></section>');
+            $('#section_'+hruid+language+version).append(this.response);
+
+            if(print){
+                Promise.all(Array.from(document.images).filter(img => !img.complete).map(img => new Promise(resolve => { img.onload = img.onerror = resolve; }))).then(() => {
+                    window.print();
+                });
+            }
+        }
+    };
+    xhttp.open("GET", `${api_base_path}/api/learningObject/getRaw?hruid=${hruid}&version=${version}&language=${language}`, true);
+    xhttp.send();
 }
 
 /**

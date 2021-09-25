@@ -66,8 +66,44 @@ $on-laptop:        800px !default;
     display: none;
   }
 
-  #btn_previous_lo, #btn_next_lo, #btn_to_lp {
+  #btn_previous_lo, #btn_next_lo, #btn_to_lp, #print_lp {
     display: none;
+  }
+
+  main::before {
+    content: "CC-BY-SA dwengo.org";
+    display: block;
+    text-align: center;
+  }
+
+  .wrapper {
+    margin-right: 1.5cm;
+    margin-left: 1.5cm;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  .list-group-item {
+    padding:0cm!important;
+  }
+
+  section.lp-section {
+    page-break-after: always!important;
+  }
+
+  section:last-child:before {
+    page-break-after: avoid!important;
+  }
+
+  .lp-section p, ul, img, iframe {
+    break-inside: avoid;
+
+  }
+
+  .lp-section h1, h2, h3, h4, h5, strong {
+    page-break-after: avoid!important;
   }
 }
 
@@ -234,24 +270,38 @@ a.footer:hover{
    width: 100%;
 }
 
+#print_lp {
+  /*border: 1px solid #ced4da;*/
+  background-color: $lo-color;
+  text-align: left;
+  text-decoration: underline;
+  font-style: italic;
+  padding-left: 0px!important;
+  font-size: smaller;
+}
+
 #lp_visualisation .list-group-item {
   background-color: $lo-color;
   border: 1px solid #ced4da;
+  cursor: pointer;
 }
 
 #lp_visualisation .list-group-item.active {
   background-color: $lo-color-active;
   border: 1px solid #ced4da;
+  cursor: pointer;
 }
 
 #lp_visualisation .list-group-item.teacher_exclusive {
   background-color: $teacher-exclusive-color;
   border: 1px solid #ced4da;
+  cursor: pointer;
 }
 
 #lp_visualisation .list-group-item.teacher_exclusive.active {
   background-color: $teacher-exclusive-color-active;
   border: 1px solid #ced4da;
+  cursor: pointer;
 }
 
 /*#lp_visualisation.list-group-item.teacher_exclusive:hover {

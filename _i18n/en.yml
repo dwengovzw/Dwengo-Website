@@ -129,6 +129,7 @@ learning_path_page:
   btn_next: Next
   btn_previous: Previous
   btn_to_lp: To all learning paths
+  print_learning_path: Print entire learning path
 
 footer:
   follow: Follow us

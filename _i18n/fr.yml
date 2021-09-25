@@ -129,6 +129,7 @@ learning_path_page:
   btn_next: Suivant
   btn_previous: Précédent
   btn_to_lp: Vers tous les parcours d'apprentissage
+  print_learning_path: Imprimer l'entier parcour d'apprentissage
 
 footer:
   follow: Suivez-nous

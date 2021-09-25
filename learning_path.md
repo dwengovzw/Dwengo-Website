@@ -6,6 +6,7 @@ layout: default
 title: learning-path
 permalink: /learning-path
 frontend-url: site.frontend-url
+printer: /images/printer.png
 ---
 
 {%- include learning_path.html -%}
