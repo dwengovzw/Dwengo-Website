@@ -289,7 +289,7 @@ function displayLearningPathForPrint(path){
     let node = nodes.find((n) => n.start_node);
     let next = null;
 
-
+    $("#lo_content").append('<section id="section_'+node.learningobject_hruid+node.language+node.version+'" class="lp-section mt-5 mb-5"></section>');
     if(node.transitions && node.transitions.length > 0){
         displayLearningObjectForPrint(node.learningobject_hruid, node.language, node.version, false);
     } else {
@@ -299,6 +299,7 @@ function displayLearningPathForPrint(path){
     while (node.transitions && node.transitions.length > 0) {
         next = node.transitions[0].next;
         node = path.nodes.find((n) => n.learningobject_hruid == next.hruid && n.language == next.language && n.version == next.version);
+        $("#lo_content").append('<section id="section_'+next.hruid+next.language+next.version+'" class="lp-section mt-5 mb-5"></section>');
         if(node.transitions && node.transitions.length > 0){
             displayLearningObjectForPrint(next.hruid, next.language, next.version, false);
         } else {
@@ -324,7 +325,6 @@ function displayLearningObjectForPrint(hruid, language, version, print){
         if (this.readyState == 4 && this.status == 200) {
             // Must be with the jquery .html() function! 
             // => This function evaluates the javascript in the <script> tags, normal JS (document.getElementbyId) does not.
-            $("#lo_content").append('<section id="section_'+hruid+language+version+'" class="lp-section mt-5 mb-5"></section>');
             $('#section_'+hruid+language+version).append(this.response);
 
             if(print){
