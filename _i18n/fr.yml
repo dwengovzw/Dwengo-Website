@@ -27,6 +27,7 @@ learning_paths:
   title: Parcours d'apprentissage
   filter_placeholder: Chercher
   error_message: Il n'y a pas de parcours d'apprentissage disponibles avec vos préférences.
+  loading_message: Se charger...
 
 # Translations for the about page
 about_page:

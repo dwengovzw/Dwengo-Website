@@ -27,6 +27,7 @@ learning_paths:
   title: Ons leermateriaal
   filter_placeholder: Zoek
   error_message: Er zijn geen leerpaden beschikbaar met uw voorkeuren.
+  loading_message: Aan het laden...
 
 # Translations for the about page
 about_page:

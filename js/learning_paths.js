@@ -10,6 +10,7 @@ let siteLanguages = ["nl", "en", "fr", "de"]
  * @param {array} paths array of learning-paths
  */
 function visualizeLearningPaths(paths) {
+    hideLoadingMessage();
     let dwengoColors = ["#0f5faa", "#0f5d6d", "#115b4e", "#115933", "#3c8227", "#73b51e", "#f9d713", "#f4a72c", "#e87b66"];
     let col = 0;
     document.getElementById("learning_paths").innerHTML = "";
@@ -435,12 +436,22 @@ function loadFilters() {
     xhttp.send();
 
     filter_input.onchange = (ev) => {
+        showLoadingMessage();
         loadLearningPaths(ev.target.value, lang_select.value)
     }
 
     lang_select.onchange = (ev) => {
+        showLoadingMessage();
         loadLearningPaths(filter_input.value, ev.target.value)
     }
+}
+
+function showLoadingMessage(){
+    document.getElementById("lp_loading_message").style.display = "inline-block";
+}
+
+function hideLoadingMessage(){
+    document.getElementById("lp_loading_message").style.display = "none";
 }
 
 // if the element learning_paths is present it means the user has loaded the front page
@@ -449,6 +460,7 @@ function loadFilters() {
 //      hide the language selection and visualize the learning-path based on an id in the url
 // otherwise show language selection
 if (document.getElementById("learning_paths")) {
+    showLoadingMessage();
     loadFilters();
     showLanguageSelection();
     loadLearningPaths("", document.querySelector("html").lang);

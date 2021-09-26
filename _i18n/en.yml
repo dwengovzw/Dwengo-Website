@@ -27,6 +27,7 @@ learning_paths:
   title: Learning paths
   filter_placeholder: Search
   error_message: No learning paths could be found with your preferences.
+  loading_message: Loading...
 
 # Translations for the about page
 about_page:

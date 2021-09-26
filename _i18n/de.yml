@@ -27,6 +27,7 @@ learning_paths:
   title: Lernpfade
   filter_placeholder: Suchen
   error_message: Es sind keine Lernpfade mit Ihren Präferenzen verfügbar.
+  loading_message: Wird geladen...
 
 # Translations for the about page
 about_page:
