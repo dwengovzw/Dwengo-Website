@@ -56,6 +56,7 @@ $on-laptop:        800px !default;
 @media print {
   body {
     background-image: none;
+    overflow-x: hidden;
   }
 
   body footer {
@@ -76,6 +77,8 @@ $on-laptop:        800px !default;
     text-align: center;
   }
 
+ 
+
   .wrapper {
     margin-right: 1.5cm;
     margin-left: 1.5cm;
@@ -88,6 +91,7 @@ $on-laptop:        800px !default;
   .list-group-item {
     padding:0cm!important;
   }
+
 
   section.lp-section {
     page-break-after: always!important;
@@ -105,6 +109,10 @@ $on-laptop:        800px !default;
   .lp-section h1, h2, h3, h4, h5, strong {
     page-break-after: avoid!important;
   }
+}
+
+body {
+  overflow-x: hidden;
 }
 
 
@@ -302,6 +310,12 @@ a.footer:hover{
   background-color: $teacher-exclusive-color-active;
   border: 1px solid #ced4da;
   cursor: pointer;
+}
+
+#lp_visualisation .list-group-item span:first-of-type{
+  display: inline-block;
+  max-width: 86%;
+  word-break: break-word;
 }
 
 /*#lp_visualisation.list-group-item.teacher_exclusive:hover {
