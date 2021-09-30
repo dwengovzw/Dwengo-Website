@@ -32,30 +32,30 @@ learning_paths:
 # Translations for the about page
 about_page:
   title: Über uns
-  who: Who We Are
-  changing_the_future: Changing the Future of STEM
-  changing_the_future_body: Dwengo builds international networks and organises teaching activities in the world. By international activities we achieve worldwide collaboration between students and teachers in the field of computer science and robotics. Through experience we found that education in social-disadvantaged countries has other needs and different challenges than education in Western countries. By working together with local partners, we are able to overcome these challenges to achieve our goals. Our goal is to plant seeds and provide the necessary nutrients by working locally to make the growth of a global network viable.
-  our_history: Our History
-  our_history_body: Dwengo is a young and dynamic non-profit organization founded in 2009 by six Belgian engineers who support everyone who starts with micro-controllers. By means of online tutorials, support and hands-on workshops, Dwengo started to reach out for schools in Belgium. Nowadays, Dwengo has internationally expanded its activities and wants to reach out for everyone on the globe, in particular to social-economical disadvantaged regions where technology cannot be accessed easily. To do this, Dwengo tries to help already existing local communities by offering them knowledge and expertise.
-  vision: Our Vision
-  vision_subtitle: Demystifying the wonders of robotics and AI
-  vision_body: "By providing workshops for students and collaborating with teachers and volunteers around the globe and via train-the-trainer sessions we enable them to bring our hands-on workshops to the students. Our main goals are:"
-  vision_list_1: "Measuring the impact: tracking # participants and project sustainability"
-  vision_list_2: Identifying the challenges with STEM education and how to overcome them
-  vision_list_3: Knowledge transfer to socially-economically disadvantaged students
-  vision_list_4: Establishing a new global sustainable community of teachers and volunteers
-  vision_list_5: Bringing multiple cultures together by organizing a yearly robot week
-  mission: We Use the Support of Industries, Governments and Volunteers to Help Children All Over the World
-  mission_subtitle: Demystifying the wonders of robotics and AI
-  mission_column_1: CONTINENTS
-  mission_column_2: CHILDREN REACHED EVERY YEAR
-  mission_column_3: VOLUNTEERS
-  mission_column_4: VOLUNTARY
-  commitment: Our Commitments
-  commitment_column_1: Knowledge sharing and collaboration
-  commitment_column_2: International focus with projects on 4 continents
-  commitment_column_3: For children from the age of 8 to university students
-  commitment_column_4: All our software and documentation is open source
+  who: Wer wir sind
+  changing_the_future: Die Zukunft von MINT verändern
+  changing_the_future_body: "Dwengo baut internationale Netzwerke auf und organisiert weltweit Lehrveranstaltungen. Durch unsere internationalen Aktivitäten fördern wir die Zusammenarbeit zwischen Schüler_innen und Lehrer_innen aus dem Bereich Informatik und Robotik. Wir haben die Erfahrung gemacht, dass Bildung in sozial benachteiligten Ländern andere Bedürfnisse hat und andere Herausforderungen birgt als Bildung in westlichen Ländern. Unsere Zusammenarbeit mit lokalen Partnern ermöglicht uns diese Herausforderungen zu meistern und unser Ziel zu erreichen: die Saat eines globalen Netzwerks zu pflanzen und durch unsere Arbeit vor Ort die Nährstoffe bereitzustellen, die es lebensfähig machen."
+  our_history: Unsere Geschichte
+  our_history_body: Dwengo ist eine junge und dynamische non-profit Organisation, die 2009 von sechs belgischen Ingenieuren gegründet wurde und alle unterstützt, die erste Schritte mit Microcontrollern wagen wollen. Mit Online-Tutorials, Support und praktischen Workshops hat Dwengo begonnen Schulen in Belgien zu vernetzen. Heute hat Dwengo seine Aktivitäten ausgeweitet und will alle erreichen, besonders in sozial und wirtschaftlich benachteiligten Regionen, in denen Technologie nicht niedrigschwellig verfügbar ist. Um dieses Ziel zu erreichen versucht Dwengo bereits existierenden lokalen Strukturen mit Fachwissen und Know-how zur Seite zu stehen.
+  vision: Unsere Vision
+  vision_subtitle: Die Wunder der KI und Robotik entmystifizieren
+  vision_body: "Durch unser Angebot an Workshops für Schüler_innen und unsere weltweite Zusammenarbeit mit Lehrer_innen und Freiwilligen durch Train-the-Trainer-Sessions ermöglichen wir diesen unsere Hand-on Workshops den Schüler_innen zuzutragen. Unsere Hauptziele sind:"
+  vision_list_1: "Erfolg messen: Aufzeichenen der Teilnehmerzahl und der Nachhaltigkeit des Projekt"
+  vision_list_2: Identizifierung von Herausforderungen in der Lehre im Bereich MINT und wie diese überwunden werden können
+  vision_list_3: Wissenstransfer zugunsten sozioökonomisch benachteiligter Schüler_innen
+  vision_list_4: Einrichten einer neuen, globalen und nachhaltigen Community aus Lehrer_innen und Freiwilligen
+  vision_list_5: Zusammenbringen verschiedener Kulturen durch die die Organisation einer jährlichen Robot Week
+  mission: Mit der Unterstützung von Industrie, Regierungen und Freiwilligen helfen wir Kindern in der ganzen Welt
+  mission_subtitle: Die Wunder der KI und Robotik entmystifizieren
+  mission_column_1: KONTINENTE
+  mission_column_2: TEILNEHMENDE SCHÜLER_INNEN PRO JAHR
+  mission_column_3: FREIWILLIGE
+  mission_column_4: FREIWILLIG
+  commitment: Unsere Werte
+  commitment_column_1: Zusammenarbeit und Teilen von Wissen
+  commitment_column_2: Internationaler Fokus mit Projekten auf 4 Kontinenten
+  commitment_column_3: für Kinder ab 8 Jahren bis zu Universitätsstudenten
+  commitment_column_4: Alle unsere Software und Dokumentation ist quelloffen
   team: Team
   team_member_1_name: Francis wyffels
   team_member_1_role: Chairman & Co-founder
