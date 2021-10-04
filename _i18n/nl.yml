@@ -34,7 +34,7 @@ about_page:
   title: Over
   who: Over ons
   changing_the_future: De toekomst van STEM veranderen
-  changing_the_future_body: Dwengo ontwikkelt sinds 2009 elektronica en didactisch materiaal waarmee wereldwijd vrijwilligers en leerkrachten aan de slag gaan om jongeren wegwijs te maken met wetenschappen en technologie. Via didactische projecteen over onder meer computationeel denken, artificiële intelligentie, robotica, wiskunde bereiken we jaarlijks honderden leerkrachten en vrijwilligers alsook duizenden leerlingen over de hele wereld. In al onze projecten hebben we bijzondere aandacht voor kansengroepen en meisjes. Bovendien is al ons materiaal open source zodat het aangepast kan worden naargelang de noden in jouw klas of project.
+  changing_the_future_body: Dwengo ontwikkelt sinds 2009 elektronica en didactisch materiaal waarmee wereldwijd vrijwilligers en leerkrachten aan de slag gaan om jongeren wegwijs te maken met wetenschappen en technologie. Via didactische projecten over onder meer computationeel denken, artificiële intelligentie, robotica, wiskunde bereiken we jaarlijks honderden leerkrachten en vrijwilligers alsook duizenden leerlingen over de hele wereld. In al onze projecten hebben we bijzondere aandacht voor kansengroepen en meisjes. Bovendien is al ons materiaal open source zodat het aangepast kan worden naargelang de noden in jouw klas of project.
   our_history: Onze geschiedenis
   our_history_body: Dwengo is een vzw, opgericht in 2009 door zes Belgische ingenieurs. Door middel van online handleidingen, ondersteuning en hands-on workshops begon Dwengo scholen in België te benaderen. Vandaag heeft Dwengo zijn activiteiten internationaal uitgebreid en wil het iedereen in de wereld bereiken. Om zoveel mogelijk kansengroepen te bereiken, probeert Dwengo wereldwijd reeds bestaande lokale gemeenschappen te helpen door hen kennis en expertise aan te bieden. 
   vision: Onze visie
@@ -122,7 +122,19 @@ contact_page:
 
 # Translations for the projects page
 projects_page:
-  title: Projecten
+  title: Projecten in de kijker
+  project_1_title: WeGoSTEM
+  project_1_description: Met WeGoSTEM enthousiasmeren we leerlingen uit de derde graad van het basisonderwijs voor techniek en informaticawetenschappen. We dagen de kinderen uit om een creatieve kunst-robot die zelfstandig kan tekenen, te bouwen en te programmeren. Zo leren ze heel wat STEM-vaardigheden van techniek tot computationeel denken. De voorbije jaren bouwden al meer dan 20.000 kinderen in heel België hun eerste robot tijdens het WeGoSTEM-project. Ook jij kan met jouw school aan de slag dankzij het gratis lesmateriaal dat via bibliotheken in heel België verspreid wordt.
+  project_1_contact: Vragen? Contacteer ons via wegostem@dwengo.org. Voor bibliotheken met logistieke vragen is er een apart adres: bib@dwengo.org. Pers kan contact opnemen met Peter Bertels via 0474 87 40 95 of peter@dwengo.org.
+  project_1_teaser: https://youtu.be/5zK8zEZL7rk
+  project_2_title: AI Op School
+  project_2_description: Artificiële intelligentie (AI) komt volop aan bod in de media. Populaire thema’s zijn: chatbots, zelfrijdende auto’s, virtuele assistenten en het verlies aan jobs. AI-systemen dringen meer en meer onze wereld binnen. AI Op School is een project dat ontstaan is uit de bekommernis dat leerlingen kunstmatige (KI) of artificiële intelligentie moeten kunnen begrijpen en het besef dat er een hiaat is in het curriculum van het secundair onderwijs om hieraan tegemoet te komen. We maken lesmateriaal voor het secundair onderwijs rond AI gelinkt aan de eindtermen en de bestaande leerplandoelen. Al dit lesmateriaal is beschikbaar op onze website.
+  project_2_contact: Vragen? Contacteer ons via team@aiopschool.be. Pers kan contact opnemen met Francis wyffels via 0473 300 729 of Francis@dwengo.org
+  project_2_teaser: https://youtu.be/tqSnpAKLsu8 
+  project_3_title: Internationale projecten
+  project_3_description: Beschrijving internationaal project
+  project_3_contact: Interesse om een internationaal project te starten? Contacteer Francis wyffels via Francis@dwengo.org
+  project_3_teaser: https://www.youtube.com/watch?v=HP0ncKuV2-A 
 
 # Translations for the learning-path page
 learning_path_page:
