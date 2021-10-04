@@ -8,3 +8,5 @@ permalink: /projects/
 ---
 
 ## {% t projects_page.title %}
+
+{%- include projects.html -%}
