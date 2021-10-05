@@ -34,15 +34,15 @@ about_page:
   title: Over
   who: Over ons
   changing_the_future: De toekomst van STEM veranderen
-  changing_the_future_body: Dwengo ontwikkelt sinds 2009 elektronica en didactisch materiaal waarmee wereldwijd vrijwilligers en leerkrachten aan de slag gaan om jongeren wegwijs te maken met wetenschappen en technologie. Via didactische projecten over onder meer computationeel denken, artificiële intelligentie, robotica, wiskunde bereiken we jaarlijks honderden leerkrachten en vrijwilligers alsook duizenden leerlingen over de hele wereld. In al onze projecten hebben we bijzondere aandacht voor kansengroepen en meisjes. Bovendien is al ons materiaal open source zodat het aangepast kan worden naargelang de noden in jouw klas of project.
+  changing_the_future_body: Dwengo ontwikkelt didactisch materiaal waarmee wereldwijd vrijwilligers en leerkrachten aan de slag gaan om jongeren wegwijs te maken met wetenschappen en technologie. Via didactische projecten over onder meer computationeel denken, artificiële intelligentie, robotica, wiskunde bereiken we jaarlijks honderden leerkrachten en vrijwilligers alsook duizenden leerlingen over de hele wereld. In al onze projecten hebben we bijzondere aandacht voor kansengroepen en meisjes. Bovendien is al ons materiaal open source zodat het aangepast kan worden naargelang de noden in jouw klas of project.
   our_history: Onze geschiedenis
-  our_history_body: Dwengo is een vzw, opgericht in 2009 door zes Belgische ingenieurs. Door middel van online handleidingen, ondersteuning en hands-on workshops begon Dwengo scholen in België te benaderen. Vandaag heeft Dwengo zijn activiteiten internationaal uitgebreid en wil het iedereen in de wereld bereiken. Om zoveel mogelijk kansengroepen te bereiken, probeert Dwengo wereldwijd reeds bestaande lokale gemeenschappen te helpen door hen kennis en expertise aan te bieden. 
+  our_history_body: Dwengo is een vzw, opgericht in 2009 door zes Belgische ingenieurs. Door middel van online handleidingen, ondersteuning en hands-on workshops begon Dwengo scholen in België te benaderen. Vandaag heeft Dwengo activiteiten over de hele wereld. Om zoveel mogelijk kansengroepen te bereiken, werkt Dwengo steeds samen met lokale gemeenschappen om nieuwe projecten op te starten. 
   vision: Onze visie
   vision_subtitle: De wonderen van robotica en AI ontsluieren
   vision_body: "Door workshops voor studenten aan te bieden en samen te werken met leerkrachten en vrijwilligers over de hele wereld en door middel van train-de-trainersessies stellen we hen in staat onze hands-on workshops naar de studenten te brengen. Onze belangrijkste doelen zijn: "
   vision_list_1: "De impact meten: opvolgen van aantal deelnemers en de duurzaamheid van het project "
   vision_list_2: De uitdagingen van STEM-onderwijs in kaart brengen en hoe ze te overwinnen
-  vision_list_3: Kennisoverdracht naar sociaal-economisch achtergestelde studenten
+  vision_list_3: Kennisoverdracht naar kansengroepen
   vision_list_4: Het opzetten van een nieuwe wereldwijde duurzame gemeenschap van leerkrachten en vrijwilligers
   vision_list_5: Meerdere culturen samenbrengen door een jaarlijkse robotweek te organiseren
   mission: Samen met de steun van industrie, overheden en vrijwilligers kunnen we wereldwijd jongeren verwonderen voor wetenschappen en technologie
@@ -132,8 +132,8 @@ projects_page:
   project_2_contact: Vragen? Contacteer ons via team@aiopschool.be. Pers kan contact opnemen met Francis wyffels via 0473 300 729 of Francis@dwengo.org
   project_2_teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   project_3_title: Internationale projecten
-  project_3_description: Beschrijving internationaal project
-  project_3_contact: Interesse om een internationaal project te starten? Contacteer Francis wyffels via Francis@dwengo.org
+  project_3_description: "Onze grote droom is dat elke jongere - waar ook ter wereld - de kans en de mogelijkheden krijgt om een robot te bouwen en te programmeren. Hierbij is het niet mijn bedoeling om van elke jongere een ingenieur te maken. Wel moet elke jongere zijn of haar talent voor STEM (Science, Technology, Engineering en Mathematics) kunnen ontdekken en ontplooien. Bij Dwengo zijn we ervan overtuigd dat we de grootste innovatieve vooruitgang bereiken wanneer we erin slagen om mensen uit verschillende culturen, sociale contexten en van verschillende achtergronden samen te brengen om een probleem op te lossen. Om dit te realiseren zijn een basis wetenschappelijke en technische geletterdheid voor iedereen noodzakelijk! Via onderwijsprojecten in o.a. Argentinië, België, India, Italië, Maleisië en Zwitserland draagt Dwengo een steentje bij. Voor al deze inspanningen viel Dwengo meerdere malen in de prijzen."
+  project_3_contact: Interesse om een internationaal project te starten? Contacteer Francis wyffels via Francis@dwengo.org.
   project_3_teaser: https://www.youtube.com/embed/HP0ncKuV2-A 
 
 # Translations for the learning-path page
