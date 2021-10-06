@@ -387,6 +387,22 @@ a.footer:hover{
   top: 0;
 }
 
+.age_group_label {
+  position: absolute;
+  top: 0.5em;
+  right: 0.5em;
+  width: 75px;
+  height: 75px;
+  display: grid;
+  place-content: center;
+  place-items: center;
+  background-color: white;
+  border: solid #e87b66 6px;
+  color: #e87b66;
+  font-weight: bold;
+  font-size: 1em;
+}
+
 // Import partials.
 @import
   "minima/base",

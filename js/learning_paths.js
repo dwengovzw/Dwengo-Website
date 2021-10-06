@@ -44,12 +44,22 @@ function visualizeLearningPaths(paths) {
             info.style.backgroundColor = dwengoColors[col];
             info.style.color = "white";
 
-            let icon = document.createElement("img");
-            // TODO dynamic src based on target-ages in learning-objects
-            icon.src = "../images/agegroup-icons/sec1.png"
-            icon.className = "position-absolute w-25"
-            icon.style.right = "0.1em";
-            icon.style.top = "0.1em";
+            let icon = document.createElement("span");
+            getObjectMetadata(path.nodes[0].learningobject_hruid, path.nodes[0].language, path.nodes[0].version, 
+                (metadata) => {
+                    icon.className = "age_group_label"
+                    console.log(metadata);
+                    if (metadata.target_ages && metadata.target_ages[0]){
+                        let agerange = `${metadata.target_ages[0]} - ${metadata.target_ages[metadata.target_ages.length-1]}`
+                        icon.innerHTML = agerange;
+                        cardBodyContainer.appendChild(info)
+                    }
+                }, (error) => {
+                    console.log(error)
+                }
+            )
+            
+            
 
             let title = document.createElement("h5");
             title.innerHTML = path.title;
@@ -61,7 +71,7 @@ function visualizeLearningPaths(paths) {
             info.appendChild(title);
             info.appendChild(desc);
 
-            cardBodyContainer.appendChild(info)
+            
 
             card.appendChild(img);
             card.appendChild(cardBodyContainer);
@@ -74,6 +84,28 @@ function visualizeLearningPaths(paths) {
             col = (col + 1) % dwengoColors.length;
         });
     }
+}
+
+/**
+ * Gets metadata of a learning object
+ * @param {*} hruid 
+ * @param {*} language 
+ * @param {*} version 
+ * @param {*} callback(metadata)
+ */
+function getObjectMetadata(hruid, language, version, success, failure){
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+            // Must be with the jquery .html() function! 
+            // => This function evaluates the javascript in the <script> tags, normal JS (document.getElementbyId) does not.
+            success(JSON.parse(this.response));
+        } else {
+            failure("Failed to request learning object.")
+        }
+    };
+    xhttp.open("GET", `${api_base_path}/api/learningObject/getMetadata?hruid=${hruid}&version=${version}&language=${language}`, true);
+    xhttp.send();
 }
 
 function sortResults(my_array, prop, asc) {
