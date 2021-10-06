@@ -403,6 +403,10 @@ a.footer:hover{
   font-size: 1em;
 }
 
+.blocklyDiv {
+  width: 100%;
+}
+
 // Import partials.
 @import
   "minima/base",
