@@ -44,22 +44,28 @@ function visualizeLearningPaths(paths) {
             info.style.backgroundColor = dwengoColors[col];
             info.style.color = "white";
 
-            let icon = document.createElement("span");
+            let age_range_container = document.createElement("span");
+            age_range_container.className = "age_group_label"
+            let age_range = document.createElement("span");
+            let icon = document.createElement("img");
+            icon.className = "age_range_icon"
+            icon.setAttribute("src", "/images/logos/age_logo.svg");
             getObjectMetadata(path.nodes[0].learningobject_hruid, path.nodes[0].language, path.nodes[0].version, 
                 (metadata) => {
-                    icon.className = "age_group_label"
                     console.log(metadata);
                     if (metadata.target_ages && metadata.target_ages[0]){
                         let agerange = `${metadata.target_ages[0]} - ${metadata.target_ages[metadata.target_ages.length-1]}`
-                        icon.innerHTML = agerange;
-                        cardBodyContainer.appendChild(info)
+                        age_range.innerHTML = agerange;
+                        age_range.className = "age_range_text";
+                        age_range_container.append(icon);
+                        age_range_container.append(age_range)
                     }
                 }, (error) => {
                     console.log(error)
                 }
             )
             
-            
+            cardBodyContainer.appendChild(info)
 
             let title = document.createElement("h5");
             title.innerHTML = path.title;
@@ -75,7 +81,7 @@ function visualizeLearningPaths(paths) {
 
             card.appendChild(img);
             card.appendChild(cardBodyContainer);
-            card.appendChild(icon);
+            card.appendChild(age_range_container);
 
             a.appendChild(card);
             div.appendChild(a)
@@ -203,6 +209,87 @@ function objectButtonClicked(hruid, language, version, path) {
 }
 
 /**
+ * Thanks to https://stackoverflow.com/a/50200383/13057688
+ */
+async function printDiv(path, mywindow) {  
+    mywindow.document.write(`<html><head><title>${path.title}</title>`);
+    mywindow.document.write(`<link rel="stylesheet" href="/assets/main.css">`);
+    mywindow.document.write(`<link rel="shortcut icon" type="image/png" href="/images/favicon.ico"></link>`);
+    mywindow.document.write(`<link rel="stylesheet" href="/css/bootstrap/bootstrap.min.css"">`);
+    mywindow.document.write('</head><body>');
+    
+    let stub_wrapper = $("<div>");
+    let containerdiv = $("<div>").attr("class", "wrapper")
+
+    let nav = $(`<nav class="navbar navbar-expand-md navbar-light bg-light">
+    <a class ="navbar-brand" href="https://dwengo.org/">
+      <img id="dwengo_logo" src="/images/logos/dwengo-groen-zwart.svg" alt="Dwengo Logo" title="Dwengo">
+    </a>
+  </nav>`)
+
+    containerdiv.append(nav);
+
+    let nodes = path.nodes.slice();
+    for (const node of nodes){
+        let section = $('<section></section>').attr("class", "lp-section mt-5 mb-5");
+        let sectionhtml = await loadRawContent(node.learningobject_hruid, node.language, node.version);
+        section.html(sectionhtml)
+        containerdiv.append(section)
+    }
+
+    stub_wrapper.append(containerdiv);
+    mywindow.document.write(stub_wrapper.html());
+
+    mywindow.document.write('</body></html>');
+  
+    mywindow.document.close(); // necessary for IE >= 10
+    mywindow.focus(); // necessary for IE >= 10*/
+  
+    mywindow.print();
+    //mywindow.close();
+  
+    return true;
+  }
+
+/**
+ * requests content learning-object based on hruid, language and version from backend
+ * @param {string} hruid 
+ * @param {string} language 
+ * @param {integer} version 
+ */
+ function loadRawContent(hruid, language, version) {
+    return new Promise((resolve, reject) => {
+        var xhttp = new XMLHttpRequest();
+        xhttp.open("GET", `${api_base_path}/api/learningObject/getRaw?hruid=${hruid}&version=${version}&language=${language}`, false);
+        xhttp.send();
+        if (xhttp.status == 200){
+            console.log(xhttp.responseText);
+            resolve(xhttp.responseText)
+        }
+        reject("error loading content")
+    })
+    
+}
+
+/*function loadRawContent(hruid, language, version){
+    //return new Promise((reject, resolve) => {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+                // Must be with the jquery .html() function! 
+                // => This function evaluates the javascript in the <script> tags, normal JS (document.getElementbyId) does not.
+                //resolve(this.response)
+            } else {
+                //reject("an error occured loading content from server")
+            }
+        };
+        xhttp.open("GET", `${api_base_path}/api/learningObject/getRaw?hruid=${hruid}&version=${version}&language=${language}`, true);
+        xhttp.send();
+    //})
+    
+}
+
+/**
  * visualizes the learning path by adding buttons for all learning-objects in the correct order
  * and displaying the first object
  * @param {object} path learing-path
@@ -221,8 +308,11 @@ function visualizeLearningPath(path) {
      */
     let entirePath = Object.assign(path);
     document.getElementById("print_lp").onclick = (ev) => {
-        displayLearningPathForPrint(entirePath);
+        let mywindow = window.open('', 'PRINT', 'height=650,width=900,top=100,left=150');
+        printDiv(entirePath, mywindow);
+       // displayLearningPathForPrint(entirePath);
     }
+
 
     /**
      *  Display previous and next buttons
@@ -329,6 +419,7 @@ function displayLearningPathForPrint(path){
     let next = null;
 
     $("#lo_content").append('<section id="section_'+node.learningobject_hruid+node.language+node.version+'" class="lp-section mt-5 mb-5"></section>');
+    
     if(node.transitions && node.transitions.length > 0){
         displayLearningObjectForPrint(node.learningobject_hruid, node.language, node.version, false);
     } else {
@@ -350,6 +441,7 @@ function displayLearningPathForPrint(path){
     
 }
 
+
 /**
  * Append the learning object to the current display learning path for printing view. If this is the last learning object
  * to append, print will be true and indicates that the printing console should open
@@ -358,13 +450,13 @@ function displayLearningPathForPrint(path){
  * @param {string} version 
  * @param {boolean} print 
  */
-function displayLearningObjectForPrint(hruid, language, version, print){
+function displayLearningObjectForPrint(hruid, language, version, print, section){
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             // Must be with the jquery .html() function! 
             // => This function evaluates the javascript in the <script> tags, normal JS (document.getElementbyId) does not.
-            $('#section_'+hruid+language+version).append(this.response);
+            section.append(this.response);
 
             if(print){
                 Promise.all(Array.from(document.images).filter(img => !img.complete).map(img => new Promise(resolve => { img.onload = img.onerror = resolve; }))).then(() => {
@@ -492,6 +584,38 @@ function hideLoadingMessage(){
     document.getElementById("lp_loading_message").style.display = "none";
 }
 
+function setKeywordActions(){
+    $(".keyword").on('click', function(){
+        $("#filter_input").val($(this).text()).trigger("change");
+
+    })
+}
+
+let defaultKeywords = ["WeGoSTEM", "AI-op-school", "Dwenguino", "Python", "Wiskunde", "STEM", "Klimaat"]
+function visualizeKeywords(keywords){
+    keywords = defaultKeywords.concat(keywords);
+    keywords = keywords.sort();
+    let keywordContainer = $("#keyword-container");
+    keywords.forEach((keyword) => {
+        let keywordspan = $("<span>").attr("class", "keyword");
+        keywordspan.html(keyword);
+        keywordContainer.append(keywordspan);
+    })
+    setKeywordActions();
+}
+
+function loadKeywords(){
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+            let learning_paths = JSON.parse(this.response);
+            visualizeKeywords(learning_paths);
+        }
+    };
+    xhttp.open("GET", api_base_path + "/api/learningObject/getFrequentKeywords", true);
+    xhttp.send();
+}
+
 // if the element learning_paths is present it means the user has loaded the front page
 //      load the filters, show the language selection and visualize all learning-paths
 // if the element learning_path is present it means the user has loaded a learning-path page
@@ -502,6 +626,7 @@ if (document.getElementById("learning_paths")) {
     loadFilters();
     showLanguageSelection();
     loadLearningPaths("", document.querySelector("html").lang);
+    loadKeywords();
 } else if (document.getElementById("learning_path")) {
     hideLanguageSelection();
     loadLearningPath();

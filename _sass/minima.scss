@@ -109,6 +109,45 @@ $on-laptop:        800px !default;
   .lp-section h1, h2, h3, h4, h5, strong {
     page-break-after: avoid!important;
   }
+
+  // Responsive iframe
+  .iframe-container {
+    overflow: hidden;
+    position: relative;
+  }
+
+  .iframe-16-9 {
+    /* 16:9 aspect ratio */
+    padding-top: 56.25%;
+  }
+
+  .iframe-1-1 {
+    padding-top: 100%;
+  }
+
+  .iframe-1-2 {
+    padding-top: 200%;
+  }
+
+  .iframe-container iframe {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+  #print_lp {
+    /*border: 1px solid #ced4da;*/
+    background-color: $lo-color;
+    text-align: left;
+    text-decoration: underline;
+    font-style: italic;
+    padding-left: 0px!important;
+    font-size: smaller;
+  }
+
 }
 
 html { 
@@ -403,9 +442,45 @@ a.footer:hover{
   font-size: 1em;
 }
 
+.age_range_text {
+  padding-bottom: 0.25rem;
+}
+
+.age_range_icon {
+  padding: 0.25rem 0.5rem 0 0.5rem;
+  color: #e87b66;
+  fill: #e87b66;
+}
+
 .blocklyDiv {
   width: 100%;
 }
+
+img.values {
+  max-width: 75%;
+}
+
+.strength-container {
+  text-align: center;
+}
+
+.keyword {
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  border: solid #ced4da 1px;
+  border-radius: 0.25rem;
+}
+
+#keyword-container {
+  padding: 1em;
+}
+
+.keyword:hover {
+  cursor: pointer;
+}
+
+
 
 // Import partials.
 @import
