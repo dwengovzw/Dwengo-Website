@@ -181,6 +181,8 @@ function objectButtonClicked(hruid, language, version, path) {
     let node = path.nodes.find((n) => n.learningobject_hruid == hruid && n.language == language && n.version == version);
 
     if (node.transitions && node.transitions.length > 0) {
+        document.getElementById("btn_next_lo").style.display = "inline-block";
+        document.getElementById("btn_to_lp").style.display = "none";
         document.getElementById("btn_next_lo").className = "btn btn-outline-primary col m-3";
         document.getElementById("btn_next_lo").onclick = (ev) => {
             let next = node.transitions[0].next;
