@@ -28,6 +28,7 @@ learning_paths:
   filter_placeholder: Search
   error_message: No learning paths could be found with your preferences.
   loading_message: Loading...
+  age: age
 
 # Translations for the about page
 about_page:
@@ -144,6 +145,7 @@ learning_path_page:
   btn_to_lp: To all learning paths
   print_learning_path: Print entire learning path
 
+
 footer:
   follow: Follow us
   contact: Contact
@@ -154,6 +156,16 @@ footer:
   address_line_3: 1200 Brussels
   country: Belgium
   vat_number: BE 0811.397.278
+
+keywords:
+  python: Python
+  STEM: STEM
+  math: Math
+  ai: AI
+  dwenguino: Dwenguino
+  climate: Climate
+  ai_at_school: AI At School
+
 
 # Translations for the menu items
 about: About

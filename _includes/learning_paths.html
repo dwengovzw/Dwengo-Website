@@ -11,9 +11,20 @@
             </select>
         </div>
     </div>
-    <div id="lp_keywords">
-        <div class="row" id="keyword-container">
+    <div id="lp_keywords" class="row">
+        <div id="keyword-container">
+            <span class="keyword col-xs-auto">{% t keywords.ai %}</span>
+            <span class="keyword col-xs-auto">{% t keywords.ai_at_school %}</span>
+            <span class="keyword col-xs-auto">{% t keywords.dwenguino %}</span>
+            <span class="keyword col-xs-auto">{% t keywords.climate %}</span> 
+            <span class="keyword col-xs-auto">{% t keywords.python %}</span>
+            <span class="keyword col-xs-auto">{% t keywords.stem %}</span>
+            <span class="keyword col-xs-auto">{% t keywords.math %}</span> 
         </div>
+    </div>
+    <div id="lp_age" class="row">
+        <span class="age-label">{% t learning_paths.age %}</span>
+        <span class="col-1"><input type="hidden" class="slider-input age-slider" id="age_input" value="0,25"></span>
     </div>
     <div id="lp_loading_message" class="row mt-2 mb-2">
         <div class="col-12">

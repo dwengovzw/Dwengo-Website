@@ -28,6 +28,7 @@ learning_paths:
   filter_placeholder: Zoek
   error_message: Er zijn geen leerpaden beschikbaar met uw voorkeuren.
   loading_message: Aan het laden...
+  age: Leeftijd
 
 # Translations for the about page
 about_page:
@@ -144,6 +145,7 @@ learning_path_page:
   btn_to_lp: Naar alle leerpaden
   print_learning_path: Volledige leerpad printen
 
+
 footer:
   follow: Volg ons
   contact: Contact
@@ -155,6 +157,17 @@ footer:
   country: België
   vat_number: BE 0811.397.278
 
+# Keywords show below the search bar
+keywords:
+  python: Python
+  stem: STEM
+  math: Wiskunde
+  ai: AI
+  dwenguino: Dwenguino
+  climate: Klimaat
+  ai_at_school: AI Op School
+
+  
 # Translations for the menu items
 about: Over
 contact: Contact

@@ -430,8 +430,8 @@ a.footer:hover{
   position: absolute;
   top: 0.5em;
   right: 0.5em;
-  width: 75px;
-  height: 75px;
+  width: 55px;
+  height: 55px;
   display: grid;
   place-content: center;
   place-items: center;
@@ -439,7 +439,7 @@ a.footer:hover{
   border: solid #e87b66 6px;
   color: #e87b66;
   font-weight: bold;
-  font-size: 1em;
+  font-size: 0.7em;
 }
 
 .age_range_text {
@@ -470,6 +470,7 @@ img.values {
   padding: 0.5rem;
   border: solid #ced4da 1px;
   border-radius: 0.25rem;
+  display: inline-block;
 }
 
 #keyword-container {
@@ -478,6 +479,15 @@ img.values {
 
 .keyword:hover {
   cursor: pointer;
+}
+
+.slider-container {
+  margin-top: 0.5rem;
+}
+
+.age-label{
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 
