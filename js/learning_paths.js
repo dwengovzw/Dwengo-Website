@@ -623,12 +623,16 @@ function setupAgeSlider() {
         showLabels: true,
         isRange: true,
         onstatechange: function(state){
-            let filter_input = document.getElementById("filter_input")
+            // moved to .pointer.mouseup since this is not stable, too many calls.
+        }
+    });
+    $(".pointer").mouseup(function(){
+        let state = $("#age_input").val();
+        let filter_input = document.getElementById("filter_input")
             let lang_select = document.getElementById("language_select")
             console.log(state)
             let ages = state.split(",");
             loadLearningPaths(filter_input.value, lang_select.value, ages[0], ages[1])
-        }
     })
 }
 
