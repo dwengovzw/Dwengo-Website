@@ -511,7 +511,7 @@ let urlToHruidMapping = {
     }
 }
 function getLastParamFromUrl(){
-    let url = window.location.href;
+    let url = window.location.href.split('#')[0];   // remove anchor is present
     if (url.endsWith("/")){
         url = url.slice(0, -1);
     }
