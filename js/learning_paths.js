@@ -480,12 +480,51 @@ function getParameterByName(name) {
     return decodeURIComponent(results[2].replace(/\+/g, ' '));
 }
 
+
+// Maps url name to hruid in the database
+// To make a new direct link to a learing path you should:
+// 1) add a new markdown document for the page (see wegostem.md)
+// 2) In that file you specify the permalink and include the learning path html
+// 3) Add the permalink text in the object below and specify the hruid and available languages
+let urlToHruidMapping = {
+    wegostem: {
+        hruid: "WeGoSTEM-v1",
+        languages: ["nl", "fr"],
+        default_language: "nl"
+    }
+}
+function getLastParamFromUrl(){
+    let url = window.location.href;
+    if (url.endsWith("/")){
+        url = url.slice(0, -1);
+    }
+    let lastparamregex = /.*\/(.*)\/?$/
+    let param = url.match(lastparamregex)[1]
+    return param
+}
+
+
+
 /**
  * requests a learningpath by id from the backend and visualizes it
  */
 function loadLearningPath() {
-    var id = getParameterByName('id');
+    let id = getParameterByName('id');
+    let url = "";
+    if (id){
+        url = api_base_path + "/api/learningPath/" + id;
+    }else{
+        let urlparam = getLastParamFromUrl()
+        let userLang = (navigator.language || navigator.userLanguage).substring(0, 2);
+        if (!urlToHruidMapping[urlparam].languages.includes(userLang)){
+            userLang = urlToHruidMapping[urlparam].default_language;
+        }
+        url = `${api_base_path}/api/learningPath/${urlToHruidMapping[urlparam].hruid}/${userLang}`
+    }
+    loadLearningPathFromUrl(url);
+}
 
+function loadLearningPathFromUrl(url){
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
@@ -498,9 +537,8 @@ function loadLearningPath() {
             }
         }
     };
-    xhttp.open("GET", api_base_path + "/api/learningPath/" + id, true);
+    xhttp.open("GET", url, true);
     xhttp.send();
-
 }
 
 /**
@@ -626,13 +664,20 @@ function setupAgeSlider() {
             // moved to .pointer.mouseup since this is not stable, too many calls.
         }
     });
-    $(".pointer").mouseup(function(){
+    $("#age_input").change(function(){
         let state = $("#age_input").val();
-        let filter_input = document.getElementById("filter_input")
-            let lang_select = document.getElementById("language_select")
-            console.log(state)
-            let ages = state.split(",");
-            loadLearningPaths(filter_input.value, lang_select.value, ages[0], ages[1])
+        // Delay data load to prevent constant updates during sliding
+        setTimeout(()=>{
+            let newstate = $("#age_input").val();
+            if (state == newstate){
+                let filter_input = document.getElementById("filter_input")
+                let lang_select = document.getElementById("language_select")
+                console.log(state)
+                let ages = state.split(",");
+                loadLearningPaths(filter_input.value, lang_select.value, ages[0], ages[1])
+            }
+        }, 500)
+        
     })
 }
 
