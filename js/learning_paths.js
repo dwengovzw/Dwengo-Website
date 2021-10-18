@@ -497,6 +497,7 @@ function getParameterByName(name) {
 }
 
 
+
 // Maps url name to hruid in the database
 // To make a new direct link to a learing path you should:
 // 1) add a new markdown document for the page (see wegostem.md)
