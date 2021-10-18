@@ -664,7 +664,7 @@ function setupAgeSlider() {
             // moved to .pointer.mouseup since this is not stable, too many calls.
         }
     });
-    
+
     $("#age_input").change(function(){
         let state = $("#age_input").val();
         // Delay data load to prevent constant updates during sliding
@@ -692,7 +692,7 @@ if (document.getElementById("learning_paths")) {
     loadFilters();
     showLanguageSelection();
     loadLearningPaths("", document.querySelector("html").lang);
-    loadKeywords();
+    setKeywordActions();
     setupAgeSlider();
 } else if (document.getElementById("learning_path")) {
     hideLanguageSelection();
