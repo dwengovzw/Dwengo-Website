@@ -35,6 +35,8 @@ function visualizeLearningPaths(paths) {
             img.className = "card-img-top"
             img.src = "data:image/jpeg;base64, " + path.image;
             img.style.filter = "grayscale(100%)";
+            img.width = "50";
+            img.height = "50";
 
             let cardBodyContainer = document.createElement("div");
             cardBodyContainer.className = "card-body-container"
@@ -49,6 +51,8 @@ function visualizeLearningPaths(paths) {
             let age_range = document.createElement("span");
             let icon = document.createElement("img");
             icon.className = "age_range_icon"
+            icon.width = "100"
+            icon.height = "75"
             icon.setAttribute("src", "/images/logos/age_logo.svg");
 
             let agerange = `${path.min_age} - ${path.max_age}`
@@ -704,6 +708,7 @@ function setupAgeSlider() {
 // if the element learning_path is present it means the user has loaded a learning-path page
 //      hide the language selection and visualize the learning-path based on an id in the url
 // otherwise show language selection
+
 if (document.getElementById("learning_paths")) {
     showLoadingMessage();
     loadFilters();

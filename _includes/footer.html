@@ -5,15 +5,15 @@
                 <div class="col-md-3 col-sm-3 col-xs-12">
                     
                     <div class="row mb-3">
-                            <img src="/images/logos/dwengo-groen-zwart.svg" class="img-fluid" alt="Dwengo logo">
+                            <img src="/images/logos/dwengo-groen-zwart.svg" class="img-fluid" alt="Dwengo logo" width="124" height="50">
                     </div>
                     <div class="row justify-content-end mr-3">
                         <h5>{% t footer.follow %}</h5>
                     </div>
                     <div class="row justify-content-end mr-3">
-                        <a href="https://twitter.com/dwengo"><img src="/images/footer/twitter.png" class="social"></a>
-                        <a href="https://www.facebook.com/dwengo"><img src="/images/footer/facebook.png" class="social"></a>
-                        <a href="https://www.youtube.com/user/Dwengovzw"><img src="/images/footer/youtube.png" class="social"></a>
+                        <a href="https://twitter.com/dwengo"><img src="/images/footer/twitter.png" class="social" width="64" height="64"></a>
+                        <a href="https://www.facebook.com/dwengo"><img src="/images/footer/facebook.png" class="social" width="64" height="64"></a>
+                        <a href="https://www.youtube.com/user/Dwengovzw"><img src="/images/footer/youtube.png" class="social" width="64" height="64"></a>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-4 col-xs-12">
@@ -49,6 +49,29 @@
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
     integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
     crossorigin="anonymous"></script>
+<!--Fix for jquery pagespeed insights error: "Does not use passive listeners to improve scrolling performance"-->
+<script>
+    jQuery.event.special.touchstart = {
+        setup: function( _, ns, handle ) {
+            this.addEventListener("touchstart", handle, { passive: !ns.includes("noPreventDefault") });
+        }
+    };
+    jQuery.event.special.touchmove = {
+        setup: function( _, ns, handle ) {
+            this.addEventListener("touchmove", handle, { passive: !ns.includes("noPreventDefault") });
+        }
+    };
+    jQuery.event.special.wheel = {
+        setup: function( _, ns, handle ){
+            this.addEventListener("wheel", handle, { passive: true });
+        }
+    };
+    jQuery.event.special.mousewheel = {
+        setup: function( _, ns, handle ){
+            this.addEventListener("mousewheel", handle, { passive: true });
+        }
+    };
+</script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
     integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
     crossorigin="anonymous"></script>
