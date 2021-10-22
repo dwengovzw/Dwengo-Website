@@ -495,6 +495,10 @@ img {
   height: auto;
 }
 
+#dwengo_logo_image{
+  max-width: 150px;
+}
+
 // Import partials.
 @import
   "minima/base",
