@@ -145,6 +145,7 @@ function loadLearningPaths(filter = "", lang = "", min_age = 0, max_age = 25) {
  * @param {integer} version 
  */
 function loadObjectContent(hruid, language, version) {
+    _paq.push(['trackEvent', 'learningobject', 'load', `${hruid}-${language}-${version}`])
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
@@ -531,6 +532,8 @@ function getLastParamFromUrl(){
  */
 function loadLearningPath() {
     let id = getParameterByName('id');
+    // Send analytics data to matomo
+    _paq.push(['trackEvent', 'learningpath', 'load', id])
     let url = "";
     if (id){
         url = api_base_path + "/api/learningPath/" + id;
