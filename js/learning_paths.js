@@ -513,6 +513,11 @@ let urlToHruidMapping = {
         hruid: "WeGoSTEM-v1",
         languages: ["nl", "fr"],
         default_language: "nl"
+    },
+    sociale_robot: {
+        hruid: "Sociale Robot-v1",
+        languages: ["nl"],
+        default_language: "nl"
     }
 }
 function getLastParamFromUrl(){
