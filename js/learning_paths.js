@@ -34,7 +34,7 @@ function visualizeLearningPaths(paths) {
             let img = document.createElement("img");
             img.className = "card-img-top"
             img.src = "data:image/jpeg;base64, " + path.image;
-            //img.style.filter = "grayscale(100%)";
+            img.style.filter = "grayscale(100%)";
             img.width = "500";
             img.height = "500";
 
