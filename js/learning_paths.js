@@ -11,7 +11,7 @@ let siteLanguages = ["nl", "en", "fr", "de"]
  */
 function visualizeLearningPaths(paths) {
     hideLoadingMessage();
-    let dwengoColors = ["#0f5faa", "#0f5d6d", "#115b4e", "#115933", "#3c8227", "#73b51e", "#f9d713", "#f4a72c", "#e87b66"];
+    let dwengoColors = ["#0f5faa", "#0f5d6d", "#115b4e", "#115933", "#3c8227", "#73b51e", "#f4a72c", "#e87b66"];
     let col = 0;
     document.getElementById("learning_paths").innerHTML = "";
 
@@ -34,7 +34,7 @@ function visualizeLearningPaths(paths) {
             let img = document.createElement("img");
             img.className = "card-img-top"
             img.src = "data:image/jpeg;base64, " + path.image;
-            img.style.filter = "grayscale(100%)";
+            //img.style.filter = "grayscale(100%)";
             img.width = "500";
             img.height = "500";
 

@@ -440,6 +440,7 @@ a.footer:hover{
   color: #e87b66;
   font-weight: bold;
   font-size: 0.7em;
+  border-radius: 0.25rem;
 }
 
 .age_range_text {
@@ -501,6 +502,16 @@ img {
 
 #dwengo_logo_image{
   max-width: 150px;
+}
+
+.card-body-container{
+  border-bottom-left-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
+
+.card-img-top{
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
 }
 
 // Import partials.
