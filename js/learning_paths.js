@@ -740,7 +740,7 @@ if (document.getElementById("learning_paths")) {
 } else if (document.getElementById("learning_path")) {
     hideLanguageSelection();
     loadLearningPath();
-    document.addEventListener("keypress", (event) => {
+    window.addEventListener("keydown", (event) => {
         const key = event.key;
         switch (event.key) {
             case "ArrowLeft":
