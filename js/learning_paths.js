@@ -158,8 +158,6 @@ function loadObjectContent(hruid, language, version) {
     xhttp.send();
 }
 
-let currentLO = {}
-
 /**
  * fires when next/previous-button or button for specific object is clicked
  * makes sure the new content is shown and the buttons are updated
@@ -178,6 +176,7 @@ function objectButtonClicked(hruid, language, version, path) {
     // Add back active class to clicked item
     document.getElementById("btn_group_obj_" + hruid + language + version).classList.add("active");
     let node = path.nodes.find((n) => n.learningobject_hruid == hruid && n.language == language && n.version == version);
+
     if (node.transitions && node.transitions.length > 0) {
         document.getElementById("btn_next_lo").style.display = "inline-block";
         document.getElementById("btn_to_lp").style.display = "none";
@@ -205,18 +204,9 @@ function objectButtonClicked(hruid, language, version, path) {
     }
 
     window.location.hash = `${hruid};${language};${version}`;   // Add anchor to the page url to identify this step in the learning path
-    currentLO = {
-        hruid: hruid,
-        language: language,
-        version: version
-    }
     loadObjectContent(hruid, language, version);
-    
-
-    
 
 }
-
 
 /**
  * Thanks to https://stackoverflow.com/a/50200383/13057688
@@ -341,24 +331,7 @@ function visualizeLearningPath(path) {
      * Load content of the first learning object
      */
     loadObjectContent(node.learningobject_hruid, node.language, node.version)
-    currentLO = {
-        hruid: node.language,
-        language: language,
-        version: node.version
-    }
 
-    /*document.addEventListener("keypress", (event) => {
-        let node = path.nodes.find((n) => n.learningobject_hruid == currentLO.hruid && n.language == currentLO.language && n.version == currentLO.version);
-        switch (event.key) {
-            case "ArrowRight":
-                let next = node.transitions[0].next;
-                objectButtonClicked(next.hruid, next.language, next.version, path);
-                break;
-            case "ArrowLeft":
-                objectButtonClicked(prev.learningobject_hruid, prev.language, prev.version, path);
-                break;
-        }
-    })*/
     
 
     /**
