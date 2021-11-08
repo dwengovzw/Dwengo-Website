@@ -347,7 +347,7 @@ function visualizeLearningPath(path) {
         version: node.version
     }
 
-    document.addEventListener("keypress", (event) => {
+    /*document.addEventListener("keypress", (event) => {
         let node = path.nodes.find((n) => n.learningobject_hruid == currentLO.hruid && n.language == currentLO.language && n.version == currentLO.version);
         switch (event.key) {
             case "ArrowRight":
@@ -358,7 +358,7 @@ function visualizeLearningPath(path) {
                 objectButtonClicked(prev.learningobject_hruid, prev.language, prev.version, path);
                 break;
         }
-    })
+    })*/
     
 
     /**
