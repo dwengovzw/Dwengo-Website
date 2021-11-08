@@ -740,6 +740,17 @@ if (document.getElementById("learning_paths")) {
 } else if (document.getElementById("learning_path")) {
     hideLanguageSelection();
     loadLearningPath();
+    document.addEventListener("keypress", (event) => {
+        const key = event.key;
+        switch (event.key) {
+            case "ArrowLeft":
+                document.getElementById("btn_previous_lo").click()
+                break;
+            case "ArrowRight":
+                document.getElementById("btn_next_lo").click()
+                break;
+        }
+    })
 } else {
     showLanguageSelection();
 }
