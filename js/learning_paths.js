@@ -652,7 +652,7 @@ function setKeywordActions(){
     })
 }
 
-let defaultKeywords = ["WeGoSTEM", "AI op school", "Dwenguino", "Python", "Wiskunde", "STEM", "Klimaat"]
+let defaultKeywords = ["WeGoSTEM", "AI op school", "Computationeel denken", "Dwenguino", "Grafisch programmeren", "Python", "KIKS", "Wiskunde", "STEM", "Klimaat"]
 function visualizeKeywords(keywords){
     // Static for now
     /*keywords = defaultKeywords.concat(keywords);
