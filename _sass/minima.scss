@@ -514,6 +514,32 @@ img {
   border-top-right-radius: 0.25rem;
 }
 
+// Styles for AI Op School banner
+.aiops__banner {
+  height: 400px;
+  width: 100vw;
+  position: absolute;
+  left: 0px;
+  margin-top: -30px;
+}
+
+.kiks_info {
+  margin-top: 200px;
+  margin-bottom:40px;
+  padding: 20px;
+}
+
+.catchphrase-first p:first-of-type {
+  font-weight: bolder;
+}
+
+.kiks-logo-right{
+  max-width: 90px;
+  max-height: 80px;
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
 // Import partials.
 @import
   "minima/base",

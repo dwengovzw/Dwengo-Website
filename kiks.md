@@ -3,13 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: KIKS
+permalink: /kiks/
 ---
 
-{%- include strengths.html -%}
 
-{%- include learning_paths.html keyword="none" -%}
+{%- include kiks.html -%}
 
-
-
-
+{%- include learning_paths.html keyword="kiks"-%}
 

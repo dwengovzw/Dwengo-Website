@@ -739,7 +739,8 @@ if (document.getElementById("learning_paths")) {
     showLoadingMessage();
     loadFilters();
     showLanguageSelection();
-    loadLearningPaths("", document.querySelector("html").lang);
+    let initalFilter = document.getElementById("filter_input").value || "";
+    loadLearningPaths(initalFilter, document.querySelector("html").lang);
     setKeywordActions();
     setupAgeSlider();
 } else if (document.getElementById("learning_path")) {
