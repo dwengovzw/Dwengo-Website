@@ -515,12 +515,12 @@ let urlToHruidMapping = {
         default_language: "nl"
     },
     sociale_robot: {
-        hruid: "Sociale Robot-v1",
+        hruid: "SR_Algemeen-v1",
         languages: ["nl"],
         default_language: "nl"
     },
     socialerobot: {
-        hruid: "Sociale Robot-v1",
+        hruid: "SR_Algemeen-v1",
         languages: ["nl"],
         default_language: "nl"
     }
