@@ -516,14 +516,15 @@ img {
 
 // Styles for AI Op School banner
 .frontpage_banner {
-  height: 400px;
+  height: calc((100vw * 0.684) - 82.14px);
+  max-height: 400px;
   width: 100vw;
   position: absolute;
   left: 0px;
   margin-top: -30px;
   background-attachment: fixed;
-  background-size: 100% auto;
-  background-position: center;
+  background-size: 100% calc(100vw * 0.684);
+  background-position: top;
 }
 
 .home_info_pane {
