@@ -18,10 +18,19 @@ strengths:
   research_based_text: Tout le matériel de cours de Dwengo ASBL est fondé sur la recherche scientifique profonde.
   inclusive_text: On se concentre à atteindre tous les enfants avec une attention particulière pour l'égalite de genre et l'inclusion sociale.
   socially_relevant_text: Nous recherchons des projects qui s'inscrivent dans l'actualité et les thèmes sociaux.
+  summary: We develop innovative workshops and educational resources, and we provide them to students around the globe in collaboration with teachers and volunteers. Our train-the-trainer sessions enable them to bring our hands-on workshops to the students.
+  main: We voegen steeds nieuwe projecten en methodieken toe aan al onze projecten. Voor deze projecten zoeken we steeds een maatschappelijk relevant thema. Bovendien zorgen we er steeds voor dat ons didactisch materiaal gebaseerd is op wetenschappelijk onderzoek en houden we ook aldijd een oog op de inclusiviteit.
   quote:
     text: Je maakt iets praktisch, je leert werken met hardware en je kan zelf iets nieuws cre&euml;ren. 
     name: Matthias en Bruno
     affiliation: 4e middelbaar
+
+kiks:
+  intro_title: "KIKS"
+  paragraph1: "KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben."
+  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
+  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+
 
 learning_paths:
   title: Parcours d'apprentissage
