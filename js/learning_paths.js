@@ -523,6 +523,41 @@ let urlToHruidMapping = {
         hruid: "SR_Algemeen-v1",
         languages: ["nl"],
         default_language: "nl"
+    },
+    socialerobot0: {
+        hruid: "SR_Algemeen-v1",
+        languages: ["nl"],
+        default_language: "nl"
+    },
+    socialerobot1: {
+        hruid: "SR_Module1-v1",
+        languages: ["nl"],
+        default_language: "nl"
+    },
+    socialerobot2: {
+        hruid: "SR_Module2-v1",
+        languages: ["nl"],
+        default_language: "nl"
+    },
+    socialerobot2oefeningen: {
+        hruid: "SR_Module22-v1",
+        languages: ["nl"],
+        default_language: "nl"
+    },
+    socialerobot3: {
+        hruid: "SR_Module3-v1",
+        languages: ["nl"],
+        default_language: "nl"
+    },
+    socialerobot4: {
+        hruid: "SR_Module4-v1",
+        languages: ["nl"],
+        default_language: "nl"
+    },
+    starttodwenguino: {
+        hruid: "StartToDwenguino-v1",
+        languages: ["nl"],
+        default_language: "nl"
     }
 }
 function getLastParamFromUrl(){
