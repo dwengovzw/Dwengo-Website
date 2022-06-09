@@ -30,6 +30,7 @@ github_username:  dwengo
 
 # Page links to be shown in the header
 header_pages:
+  - curricula.md
   - contact.md
   - about.markdown
   - projects.md

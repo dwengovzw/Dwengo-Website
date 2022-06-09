@@ -20,5 +20,9 @@ paragraph2=paragraph2
 paragraph3=paragraph3
 -%}
 
+{%- include highlightbox.html text="kiks.form_text" button_text="kiks.form_button_text" -%}
+
+{%- include kiks_extra_info.html -%}
+
 {%- include learning_paths.html keyword="kiks"-%}
 
