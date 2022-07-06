@@ -10,5 +10,3 @@ permalink: /curricula/
 ## {% t curricula_page.title %}
 
 {%- include curricula.html -%}
-
-[{% t kiks.intro_title %}](/kiks)

@@ -102,9 +102,18 @@ projects_page:
   project_4_contact: "Vragen? Contacteer ons via natacha@dwengo.org."
   project_4_teaser: https://www.youtube.com/embed/VpAXLlT_JP0
 
-
+# Translations for the projects page
 curricula_page:
   title: Onze leerlijnen
+  curriculum_1_title: KIKS
+  curriculum_1_description: KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben.
+  curriculum_1_contact: ""
+  curriculum_1_teaser: https://www.youtube.com/embed/dO-E33G20co
+  curriculum_2_title: Sociale robot
+  curriculum_2_description: "'Sociale robot' is een vakoverschrijdend STEM-project voor de eerste graad secundair onderwijs. Het project kan echter ook ingezet worden in de tweede graad. In een aantal modules gaan leerlingen aan de slag om zelf een sociale robot te ontwerpen, te programmeren en te bouwen."
+  curriculum_2_contact: "Leerlingen denken na over hoe hun robot zal communiceren en op welke omgevingsfactoren - zoals licht, geluid, beweging - hij zal reageren. Het ontwerpen en grafisch programmeren van de robot doen ze in een simulator. De fysieke robot bouwen ze met herbruikbaar materiaal. Het wordt nog leuker als ze de robot een persoonlijke toets geven. Ze kunnen zich hierin op een creatieve manier uitleven. Gebruikmakend van een microcontrollerplatform, sensoren en actuatoren en hun eigen code voltooien ze hun sociale robot."
+  curriculum_2_teaser: https://www.youtube.com/embed/EsYs4k41U6w 
+
 
 # Translations for the learning-path page
 learning_path_page:

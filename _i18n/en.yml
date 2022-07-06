@@ -150,6 +150,14 @@ projects_page:
 
 curricula_page:
   title: Our curricula
+  curriculum_1_title: KIKS
+  curriculum_1_description: KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben.
+  curriculum_1_contact: ""
+  curriculum_1_teaser: https://www.youtube.com/embed/dO-E33G20co
+  curriculum_2_title: AI Op School
+  curriculum_2_description: "Artificiële intelligentie (AI) komt volop aan bod in de media. Populaire thema’s zijn: chatbots, zelfrijdende auto’s, virtuele assistenten en het verlies aan jobs. AI-systemen dringen meer en meer onze wereld binnen. AI Op School is een project dat ontstaan is uit de bekommernis dat leerlingen kunstmatige (KI) of artificiële intelligentie moeten kunnen begrijpen en het besef dat er een hiaat is in het curriculum van het secundair onderwijs om hieraan tegemoet te komen. We maken lesmateriaal voor het secundair onderwijs rond AI gelinkt aan de eindtermen en de bestaande leerplandoelen. Al dit lesmateriaal is beschikbaar op onze website."
+  curriculum_2_contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+  curriculum_2_teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
 
 # Translations for the learning-path page
 learning_path_page:

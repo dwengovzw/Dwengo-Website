@@ -9,11 +9,11 @@ let siteLanguages = ["nl", "en", "fr", "de"]
  * visualises all learning paths (on home screen), currently alphabetically ordered by title
  * @param {array} paths array of learning-paths
  */
-function visualizeLearningPaths(paths) {
+function visualizeLearningPaths(paths, container_id="learning_paths") {
     hideLoadingMessage();
     let dwengoColors = ["#0f5faa", "#0f5d6d", "#115b4e", "#115933", "#3c8227", "#73b51e", "#f4a72c", "#e87b66"];
     let col = 0;
-    document.getElementById("learning_paths").innerHTML = "";
+    document.getElementById(container_id).innerHTML = "";
 
     if (paths.length == 0) {
         document.getElementById("lp_error_message").className = "row d-block";
@@ -271,24 +271,6 @@ async function printDiv(path, mywindow) {
     
 }
 
-/*function loadRawContent(hruid, language, version){
-    //return new Promise((reject, resolve) => {
-        var xhttp = new XMLHttpRequest();
-        xhttp.onreadystatechange = function () {
-            if (this.readyState == 4 && this.status == 200) {
-                // Must be with the jquery .html() function! 
-                // => This function evaluates the javascript in the <script> tags, normal JS (document.getElementbyId) does not.
-                //resolve(this.response)
-            } else {
-                //reject("an error occured loading content from server")
-            }
-        };
-        xhttp.open("GET", `${api_base_path}/api/learningObject/getRaw?hruid=${hruid}&version=${version}&language=${language}`, true);
-        xhttp.send();
-    //})
-    
-}
-
 /**
  * visualizes the learning path by adding buttons for all learning-objects in the correct order
  * and displaying the first object
@@ -312,7 +294,6 @@ function visualizeLearningPath(path) {
         printDiv(entirePath, mywindow);
     }
 
-
     /**
      *  Display previous and next buttons
      */
@@ -332,15 +313,9 @@ function visualizeLearningPath(path) {
      */
     loadObjectContent(node.learningobject_hruid, node.language, node.version)
 
-    
-
-    /**
-     * Display list of learning objects in this learning path on the left side of the page
-     */
-     let loaded_counter = path.nodes.length;
-    while (counter < path.nodes.length) {
+    nodes.forEach((node) => {
         const next = node.transitions && node.transitions.length > 0 ? nodes.find((n) => n.learningobject_hruid == node.transitions[0].next.hruid && n.version == node.transitions[0].next.version && n.language == node.transitions[0].next.language) : undefined;
-
+        
         let btnGroup = document.createElement("div");
         btnGroup.id = "btn_group_obj_" + node.learningobject_hruid + node.language + node.version;
         btnGroup.className = "lo-button btn-group list-group-item list-group-item-action d-flex justify-content-between align-items-center "  + (node.start_node ? " active" : "");
@@ -359,62 +334,35 @@ function visualizeLearningPath(path) {
         document.getElementById("btn_group_obj_" + node.learningobject_hruid + node.language + node.version).appendChild(btn1);
         document.getElementById("btn_group_obj_" + node.learningobject_hruid + node.language + node.version).appendChild(btn2);
 
-        var xhttp = new XMLHttpRequest();
-
-        xhttp.onreadystatechange = function () {
-            if (this.readyState == 4 && this.status == 200) {
-                try {
-                    loaded_counter--;
-                    let metadata = JSON.parse(this.response);
-                    let btnGroup = document.getElementById("btn_group_obj_" + metadata.hruid + metadata.language + metadata.version);
-                    // Add class to item if teacher only
-                    if (metadata.teacher_exclusive){
-                        btnGroup.classList.add('teacher_exclusive')
-                    }
-                    btnGroup.onclick = (ev) => {
-                        objectButtonClicked(metadata.hruid, metadata.language, metadata.version, path);
-                    }
-
-                    let item = document.getElementById("btn_obj_" + metadata.hruid + metadata.language + metadata.version);
-                    item.innerHTML = `${metadata.title}`
-
-                    let timeLabel = document.getElementById("btn_obj_time_" + metadata.hruid + metadata.language + metadata.version);
-                    // Add class to item if teacher only
-                    if (metadata.teacher_exclusive){
-                        timeLabel.classList.add('teacher_exclusive')
-                    }
-                    timeLabel.innerHTML = `${metadata.estimated_time}\'`;
-
-                    // All noded are loaded
-                    if (loaded_counter == 0){
-                        // Select learning object based on hash in the url
-                        let hash = window.location.hash;
-                        if (hash) {
-                            let [hruid_hash, language_hash, version_hash] = hash.slice(1).split(";");
-                            objectButtonClicked(hruid_hash, language_hash, version_hash, path)
-                        }
-                    }
-                    
-                } catch (e) {
-                    console.error(this.response);
-                }
-
-            }
-        };
-        xhttp.open("GET", `${api_base_path}/api/learningObject/getMetadata?hruid=${node.learningobject_hruid}&version=${node.version}&language=${node.language}`, true);
-        xhttp.send();
-        const index = nodes.indexOf(node);
-        if (index > -1) {
-            nodes.splice(index, 1);
+        // Add class to item if teacher only
+        if (node.teacher_exclusive){
+            btnGroup.classList.add('teacher_exclusive')
+            btn2.classList.add('teacher_exclusive')
         }
-        node = next ? next : nodes[0];
-        counter++;
+        btnGroup.onclick = (ev) => {
+            objectButtonClicked(node.learningobject_hruid, node.language, node.version, path);
+        }
+
+        btn1.innerHTML = `${node.title}`
+        btn2.innerHTML = `${node.estimated_time}\'`;
+
+    })
+
+    // Select learning object based on hash in the url
+    let hash = window.location.hash;
+    if (hash) {
+        let [hruid_hash, language_hash, version_hash] = hash.slice(1).split(";");
+        objectButtonClicked(hruid_hash, language_hash, version_hash, path)
+    } else {
+        objectButtonClicked(path.nodes[0].hruid)
     }
 
+}
+
     
     
 
-}
+
 
 /**
  * Display the entire learning path on the page for printing purposes and open the printing console.
@@ -579,6 +527,12 @@ function getLastParamFromUrl(){
 
 /**
  * requests a learningpath by id from the backend and visualizes it
+ * This is getting complex...
+ * Get learning path based on set of parameters in the url query or based on page name and browser locale
+ * When the url contains an 'id' parameter -> use it to fetch learning path
+ * When the url contains a 'hruid' and 'language' parameter -> use these to fetch learning path
+ * When none of the above are true, look for the last section of the url (ex. for dwengo.org/socialrobot -> socialrobot)
+ * Use this last section to lookup the learning path hruid and language in the urlToHruidMapping object.
  */
 function loadLearningPath() {
     let id = getParameterByName('id');
@@ -588,12 +542,18 @@ function loadLearningPath() {
     if (id){
         url = api_base_path + "/api/learningPath/" + id;
     }else{
-        let urlparam = getLastParamFromUrl()
-        let userLang = (navigator.language || navigator.userLanguage).substring(0, 2);
-        if (!urlToHruidMapping[urlparam].languages.includes(userLang)){
-            userLang = urlToHruidMapping[urlparam].default_language;
+        let hruid = getParameterByName('hruid');
+        let lang = getParameterByName('language');
+        if (hruid && lang){
+            url = url = `${api_base_path}/api/learningPath/${hruid}/${lang}`
+        }else{
+            let urlparam = getLastParamFromUrl()
+            let userLang = (navigator.language || navigator.userLanguage).substring(0, 2);
+            if (!urlToHruidMapping[urlparam].languages.includes(userLang)){
+                userLang = urlToHruidMapping[urlparam].default_language;
+            }
+            url = `${api_base_path}/api/learningPath/${urlToHruidMapping[urlparam].hruid}/${userLang}`
         }
-        url = `${api_base_path}/api/learningPath/${urlToHruidMapping[urlparam].hruid}/${userLang}`
     }
     loadLearningPathFromUrl(url);
 }
