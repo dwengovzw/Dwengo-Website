@@ -67,7 +67,7 @@ $on-laptop:        800px !default;
     display: none;
   }
 
-  #btn_previous_lo, #btn_next_lo, #btn_to_lp, #print_lp {
+  #btn_previous_lo, #btn_next_lo, #btn_to_lp, #print_lp, .button_lp {
     display: none;
   }
 
@@ -138,8 +138,12 @@ $on-laptop:        800px !default;
     width: 100%;
   }
 
-  #print_lp {
-    /*border: 1px solid #ced4da;*/
+  .button_lp:hover {
+    cursor: pointer;
+  }
+
+  .button_lp {
+    border: 1px solid transparent;
     background-color: $lo-color;
     text-align: left;
     text-decoration: underline;
@@ -321,8 +325,12 @@ a.footer:hover{
    width: 100%;
 }
 
-#print_lp {
-  /*border: 1px solid #ced4da;*/
+.button_lp:hover {
+  cursor: pointer;
+}
+
+.button_lp {
+  border: 1px solid transparent;
   background-color: $lo-color;
   text-align: left;
   text-decoration: underline;

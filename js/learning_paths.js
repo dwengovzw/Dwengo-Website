@@ -5,6 +5,8 @@ let api_base_path = "http://localhost:8085"   // For debug
 let allLanguages = { "aa": "Qafaraf", "ab": "Аԥсуа бызшәа", "af": "Afrikaans", "ak": "Akan", "sq": "yângâ tî sängö", "am": "አማርኛ Amârıñâ", "ar": "العَرَبِيَّة al'Arabiyyeẗ", "an": "aragonés", "hy": "Հայերէն Hayerèn", "as": "অসমীয়া", "av": "Магӏарул мацӏ", "ae": "Avestan", "ay": "Aymar aru", "az": "Azərbaycan dili", "ba": "Башҡорт теле", "bm": "ߓߊߡߊߣߊߣߞߊߣ", "eu": "euskara", "be": "Беларуская мова", "bn": "বাংলা Bāŋlā", "bh": "Bihari", "bi": "Bislama", "bs": "bosanski", "br": "Brezhoneg", "bg": "български език", "my": "မြန်မာစာ Mrãmācā", "ca": "català", "ch": "Finu' Chamoru", "ce": "Нохчийн мотт", "zh": "中文 Zhōngwén", "cu": "Славе́нскїй ѧ҆зы́къ", "cv": "Чӑвашла", "kw": "Kernowek", "co": "Corsu", "cr": "Cree", "cs": "čeština", "da": "dansk", "dv": "ދިވެހިބަސް", "nl": "Nederlands", "dz": "རྫོང་ཁ་ Ĵoŋkha", "en": "English", "eo": "Esperanto", "et": "eesti keel", "ee": "Èʋegbe", "fo": "føroyskt", "fj": "Na Vosa Vakaviti", "fi": "suomen kieli", "fr": "français", "fy": "Frysk", "ff": "Fulfulde", "ka": "ქართული Kharthuli", "de": "Deutsch", "gd": "Gàidhlig", "ga": "Gaeilge", "gl": "galego", "gv": "Gaelg", "el": "Νέα Ελληνικά Néa", "gn": "Avañe'ẽ", "gu": "ગુજરાતી Gujarātī", "ht": "kreyòl ayisyen", "ha": "Harshen Hausa", "he": "עברית 'Ivriyþ", "hz": "Otjiherero", "hi": "हिन्दी Hindī", "ho": "Hiri Motu", "hr": "hrvatski", "hu": "magyar nyelv", "ig": "Asụsụ Igbo", "is": "íslenska", "io": "Ido", "ii": "ꆈꌠꉙ Nuosuhxop", "iu": "ᐃᓄᒃᑎᑐᑦ Inuktitut", "ie": "Interlingue", "ia": "	Interlingua", "id": "bahasa Indonesia", "ik": "Iñupiaq", "it": "italiano", "jv": "ꦧꦱꦗꦮ", "ja": "日本語 Nihongo", "kl": "Kalaallisut", "kn": "ಕನ್ನಡ Kannađa", "ks": "कॉशुर / كأشُر", "kr": "Kanuri", "kk": "қазақ тілі qazaq tili", "km": "ភាសាខ្មែរ", "ki": "Gĩkũyũ", "rw": "Ikinyarwanda", "ky": "кыргызча kırgızça", "kv": "Коми кыв", "kg": "Kongo", "ko": "한국어 Han'gug'ô", "kj": "Kuanyama", "ku": "کوردی", "lo": "ພາສາລາວ Phasalaw", "la": "Lingua latīna", "lv": "Latviešu valoda", "li": "Lèmburgs", "ln": "Lingala", "lt": "lietuvių kalba", "lb": "Lëtzebuergesch", "lu": "Kiluba", "lg": "Luganda", "mk": "македонски јазик", "mh": "Kajin M̧ajeļ", "ml": "മലയാളം Malayāļã", "mi": "Te Reo Māori", "mr": "मराठी Marāţhī", "ms": "Bahasa Melayu", "mg": "Malagasy", "mt": "Malti", "mn": "монгол хэл", "na": "dorerin Naoero", "nv": "Diné bizaad", "nr": "isiNdebele seSewula", "nd": "siNdebele saseNyakatho", "ng": "ndonga", "ne": "नेपाली भाषा", "nn": "norsk nynorsk", "nb": "norsk bokmål", "no": "norsk", "ny": "Chichewa", "oc": "occitan", "oj": "Ojibwa", "or": "ଓଡ଼ିଆ", "om": "Afaan Oromoo", "os": "Ирон æвзаг", "pa": "ਪੰਜਾਬੀ", "fa": "فارسی", "pi": "Pāli", "pl": "polski", "pt": "português", "ps": "پښتو", "qu": "Runa simi", "rm": "Rumantsch", "ro": "limba română", "rn": "Ikirundi", "ru": "русский язык", "sg": "yângâ tî sängö", "sa": "संस्कृतम्", "si": "සිංහල", "sk": "slovenčina", "sl": "slovenski jezik", "se": "davvisámegiella", "sm": "Gagana faʻa Sāmoa", "sn": "chiShona", "sd": "سنڌي", "so": "af Soomaali", "st": "Sesotho", "es": "español", "sc": "sardu", "sr": "српски", "ss": "siSwati", "su": "ᮘᮞ ᮞᮥᮔ᮪ᮓ", "sw": "Kiswahili", "sv": "svenska", "ty": "Reo Tahiti", "ta": "தமிழ்", "tt": "татар теле", "te": "తెలుగు", "tg": "тоҷикӣ", "tl": "Wikang Tagalog", "th": "ภาษาไทย", "bo": "བོད་སྐད་", "ti": "ትግርኛ", "to": "lea faka-Tonga", "tn": "Setswana", "ts": "Xitsonga", "tk": "Türkmençe", "tr": "Türkçe", "tw": "Twi", "ug": "ئۇيغۇر تىلى", "uk": "Українська мова", "ur": "اُردُو", "uz": "Oʻzbekcha", "ve": "Tshivenḓa", "vi": "Tiếng Việt", "vo": "Volapük", "cy": "Cymraeg", "wa": "Walon", "wo": "Wolof", "xh": "isiXhosa", "yi": "אידיש", "yo": "èdè Yorùbá", "za": "話僮", "zu": "isiZulu" };
 let siteLanguages = ["nl", "en", "fr", "de"]
 
+let backToLearningPathsButtonDisplayStyle = "none";
+
 /**
  * visualises all learning paths (on home screen), currently alphabetically ordered by title
  * @param {array} paths array of learning-paths
@@ -25,7 +27,7 @@ function visualizeLearningPaths(paths, container_id="learning_paths") {
             let div = document.createElement("div");
             div.className = "col-lg-3 col-md-4 col-sm-6 col-xs-12 py-3";
             let a = document.createElement("a");
-            a.href = `/learning-path.html?id=${path._id}`
+            a.href = `/learning-path.html?id=${path._id}&te=true`
             a.style.textDecoration = "none"
 
             let card = document.createElement("div");
@@ -138,6 +140,15 @@ function loadLearningPaths(filter = "", lang = "", min_age = 0, max_age = 25) {
     xhttp.send();
 }
 
+function setLearningObjectLinkOnClickHandler(hruid, language, version){
+    /**
+     * Print learning path handler
+     */
+     document.getElementById("link_lo").onclick = (ev) => {
+        window.open(`${api_base_path}/api/learningObject/getWrapped?hruid=${hruid}&version=${version}&language=${language}`, "_blank")
+    }
+}
+
 /**
  * requests content learning-object based on hruid, language and version from backend
  * @param {string} hruid 
@@ -145,6 +156,8 @@ function loadLearningPaths(filter = "", lang = "", min_age = 0, max_age = 25) {
  * @param {integer} version 
  */
 function loadObjectContent(hruid, language, version) {
+    setLearningObjectLinkOnClickHandler(hruid, language, version);
+
     _paq.push(['trackEvent', 'learningobject', 'load', `${hruid}-${language}-${version}`])
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
@@ -187,7 +200,7 @@ function objectButtonClicked(hruid, language, version, path) {
         }
     } else {
         document.getElementById("btn_next_lo").style.display = "none";
-        document.getElementById("btn_to_lp").style.display = "inline-block";
+        document.getElementById("btn_to_lp").style.display = backToLearningPathsButtonDisplayStyle;
     }
 
     let prev = path.nodes.find((n) => {
@@ -295,6 +308,16 @@ function visualizeLearningPath(path) {
     }
 
     /**
+     * Link to student version of learning path (remove te=true from url)
+     */
+     document.getElementById("link_lp").onclick = (ev) => {
+         let url = window.location.href
+         window.open(url.replace('te=true', ''), '_blank')
+     }
+
+    setLearningObjectLinkOnClickHandler(nodes[0].learningobject_hruid, nodes[0].language, nodes[0].version)
+
+    /**
      *  Display previous and next buttons
      */
     if (node.transitions && node.transitions.length > 0) {
@@ -305,7 +328,7 @@ function visualizeLearningPath(path) {
         }
     } else {
         document.getElementById("btn_next_lo").style.display += " none";
-        document.getElementById("btn_to_lp").style.display = "inline-block";
+        document.getElementById("btn_to_lp").style.display =  backToLearningPathsButtonDisplayStyle;
     }
 
     /** 
@@ -354,7 +377,7 @@ function visualizeLearningPath(path) {
         let [hruid_hash, language_hash, version_hash] = hash.slice(1).split(";");
         objectButtonClicked(hruid_hash, language_hash, version_hash, path)
     } else {
-        objectButtonClicked(path.nodes[0].hruid)
+        objectButtonClicked(path.nodes[0].learningobject_hruid, path.nodes[0].language, path.nodes[0].version, path);
     }
 
 }
@@ -555,15 +578,22 @@ function loadLearningPath() {
             url = `${api_base_path}/api/learningPath/${urlToHruidMapping[urlparam].hruid}/${userLang}`
         }
     }
-    loadLearningPathFromUrl(url);
+    let include_teacher_exclusive_objects = getParameterByName('te')
+    loadLearningPathFromUrl(url, include_teacher_exclusive_objects);
 }
 
-function loadLearningPathFromUrl(url){
+function loadLearningPathFromUrl(url, include_teacher_exclusive_objects=false){
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             try {
                 let learning_path = JSON.parse(this.response);
+                if (!include_teacher_exclusive_objects){
+                    backToLearningPathsButtonDisplayStyle = "none"
+                    learning_path.nodes = filterOutTeacherExclusiveContent(learning_path.nodes);
+                }else{
+                    backToLearningPathsButtonDisplayStyle = "inline-block"
+                }
                 visualizeLearningPath(learning_path);
 
             } catch (e) {
@@ -573,6 +603,84 @@ function loadLearningPathFromUrl(url){
     };
     xhttp.open("GET", url, true);
     xhttp.send();
+}
+
+/**
+ * Remove teacher exclusive learning objects from the learning path.
+ * Dot do this the transitions in the nodes array have to be updated.
+ * @param {*} path A json object containing the learning path and all its learning object metadata
+ * @returns The filtered array
+ */
+function filterOutTeacherExclusiveContent(path){
+    for (node of path){
+        if (node.teacher_exclusive){ // If this is the case, the node has to be removed
+            if (node.transitions.length > 0 && node.start_node){ // if this node is the start node, move the start node label to the next node.
+                let next = node.transitions[0].next
+                setNodeAsStartNode(next.hruid, next.language, next.version, path);
+            }
+            for (othernode of path){
+                if (othernode != node){
+                    if (doesSourceNodeHaveTransitionsToDestinationNode(othernode, node)){
+                        // replace transition to node in keptnode by the transitions of keptnode.
+                        othernode.transitions = replaceTransitionsInNodeByTransitionsOfNode(othernode, node);
+                    }
+                }
+            }
+        }
+    }
+    // Filter out teacher exclusive nodes from path
+    path = path.filter((node) => {
+        return !node.teacher_exclusive
+    })
+    return path
+}
+
+/**
+ * Set the node in the path with hruid language and version as startnode.
+ * @param {*} hruid 
+ * @param {*} language 
+ * @param {*} version 
+ * @param {*} nodesOfPath 
+ */
+function setNodeAsStartNode(hruid, language, version, nodesOfPath){
+    for (node of nodesOfPath){
+        if (node.learningobject_hruid === hruid && node.language === language && node.version === version){
+            node.start_node = true;
+        }
+    }
+}
+
+function doesSourceNodeHaveTransitionsToDestinationNode(sourcenode, destinationnode){
+    for (transition of sourcenode.transitions){
+        if (transition.next && transition.next.hruid === destinationnode.learningobject_hruid
+            && transition.next.language === destinationnode.language
+            && transition.next.version === destinationnode.version){
+                return true;
+            }
+    }
+    return false
+}
+
+/**
+ * Remove transition in nodeToReplaceTransitions by the transitions of nodeToGetTransitionsFrom
+ * @param {Object} nodeToReplaceTransitions In this node, if it contains a transition to nodeToGetTransitionsFrom, remove this transition and replace it by the transitions of nodeToGetTransitionsFrom.
+ * @param {Object} nodeToGetTransitionsFrom This is the node that will be removed from the graph so its transitions have to be added to nodeToReplaceTransitions
+ * @returns The new transition list for nodeToReplaceTransitions
+ */
+function replaceTransitionsInNodeByTransitionsOfNode(nodeToReplaceTransitions, nodeToGetTransitionsFrom){
+    let newTransitionList = []
+    for (transition of nodeToReplaceTransitions.transitions){
+        if (transition.next.hruid === nodeToGetTransitionsFrom.learningobject_hruid 
+            && transition.next.language === nodeToGetTransitionsFrom.language 
+            && transition.next.version === nodeToGetTransitionsFrom.version){
+            for (newTransition of nodeToGetTransitionsFrom.transitions){
+                newTransitionList.push(newTransition)
+            }
+        }else{
+            newTransitionList.push(transition)
+        }
+    }
+    return newTransitionList
 }
 
 /**

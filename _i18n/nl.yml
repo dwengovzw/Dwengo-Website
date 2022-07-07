@@ -105,14 +105,31 @@ projects_page:
 # Translations for the projects page
 curricula_page:
   title: Onze leerlijnen
+  read_more: Lees meer
   curriculum_1_title: KIKS
-  curriculum_1_description: KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben.
+  curriculum_1_description: '‘KIKS’ is een project voor de derde graad binnen een context van biologie en klimaatverandering. Er wordt onderzocht hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. De huidmondjes worden geteld met een neuraal netwerk voor beeldherkenning.'
   curriculum_1_contact: ""
   curriculum_1_teaser: https://www.youtube.com/embed/dO-E33G20co
   curriculum_2_title: Sociale robot
-  curriculum_2_description: "'Sociale robot' is een vakoverschrijdend STEM-project voor de eerste graad secundair onderwijs. Het project kan echter ook ingezet worden in de tweede graad. In een aantal modules gaan leerlingen aan de slag om zelf een sociale robot te ontwerpen, te programmeren en te bouwen."
-  curriculum_2_contact: "Leerlingen denken na over hoe hun robot zal communiceren en op welke omgevingsfactoren - zoals licht, geluid, beweging - hij zal reageren. Het ontwerpen en grafisch programmeren van de robot doen ze in een simulator. De fysieke robot bouwen ze met herbruikbaar materiaal. Het wordt nog leuker als ze de robot een persoonlijke toets geven. Ze kunnen zich hierin op een creatieve manier uitleven. Gebruikmakend van een microcontrollerplatform, sensoren en actuatoren en hun eigen code voltooien ze hun sociale robot."
-  curriculum_2_teaser: https://www.youtube.com/embed/EsYs4k41U6w 
+  curriculum_2_description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+  curriculum_2_contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+  curriculum_2_teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+  curriculum_3_title: KIKS
+  curriculum_3_description: KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben.
+  curriculum_3_contact: ""
+  curriculum_3_teaser: https://www.youtube.com/embed/dO-E33G20co
+  curriculum_4_title: Sociale robot
+  curriculum_4_description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+  curriculum_4_contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+  curriculum_4_teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+  curriculum_5_title: KIKS
+  curriculum_5_description: KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben.
+  curriculum_5_contact: ""
+  curriculum_5_teaser: https://www.youtube.com/embed/dO-E33G20co
+  curriculum_6_title: Sociale robot
+  curriculum_6_description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+  curriculum_6_contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+  curriculum_6_teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
 
 
 # Translations for the learning-path page
@@ -122,6 +139,8 @@ learning_path_page:
   btn_previous: Vorige
   btn_to_lp: Naar alle leerpaden
   print_learning_path: Volledige leerpad printen
+  link_to_learning_path_students: Link naar leerpad voor leerlingen
+  link_to_learning_object: Link naar dit leerobject
 
 
 footer:
