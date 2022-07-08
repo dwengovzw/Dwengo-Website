@@ -39,7 +39,7 @@ paragraph3=paragraph3
 
 {%- include curricula.html -%}
 
-{%- include learning_paths.html keyword="none" -%}
+{%- include learning_paths_search.html keyword="none" -%}
 
 
 

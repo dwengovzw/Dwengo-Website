@@ -1,34 +1,8 @@
 <section id="lp_section" class="section">
-    <h3>{% t learning_paths.title %}</h3>
-
-    <div class="row">
-        <div class="col-9">
-            <input type="text" class="form-control" id="filter_input"
-                placeholder="{% t learning_paths.filter_placeholder %}" value="{% t keywords.{{ include.keyword }} %}">
-        </div>
-        <div class="col-3">
-            <select class="form-control" id="language_select">
-            </select>
-        </div>
-    </div>
-    <div id="lp_keywords" class="row">
-        <div id="keyword-container">
-            <span class="keyword col-xs-auto">{% t keywords.ai_at_school %}</span>
-            <span class="keyword col-xs-auto">{% t keywords.ct %}</span>
-            <span class="keyword col-xs-auto">{% t keywords.dwenguino %}</span>
-            <span class="keyword col-xs-auto">{% t keywords.graphical_prog %}</span>
-            <span class="keyword col-xs-auto">{% t keywords.climate %}</span> 
-            <span class="keyword col-xs-auto">{% t keywords.python %}</span>
-            <span class="keyword col-xs-auto">{% t keywords.kiks %}</span>
-            <span class="keyword col-xs-auto">{% t keywords.stem %}</span>
-            <span class="keyword col-xs-auto">{% t keywords.languagetechnology %}</span>
-            <span class="keyword col-xs-auto">{% t keywords.math %}</span> 
-        </div>
-    </div>
-    <div id="lp_age" class="row">
-        <span class="age-label">{% t learning_paths.age %}</span>
-        <span class="col-1"><input type="hidden" class="slider-input age-slider" id="age_input" value="0,25"></span>
-    </div>
+    <h3 class="fp_subtitle">{% t learning_paths.title %}</h3>
+    <input type="hidden" class="form-control" id="filter_input" data-load-idlist="true"
+                placeholder="{% t learning_paths.filter_placeholder %}" value="{{ include.filter_object }}">
+    <input type="hidden" class="form-control" id="language_select">
     <div id="lp_loading_message" class="row mt-2 mb-2">
         <div class="col-12">
             <p class="text-center">{% t learning_paths.loading_message %}</p>

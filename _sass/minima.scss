@@ -553,8 +553,36 @@ img {
   margin-bottom: 1rem;
 }
 
+.site-header{
+  border-top: none !important;
+}
+
 footer {
   background-color: #ccc;
+}
+
+.flex-container-partners {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.partner_logo{
+  max-width: 140px;
+  max-height: 80px;
+  margin-top: 48px;
+  margin-left: 48px;
+}
+
+.fp_subtitle{
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+#lp_section {
+  margin-bottom: 2rem;
 }
 
 // Import partials.

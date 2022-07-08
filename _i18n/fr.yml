@@ -25,6 +25,9 @@ strengths:
     name: Matthias en Bruno
     affiliation: 4e middelbaar
 
+partners:
+  partners: Partners
+
 kiks:
   intro_title: "KIKS"
   paragraph1: "KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben."
@@ -35,6 +38,7 @@ kiks:
 
 learning_paths:
   title: Parcours d'apprentissage
+  search_title: Rechercher des parcours d'apprentissage
   filter_placeholder: Chercher
   error_message: Il n'y a pas de parcours d'apprentissage disponibles avec vos préférences.
   loading_message: Se charger...

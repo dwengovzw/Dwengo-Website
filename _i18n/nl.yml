@@ -24,6 +24,9 @@ strengths:
     text: Je maakt iets praktisch, je leert werken met hardware en je kan zelf iets nieuws cre&euml;ren. 
     name: Matthias en Bruno
     affiliation: 4e middelbaar
+
+partners:
+  partners: Partners
   
 kiks:
   intro_title: "KIKS"
@@ -35,6 +38,7 @@ kiks:
 
 learning_paths:
   title: Ons leermateriaal
+  search_title: Ons leermateriaal doorzoeken
   filter_placeholder: Zoek
   error_message: Er zijn geen leerpaden beschikbaar met uw voorkeuren.
   loading_message: Aan het laden...

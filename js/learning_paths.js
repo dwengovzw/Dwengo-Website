@@ -11,18 +11,20 @@ let backToLearningPathsButtonDisplayStyle = "none";
  * visualises all learning paths (on home screen), currently alphabetically ordered by title
  * @param {array} paths array of learning-paths
  */
-function visualizeLearningPaths(paths, container_id="learning_paths") {
+function visualizeLearningPaths(paths, sort=true) {
     hideLoadingMessage();
     let dwengoColors = ["#0f5faa", "#0f5d6d", "#115b4e", "#115933", "#3c8227", "#73b51e", "#f4a72c", "#e87b66"];
     let col = 0;
-    document.getElementById(container_id).innerHTML = "";
+    document.getElementById("learning_paths").innerHTML = "";
 
     if (paths.length == 0) {
         document.getElementById("lp_error_message").className = "row d-block";
     } else {
         document.getElementById("lp_error_message").className = "row d-none";
 
-        sortResults(paths, 'title', true);
+        if (sort){
+            sortResults(paths, 'title', true);
+        }
         paths.forEach(path => {
             let div = document.createElement("div");
             div.className = "col-lg-3 col-md-4 col-sm-6 col-xs-12 py-3";
@@ -129,14 +131,25 @@ function sortResults(my_array, prop, asc) {
  * @param {string} lang language
  */
 function loadLearningPaths(filter = "", lang = "", min_age = 0, max_age = 25) {
+    let url =  api_base_path + "/api/learningPath/search?all=" + filter + "&language=" + lang + "&min_age=" + min_age + "&max_age=" + max_age;
+    requestLearningPathsAndVisualize(url)
+}
+
+
+function loadLearningPathsInList(learningPathIdLanguageList, lang){
+    let url = api_base_path + "/api/learningPath/getPathsFromIdList?pathIdList=" + JSON.stringify(learningPathIdLanguageList) + "&language=" + lang;
+    requestLearningPathsAndVisualize(url, false);
+}
+
+function requestLearningPathsAndVisualize(url, sort=true){
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             let learning_paths = JSON.parse(this.response);
-            visualizeLearningPaths(learning_paths);
+            visualizeLearningPaths(learning_paths, sort);
         }
     };
-    xhttp.open("GET", api_base_path + "/api/learningPath/search?all=" + filter + "&language=" + lang + "&min_age=" + min_age + "&max_age=" + max_age, true);
+    xhttp.open("GET", url, true);
     xhttp.send();
 }
 
@@ -844,11 +857,21 @@ _paq.push(['enableLinkTracking']);
 })();
 
 if (document.getElementById("learning_paths")) {
-    showLoadingMessage();
+    //showLoadingMessage();
     loadFilters();
     showLanguageSelection();
-    let initalFilter = document.getElementById("filter_input").value || "";
-    loadLearningPaths(initalFilter, document.querySelector("html").lang);
+    let filterElement = document.getElementById("filter_input");
+    let initialFilter = filterElement.value || "";
+    if (filterElement.getAttribute("data-load-idlist")){
+        initialFilter = initialFilter.replace(/'/g, '"');
+        initialFilter = JSON.parse(initialFilter);
+        loadLearningPathsInList(initialFilter, document.querySelector("html").lang);
+    }else{
+        //loadLearningPaths(initialFilter, document.querySelector("html").lang);
+    }
+    
+
+    
     setKeywordActions();
     setupAgeSlider();
 } else if (document.getElementById("learning_path")) {
