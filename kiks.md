@@ -6,6 +6,7 @@ layout: default
 title: KIKS
 permalink: /kiks/
 partner_images: ['/images/partners/sintbavo.png', '/images/partners/kae.png', '/images/partners/ugent.svg','/images/partners/meise.png', '/images/partners/dwengo.svg', '/images/partners/accenture.svg', '/images/partners/oost-vlaanderen.svg', '/images/partners/rvo-society.svg', '/images/partners/imec.svg', '/images/partners/vlaanderen.svg', '/images/partners/vlaams-brabant.svg', '/images/partners/veranderwijs.png']
+learning_paths: ['KIKS - Microscopie', 'KIKS - Basis Deep Learning', 'KIKS - Gevorderd Deep Learning']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].kiks.intro_title }} {% endcapture %}
@@ -25,7 +26,11 @@ paragraph3=paragraph3
 
 {%- include kiks_extra_info.html -%}
 
-{%- include learning_paths.html filter_object="{'hruids': ['KIKS - Microscopie', 'KIKS - Basis Deep Learning', 'KIKS - Gevorderd Deep Learning']}" -%}
+{% assign begin = '{"hruids": ' %}
+{% assign end = '}' %}
+{% assign full = "'" | append: begin | append: page.learning_paths | append: end | append: "'" %}
+{% capture lp_filter %} {{ full }} {% endcapture %}
 
+{%- include learning_paths.html filter_object=lp_filter -%}
 
 {%- include partners.html images=page.partner_images -%}
