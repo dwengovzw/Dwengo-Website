@@ -36,6 +36,14 @@ kiks:
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
   form_button_text: "INTERESSE?"
 
+socialrobot:
+  intro_title: "Sociale robot"
+  paragraph1: "Blabla"
+  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
+  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
+  form_button_text: "Interesse?"
+
 learning_paths:
   title: Ons leermateriaal
   search_title: Ons leermateriaal doorzoeken
