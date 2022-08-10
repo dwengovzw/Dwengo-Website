@@ -4,7 +4,7 @@
 // 2) In that file you specify the permalink and include the learning path html
 // 3) Add the permalink text in the object below and specify the hruid and available languages
 let urlToHruidMapping = {
-    wegostem: {
+    wegostem_old: {
         hruid: "WeGoSTEM-v1",
         languages: ["nl", "fr"],
         default_language: "nl"
@@ -19,7 +19,7 @@ let urlToHruidMapping = {
         languages: ["nl"],
         default_language: "nl"
     },
-    socialrobot: {
+    socialrobot_old: {
         hruid: "SR_Algemeen-v1",
         languages: ["nl"],
         default_language: "nl"

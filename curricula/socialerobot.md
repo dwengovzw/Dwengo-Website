@@ -4,9 +4,11 @@
 
 layout: default
 title: sociale robot
-permalink: /socialerobot_page/
-partner_images: ['/images/partners/sintbavo.png', '/images/partners/kae.png', '/images/partners/ugent.svg','/images/partners/meise.png', '/images/partners/dwengo.svg', '/images/partners/accenture.svg', '/images/partners/oost-vlaanderen.svg', '/images/partners/rvo-society.svg', '/images/partners/imec.svg', '/images/partners/vlaanderen.svg', '/images/partners/vlaams-brabant.svg', '/images/partners/veranderwijs.png']
-learning_paths: ['KIKS - Microscopie', 'KIKS - Basis Deep Learning', 'KIKS - Gevorderd Deep Learning']
+permalink: /socialrobot/
+banner_image: "/images/curricula/banner_socialrobot.png"
+logo_image: "/images/curricula/logo_socialrobot.png"
+partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.svg', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/vlaio.png', '/images/partners/hogent.svg']
+learning_paths: ['SR_Algemeen-v1', 'SR_Module1-v1', 'SR_Module2-v1', 'SR_Module22-v1', 'SR_Module3-v1', 'SR_Module4-v1']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].socialrobot.intro_title }} {% endcapture %}
@@ -15,7 +17,7 @@ learning_paths: ['KIKS - Microscopie', 'KIKS - Basis Deep Learning', 'KIKS - Gev
 {% capture paragraph3 %} {{ site.translations[site.lang].socialrobot.paragraph3 }} {% endcapture %}
 
 
-{%- include frontpage_header_template.html banner_url="/images/kiks/kiks-banner.jpg" project_logo_url="/images/kiks/LogoKIKS.png"
+{%- include frontpage_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
 intro_title=intro_title
 paragraph1=paragraph1
 paragraph2=paragraph2

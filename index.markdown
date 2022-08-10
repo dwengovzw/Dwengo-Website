@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+curricula: ['kiks', 'socialrobot', 'agriculture', 'art', 'wegostem', 'computational_thinking', 'math_with_python', 'python_programming', 'stem', 'care', 'chatbot', 'physical_computing']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].strengths.title }} {% endcapture %}
@@ -37,7 +38,7 @@ paragraph2=paragraph2
 paragraph3=paragraph3
 -%}
 
-{%- include curricula.html -%}
+{%- include curricula.html curricula_pages=page.curricula -%}
 
 {%- include learning_paths_search.html keyword="none" -%}
 

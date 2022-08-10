@@ -5,6 +5,8 @@
 layout: default
 title: KIKS
 permalink: /kiks/
+banner_image: "/images/curricula/banner_kiks.png"
+logo_image: "/images/curricula/logo_kiks.png"
 partner_images: ['/images/partners/sintbavo.png', '/images/partners/kae.png', '/images/partners/ugent.svg','/images/partners/meise.png', '/images/partners/dwengo.svg', '/images/partners/accenture.svg', '/images/partners/oost-vlaanderen.svg', '/images/partners/rvo-society.svg', '/images/partners/imec.svg', '/images/partners/vlaanderen.svg', '/images/partners/vlaams-brabant.svg', '/images/partners/veranderwijs.png']
 learning_paths: ['KIKS - Microscopie', 'KIKS - Basis Deep Learning', 'KIKS - Gevorderd Deep Learning']
 ---
@@ -15,7 +17,7 @@ learning_paths: ['KIKS - Microscopie', 'KIKS - Basis Deep Learning', 'KIKS - Gev
 {% capture paragraph3 %} {{ site.translations[site.lang].kiks.paragraph3 }} {% endcapture %}
 
 
-{%- include frontpage_header_template.html banner_url="/images/kiks/kiks-banner.jpg" project_logo_url="/images/kiks/LogoKIKS.png"
+{%- include frontpage_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
 intro_title=intro_title
 paragraph1=paragraph1
 paragraph2=paragraph2

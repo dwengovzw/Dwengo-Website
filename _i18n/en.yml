@@ -30,7 +30,7 @@ partners:
 
 kiks:
   intro_title: "KIKS"
-  paragraph1: "KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben."
+  paragraph1: "This is a test for en. KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben."
   paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
   paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
@@ -43,7 +43,86 @@ socialrobot:
   paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
   form_button_text: "Interesse?"
-  
+
+agriculture:
+  intro_title: "Agriculture"
+  paragraph1: "TODO: translate all content"
+  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
+  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
+  form_button_text: "Interesse?"
+
+art:
+  intro_title: "Art"
+  paragraph1: "TODO: translate all content"
+  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
+  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
+  form_button_text: "Interesse?"  
+
+wegostem:
+  intro_title: "WeGoSTEM"
+  paragraph1: "TODO: translate all content"
+  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
+  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
+  form_button_text: "Interesse?"
+
+computational_thinking:
+  intro_title: "Computationeel Denken"
+  paragraph1: "TODO: translate all content"
+  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
+  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
+  form_button_text: "Interesse?"
+
+math_with_python:
+  intro_title: "Math with python"
+  paragraph1: "TODO: translate all content"
+  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
+  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
+  form_button_text: "Interesse?"
+
+python_programming:
+  intro_title: "Python programming"
+  paragraph1: "TODO: translate all content"
+  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
+  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
+  form_button_text: "Interesse?"
+
+stem:
+  intro_title: "STEM"
+  paragraph1: "TODO: translate all content"
+  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
+  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
+  form_button_text: "Interesse?"
+
+care:
+  intro_title: "AI in de zorg"
+  paragraph1: "TODO: translate all content"
+  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
+  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
+  form_button_text: "Interesse?"
+
+physical_computing:
+  intro_title: "Physical computing"
+  paragraph1: "TODO: translate all content"
+  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
+  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
+  form_button_text: "Interesse?"
+
+chatbot:
+  intro_title: "Chatbot"
+  paragraph1: "TODO: translate all content"
+  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
+  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
+  form_button_text: "Interesse?"
 
 learning_paths:
   title: Learning paths
@@ -161,32 +240,68 @@ projects_page:
   project_3_teaser: https://www.youtube.com/watch?v=HP0ncKuV2-A 
 
 curricula_page:
-  title: Our curricula
+  title: Our teaching topics
   read_more: Read more
-  curriculum_1_title: KIKS
-  curriculum_1_description: KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben.
-  curriculum_1_contact: ""
-  curriculum_1_teaser: https://www.youtube.com/embed/dO-E33G20co
-  curriculum_2_title: AI Op School
-  curriculum_2_description: "Artificiële intelligentie (AI) komt volop aan bod in de media. Populaire thema’s zijn: chatbots, zelfrijdende auto’s, virtuele assistenten en het verlies aan jobs. AI-systemen dringen meer en meer onze wereld binnen. AI Op School is een project dat ontstaan is uit de bekommernis dat leerlingen kunstmatige (KI) of artificiële intelligentie moeten kunnen begrijpen en het besef dat er een hiaat is in het curriculum van het secundair onderwijs om hieraan tegemoet te komen. We maken lesmateriaal voor het secundair onderwijs rond AI gelinkt aan de eindtermen en de bestaande leerplandoelen. Al dit lesmateriaal is beschikbaar op onze website."
-  curriculum_2_contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
-  curriculum_2_teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
-  curriculum_3_title: KIKS
-  curriculum_3_description: KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben.
-  curriculum_3_contact: ""
-  curriculum_3_teaser: https://www.youtube.com/embed/dO-E33G20co
-  curriculum_4_title: Sociale robot
-  curriculum_4_description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
-  curriculum_4_contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
-  curriculum_4_teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
-  curriculum_5_title: KIKS
-  curriculum_5_description: KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben.
-  curriculum_5_contact: ""
-  curriculum_5_teaser: https://www.youtube.com/embed/dO-E33G20co
-  curriculum_6_title: Sociale robot
-  curriculum_6_description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
-  curriculum_6_contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
-  curriculum_6_teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+  kiks: 
+    title: KIKS
+    description: '‘KIKS’ is een project voor de derde graad binnen een context van biologie en klimaatverandering. Er wordt onderzocht hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. De huidmondjes worden geteld met een neuraal netwerk voor beeldherkenning.'
+    contact: ""
+    teaser: https://www.youtube.com/embed/dO-E33G20co
+  socialrobot:
+    title: Sociale robot
+    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+  chatbot:
+    title: Chatbot
+    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+  care: 
+    title: AI in de zorg
+    description: '‘KIKS’ is een project voor de derde graad binnen een context van biologie en klimaatverandering. Er wordt onderzocht hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. De huidmondjes worden geteld met een neuraal netwerk voor beeldherkenning.'
+    contact: ""
+    teaser: https://www.youtube.com/embed/dO-E33G20co
+  stem:
+    title: STEM
+    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+  agriculture:
+    title: Landbouw
+    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+  art: 
+    title: Kunst
+    description: '‘KIKS’ is een project voor de derde graad binnen een context van biologie en klimaatverandering. Er wordt onderzocht hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. De huidmondjes worden geteld met een neuraal netwerk voor beeldherkenning.'
+    contact: ""
+    teaser: https://www.youtube.com/embed/dO-E33G20co
+  wegostem:
+    title: WeGoSTEM
+    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+  computational_thinking:
+    title: Computationeel denken
+    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+  math_with_python: 
+    title: Python in wiskunde
+    description: '‘KIKS’ is een project voor de derde graad binnen een context van biologie en klimaatverandering. Er wordt onderzocht hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. De huidmondjes worden geteld met een neuraal netwerk voor beeldherkenning.'
+    contact: ""
+    teaser: https://www.youtube.com/embed/dO-E33G20co
+  python_programming:
+    title: Programmeren met python
+    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+  physical_computing:
+    title: Physical computing
+    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
 
 # Translations for the learning-path page
 learning_path_page:
