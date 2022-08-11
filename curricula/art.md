@@ -6,7 +6,7 @@ layout: default
 title: art
 permalink: /art/
 banner_image: "/images/curricula/banner_art.png"
-logo_image: "/images/curricula/banner_kiks.png"
+logo_image: "/images/curricula/logo_art.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.svg']
 learning_paths: []
 ---

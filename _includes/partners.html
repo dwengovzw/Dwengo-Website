@@ -1,6 +1,8 @@
-<h2 class="fp_subtitle">{% t partners.partners %}</h2>
-<div id="partner_images" class="flex-container-partners">
-    {% for item in include.images %}
-    <img class="partner_logo" src="{{ item }}" />
-    {% endfor %}
+<div class="cover-width">
+    <h2 class="fp_subtitle">{% t partners.partners %}</h2>
+    <div id="partner_images" class="flex-container-partners">
+        {% for item in include.images %}
+        <img class="partner_logo" src="{{ item }}" />
+        {% endfor %}
+    </div>
 </div>
