@@ -532,14 +532,30 @@ img {
   z-index: -1;
 }
 
-@media (min-width: 768px){
+
+@media (min-width: 1200px){
+  .home_info_pane {
+    margin-top: 180px;
+  }
+  .frontpage_banner{
+    max-height: 550px;
+    background-attachment: fixed;
+    background-size: cover;
+    margin-top: -30px;
+    position: absolute;
+    top: 0px;
+  }
+}
+
+
+@media (min-width: 768px) and (max-width: 1200px){
   .home_info_pane {
     margin-top: 180px;
   }
   .frontpage_banner{
     max-height: 400px;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: 100vw auto;
     margin-top: -30px;
     position: absolute;
     top: 0px;
