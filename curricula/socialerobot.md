@@ -14,7 +14,7 @@ learning_paths: ['SR_Algemeen-v1', 'SR_Module1-v1', 'SR_Module2-v1', 'SR_Module2
 {% capture intro_title %} {{ site.translations[site.lang].socialrobot.intro_title }} {% endcapture %}
 {% capture paragraph1 %} {{ site.translations[site.lang].socialrobot.paragraph1 }} {% endcapture %}
 {% capture paragraph2 %} {{ site.translations[site.lang].socialrobot.paragraph2 }} {% endcapture %}
-
+{% capture wet_ond %} {{ site.translations[site.lang].socialrobot.wet_ond }} {% endcapture %}
 
 {%- include frontpage_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
 intro_title=intro_title
@@ -23,7 +23,7 @@ paragraph2=paragraph2
 -%}
 
 
-{%- include social_robot_extra_info.html -%}
+{%- include social_robot_extra_info.html wet_ond=wet_ond -%}
 
 {% assign begin = '{"hruids": ' %}
 {% assign end = '}' %}
