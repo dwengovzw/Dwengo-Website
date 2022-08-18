@@ -228,52 +228,52 @@ curricula_page:
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   chatbot:
     title: Chatbot
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    description: "‘Chatbot’ is een project voor de tweede en de derde graad. Waar taal en technologie samenkomen, ontstaat het domein van Natural Language Processing."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   care: 
-    title: AI in de zorg
-    description: '‘KIKS’ is een project voor de derde graad binnen een context van biologie en klimaatverandering. Er wordt onderzocht hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. De huidmondjes worden geteld met een neuraal netwerk voor beeldherkenning.'
+    title: AI in de Zorg
+    description: '‘AI in de Zorg’ is een project voor de tweede en de derde graad, en gaat bv. in op welke AI-systemen er al gebruikt worden in de ziekenhuizen.'
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   stem:
-    title: STEM
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    title: Python in STEM
+    description: "Bij het oplossen van een probleem versterken de verschillende disciplines S, T, E en M elkaar. Programmeren kan hierbij een verbindende rol spelen. Je zet de computer in om een STEM-probleem gemakkelijker en sneller aan te pakken."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   agriculture:
-    title: Landbouw
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    title: AI in de Landbouw
+    description: "Binnenkort beschikbaar"
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   art: 
-    title: Kunst
-    description: '‘KIKS’ is een project voor de derde graad binnen een context van biologie en klimaatverandering. Er wordt onderzocht hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. De huidmondjes worden geteld met een neuraal netwerk voor beeldherkenning.'
+    title: AI in de Kunst
+    description: '‘AI in de kunst’ is een project voor de tweede en de derde graad. Hoe kan men kunst maken met een AI-systeem? Is dat dan wel kunst? Hoe wordt AI ingezet om het kunstpatrimonium te beschermen?'
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   wegostem:
     title: WeGoSTEM
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    description: "Kinderen van de derde graad van het basisonderwijs bouwen en programmeren een creatieve kunst-robot die zelfstandig kan tekenen."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   computational_thinking:
     title: Computationeel denken
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    description: "Computationeel denken ligt aan de basis van de digitalisering van onze maatschappij."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   math_with_python: 
     title: Python in wiskunde
-    description: '‘KIKS’ is een project voor de derde graad binnen een context van biologie en klimaatverandering. Er wordt onderzocht hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. De huidmondjes worden geteld met een neuraal netwerk voor beeldherkenning.'
+    description: 'Python biedt toffe mogelijkheden om in de wiskundeles diepere inzichten te verwerven. Je gaat bijvoorbeeld aan de slag met eigen grafieken, digitale beeldverwerking, lineaire regressie en de stelling van Pythagoras.'
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   python_programming:
     title: Programmeren met python
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    description: "In de eindtermen wordt gewag gemaakt van sequentie, herhalingsstructuur en keuzestructuur: de principes van programmeren. Maar om je eigen code op te stellen is het niet voldoende dat je de principes kent; ook andere programmeerelementen zijn van belang, zoals variabelen, datastructuren, operatoren en functies."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   physical_computing:
     title: Physical computing
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    description: "De Dwenguino is een microcontrollerplatform met een eigen grafische programmeeromgeving, met simulator. Je kan er snel een eigen apparaat mee bouwen, zoals een muziekinstrument, een autonoom wagentje of een weerstation."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
 
