@@ -14,17 +14,16 @@ learning_paths: []
 {% capture intro_title %} {{ site.translations[site.lang].chatbot.intro_title }} {% endcapture %}
 {% capture paragraph1 %} {{ site.translations[site.lang].chatbot.paragraph1 }} {% endcapture %}
 {% capture paragraph2 %} {{ site.translations[site.lang].chatbot.paragraph2 }} {% endcapture %}
-{% capture paragraph3 %} {{ site.translations[site.lang].chatbot.paragraph3 }} {% endcapture %}
+
 
 
 {%- include frontpage_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
 intro_title=intro_title
 paragraph1=paragraph1
 paragraph2=paragraph2
-paragraph3=paragraph3
 -%}
 
-Here we can put some extra information about this project. This can be done by adding content to the page in markdown format or by creating an html template with its own css in the _includes folder and linking it using the jekyll liquid include tag.
+{%- include chatbot_extra_info.html -%}
 
 {% assign begin = '{"hruids": ' %}
 {% assign end = '}' %}
