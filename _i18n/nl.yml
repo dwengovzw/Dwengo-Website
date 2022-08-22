@@ -88,11 +88,13 @@ wegostem:
 
 computational_thinking:
   intro_title: "Computationeel Denken"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  paragraph1: "<strong>In onze steeds meer gedigitaliseerde wereld is het belangrijk dat iedereen naast rekenen, lezen en schrijven ook computationeel kan denken. Computationeel denken gaat over het vermogen om problemen op te lossen met behulp van een computer.</strong>"
+  paragraph2: "Wanneer je computationeel denkt, dan denk je na over de stappen die nodig zijn om tot een oplossing van een bepaald probleem te komen, waarna je met behulp van jouw technische kennis de computer aan het werk zet om het probleem op te lossen."
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
   form_button_text: "Interesse?"
+  title: "Het wetenschappelijk onderzoek"
+  titlep1: "Omdat computationeel denken sterk focust op probleemoplossende vaardigheden kan het aan bod komen in elk bestaand vak in het reguliere onderwijs. Voor deze problemen wordt de oplossing vaak gemakkelijker bekomen met behulp van een computer."
+  titlep2: "Toch kan men ook zonder computer heel wat leren over computationeel denken. Daarvoor zijn tal van interessante unplugged activiteiten mogelijk. Maar via programmeerlessen kan je heel wat concepten van computationeel denken in de praktijk omzetten."
 
 math_with_python:
   intro_title: "Python in wiskunde"
@@ -120,11 +122,13 @@ stem:
 
 care:
   intro_title: "AI in de zorg"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  paragraph1: "<strong>De Early Warning Score (EWS) is een richtlijn die internationaal wordt gebruikt in ziekenhuizen om de gezondheid van een patiënt te kunnen inschatten. De EWS is gebaseerd op de vitale functies: bloeddruk, lichaamstemperatuur, hartslag, ademhalingsfrequentie, alertheid en zuurstofsaturatie.</strong>"
+  paragraph2: "In het project ‘AI in de Zorg’ bekijken leerlingen hoe de EWS gebruikt wordt in de praktijk. Bovendien gaan ze na hoe een computer op basis van kunstmatige intelligentie automatisch het risiconiveau van een patiënt kan inschatten. Ze maken daarbij kennis met een beslissingsboom, een veelgebruikte techniek uit de machine learning. De principes van zo'n beslissingsboom zijn al te begrijpen met de leerstof van de tweede graad van het secundair onderwijs."
+  paragraph3: "De EWS is maatschappelijk relevant en vormt de ideale context voor een STEM-project dat leerlingen concepten van artificiële intelligentie bijbrengt."
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
   form_button_text: "Interesse?"
+  title: "Het wetenschappelijk onderzoek"
+  subtitle1: "Binnenkort beschikbaar"
 
 chatbot:
   intro_title: "Chatbot"
