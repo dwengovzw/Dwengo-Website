@@ -133,7 +133,7 @@ care:
 chatbot:
   intro_title: "Chatbot"
   paragraph1: "<strong>Waar taal en technologie samenkomen, ontstaat het domein van Natural Language Processing (NLP). Met technieken uit machine learning, zoals het trainen van modellen om tekst, afbeeldingen of geluidsfrequenties te herkennen, kunnen we computers op een intelligente manier laten werken met taal. Bekende NLP-toepassingen van machine learning zijn bijvoorbeeld vertaalprogramma's, spraakbesturingssystemen of virtual assistants zoals Siri, en chatrobots.</strong>"
-  paragraph2: "We buigen ons over vragen als Hoe kunnen we automatisch teksten begrijpen, vertalen en zelfs schrijven?, Kan een computer emoties of ironie herkennen in een tekst?, en vooral Hoe belangrijk zijn data?. Leerlingen van de tweede en de derde graad secundair onderwijs krijgen inzicht in het domein NLP en zetten hun eerste stappen in de wereld van het programmeren met Python."
+  paragraph2: "We buigen ons over vragen als <em>Hoe kunnen we automatisch teksten begrijpen, vertalen en zelfs schrijven?</em>, <em>Kan een computer emoties of ironie herkennen in een tekst?</em>, en vooral <em>Hoe belangrijk zijn data?</em>. Leerlingen van de tweede en de derde graad secundair onderwijs krijgen inzicht in het domein NLP en zetten hun eerste stappen in de wereld van het programmeren met Python."
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
   form_button_text: "Interesse?"
   title: "Het wetenschappelijk onderzoek"
