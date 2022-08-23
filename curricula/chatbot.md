@@ -8,7 +8,7 @@ permalink: /chatbot/
 banner_image: "/images/curricula/banner_chatbot.png"
 logo_image: "/images/curricula/logo_chatbot.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.svg', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/sintbavo.png']
-learning_paths: []
+learning_paths: [PN_Chatbot]
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].chatbot.intro_title }} {% endcapture %}
