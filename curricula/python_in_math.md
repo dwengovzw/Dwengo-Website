@@ -8,7 +8,7 @@ permalink: /math_with_python/
 banner_image: "/images/curricula/banner_python_in_math.png"
 logo_image: "/images/curricula/logo_python_in_math.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.svg']
-learning_paths: []
+learning_paths: ['Werken met notebooks - Python', 'Python in STEM - Digitale beelden', 'Epidemie - Python in STEM', 'Lineaire Regressie - Python in wiskunde', 'Pythagoras - Python in wiskunde', 'Rechten - Python in wiskunde', 'Spreidingsdiagrammen - Python in wiskunde']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].math_with_python.intro_title }} {% endcapture %}

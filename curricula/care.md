@@ -8,7 +8,7 @@ permalink: /care/
 banner_image: "/images/curricula/banner_care.png"
 logo_image: "/images/curricula/logo_care.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.svg']
-learning_paths: ['AI_in_de_Zorg']
+learning_paths: ['Werken met notebooks - Python', 'AI_in_de_Zorg']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].care.intro_title }} {% endcapture %}

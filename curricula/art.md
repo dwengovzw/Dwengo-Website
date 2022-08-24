@@ -8,7 +8,7 @@ permalink: /art/
 banner_image: "/images/curricula/banner_art.png"
 logo_image: "/images/curricula/logo_art.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.svg']
-learning_paths: []
+learning_paths: ['Werken met notebooks - Python', 'jommeke-vooroordelen-van-ai']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].art.intro_title }} {% endcapture %}
