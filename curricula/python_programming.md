@@ -8,7 +8,7 @@ permalink: /python_programming/
 banner_image: "/images/curricula/banner_python_programming.png"
 logo_image: "/images/curricula/logo_python_programming.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.svg']
-learning_paths: ['Werken met notebooks - Python', 'Datatypes', 'Operatoren', 'Structuren', 'Programmeerelementen']
+learning_paths: ['Werken met notebooks - Python', 'Programmeerelementen', 'Datatypes', 'Operatoren', 'Structuren']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].python_programming.intro_title }} {% endcapture %}
