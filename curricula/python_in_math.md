@@ -6,7 +6,7 @@ layout: default
 title: Math with python
 permalink: /math_with_python/
 banner_image: "/images/curricula/banner_python_in_math.png"
-logo_image: "/images/curricula/logo_python_in_math.png"
+logo_image: "/images/curricula/logo_python_in_maths.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.svg']
 learning_paths: ['Werken met notebooks - Python', 'Python in STEM - Digitale beelden', 'Epidemie - Python in STEM', 'Lineaire Regressie - Python in wiskunde', 'Pythagoras - Python in wiskunde', 'Rechten - Python in wiskunde', 'Spreidingsdiagrammen - Python in wiskunde']
 ---
