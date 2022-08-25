@@ -7,7 +7,7 @@ title: sociale robot
 permalink: /socialrobot/
 banner_image: "/images/curricula/banner_socialrobot.png"
 logo_image: "/images/curricula/logo_socialrobot.png"
-partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.svg', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/vlaio.png', '/images/partners/hogent.svg']
+partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/vlaio.png', '/images/partners/hogent.svg']
 learning_paths: ['SR_Algemeen-v1', 'SR_Module1-v1', 'SR_Module2-v1', 'SR_Module22-v1', 'SR_Module3-v1', 'SR_Module4-v1']
 ---
 
