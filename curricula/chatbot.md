@@ -7,24 +7,23 @@ title: chatbot
 permalink: /chatbot/
 banner_image: "/images/curricula/banner_chatbot.png"
 logo_image: "/images/curricula/logo_chatbot.png"
-partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.svg', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/sintbavo.png']
-learning_paths: []
+partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/sintbavo.png']
+learning_paths: ['Werken met notebooks - Python', 'PN_Chatbot', 'Sentimentanalyse - AI Op School']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].chatbot.intro_title }} {% endcapture %}
 {% capture paragraph1 %} {{ site.translations[site.lang].chatbot.paragraph1 }} {% endcapture %}
 {% capture paragraph2 %} {{ site.translations[site.lang].chatbot.paragraph2 }} {% endcapture %}
-{% capture paragraph3 %} {{ site.translations[site.lang].chatbot.paragraph3 }} {% endcapture %}
+
 
 
 {%- include frontpage_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
 intro_title=intro_title
 paragraph1=paragraph1
 paragraph2=paragraph2
-paragraph3=paragraph3
 -%}
 
-Here we can put some extra information about this project. This can be done by adding content to the page in markdown format or by creating an html template with its own css in the _includes folder and linking it using the jekyll liquid include tag.
+{%- include chatbot_extra_info.html -%}
 
 {% assign begin = '{"hruids": ' %}
 {% assign end = '}' %}

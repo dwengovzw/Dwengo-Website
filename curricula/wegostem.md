@@ -7,7 +7,7 @@ title: wegostem
 permalink: /wegostem/
 banner_image: "/images/curricula/banner_wegostem.png"
 logo_image: "/images/curricula/logo_wegostem.png"
-partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.svg', '/images/partners/vito.png', '/images/partners/flandersmake.jpeg', '/images/partners/kuleuven.png', '/images/partners/kbc.png', '/images/partners/dssmith.jpeg', '/images/partners/cegeka.png', '/images/partners/att.png']
+partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/vito.png', '/images/partners/flandersmake.jpeg', '/images/partners/kuleuven.png', '/images/partners/kbc.png', '/images/partners/dssmith.jpeg', '/images/partners/cegeka.png', '/images/partners/att.png']
 learning_paths: ['WeGoSTEM-v1']
 ---
 
@@ -24,7 +24,6 @@ paragraph2=paragraph2
 paragraph3=paragraph3
 -%}
 
-Here we can put some extra information about this project. This can be done by adding content to the page in markdown format or by creating an html template with its own css in the _includes folder and linking it using the jekyll liquid include tag.
 
 {% assign begin = '{"hruids": ' %}
 {% assign end = '}' %}

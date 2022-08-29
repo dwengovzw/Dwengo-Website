@@ -38,89 +38,120 @@ kiks:
 
 socialrobot:
   intro_title: "Sociale robot"
-  paragraph1: "Blabla"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
+  paragraph1: "‘Sociale robot’ is een vakoverschrijdend STEM-project voor de eerste graad secundair onderwijs. In een aantal modules gaan leerlingen aan de slag om zelf een sociale robot te ontwerpen, te programmeren en te bouwen."
+  paragraph2: "Leerlingen denken na over hoe hun robot zal communiceren en op welke omgevingsfactoren - zoals licht, geluid, beweging - hij zal reageren. Het ontwerpen en grafisch programmeren van de robot doen ze in een simulator. De fysieke robot bouwen ze met herbruikbaar materiaal. Het wordt nog leuker als ze de robot een persoonlijke toets geven. Ze kunnen zich hierin op een creatieve manier uitleven. Gebruikmakend van een microcontrollerplatform, sensoren en actuatoren en hun eigen code voltooien ze hun sociale robot."
   paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
   form_button_text: "Interesse?"
+  title: "Het wetenschappelijk onderzoek"
+  titlep1: "Sociale robotica is een <strong>interdisciplinair domein</strong>, of hoort het te zijn. Een sociale robot interageert immers met zijn omgeving en met de mensen die erin vertoeven."
+  titlep2: "De robot moet efficiënt zijn in het vervullen van zijn taken, maar moet ook aangenaam zijn in omgang. Bij het maken van een robot denkt men best in een interdisciplinair team na over het ontwerp, zowel hardware- als softwarematig. Er is kennis nodig over verschillende domeinen: het gedrag van mensen wanneer ze interageren met een robot, de technische kant van een robot, de esthetiek …"
+  titlep3: "Dankzij <strong>de ontwikkelingen in de robotica en het onderzoek naar de interactie</strong> tussen mens en robot zal er op het vlak van sociale robots meer mogelijk worden in de toekomst. Dankzij <strong>artificiële intelligentie (AI)</strong> kan een robot emoties uit gezichtsuitdrukkingen en stemintonatie afleiden. AI kan ook gebruikt worden om een robot te leren wat sociale interactie is. Helaas zijn er niet altijd voldoende voorbeelden voorhanden van de interactie tussen robots en mensen. Dat betekent dat de vooruitgang die geboekt wordt in het domein van AI, bepalend is voor de vorderingen binnen de sociale robotica."
+  subtitle1: "Sociale robots"
+  subtitle1p1: "Sociale robots zijn niet meer weg te denken uit onze samenleving en worden in uiteenlopende gedaantes ingezet voor verschillende doelgroepen."
+  subtitle1p2: "In de zorgsector worden robots al gebruikt om bejaarden gezelschap te houden en sociaal contact te stimuleren. Voor kinderen zijn er dan weer talloze 'speelmaatjes' op de markt, waar men zich sterk kan aan gaan hechten. Ook gezinnen hebben steeds vaker een personal assistant in huis die taken kan overnemen en door de mogelijke interactie deel wordt van het gezin."
+  subtitle1p3: "In het project is er ruimte voor een discussie over de plaats en (morele) impact van sociale robots in onze maatschappij."
+  subtitle2: "Programmeren met de simulator"
+  subtitle2p1: "Binnen dit project werken de leerlingen met de Dwenguino-simulator, ontworpen voor iedereen die op zoek is naar een eerste (grafische) programmeerervaring."
+  subtitle2p2: "De programmeeromgeving is een uitgebreide vorm van Google Blockly met programmeerblokken die op verschillende abstractieniveaus werden gedefinieerd zodat leerlingen op hun eigen tempo kunnen leren."
+  subtitle2p3: "De leerlingen ontwerpen een robot in de simulator door een aantal bouwblokken te selecteren en op het robotontwerp te slepen. Deze virtuele robot wordt vervolgens aangestuurd door met goedgekozen programmeerblokken een algoritme te ontwerpen en uit te voeren. Dankzij de simulator kan het testen en het debuggen efficiënt verlopen."
+  subtitle2p4: "Nieuwsgierige leerlingen kunnen in de simulator de overeenkomstige tekstuele code ontdekken."
+  subtitle3: "Computationeel denken"
+  subtitle3p1: "Het bouwen en het vormgeven van de robot passen zeer goed binnen de lessen techniek en plastische opvoeding."
+  subtitle3p2: "De verschillende modules zijn zo ontwikkeld dat ze goed aansluiten bij de nieuwe eindtermen voor de eerste graad secundair onderwijs, namelijk de transversale eindtermen digitale competentie en de eindtermen technologie."
+  subtitle3p3: "Binnen dit project werken de leerlingen met het Dwenguino microcontrollerplatform dat geïntegreerd is in de simulator."
+  subtitle3p4: "Tijdens het programmeer- en bouwproces komen verschillende aspecten van computationeel denken aan bod. Door grafisch te programmeren in de simulator hebben leerlingen op een laagdrempelige manier kennisgemaakt met de universele concepten van programmeren. Nadien kunnen ze gemakkelijk overschakelen naar andere programmeertalen."
 
 agriculture:
-  intro_title: "Landbouw"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  intro_title: "AI in de Landbouw"
+  paragraph1: "<strong>Binnenkort beschikbaar - reeds beschikbare leerpaden te vinden onderaan de pagina.</strong>"
+  paragraph2: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+  paragraph3: "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
   form_button_text: "Interesse?"
 
 art:
   intro_title: "Kunst"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  paragraph1: "<strong>Binnenkort beschikbaar - reeds beschikbare leerpaden te vinden onderaan de pagina.</strong>"
+  paragraph2: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+  paragraph3: "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
   form_button_text: "Interesse?"
 
 wegostem:
   intro_title: "WeGoSTEM"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  paragraph1: "<strong>Binnenkort beschikbaar - reeds beschikbare leerpaden te vinden onderaan de pagina.</strong>"
+  paragraph2: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+  paragraph3: "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
   form_button_text: "Interesse?"
 
 computational_thinking:
   intro_title: "Computationeel Denken"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  paragraph1: "In onze steeds meer gedigitaliseerde wereld is het belangrijk dat iedereen naast rekenen, lezen en schrijven ook computationeel kan denken. Computationeel denken gaat over het vermogen om problemen op te lossen met behulp van een computer."
+  paragraph2: "Wanneer je computationeel denkt, dan denk je na over de stappen die nodig zijn om tot een oplossing van een bepaald probleem te komen, waarna je met behulp van jouw technische kennis de computer aan het werk zet om het probleem op te lossen."
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
   form_button_text: "Interesse?"
+  title: "Het wetenschappelijk onderzoek"
+  titlep1: "Omdat computationeel denken sterk focust op probleemoplossende vaardigheden kan het aan bod komen in elk bestaand vak in het reguliere onderwijs. Voor deze problemen wordt de oplossing vaak gemakkelijker bekomen met behulp van een computer."
+  titlep2: "Toch kan men ook zonder computer heel wat leren over computationeel denken. Daarvoor zijn tal van interessante unplugged activiteiten mogelijk. Maar via programmeerlessen kan je heel wat concepten van computationeel denken in de praktijk omzetten."
 
 math_with_python:
   intro_title: "Python in wiskunde"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  paragraph1: "<strong>Binnenkort beschikbaar - reeds beschikbare leerpaden te vinden onderaan de pagina.</strong>"
+  paragraph2: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+  paragraph3: "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
   form_button_text: "Interesse?"
 
 python_programming:
   intro_title: "Programmeren in Python"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  paragraph1: "<strong>Binnenkort beschikbaar - reeds beschikbare leerpaden te vinden onderaan de pagina.</strong>"
+  paragraph2: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+  paragraph3: "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
   form_button_text: "Interesse?"
 
 stem:
   intro_title: "STEM"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  paragraph1: "<strong>Binnenkort beschikbaar - reeds beschikbare leerpaden te vinden onderaan de pagina.</strong>"
+  paragraph2: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+  paragraph3: "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
   form_button_text: "Interesse?"
 
 care:
   intro_title: "AI in de zorg"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  paragraph1: "<strong>De Early Warning Score (EWS) is een richtlijn die internationaal wordt gebruikt in ziekenhuizen om de gezondheid van een patiënt te kunnen inschatten. De EWS is gebaseerd op de vitale functies: bloeddruk, lichaamstemperatuur, hartslag, ademhalingsfrequentie, alertheid en zuurstofsaturatie.</strong>"
+  paragraph2: "In het project ‘AI in de Zorg’ bekijken leerlingen hoe de EWS gebruikt wordt in de praktijk. Bovendien gaan ze na hoe een computer op basis van kunstmatige intelligentie automatisch het risiconiveau van een patiënt kan inschatten. Ze maken daarbij kennis met een beslissingsboom, een veelgebruikte techniek uit de machine learning. De principes van zo'n beslissingsboom zijn al te begrijpen met de leerstof van de tweede graad van het secundair onderwijs."
+  paragraph3: "De EWS is maatschappelijk relevant en vormt de ideale context voor een STEM-project dat leerlingen concepten van artificiële intelligentie bijbrengt."
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
   form_button_text: "Interesse?"
+  title: "Het wetenschappelijk onderzoek"
+  subtitle1: "Binnenkort beschikbaar"
 
 chatbot:
   intro_title: "Chatbot"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  paragraph1: "<strong>Waar taal en technologie samenkomen, ontstaat het domein van Natural Language Processing (NLP). Met technieken uit machine learning, zoals het trainen van modellen om tekst, afbeeldingen of geluidsfrequenties te herkennen, kunnen we computers op een intelligente manier laten werken met taal. Bekende NLP-toepassingen van machine learning zijn bijvoorbeeld vertaalprogramma's, spraakbesturingssystemen of virtual assistants zoals Siri, en chatrobots.</strong>"
+  paragraph2: "We buigen ons over vragen als <em>Hoe kunnen we automatisch teksten begrijpen, vertalen en zelfs schrijven?</em>, <em>Kan een computer emoties of ironie herkennen in een tekst?</em>, en vooral <em>Hoe belangrijk zijn data?</em>. Leerlingen van de tweede en de derde graad secundair onderwijs krijgen inzicht in het domein NLP en zetten hun eerste stappen in de wereld van het programmeren met Python."
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
   form_button_text: "Interesse?"
+  title: "Het wetenschappelijk onderzoek"
+  titlep1: "In het domein van Natural Language Processing (NLP) doen onderzoekers een beroep op algoritmen om teksten onder de loep te nemen. Ze gebruiken daarvoor zowel <strong>kennisgebaseerde</strong> als <strong>datagebaseerde kunstmatige intelligentie</strong>. Zo kunnen ze via sentimentanalyse nagaan of mensen zich positief of negatief uitlaten over bepaalde producten, bedrijven of personen op sociale media. Aan de hand van de tekststijl proberen ze te achterhalen wie een bepaalde tekst schreef. Ze onderzoeken ook hoe ze <strong>persoonlijkheidstypes</strong> kunnen onderscheiden op basis van taal. Een goede kennis van taalkunde, computerwetenschappen en psychologie zijn daarbij onontbeerlijk; NLP is een <strong>interdisciplinair</strong> domein."
+  titlep2: "De ontwikkelingen in de taaltechnologie leveren <strong>nieuwe tools</strong> om fake nieuws op te sporen, criminaliteit te bestrijden en de gezondheidszorg efficiënter te maken; ook in de bedrijfswereld zijn er tal van toepassingen."
+  titlep3: "Dit verhaal roept ook <strong>ethische vragen</strong> op. Voor het onderzoek binnen taaltechnologie wordt gebruikgemaakt van data, bijvoorbeeld boodschappen op sociale media en chatberichten. Maar hoe zit het dan met privacy? Vinden we het toelaatbaar dat iemands persoonlijkheid wordt nagegaan op basis van de teksten die die schrijft? Vinden we het wenselijk hoe deze kennis vervolgens wordt aangewend? Ook de onderzoekers worstelen met deze vragen. Sommigen ontwikkelen daarom bijvoorbeeld algoritmes die teksten depersonaliseren."
+  subtitle1: "AI"
+  subtitle1p1: "Om natuurlijke taal te verwerken, wordt artificiële intelligentie gebruikt. De leerlingen exploreren de natural language processing systemen voor toepassingen zoals sentimentanalyse, cyberpestdetectie, en auteursherkenning. Deze systemen gaan niet om met ruwe data, maar de teksten worden eerst voorbereid voordat de computer ze analyseert. De leerlingen krijgen inzicht in de principes van computationeel denken, die hier duidelijk worden geïllustreerd, zoals decompositie, patroonherkenning, abstractie en algoritmen. Ze maken kennis met de mogelijkheden en beperkingen van kennisgebaseerde en datagebaseerde systemen."
+  subtitle2: "Chatbots"
+  subtitle2p1: "Steeds meer bedrijven en organisaties plaatsen een chatbot op hun website met het oog op een betere dienstverlening. Dankzij NLP en het in acht nemen van de verwachtingen van de gebruikers worden deze automatische gesprekspartners steeds aangenamer in gebruik. Chatbots worden ingezet voor de klantendienst, HR, het geven van informatie .... en in verschillende domeinen zoals de gezondheidszorg, ontspanning, de bedrijfswereld, de politiek en het onderwijs. De leerlingen ondervinden zelf de beperkingen van een regelgebaseerde chatbot, wat hen mediawijzer maakt, aangezien de meeste chatbots in commerciële toepassingen vandaag nog hoofdzakelijk regelgebaseerd werken."
+  subtitle3: "Sentimentanalyse"
+  subtitle3p1: "De populariteit van het internet leidde niet alleen tot de opkomst van de sociale media, maar deed ook een nieuw onderzoeksdomein ontstaan: het detecteren van gevoelens en opinies in teksten. Sentimentanalyse heeft haar belang reeds bewezen voor de zakenwereld, de industrie en de maatschappij. Automatisch een sentimentscore toekennen aan online klantenreviews, tweets over politiek, of een chatbotgesprek, het gebeurt allemaal met artificiële intelligentie: NLP die zowel kennisgebaseerd (a.d.h.v. regels) als datagebaseerd (a.d.h.v. machine learning) wordt toegepast."
 
 physical_computing:
   intro_title: "Physical computing"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  paragraph1: "<strong>Binnenkort beschikbaar - reeds beschikbare leerpaden te vinden onderaan de pagina.</strong>"
+  paragraph2: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+  paragraph3: "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
   form_button_text: "Interesse?"
 
@@ -210,52 +241,52 @@ curricula_page:
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   chatbot:
     title: Chatbot
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    description: "‘Chatbot’ is een project voor de tweede en de derde graad. Waar taal en technologie samenkomen, ontstaat het domein van Natural Language Processing."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   care: 
-    title: AI in de zorg
-    description: '‘KIKS’ is een project voor de derde graad binnen een context van biologie en klimaatverandering. Er wordt onderzocht hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. De huidmondjes worden geteld met een neuraal netwerk voor beeldherkenning.'
+    title: AI in de Zorg
+    description: '‘AI in de Zorg’ is een project voor de tweede en de derde graad, en gaat bv. in op welke AI-systemen er al gebruikt worden in de ziekenhuizen.'
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   stem:
-    title: STEM
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    title: Python in STEM
+    description: "Bij het oplossen van een probleem versterken de verschillende disciplines S, T, E en M elkaar. Programmeren kan hierbij een verbindende rol spelen. Je zet de computer in om een STEM-probleem gemakkelijker en sneller aan te pakken."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   agriculture:
-    title: Landbouw
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    title: AI in de Landbouw
+    description: "Bij het oogsten van tomaten wil men graag de rotte tomaten eruit halen. Een AI-systeem kan daarbij helpen. Maar hoe werkt zo’n systeem? En hoe kan een trillende, lopende band dat systeem beter maken?"
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   art: 
-    title: Kunst
-    description: '‘KIKS’ is een project voor de derde graad binnen een context van biologie en klimaatverandering. Er wordt onderzocht hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. De huidmondjes worden geteld met een neuraal netwerk voor beeldherkenning.'
+    title: AI in de Kunst
+    description: '‘AI in de kunst’ is een project voor de tweede en de derde graad. Hoe kan men kunst maken met een AI-systeem? Is dat dan wel kunst? Hoe wordt AI ingezet om het kunstpatrimonium te beschermen?'
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   wegostem:
     title: WeGoSTEM
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    description: "Kinderen van de derde graad van het basisonderwijs bouwen en programmeren een creatieve kunst-robot die zelfstandig kan tekenen."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   computational_thinking:
     title: Computationeel denken
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    description: "Computationeel denken ligt aan de basis van de digitalisering van onze maatschappij."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   math_with_python: 
-    title: Python in wiskunde
-    description: '‘KIKS’ is een project voor de derde graad binnen een context van biologie en klimaatverandering. Er wordt onderzocht hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. De huidmondjes worden geteld met een neuraal netwerk voor beeldherkenning.'
+    title: Python in de Wiskundeles
+    description: 'Python biedt toffe mogelijkheden om in de wiskundeles diepere inzichten te verwerven. Je gaat bijvoorbeeld aan de slag met eigen grafieken, digitale beeldverwerking, lineaire regressie en de stelling van Pythagoras.'
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   python_programming:
-    title: Programmeren met python
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    title: Programmeren met Python
+    description: "In de eindtermen wordt gewag gemaakt van sequentie, herhalingsstructuur en keuzestructuur: de principes van programmeren. Maar om je eigen code op te stellen is het niet voldoende dat je de principes kent; ook andere programmeerelementen zijn van belang, zoals variabelen, datastructuren, operatoren en functies."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   physical_computing:
     title: Physical computing
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    description: "De Dwenguino is een microcontrollerplatform met een eigen grafische programmeeromgeving, met simulator. Je kan er snel een eigen apparaat mee bouwen, zoals een muziekinstrument, een autonoom wagentje of een weerstation."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
 

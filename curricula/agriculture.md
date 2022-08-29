@@ -7,8 +7,8 @@ title: agriculture
 permalink: /agriculture/
 banner_image: "/images/curricula/banner_agriculture.png"
 logo_image: "/images/curricula/logo_agriculture.png"
-partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.svg', '/images/partners/innovet.jpg']
-learning_paths: []
+partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/innovet.jpg', '/images/partners/richtpunthamme.png', '/images/partners/oost-vlaanderen.svg']
+learning_paths: ['Werken met notebooks - Python']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].agriculture.intro_title }} {% endcapture %}
@@ -24,7 +24,6 @@ paragraph2=paragraph2
 paragraph3=paragraph3
 -%}
 
-Here we can put some extra information about this project. This can be done by adding content to the page in markdown format (using the translation files) or by creating an html template with its own css in the _includes folder and linking it using the jekyll liquid include tag.
 
 {% assign begin = '{"hruids": ' %}
 {% assign end = '}' %}
