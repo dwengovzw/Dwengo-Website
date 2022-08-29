@@ -33,3 +33,6 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # For translations
 gem 'jekyll-multiple-languages-plugin'
+
+# for permalink redirects to same page
+gem 'jekyll-redirect-from'
