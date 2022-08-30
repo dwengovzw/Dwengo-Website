@@ -35,4 +35,3 @@ gem 'jekyll-multiple-languages-plugin'
 
 # for permalink redirects to same page
 gem 'jekyll-redirect-from'
-
