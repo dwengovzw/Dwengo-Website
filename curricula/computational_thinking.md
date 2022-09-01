@@ -8,7 +8,7 @@ permalink: /computational_thinking/
 banner_image: "/images/curricula/banner_computational_thinking.png"
 logo_image: "/images/curricula/logo_computational_thinking.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/pov.jpeg', '/images/partners/hogent.svg', '/images/partners/istem.png', '/images/partners/vlaanderen.svg']
-learning_paths: ['Computationeel_denken']
+learning_paths: ['CD_concepten', 'CD_evaluatiekader', 'CD_kijkwijzer', 'CD_cases', 'CD_achtergrondkennis', 'CD_eindtermen']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].computational_thinking.intro_title }} {% endcapture %}
