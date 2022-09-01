@@ -8,7 +8,7 @@ permalink: /stem/
 banner_image: "/images/curricula/banner_stem.png"
 logo_image: "/images/curricula/logo_stem.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png']
-learning_paths: ['Werken met notebooks - Python', 'Python in STEM - Digitale beelden', 'Epidemie - Python in STEM', 'IP-adres - Python in STEM', 'Klimaatverandering - Python in STEM']
+learning_paths: ['Werken met notebooks - Python', 'Spreidingsdiagrammen - Python in wiskunde', 'Python in STEM - Digitale beelden', 'Epidemie - Python in STEM', 'IP-adres - Python in STEM', 'Klimaatverandering - Python in STEM']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].stem.intro_title }} {% endcapture %}
