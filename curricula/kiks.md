@@ -8,7 +8,7 @@ permalink: /kiks/
 banner_image: "/images/curricula/banner_kiks.png"
 logo_image: "/images/curricula/logo_kiks.png"
 partner_images: ['/images/partners/sintbavo.png', '/images/partners/kae.png', '/images/partners/ugent.svg','/images/partners/meise.png', '/images/partners/dwengo.png', '/images/partners/accenture.svg', '/images/partners/oost-vlaanderen.svg', '/images/partners/rvo-society.svg', '/images/partners/imec.svg', '/images/partners/vlaanderen.svg', '/images/partners/vlaams-brabant.svg', '/images/partners/veranderwijs.png']
-learning_paths: ['Werken met notebooks - Python']
+learning_paths: ['KIKS - Microscopie']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].kiks.intro_title }} {% endcapture %}
