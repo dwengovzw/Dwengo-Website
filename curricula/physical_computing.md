@@ -8,7 +8,7 @@ permalink: /physical_computing/
 banner_image: "/images/curricula/banner_physical_computing.png"
 logo_image: "/images/curricula/logo_physical_computing.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png']
-learning_paths: ['SR_Module22-v1', 'StartToDwenguinoLKR-v1', 'microcontroller']
+learning_paths: ['SR_Module22-v1', 'StartToDwenguinoLKR-v1', 'Microcontroller']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].physical_computing.intro_title }} {% endcapture %}
