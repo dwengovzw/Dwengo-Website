@@ -115,6 +115,8 @@ python_programming:
 stem:
   intro_title: "STEM"
   paragraph1: "Tegenwoordig hebben alle wetenschappen een computationele tak. D.w.z. dat wetenschappers steeds meer de computer inzetten om hun wetenschappelijk onderzoek vooruit te helpen. Dit zijn trouwens niet enkel exacte wetenschappers, maar ook humane wetenschappers."
+  paragraph2: "A.d.h.v. onze Jupyter notebooks ondervinden leerlingen hoe programmeren in Python wetenschappelijk onderzoek kan versnellen en hoe het toelaat om te werken met grote datasets. Daardoor is er zelfs onderzoek mogelijk dat voordien niet te verwezenlijken was."
+  paragraph3: "De problemen die in deze STEM-lessen worden aangepakt, worden behapbaar door computationeel te denken. Maak kennis met leerpaden zoals ‘IP-adres’, ‘Klimaatverandering’ en ‘Epidemie’."
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
   form_button_text: "Interesse?"
 
