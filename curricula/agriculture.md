@@ -7,7 +7,7 @@ title: agriculture
 permalink: /agriculture/
 banner_image: "/images/curricula/banner_agriculture.png"
 logo_image: "/images/curricula/logo_agriculture.png"
-partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/innovet.jpg', '/images/partners/istem.png', '/images/partners/richtpunthamme.png', '/images/partners/oost-vlaanderen.svg']
+partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/richtpunthamme.png', '/images/partners/west-vlaanderen.png', '/images/partners/ptikortrijk.png', '/images/partners/innovet.jpg', '/images/partners/istem.png']
 learning_paths: ['Werken met notebooks - Python', 'AGRI_landbouw', 'AGRI_lopendeband']
 ---
 
