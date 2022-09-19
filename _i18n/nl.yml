@@ -18,8 +18,8 @@ strengths:
   research_based_text: Alle lespakketten van Dwengo vzw zijn gebaseerd op gedegen wetenschappelijk onderzoek.
   inclusive_text: We richten ons op alle kinderen en jongeren met een specifieke aandacht voor het evenwicht tussen meisjes en jongens en leerlingen uit kansengroepen.
   socially_relevant_text: We zoeken projecten uit die passen binnen de actualiteit en maatschappelijke thema's.
-  summary: Wij ontwikkelen innovatieve workshops en educatieve pakketten, die beschikbaar zijn voor leerlingen en leerkrachten over de hele wereld. Daarnaast leiden we vrijwilligers op en via online leerpaden ondersteunen we leerkrachten, zodat iedereen met het materiaal aan de slag kan gaan.
-  main: Onze projecten zijn steeds gekaderd binnen een maatschappelijk relevant thema. Bovendien zorgen we ervoor dat ons didactisch materiaal gebaseerd is op wetenschappelijk onderzoek en verliezen we de inclusiviteit ervan niet uit het oog.
+  summary: Wij ontwikkelen leermateriaal over technologie.
+  main: Kinderen en leerkrachten van over de hele wereld leren via onze innovatieve pakketten programmeren, robots bouwen en AI-systemen opzetten. Tijdens één van onze workshops of gewoon in de klas. Want al onze pakketten zijn gebruiksvriendelijk, maatschappelijk relevant, wetenschappelijk onderbouwd, én inclusief. Iedereen kan er dus eenvoudig mee aan de slag.
   quote:
     text: Je maakt iets praktisch, je leert werken met hardware en je kan zelf iets nieuws cre&euml;ren. 
     name: Matthias en Bruno
@@ -204,62 +204,62 @@ curricula_page:
   read_more: Lees meer
   kiks: 
     title: KIKS
-    description: '‘KIKS’ is een project voor de derde graad binnen een context van biologie en klimaatverandering. Er wordt onderzocht hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. De huidmondjes worden geteld met een neuraal netwerk voor beeldherkenning.'
+    description: 'Leerlingen uit de derde graad (SO) onderzoeken hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. Daarvoor tellen ze deze huidmondjes met artificiële intelligentie en beeldherkenning.'
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   socialrobot:
     title: Sociale robot
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    description: "Terwijl leerlingen uit de eerste graad (SO) een sociale robot knutselen en programmeren, leren ze complexe problemen oplossen via computationeel denken. Spelenderwijs werken ze aan de nieuwe eindtermen rond digitale competenties."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   chatbot:
     title: Chatbot
-    description: "‘Chatbot’ is een project voor de tweede en de derde graad. Waar taal en technologie samenkomen, ontstaat het domein van Natural Language Processing."
+    description: "Waar taal en technologie samenkomen, ontstaat het domein van Natural Language Processing. Kan een computer teksten begrijpen, vertalen of zelfs schrijven? Kan een computer emoties herkennen? Leerlingen uit de tweede en derde graad (SO) leren er alles over in dit pakket."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   care: 
     title: AI in de Zorg
-    description: '‘AI in de Zorg’ is een project voor de tweede en de derde graad, en gaat bv. in op welke AI-systemen er al gebruikt worden in de ziekenhuizen.'
+    description: 'Ziekenhuizen maken vandaag al gebruik van artificiële intelligentie. Leerlingen uit de tweede en derde graad (SO) ontdekken welke systemen er bestaan en hoe ze dokters helpen om beslissingen te nemen. Zo leren leerlingen de principes van de beslissingsboom, een veelgebruikte techniek uit de machine learning.'
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   stem:
     title: Python in STEM
-    description: "Bij het oplossen van een probleem versterken de verschillende disciplines S, T, E en M elkaar. Programmeren kan hierbij een verbindende rol spelen. Je zet de computer in om een STEM-probleem gemakkelijker en sneller aan te pakken."
+    description: "In dit pakket leer je complexe problemen eenvoudiger én sneller aanpakken met de programmeertaal Python. Want programmeren kan een verbindende rol spelen tussen wetenschap, techniek, ontwerp en toegepaste wiskunde. Kortom, dankzij Python halen we het beste uit STEM."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   agriculture:
     title: AI in de Landbouw
-    description: "Bij het oogsten van tomaten wil men graag de rotte tomaten eruit halen. Een AI-systeem kan daarbij helpen. Maar hoe werkt zo’n systeem? En hoe kan een trillende, lopende band dat systeem beter maken?"
+    description: "Rotte tomaten weghalen tijdens de oogst? Daar kan artificiële intelligentie bij helpen. Maar hoe? Leerlingen uit de tweede en derde graad (SO) gaan met AI aan de slag. Misschien kan een trillende lopende band het systeem nog beter maken?"
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   art: 
     title: AI in de Kunst
-    description: '‘AI in de kunst’ is een project voor de tweede en de derde graad. Hoe kan men kunst maken met een AI-systeem? Is dat dan wel kunst? Hoe wordt AI ingezet om het kunstpatrimonium te beschermen?'
+    description: 'Kunnen we kunst maken met artificiële intelligentie? Leerlingen uit de tweede en derde graad (SO) leven zich creatief uit met AI en reflecteren over het resultaat. Is dit kunst? Ook ontdekken ze hoe AI ons cultureel erfgoed kan beschermen.'
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   wegostem:
     title: WeGoSTEM
-    description: "Kinderen van de derde graad van het basisonderwijs bouwen en programmeren een creatieve kunst-robot die zelfstandig kan tekenen."
+    description: "We dagen kinderen van de derde graad (BO) uit om een kunstrobot die kan tekenen te programmeren. Spelenderwijs leren de kinderen heel wat STEM-vaardigheden, van techniek tot computationeel denken."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   computational_thinking:
     title: Computationeel denken
-    description: "Computationeel denken ligt aan de basis van de digitalisering van onze maatschappij."
+    description: "Hoe kunnen we complexe problemen oplossen met behulp van een computer? Dankzij computationeel denken! Dat kan je leren via allerlei activiteiten met óf zonder computer. Wij helpen je alvast op weg."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   math_with_python: 
     title: Python in de Wiskundeles
-    description: 'Python biedt toffe mogelijkheden om in de wiskundeles diepere inzichten te verwerven. Je gaat bijvoorbeeld aan de slag met eigen grafieken, digitale beeldverwerking, lineaire regressie en de stelling van Pythagoras.'
+    description: 'De programmeertaal Python biedt toffe mogelijkheden om de wiskundeles te verrijken. Van de stelling van Pythagoras tot de opmaak van eigen grafieken, digitale beeldverwerking en lineaire regressie, alles wordt duidelijker met Python.'
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   python_programming:
     title: Programmeren met Python
-    description: "In de eindtermen wordt gewag gemaakt van sequentie, herhalingsstructuur en keuzestructuur: de principes van programmeren. Maar om je eigen code op te stellen is het niet voldoende dat je de principes kent; ook andere programmeerelementen zijn van belang, zoals variabelen, datastructuren, operatoren en functies."
+    description: "De basisprincipes van programmeren aanleren? Dat kan perfect via dit pakket. We gaan aan de slag met Python en leren alles over sequenties, herhalingsstructuur en keuzestructuur. Dat is precies wat er in de eindtermen staat. En meer!"
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   physical_computing:
     title: Physical computing
-    description: "De Dwenguino is een microcontrollerplatform met een eigen grafische programmeeromgeving, met simulator. Je kan er snel een eigen apparaat mee bouwen, zoals een muziekinstrument, een autonoom wagentje of een weerstation."
+    description: "Een muziekinstrument, auto of weerstation bouwen? Dat kan met Dwenguino, een microcontrollerplatform met een eigen grafische programmeeromgeving. Kinderen uit de derde graad (BO) of de eerste graad (SO) kunnen er meteen mee aan de slag. In het echt of in onze simulator. "
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
 
