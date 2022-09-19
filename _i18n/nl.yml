@@ -204,7 +204,7 @@ curricula_page:
   read_more: Lees meer
   kiks: 
     title: KIKS
-    description: 'Leerlingen uit de derde graad (SO) onderzoeken hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. Daarvoor tellen ze deze huidmondjes met artificiële intelligentie en beeldherkenning.'
+    description: Leerlingen uit de derde graad (SO) onderzoeken hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. Daarvoor tellen ze deze huidmondjes met artificiële intelligentie en beeldherkenning.
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   socialrobot:
@@ -219,12 +219,12 @@ curricula_page:
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   care: 
     title: AI in de Zorg
-    description: 'Ziekenhuizen maken vandaag al gebruik van artificiële intelligentie. Leerlingen uit de tweede en derde graad (SO) ontdekken welke systemen er bestaan en hoe ze dokters helpen om beslissingen te nemen. Zo leren leerlingen de principes van de beslissingsboom, een veelgebruikte techniek uit de machine learning.'
+    description: Ziekenhuizen maken vandaag al gebruik van artificiële intelligentie. Leerlingen uit de tweede en derde graad (SO) ontdekken welke systemen er bestaan en hoe ze dokters helpen om beslissingen te nemen. Zo leren leerlingen de principes van de beslissingsboom, een veelgebruikte techniek in machine learning.
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   stem:
     title: Python in STEM
-    description: "In dit pakket leer je complexe problemen eenvoudiger én sneller aanpakken met de programmeertaal Python. Want programmeren kan een verbindende rol spelen tussen wetenschap, techniek, ontwerp en toegepaste wiskunde. Kortom, dankzij Python halen we het beste uit STEM."
+    description: "In dit pakket leer je complexe problemen eenvoudiger én sneller aanpakken met de programmeertaal Python. Programmeren kan immers een verbindende rol spelen tussen wetenschap, techniek, ontwerp en toegepaste wiskunde. Kortom, dankzij Python halen we het beste uit STEM."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   agriculture:
