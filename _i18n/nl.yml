@@ -204,7 +204,7 @@ curricula_page:
   read_more: Lees meer
   kiks: 
     title: KIKS
-    description: Leerlingen uit de derde graad (SO) onderzoeken hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. Daarvoor tellen ze deze huidmondjes met artificiële intelligentie en beeldherkenning.
+    description: "Leerlingen uit de derde graad (SO) onderzoeken hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. Daarvoor tellen ze deze huidmondjes met artificiële intelligentie en beeldherkenning."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   socialrobot:
@@ -219,7 +219,7 @@ curricula_page:
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   care: 
     title: AI in de Zorg
-    description: Ziekenhuizen maken vandaag al gebruik van artificiële intelligentie. Leerlingen uit de tweede en derde graad (SO) ontdekken welke systemen er bestaan en hoe ze dokters helpen om beslissingen te nemen. Zo leren leerlingen de principes van de beslissingsboom, een veelgebruikte techniek in machine learning.
+    description: "Ziekenhuizen maken vandaag al gebruik van artificiële intelligentie. Leerlingen uit de tweede en derde graad (SO) ontdekken welke systemen er bestaan en hoe ze dokters helpen om beslissingen te nemen. Zo leren leerlingen de principes van de beslissingsboom, een veelgebruikte techniek in machine learning."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   stem:
@@ -234,7 +234,7 @@ curricula_page:
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   art: 
     title: AI in de Kunst
-    description: 'Kunnen we kunst maken met artificiële intelligentie? Leerlingen uit de tweede en derde graad (SO) leven zich creatief uit met AI en reflecteren over het resultaat. Is dit kunst? Ook ontdekken ze hoe AI ons cultureel erfgoed kan beschermen.'
+    description: "Kunnen we kunst maken met artificiële intelligentie? Leerlingen uit de tweede en derde graad (SO) leven zich creatief uit met AI en reflecteren over het resultaat. Is dit kunst? Ook ontdekken ze hoe AI ons cultureel erfgoed kan beschermen."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   wegostem:
@@ -249,7 +249,7 @@ curricula_page:
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   math_with_python: 
     title: Python in de Wiskundeles
-    description: 'De programmeertaal Python biedt toffe mogelijkheden om de wiskundeles te verrijken. Van de stelling van Pythagoras tot de opmaak van eigen grafieken, digitale beeldverwerking en lineaire regressie, alles wordt duidelijker met Python.'
+    description: "De programmeertaal Python biedt toffe mogelijkheden om de wiskundeles te verrijken. Van de stelling van Pythagoras tot de opmaak van eigen grafieken, digitale beeldverwerking en lineaire regressie, alles wordt duidelijker met Python."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   python_programming:
