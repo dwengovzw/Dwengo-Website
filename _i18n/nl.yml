@@ -99,8 +99,8 @@ stem:
   paragraph3: "De problemen die in deze STEM-lessen worden aangepakt, worden behapbaar door computationeel te denken. Maak kennis met leerpaden zoals ‘IP-adres’, ‘Klimaatverandering’ en ‘Epidemie’."
 
 care:
-  intro_title: "AI in de zorg"
-  paragraph1: "<strong>De Early Warning Score (EWS) is een richtlijn die internationaal wordt gebruikt in ziekenhuizen om de gezondheid van een patiënt te kunnen inschatten. De EWS is gebaseerd op de vitale functies: bloeddruk, lichaamstemperatuur, hartslag, ademhalingsfrequentie, alertheid en zuurstofsaturatie.</strong>"
+  intro_title: "AI in de Zorg"
+  paragraph1: "De Early Warning Score (EWS) is een richtlijn die internationaal wordt gebruikt in ziekenhuizen om de gezondheid van een patiënt te kunnen inschatten. De EWS is gebaseerd op de vitale functies: bloeddruk, lichaamstemperatuur, hartslag, ademhalingsfrequentie, alertheid en zuurstofsaturatie."
   paragraph2: "In het project ‘AI in de Zorg’ bekijken leerlingen hoe de EWS gebruikt wordt in de praktijk. Bovendien gaan ze na hoe een computer op basis van kunstmatige intelligentie automatisch het risiconiveau van een patiënt kan inschatten. Ze maken daarbij kennis met een beslissingsboom, een veelgebruikte techniek uit de machine learning. De principes van zo'n beslissingsboom zijn al te begrijpen met de leerstof van de tweede graad van het secundair onderwijs."
   paragraph3: "De EWS is maatschappelijk relevant en vormt de ideale context voor een STEM-project dat leerlingen concepten van artificiële intelligentie bijbrengt."
   title: "Het wetenschappelijk onderzoek"
@@ -108,7 +108,7 @@ care:
 
 chatbot:
   intro_title: "Chatbot"
-  paragraph1: "<strong>Waar taal en technologie samenkomen, ontstaat het domein van Natural Language Processing (NLP). Met technieken uit machine learning, zoals het trainen van modellen om tekst, afbeeldingen of geluidsfrequenties te herkennen, kunnen we computers op een intelligente manier laten werken met taal. Bekende NLP-toepassingen van machine learning zijn bijvoorbeeld vertaalprogramma's, spraakbesturingssystemen of virtual assistants zoals Siri, en chatrobots.</strong>"
+  paragraph1: "Waar taal en technologie samenkomen, ontstaat het domein van Natural Language Processing (NLP). Met technieken uit machine learning, zoals het trainen van modellen om tekst, afbeeldingen of geluidsfrequenties te herkennen, kunnen we computers op een intelligente manier laten werken met taal. Bekende NLP-toepassingen van machine learning zijn bijvoorbeeld vertaalprogramma's, spraakbesturingssystemen of virtual assistants zoals Siri, en chatrobots."
   paragraph2: "We buigen ons over vragen als <em>Hoe kunnen we automatisch teksten begrijpen, vertalen en zelfs schrijven?</em>, <em>Kan een computer emoties of ironie herkennen in een tekst?</em>, en vooral <em>Hoe belangrijk zijn data?</em>. Leerlingen van de tweede en de derde graad secundair onderwijs krijgen inzicht in het domein NLP en zetten hun eerste stappen in de wereld van het programmeren met Python."
   title: "Het wetenschappelijk onderzoek"
   titlep1: "In het domein van Natural Language Processing (NLP) doen onderzoekers een beroep op algoritmen om teksten onder de loep te nemen. Ze gebruiken daarvoor zowel <strong>kennisgebaseerde</strong> als <strong>datagebaseerde kunstmatige intelligentie</strong>. Zo kunnen ze via sentimentanalyse nagaan of mensen zich positief of negatief uitlaten over bepaalde producten, bedrijven of personen op sociale media. Aan de hand van de tekststijl proberen ze te achterhalen wie een bepaalde tekst schreef. Ze onderzoeken ook hoe ze <strong>persoonlijkheidstypes</strong> kunnen onderscheiden op basis van taal. Een goede kennis van taalkunde, computerwetenschappen en psychologie zijn daarbij onontbeerlijk; NLP is een <strong>interdisciplinair</strong> domein."
