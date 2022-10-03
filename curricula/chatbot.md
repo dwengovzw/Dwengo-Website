@@ -8,7 +8,7 @@ permalink: /chatbot/
 banner_image: "/images/curricula/banner_chatbot.png"
 logo_image: "/images/curricula/logo_chatbot.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/sintbavo.png']
-learning_paths: ['Werken met notebooks - Python', 'PN_Chatbot', 'Sentimentanalyse - AI Op School']
+learning_paths: ['Werken met notebooks - Python', 'PN_Chatbot', 'Sentimentanalyse - AI Op School', 'C_vervoegmachine']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].chatbot.intro_title }} {% endcapture %}
