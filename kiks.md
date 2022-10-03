@@ -4,7 +4,7 @@
 
 layout: default
 title: KIKS
-permalink: /kiks/
+permalink: /kiks_old2/
 partner_images: ['/images/partners/sintbavo.png', '/images/partners/kae.png', '/images/partners/ugent.svg','/images/partners/meise.png', '/images/partners/dwengo.png', '/images/partners/accenture.svg', '/images/partners/oost-vlaanderen.svg', '/images/partners/rvo-society.svg', '/images/partners/imec.svg', '/images/partners/vlaanderen.svg', '/images/partners/vlaams-brabant.svg', '/images/partners/veranderwijs.png']
 learning_paths: ['KIKS - Microscopie', 'KIKS - Basis Deep Learning', 'KIKS - Gevorderd Deep Learning']
 ---
