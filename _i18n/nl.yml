@@ -197,7 +197,11 @@ projects_page:
   project_4_description: "Een robot bouwen met leerlingen of een andere toepassing van physical computing introduceren in de klas is niet zo eenvoudig. Om het voor leerkrachten zo laagdrempelig mogelijk te maken, ontwikkelde Dwengo een eiegen microcontrollerplatform, de Dwenguino, en een grafische programmeeromgeving, DwenguinoBlockly. Zelfs zonder fysiek materiaal kan je hiermee werken. De Dwenguino is een Arduino-gebaseerd microcontrollerplatform dat heel wat elementen bevat waarmee je snel je eigen apparaat kan bouwen, zoals een sociale robot, een weerstation, een muziekinstrument of een autonoom wagentje. De Dwenguino beschikt bijvoorbeeld over drukknoppen, een lcd-scherm, een zoemer, leds en connectoren om motoren aan te sluiten. De Dwenguino is open source. Het platform wordt momenteel reeds gebruikt voor leerlingen vanaf 10 jaar tot in het hoger onderwijs. Er kan een leerlijn mee opgebouwd worden van de eerste tot de derde graad van het secundair onderwijs, van grafisch tot tekstueel programmeren, en met een stijgende moeilijkheidsgraad in toepassingen."
   project_4_contact: "Vragen? Contacteer ons via natacha@dwengo.org."
   project_4_teaser: https://www.youtube.com/embed/VpAXLlT_JP0
-
+  project_5_title: Computationeel denken
+  project_5_description: "Problemen zijn vaak gemakkelijker, nauwkeuriger en sneller op te lossen met behulp van een computer. Wanneer je computationeel denkt, dan denk je na over de stappen die nodig zijn om tot een oplossing van een bepaald probleem te komen, waarna je met je technische kennis de computer aan het werk zet om die stappen uit te voeren en het probleem op te lossen. Computationeel denken focust sterk op probleemoplossende vaardigheden en kan aan bod komen in elk vak in het reguliere onderwijs. Heel wat concepten van computationeel denken kan je praktisch benaderen in programmeerlessen. Toch kan je ook zonder computer heel wat leren over computationeel denken. Dwengo helpt leerkrachten aan plugged en unplugged activiteiten om hun leerlingen computationeel te leren denken, en wil leerkrachten vaardig maken in het herkennen van de concepten van computationeel denken in hun eigen lesmaterialen. De plugged activiteiten zetten in op physical computing (met grafisch en tekstueel programmeren) en STEM (met Python)."
+  project_5_contact: "Vragen? Contacteer ons via natacha@dwengo.org."
+  project_5_teaser: https://youtube.com/embed/Nifa0vooyKg             
+  
 # Translations for the projects page
 curricula_page:
   title: Onze lesonderwerpen
@@ -259,7 +263,7 @@ curricula_page:
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   physical_computing:
     title: Physical computing
-    description: "Een muziekinstrument, auto of weerstation bouwen? Dat kan met Dwenguino, een microcontrollerplatform met een eigen grafische programmeeromgeving. Kinderen uit zoel basis- als secundair onderwijs kunnen er meteen mee aan de slag. In het echt of in onze simulator. "
+    description: "Een muziekinstrument, auto of weerstation bouwen? Dat kan met Dwenguino, een microcontrollerplatform met een eigen programmeeromgeving. Leerlingen uit zowel basis- als secundair onderwijs kunnen er meteen mee aan de slag. In het echt of in onze simulator. Blokgebaseerd of tekstueel. "
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
 
