@@ -1,5 +1,5 @@
-//let api_base_path = window.location.origin + "/backend" // For deploy
-let api_base_path = "http://localhost:8085"   // For debug
+let api_base_path = window.location.origin + "/backend" // For deploy
+//let api_base_path = "http://localhost:8085"   // For debug
 
 
 
