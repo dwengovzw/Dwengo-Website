@@ -5,6 +5,11 @@
 layout: default
 title: Math with python
 permalink: /math_with_python/
+redirect_from: 
+  - /Wiskunde/
+  - /wiskunde/
+  - /Wiskundemetpython/
+  - /wiskundemetpython/
 banner_image: "/images/curricula/banner_python_in_math.png"
 logo_image: "/images/curricula/logo_python_in_maths.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png']

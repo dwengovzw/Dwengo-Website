@@ -5,6 +5,12 @@
 layout: default
 title: agriculture
 permalink: /agriculture/
+redirect_from: 
+  - /landbouw/
+  - /AIlandbouw/
+  - /ailandbouw/
+  - /AIindelandbouw/
+  - /aiindelandbouw/
 banner_image: "/images/curricula/banner_agriculture.png"
 logo_image: "/images/curricula/logo_agriculture.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/richtpunthamme.png', '/images/partners/west-vlaanderen.png', '/images/partners/ptikortrijk.png', '/images/partners/innovet.jpg', '/images/partners/istem.png']

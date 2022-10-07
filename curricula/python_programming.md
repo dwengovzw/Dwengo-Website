@@ -5,6 +5,9 @@
 layout: default
 title: Python programming
 permalink: /python_programming/
+redirect_from: 
+  - /Programmeren/
+  - /programmeren/
 banner_image: "/images/curricula/banner_python_programming.png"
 logo_image: "/images/curricula/logo_python_programming.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png']

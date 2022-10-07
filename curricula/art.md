@@ -5,6 +5,15 @@
 layout: default
 title: art
 permalink: /art/
+redirect_from: 
+  - /Kunst/
+  - /kunst/
+  - /AIKunst/
+  - /AIindeKunst/
+  - /AIkunst/
+  - /AIindekunst/
+  - /aikunst/
+  - /aiindekunst/
 banner_image: "/images/curricula/banner_art.png"
 logo_image: "/images/curricula/logo_art.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png']

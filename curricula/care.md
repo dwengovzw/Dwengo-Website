@@ -5,6 +5,15 @@
 layout: default
 title: care
 permalink: /care/
+redirect_from: 
+  - /Zorg/
+  - /zorg/
+  - /AIZorg/
+  - /AIindeZorg/
+  - /AIzorg/
+  - /AIindezorg/
+  - /aizorg/
+  - /aiindezorg/
 banner_image: "/images/curricula/banner_care.png"
 logo_image: "/images/curricula/logo_care.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png']
