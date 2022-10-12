@@ -12,13 +12,25 @@
         </nav>
         
         <div class="col-12 col-md-4 collapse d-md-block" aria-expanded="false" id="toggleSidebar">
-            <div class="row d-none d-md-block">
+            <div class="row d-none d-md-block lp_legend">
                 <div class="col">
                     <h5 class="lp_title">
                     </h5>
                     <button id="print_lp" class="col button_lp" type="button">{% t learning_path_page.print_learning_path %}</button>
-                    <button id="link_lp" class="col  button_lp" type="button">{% t learning_path_page.link_to_learning_path_students %}</button>
-                    <button id="link_lo" class="col  button_lp" type="button">{% t learning_path_page.link_to_learning_object %}</button>
+                    <div class="teacher_only">
+                        <button id="link_lo" class="col  button_lp" type="button">{% t learning_path_page.link_to_learning_object %}</button>
+                        <button id="link_lp" class="col  button_lp" type="button">{% t learning_path_page.link_to_learning_path_students %}</button>
+                        <div class="legend">
+                            <div class="green_box_info">
+                                <span class="green_box"></span> 
+                                <span class="green_box_info">{% t learning_path_page.green_box_info %}</span>
+                            </div>
+                            <div class="white_box_info">
+                                <span class="white_box"></span> 
+                                <span class="white_box_info">{% t learning_path_page.white_box_info %}</span>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="row">

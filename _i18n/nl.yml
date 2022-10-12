@@ -35,6 +35,7 @@ kiks:
   paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
   form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
   form_button_text: "INTERESSE?"
+  research: Het wetenschappelijk onderzoek
 
 socialrobot:
   intro_title: "Sociale robot"
@@ -163,6 +164,9 @@ about_page:
   commitment_column_3: Voor kinderen vanaf 8 jaar tot universiteitsstudenten
   commitment_column_4: Al onze software en documentatie zijn open source
   team: team
+
+content_page:
+  title: Lesonderwerpen
 
 # Translations for the contact page
 contact_page:
@@ -302,6 +306,12 @@ learning_path_page:
   print_learning_path: Volledige leerpad printen
   link_to_learning_path_students: Link naar leerpad voor leerlingen
   link_to_learning_object: Link naar dit leerobject
+  green_box_info: Extra info voor de leerkracht
+  white_box_info: Inhoud voor de leerling
+
+curricula_files:
+  title: Bestanden
+  cc_by_text: Het lesmateriaal wordt ter beschikking gesteld overeenkomstig de voorwaarden van een Creative Commons BY-SA licentie.
 
 
 footer:
@@ -335,5 +345,5 @@ about: Over
 contact: Contact
 projects: Projecten
 curricula: Leerlijnen
-  
+content: Lesonderwerpen  
 test: test nl

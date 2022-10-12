@@ -365,9 +365,46 @@ a.footer:hover{
   border: 1px solid #ced4da;
   cursor: pointer;
 }
+
+.green_box_info {
+  display:flex;
+  font-style: italic;
+  font-size: small;
+}
+
+.green_box {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-color: $teacher-exclusive-color;
+  border: 1px solid #ced4da;
+  align-items: baseline;
+  margin-right: 10px;
+}
+
+.white_box_info {
+  display:flex;
+  font-style: italic;
+  font-size: small;
+}
+
+.white_box {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #ced4da;
+  align-items: center;
+  margin-right: 10px;
+}
+
 #lp_visualisation .list-group-item.active span:first-of-type {
   border-left: solid black 4px;
   padding-left: 10px;
+}
+
+.legend {
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 
@@ -598,7 +635,7 @@ img {
 }
 
 footer {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .flex-container-partners {

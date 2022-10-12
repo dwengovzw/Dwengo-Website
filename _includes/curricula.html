@@ -1,3 +1,4 @@
+
 <div class="curricula_page bg-white cover-width">
     <h2 class="fp_subtitle">{% t curricula_page.title %}</h2>
 
@@ -10,7 +11,7 @@
     <div class="row q-col-gutter-y-lg q-col-gutter-x-xl q-mt-lg">
         {% for curriculum_page in include.curricula_pages %}
             <div class="col-12 col-md-4">
-                <img src="/images/curricula/logo_{{curriculum_page}}.png" class="float-right logo-right">
+                <img src="/images/curricula/logo_{{curriculum_page}}.png" class="float-right logo-right"/>
                 <h6 class="q-mt-none bolder">{% t 'curricula_page.{{curriculum_page}}.title' %}</h6>
                 <p class="my-4"><a href="{{language_path}}/{{curriculum_page}}/" class="">{% t curricula_page.read_more %}<i
                             aria-hidden="true" role="presentation" class="q-ml-xs material-icons q-icon notranslate"
