@@ -206,11 +206,33 @@ projects_page:
 curricula_page:
   title: Onze lesonderwerpen
   read_more: Lees meer
+  curricula_files: Bestanden
   kiks: 
     title: KIKS
     description: "Leerlingen uit de derde graad (SO) onderzoeken hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. Daarvoor tellen ze deze huidmondjes met artificiële intelligentie en beeldherkenning."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
+    curricula_files:
+      - file_title: "De handleiding - ook verkrijgbaar in gedrukte versie"
+        file_info: "We willen de leerkrachten achtergrondkennis geven over de inhoud van dit project: de klimaatverandering, de biologie van de huidmondjes en de manier waarop planten zich via de huidmondjes aan die klimaatverandering aanpassen, het wetenschappelijk onderzoek van de UGent en de Plantentuin Meise dat aan de grondslag ligt van dit project, burgerwetenschap, wat is artificiële intelligentie (AI), de geschiedenis van AI, het gebruik ervan en de ethiek errond, de principes van digitale beelden, de wiskunde achter de algoritmen en de fundamenten van de momenteel meest gebruikte AI-technieken. We geven ook aan hoe wij met KIKS aan de slag gegaan zijn in de klas.​"
+        file_location: "/assets/files/KIKS_handleiding_eerstedruk.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "De leerplandoelen"
+        file_info: "Binnen het KIKS-project kunnen behoorlijk veel leerdoelen aan bod komen. De leerkracht bepaalt zelf welke leerdoelen in verband gebracht worden met het project. Bovendien biedt het project heel wat mogelijkheden om de leerlingen actief en zelfstandig te laten leren en om ICT-vaardigheden bij te brengen. KIKS kan ook gebruikt worden om een onderzoeksopdracht uit te werken.\n In de eindtermen en leerplannen van de verschillende koepels zijn heel wat leerdoelen te vinden die KIKS linken met biologie, aardrijkskunde en wiskunde."
+        file_location: "/assets/files/Leerdoelen-KIKS.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "De Python notebooks"
+        file_info: "De notebooks reiken toepassingen aan binnen een context van de klimaatverandering en van planten, en het verband tussen beide. De fundamentele begrippen uit machine learning en deep learning worden daarbij aangeleerd.\nDe notebooks zijn interactief opgebouwd. Er worden nieuwe begrippen in aangebracht via tekstuele uitleg, video en afbeeldingen, geleide voorbeelden, kleine en grotere opdrachten."
+        file_location: "https://www.aiopschool.be/kiks/r/jupyter/"
+        file_icon_name: "open_in_new"
+        link_name: "Openen"
+      - file_title: "Het maken van een nagellakafdruk van een deel van een blad"
+        file_info: "Om het aantal huidmondjes op een deel van een blad van een plant te kennen, bekijken we het bladoppervlak onder de microscoop. We kunnen daarvoor een stuk van de flinterdunne cuticula van het blad verwijderen, maar bij sommige planten lukt dat niet zo goed, bijvoorbeeld door de stugheid van het blad.\nDit kan echter opgevangen worden door dezelfde methode te gebruiken als de onderzoekers van de Plantentuin Meise, nl. een afdruk nemen van een deel van het bladoppervlak met doorzichtige nagellak.\nHet miscroscopische beeld kan met een smartphone gefotografeerd worden."
+        file_location: "https://vimeo.com/467062270"
+        file_icon_name: "play_arrow"
+        link_name: "Kijk"
   socialrobot:
     title: Sociale robot
     description: "Terwijl leerlingen uit de eerste graad (SO) een sociale robot knutselen en programmeren, leren ze complexe problemen oplossen via computationeel denken. Spelenderwijs werken ze aan de nieuwe eindtermen rond digitale competenties."
@@ -269,6 +291,8 @@ curricula_page:
 
 
 
+
+
 # Translations for the learning-path page
 learning_path_page:
   title: Leerpad
@@ -304,7 +328,7 @@ keywords:
   ct: Computationeel denken
   graphical_prog: Grafisch programmeren
   kiks: KIKS
-  none: ""
+  none: " "
   
 # Translations for the menu items
 about: Over

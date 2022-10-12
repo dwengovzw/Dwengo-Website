@@ -160,6 +160,7 @@ html {
 
 body {
   overflow-x: hidden;
+  font-family: "Roboto" sans-serif !important;
 }
 
 
@@ -623,6 +624,97 @@ footer {
 #lp_section {
   margin-bottom: 2rem;
 }
+
+.curricula_files{
+  background-color:#eee;
+  color: #757575 !important;
+  width: 100vw;
+  position: relative;
+  left: calc(-50vw + 50%);
+  box-sizing: border-box;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+.curricula_files a {
+  color: #757575 !important;
+}
+
+.curricula_files a:hover {
+  color: #757575 !important;
+}
+
+.curricula_files a:visited {
+  color: #757575 !important;
+}
+
+.curricula_files .cc_by_info {
+  font-weight: bolder;
+}
+
+.curricula_files .file_download_info {
+ display: flex;
+ flex-direction: row; 
+ justify-content: space-between;
+ margin: 20px 0;
+ align-items: top;
+}
+
+.curricula_files .file_download_info_text{
+  display: flex;
+  flex-direction: row; 
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: baseline;
+  margin-bottom: 20px;
+}
+
+.file_icon {
+  order: 1;
+}
+
+.file_title {
+  font-weight: bolder;
+}
+
+.file_info {
+  flex-basis: 100%;
+  font-size: small !important;
+}
+
+.file_link {
+  border: 1px solid #757575;
+  border-radius: 5px;
+  padding: 3px 10px;
+  background-color: #eee;
+  color: #757575;
+}
+
+.flex_break{
+  flex-basis: 100%;
+  height: 10px;
+}
+
+.cc_by_logo {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.icon_container {
+  margin-right: 25px;
+  color: white;
+}
+
+
+.icon_container span {
+ font-size: 25px; 
+ padding: 15px;
+ background-color: #616161;
+ border-radius: 50%;
+}
+
+
+
 
 // Import partials.
 @import

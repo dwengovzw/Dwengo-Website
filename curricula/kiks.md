@@ -9,6 +9,7 @@ banner_image: "/images/curricula/banner_kiks.png"
 logo_image: "/images/curricula/logo_kiks.png"
 partner_images: ['/images/partners/sintbavo.png', '/images/partners/kae.png', '/images/partners/ugent.svg','/images/partners/meise.png', '/images/partners/dwengo.png', '/images/partners/accenture.svg', '/images/partners/oost-vlaanderen.svg', '/images/partners/rvo-society.svg', '/images/partners/imec.svg', '/images/partners/vlaanderen.svg', '/images/partners/vlaams-brabant.svg', '/images/partners/veranderwijs.png']
 learning_paths: ['Werken met notebooks - Python', 'Klimaatverandering - Python in STEM', 'KIKS - Microscopie', 'Python in STEM - Digitale beelden', 'KIKS - Basis Deep Learning', 'KIKS - Gevorderd Deep Learning', 'KIKS-classificatie', 'KIKS-regressie']
+
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].kiks.intro_title }} {% endcapture %}
@@ -34,5 +35,7 @@ paragraph3=paragraph3
 {% capture lp_filter %} {{ full }} {% endcapture %}
 
 {%- include learning_paths.html filter_object=lp_filter -%}
+
+{%- include curricula_files.html page_translation_key="kiks" -%}
 
 {%- include partners.html images=page.partner_images -%}

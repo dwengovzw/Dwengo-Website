@@ -1,0 +1,28 @@
+<div class="curricula_files_title">
+    <h3 class="fp_subtitle">Bestanden</h3>
+</div>
+<div id="curricula_files" class="curricula_files">
+    <div class="container">
+        <div class="curricula_files_wrapper">
+            <!--{{ site.static_files | jsonify | escape }}-->
+            {% for element in site.translations[site.lang].curricula_page[include.page_translation_key].curricula_files %}
+            <div class="file_download_info">
+                <div class="icon_container">
+                    <span class="material-symbols-outlined md-48">{{element.file_icon_name }}</span>
+                </div>
+                <div class="file_download_info_text">
+                    <span class="file_title">{{ element.file_title }}</span>
+                    <span class="file_link"><a target="_blank" href="{{ element.file_location }}">{{ element.link_name }}</a></span>
+                    <span class="flex_break"></span>
+                    <span class="file_info">{{ element.file_info }}</span>
+                </div>
+            </div>    
+            {% endfor %}
+
+            <div>
+                <span class="cc_by_info">Het lesmateriaal wordt ter beschikking gesteld overeenkomstig de voorwaarden van een Creative Commons BY-SA licentie.</span>
+                <img class="cc_by_logo" src="/assets/images/kiks/cc_by.png"/>
+            </div>
+        </div>
+    </div>
+</div>

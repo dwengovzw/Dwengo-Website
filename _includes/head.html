@@ -4,14 +4,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="PA82O_9uOjPcLjgB1txrf8IwoPgHAwn-Kj8neMB7oS8" />
     {%- seo -%}
+  
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
     <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/highlightbox.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/kiks.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/social_robot_extra_info.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/curricula.css" | relative_url }}">
-    <link rel="stylesheet" href="{{ "/css/bootstrap/bootstrap.min.css" | relative_url }}">
-    <link rel="stylesheet" href="{{ "/css/rangejs/jquery.range.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/bootstrap/bootstrap.min.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/rangejs/jquery.range.css" | relative_url }}">
     <link rel="shortcut icon" type="image/png" href="../images/favicon.ico">
+
+    <style>
+      .material-symbols-outlined {
+        font-variation-settings:
+        'FILL' 1,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 48
+      }
+    </style>
     {%- feed_meta -%}
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
       {%- include google-analytics.html -%}

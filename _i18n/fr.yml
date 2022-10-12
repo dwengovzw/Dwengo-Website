@@ -111,6 +111,8 @@ care:
   paragraph1: "TODO: translate all content"
   paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
   paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  title: "Het wetenschappelijk onderzoek"
+  subtitle1: "Binnenkort beschikbaar"
 
 chatbot:
   intro_title: "Chatbot"
@@ -170,54 +172,6 @@ about_page:
   commitment_column_3: Pour les enfants à partir de 8 ans jusqu'aux étudiants universitaires
   commitment_column_4: Tous nos programmes et documentations sont open source
   team: Team
-  team_member_1_name: Francis wyffels
-  team_member_1_role: Chairman & Co-founder
-  team_member_1_description: Educator @Dwengo, roboticist and ML specialist @UGent IDLab, ice cream cook, amateur light artist and child 
-  team_member_2_name: Peter Bertels
-  team_member_2_role: Co-founder & Secretary
-  team_member_2_description: Expert in Creativity and Innovation. Passionate about STEM education  
-  team_member_3_name: Wim Heirman
-  team_member_3_role: Co-founder & Treasurer
-  team_member_3_description: High-performance computing researcher during the day, microcontroller hacker at night
-  team_member_4_name: Nele Van Beveren
-  team_member_4_role: Board Member
-  team_member_4_description: "Launched #WeGoSTEM, passionate about (computer) science, change, (agile) leadership and crafts"
-  team_member_5_name: Natacha Gesquière
-  team_member_5_role: Board Member
-  team_member_5_description: STEM coach @Dwengo vzw and @UGent, exploring AI, math lover, teacher, teaching the teacher
-  team_member_6_name: Karel Bruneel
-  team_member_6_role: Co-founder & Honorary Chairman
-  team_member_6_description: Senior software architect at Autodesk
-  team_member_7_name: Michiel D'Haene
-  team_member_7_role: Co-founder & Tinkerer
-  team_member_7_description: Research engineer, passionate electronics hobbyist, bass clarinet player
-  team_member_8_name: Zimcke Van de Staey
-  team_member_8_role: STEM & AI Researcher
-  team_member_8_description: Software developer, data science researcher, STEM enthusiast
-  team_member_9_name: Jelle Roets
-  team_member_9_role: Hardware developer
-  team_member_9_description: Hardware / Software Engineer, Docent in electronics, educator, robotfan
-  team_member_10_name: Tim Waegeman
-  team_member_10_role: Webmaster
-  team_member_10_description: Research Engineer; Former researcher @UGent; Tinkerer, Roboticist, ...
-  team_member_11_name: Valerie Taerwe
-  team_member_11_role: WeGoSTEM
-  team_member_11_description: Launched WeGoSTEM, Young ICT Lady of 2017, interested in technology, diversity & innovation
-  team_member_12_name: Juan Pablo Carbajal
-  team_member_12_role: Engagement Manager
-  team_member_12_description: Physicist, Open Scientist, GNU Octave developer, researcher, Human
-  team_member_13_name: Naveen Kuppuswamy
-  team_member_13_role: Engagement Manager
-  team_member_13_description: Roboticist @Italian Institute of Technology, Genova, passionate cook, fake comic artist
-  team_member_14_name: Suriyanath Seralathan
-  team_member_14_role: Software Developer & Trainer
-  team_member_14_description: A Software Developer and robot enthusiast who dreams of a self sustaining technology
-  team_member_15_name: Paul Bertels
-  team_member_15_role: Quality & Shipment Manager
-  team_member_15_description: Passionate about STEM & official member of the STEM platform Belgium
-  team_member_16_name: Panagiotis Theocharis
-  team_member_16_role: Mentor for Creativity & Innovation
-  team_member_16_description: Computer scientist, Mentor for Creativity & Innovation, Founder @MakerlabGR
 
 # Translations for the contact page
 contact_page:
@@ -248,15 +202,45 @@ projects_page:
   project_3_description: Beschrijving internationaal project
   project_3_contact: Interesse om een internationaal project te starten? Contacteer Francis wyffels via Francis@dwengo.org
   project_3_teaser: https://www.youtube.com/watch?v=HP0ncKuV2-A 
+  project_4_title: Dwenguino
+  project_4_description: "Een robot bouwen met leerlingen of een andere toepassing van physical computing introduceren in de klas is niet zo eenvoudig. Om het voor leerkrachten zo laagdrempelig mogelijk te maken, ontwikkelde Dwengo een eiegen microcontrollerplatform, de Dwenguino, en een grafische programmeeromgeving, DwenguinoBlockly. Zelfs zonder fysiek materiaal kan je hiermee werken. De Dwenguino is een Arduino-gebaseerd microcontrollerplatform dat heel wat elementen bevat waarmee je snel je eigen apparaat kan bouwen, zoals een sociale robot, een weerstation, een muziekinstrument of een autonoom wagentje. De Dwenguino beschikt bijvoorbeeld over drukknoppen, een lcd-scherm, een zoemer, leds en connectoren om motoren aan te sluiten. De Dwenguino is open source. Het platform wordt momenteel reeds gebruikt voor leerlingen vanaf 10 jaar tot in het hoger onderwijs. Er kan een leerlijn mee opgebouwd worden van de eerste tot de derde graad van het secundair onderwijs, van grafisch tot tekstueel programmeren, en met een stijgende moeilijkheidsgraad in toepassingen."
+  project_4_contact: "Vragen? Contacteer ons via natacha@dwengo.org."
+  project_4_teaser: https://www.youtube.com/embed/VpAXLlT_JP0
+  project_5_title: Computationeel denken
+  project_5_description: "Problemen zijn vaak gemakkelijker, nauwkeuriger en sneller op te lossen met behulp van een computer. Wanneer je computationeel denkt, dan denk je na over de stappen die nodig zijn om tot een oplossing van een bepaald probleem te komen, waarna je met je technische kennis de computer aan het werk zet om die stappen uit te voeren en het probleem op te lossen. Computationeel denken focust sterk op probleemoplossende vaardigheden en kan aan bod komen in elk vak in het reguliere onderwijs. Heel wat concepten van computationeel denken kan je praktisch benaderen in programmeerlessen. Toch kan je ook zonder computer heel wat leren over computationeel denken. Dwengo helpt leerkrachten aan plugged en unplugged activiteiten om hun leerlingen computationeel te leren denken, en wil leerkrachten vaardig maken in het herkennen van de concepten van computationeel denken in hun eigen lesmaterialen. De plugged activiteiten zetten in op physical computing (met grafisch en tekstueel programmeren) en STEM (met Python)."
+  project_5_contact: "Vragen? Contacteer ons via natacha@dwengo.org."
+  project_5_teaser: https://youtube.com/embed/Nifa0vooyKg    
 
 curricula_page:
   title: Our teaching topics
   read_more: Read more
+  curricula_files: Fichiers
   kiks: 
     title: KIKS
     description: '‘KIKS’ is een project voor de derde graad binnen een context van biologie en klimaatverandering. Er wordt onderzocht hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. De huidmondjes worden geteld met een neuraal netwerk voor beeldherkenning.'
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
+    curricula_files:
+      - file_title: "De handleiding - ook verkrijgbaar in gedrukte versie"
+        file_info: "We willen de leerkrachten achtergrondkennis geven over de inhoud van dit project: de klimaatverandering, de biologie van de huidmondjes en de manier waarop planten zich via de huidmondjes aan die klimaatverandering aanpassen, het wetenschappelijk onderzoek van de UGent en de Plantentuin Meise dat aan de grondslag ligt van dit project, burgerwetenschap, wat is artificiële intelligentie (AI), de geschiedenis van AI, het gebruik ervan en de ethiek errond, de principes van digitale beelden, de wiskunde achter de algoritmen en de fundamenten van de momenteel meest gebruikte AI-technieken. We geven ook aan hoe wij met KIKS aan de slag gegaan zijn in de klas.​"
+        file_location: "/assets/files/KIKS_handleiding_eerstedruk.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "De leerplandoelen"
+        file_info: "Binnen het KIKS-project kunnen behoorlijk veel leerdoelen aan bod komen. De leerkracht bepaalt zelf welke leerdoelen in verband gebracht worden met het project. Bovendien biedt het project heel wat mogelijkheden om de leerlingen actief en zelfstandig te laten leren en om ICT-vaardigheden bij te brengen. KIKS kan ook gebruikt worden om een onderzoeksopdracht uit te werken.\n In de eindtermen en leerplannen van de verschillende koepels zijn heel wat leerdoelen te vinden die KIKS linken met biologie, aardrijkskunde en wiskunde."
+        file_location: "/assets/files/Leerdoelen-KIKS.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "De Python notebooks"
+        file_info: "De notebooks reiken toepassingen aan binnen een context van de klimaatverandering en van planten, en het verband tussen beide. De fundamentele begrippen uit machine learning en deep learning worden daarbij aangeleerd.\nDe notebooks zijn interactief opgebouwd. Er worden nieuwe begrippen in aangebracht via tekstuele uitleg, video en afbeeldingen, geleide voorbeelden, kleine en grotere opdrachten."
+        file_location: "https://www.aiopschool.be/kiks/r/jupyter/"
+        file_icon_name: "open_in_new"
+        link_name: "Openen"
+      - file_title: "Het maken van een nagellakafdruk van een deel van een blad"
+        file_info: "Om het aantal huidmondjes op een deel van een blad van een plant te kennen, bekijken we het bladoppervlak onder de microscoop. We kunnen daarvoor een stuk van de flinterdunne cuticula van het blad verwijderen, maar bij sommige planten lukt dat niet zo goed, bijvoorbeeld door de stugheid van het blad.\nDit kan echter opgevangen worden door dezelfde methode te gebruiken als de onderzoekers van de Plantentuin Meise, nl. een afdruk nemen van een deel van het bladoppervlak met doorzichtige nagellak.\nHet miscroscopische beeld kan met een smartphone gefotografeerd worden."
+        file_location: "https://vimeo.com/467062270"
+        file_icon_name: "play_arrow"
+        link_name: "Kijk"
   socialrobot:
     title: Sociale robot
     description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
@@ -313,6 +297,7 @@ curricula_page:
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
 
+
 # Translations for the learning-path page
 learning_path_page:
   title: Parcour d'apprentissage
@@ -348,7 +333,7 @@ keywords:
   ct: Pensée informatique
   graphical_prog: Codage par blocs
   kiks: KIKS
-  none: ""
+  none: " "
 
 # Translations for the menu items
 about: À propos de nous
