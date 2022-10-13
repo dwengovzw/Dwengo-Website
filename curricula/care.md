@@ -17,7 +17,7 @@ redirect_from:
 banner_image: "/images/curricula/banner_care.png"
 logo_image: "/images/curricula/logo_care.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png']
-learning_paths: ['Werken met notebooks - Python', 'AI_in_de_Zorg', 'AIZ_grafen']
+learning_paths: ['Werken met notebooks - Python', 'AI_in_de_Zorg', 'AIZ_grafen', 'aiz_unplugged']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].care.intro_title }} {% endcapture %}
