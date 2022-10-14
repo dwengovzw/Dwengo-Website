@@ -215,24 +215,25 @@ projects_page:
   project_5_contact: "Vragen? Contacteer ons via natacha@dwengo.org."
   project_5_teaser: https://youtube.com/embed/Nifa0vooyKg    
 
+# Translations for the projects page
 curricula_page:
-  title: Our teaching topics
-  read_more: Read more
-  curricula_files: Fichiers
+  title: Onze lesonderwerpen
+  read_more: Lees meer
+  curricula_files: Bestanden
   kiks: 
     title: KIKS
-    description: '‘KIKS’ is een project voor de derde graad binnen een context van biologie en klimaatverandering. Er wordt onderzocht hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. De huidmondjes worden geteld met een neuraal netwerk voor beeldherkenning.'
+    description: "Leerlingen uit de derde graad (SO) onderzoeken hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. Daarvoor tellen ze deze huidmondjes met artificiële intelligentie en beeldherkenning."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
     curricula_files:
       - file_title: "De handleiding - ook verkrijgbaar in gedrukte versie"
         file_info: "We willen de leerkrachten achtergrondkennis geven over de inhoud van dit project: de klimaatverandering, de biologie van de huidmondjes en de manier waarop planten zich via de huidmondjes aan die klimaatverandering aanpassen, het wetenschappelijk onderzoek van de UGent en de Plantentuin Meise dat aan de grondslag ligt van dit project, burgerwetenschap, wat is artificiële intelligentie (AI), de geschiedenis van AI, het gebruik ervan en de ethiek errond, de principes van digitale beelden, de wiskunde achter de algoritmen en de fundamenten van de momenteel meest gebruikte AI-technieken. We geven ook aan hoe wij met KIKS aan de slag gegaan zijn in de klas.​"
-        file_location: "/assets/files/KIKS_handleiding_eerstedruk.pdf"
+        file_location: "/assets/files/kiks/KIKS_handleiding_eerstedruk.pdf"
         file_icon_name: "description"
         link_name: "Download"
       - file_title: "De leerplandoelen"
         file_info: "Binnen het KIKS-project kunnen behoorlijk veel leerdoelen aan bod komen. De leerkracht bepaalt zelf welke leerdoelen in verband gebracht worden met het project. Bovendien biedt het project heel wat mogelijkheden om de leerlingen actief en zelfstandig te laten leren en om ICT-vaardigheden bij te brengen. KIKS kan ook gebruikt worden om een onderzoeksopdracht uit te werken.\n In de eindtermen en leerplannen van de verschillende koepels zijn heel wat leerdoelen te vinden die KIKS linken met biologie, aardrijkskunde en wiskunde."
-        file_location: "/assets/files/Leerdoelen-KIKS.pdf"
+        file_location: "/assets/files/kiks/Leerdoelen-KIKS.pdf"
         file_icon_name: "description"
         link_name: "Download"
       - file_title: "De Python notebooks"
@@ -247,57 +248,236 @@ curricula_page:
         link_name: "Kijk"
   socialrobot:
     title: Sociale robot
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    description: "Terwijl leerlingen uit de eerste graad (SO) een sociale robot knutselen en programmeren, leren ze complexe problemen oplossen via computationeel denken. Spelenderwijs werken ze aan de nieuwe eindtermen rond digitale competenties."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+    curricula_files:
+      - file_title: "Collage sociale robots"
+        file_info: "De robots op deze foto zijn realisaties van leerlingen van de eerste graad van het secundair onderwijs of zijn prototypes.​"
+        file_location: "/assets/files/socialrobot/collage.png"
+        file_icon_name: "description"
+        link_name: "Download" 
+      - file_title: "Constructiekit voor 'Sociale Robot'-project"
+        file_info: "​Wil jij dat jouw leerlingen ook een sociale robot ontwerpen en bouwen? Dat kan via de constructiekit van Dwengovzw. Op de figuur ontdek je de huidige samenstelling van de constructiekit. Geïnteresseerd? Contacteer ons via e-mail of vind meer informatie op deze projectpagina."
+        file_location: "/assets/files/socialrobot/constructiekit_SocialeRobot_wimVLR8.pdf"
+        file_icon_name: "description"
+        link_name: "Download" 
+      - file_title: "Van project naar eindtermen"
+        file_info: "De eintermen waaraan gewerkt kan worden, worden gelinkt aan de verschillende fasen van het 'Sociale Robot'-project.​"
+        file_location: "/assets/files/socialrobot/EindtermenAStroomSsocialeRobot.pdf"
+        file_icon_name: "description"
+        link_name: "Download" 
+      - file_title: "Emotiemachine (onvolledig) - Computationeel denken (unplugged activiteit)"
+        file_info: "​Unplugged activiteit"
+        file_location: "/assets/files/socialrobot/emotiemachine_gewoon_nl.pdf"
+        file_icon_name: "description"
+        link_name: "Download" 
+      - file_title: "Emotiemachine (opdracht) - Computationeel denken (unplugged activiteit)"
+        file_info: "Unplugged activiteit​"
+        file_location: "/assets/files/socialrobot/emotiemachine_gids.pdf"
+        file_icon_name: "description"
+        link_name: "Download" 
+      - file_title: "Emotiemachine (volledig) - Computationeel denken (unplugged activiteit)"
+        file_info: "Unplugged activiteit​"
+        file_location: "/assets/files/socialrobot/emotiemachine_ingevuld_nl.pdf"
+        file_icon_name: "description"
+        link_name: "Download" 
+      - file_title: "Emotiemachine met led-matrix - Computationeel denken (unplugged activiteit)"
+        file_info: "unplugged activiteit​"
+        file_location: "/assets/files/socialrobot/emotiemachine_matrices_nl.pdf"
+        file_icon_name: "description"
+        link_name: "Download" 
+      - file_title: "Ficheboekje voor leerkrachten"
+        file_info: "​De gebundelde fiches waarin het gebruik van de Dwenguino en van de sensoren en actuatoren uit de doeken wordt gedaan."
+        file_location: "/assets/files/socialrobot/ficheboekje_lkn.pdf"
+        file_icon_name: "description"
+        link_name: "Download" 
+      - file_title: "Fiches voor de leerlingen"
+        file_info: "In deze fiches wordt het gebruik van de Dwenguino en van de sensoren en actuatoren uit de doeken gedaan.​"
+        file_location: "/assets/files/socialrobot/fichesSocialeRobot_lln.pdf"
+        file_icon_name: "description"
+        link_name: "Download" 
+      - file_title: "Maak een gezicht - Computationeel denken (unplugged activiteit)"
+        file_info: "Unplugged activiteit​"
+        file_location: "/assets/files/socialrobot/maakeengezicht_activiteit.pdf"
+        file_icon_name: "description"
+        link_name: "Download" 
+      - file_title: "Opgaven van opdrachten in de MOOC"
+        file_info: "​Een overzicht van de programmeeroefeningen in de MOOC"
+        file_location: "/assets/files/socialrobot/Opgaven_MOOC.pdf"
+        file_icon_name: "description"
+        link_name: "Download" 
+      - file_title: "Poster 'Sociale Robot'-project"
+        file_info: "De poster geeft de verschillende aspecten van het project weer.​"
+        file_location: "/assets/files/socialrobot/posterSocialeRobot_nl_Qo4ANmV.pdf"
+        file_icon_name: "description"
+        link_name: "Download" 
+      - file_title: "Handleiding 'Hallo robot!'"
+        file_info: "Met dit lesboekje breng je je eigen sociale robot tot leven.​"
+        file_location: "/assets/files/socialrobot/SocialeRobot_handleiding_eerstedruk.pdf"
+        file_icon_name: "description"
+        link_name: "Download" 
   chatbot:
     title: Chatbot
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    description: "Waar taal en technologie samenkomen, ontstaat het domein van Natural Language Processing. Kan een computer teksten begrijpen, vertalen of zelfs schrijven? Kan een computer emoties herkennen? Leerlingen uit de tweede en derde graad (SO) leren er alles over in dit pakket."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+    curricula_files:
+      - file_title: "BrAInfood Chatbots"
+        file_info: "In deze brAInfood - gericht naar jongeren - geeft het Kenniscentrum Data & Maatschappij meer informatie over chatbots. De brAInfood bevat een fictief verhaal over Lotte die praat met een chatbot, en vermoedelijk informatie over haar doorgeeft aan bedrijven. Verder worden enkele aandachtspunten met betrekking tot chatbots toegelicht, alsook enkele tips voor jongeren om hun (persoons)gegevens beter te beschermen. Op die manier willen we jongeren bewuster maken van de werking van chatbots en hen stimuleren te reflecteren over de gegevens die van hen worden verzameld.​"
+        file_location: "/assets/files/chatbot/Brainfood13_Chatbots_NL.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "BrAInfood Gepersonaliseerde nieuwsberichten"
+        file_info: "In deze brAInfood van het Kenniscentrum Data & Maatschappij worden tips gegeven over hoe je de controle houdt over je newsfeed.​"
+        file_location: "/assets/files/chatbot/brainfoodaanbevelingnieuws.jpg"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Handleiding 'Chatbot' - Ook verkrijgbaar in gedrukte versie"
+        file_info: "​Leerkrachten verwerven via deze handleiding voldoende achtergrondinformatie om met (een deel van) het 'Chatbot'-project aan de slag te gaan in de klas. Het boek behandelt verschillende aspecten van taaltechnologie, zoals de geschiedenis van de artificiële intelligentie, de ethische aspecten ervan, sentimentanalyse en cyberpestdetectie, chatbots, sprekende digitale assistenten, en auteursherkenning. Er wordt ook ingegaan op de STEM-eindtermen en de eindtermen rond digitale competentie en mediawijsheid."
+        file_location: "/assets/files/chatbot/Chatbot_handleiding_eerstedruk.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Improbotics - Lesmap - Leerkrachtenversie"
+        file_info: "In de theatervoorstelling Improbotics improviseert een sociale robot mee in de scènes. In de lesmap vind je informatie over de gebruikte technologieën.​"
+        file_location: "/assets/files/chatbot/Improbotics_lesmap_Leerkracht.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Improbotics - Lesmap - Leerlingen"
+        file_info: "In de theatervoorstelling Improbotics improviseert een sociale robot mee in de scènes. In de lesmap vind je informatie over de gebruikte technologieën.​"
+        file_location: "/assets/files/chatbot/Improbotics_lesmap_Leerling.pdf"
+        file_icon_name: "description"
+        link_name: "Download"  
   care: 
-    title: AI in de zorg
-    description: '‘KIKS’ is een project voor de derde graad binnen een context van biologie en klimaatverandering. Er wordt onderzocht hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. De huidmondjes worden geteld met een neuraal netwerk voor beeldherkenning.'
+    title: AI in de Zorg
+    description: "Ziekenhuizen maken vandaag al gebruik van artificiële intelligentie. Leerlingen uit de tweede en derde graad (SO) ontdekken welke systemen er bestaan en hoe ze dokters helpen om beslissingen te nemen. Zo leren leerlingen de principes van de beslissingsboom, een veelgebruikte techniek in machine learning."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
+    curricula_files:
+      - file_title: "Sprouts"
+        file_info: "Een spel ter inleiding op 'Grafen'.​"
+        file_location: "/assets/files/care/Sprouts.mov"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Uitleg bij oefeningen grafen uit de leerlingencursus"
+        file_info: "Welke figuren stellen er dezelfde graaf voor? Een meer formele werkwijze.​"
+        file_location: "/assets/files/care/dezelfdegraafFormeel.mov"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Uitleg bij oefeningen grafen uit de leerlingencursus"
+        file_info: "Welke figuren stellen er dezelfde graaf voor? Een werkwijze met kleuren.​"
+        file_location: "/assets/files/care/dezelfdeGraaf.mov"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "De leerlingencursus - Finaliteit Doorstroom"
+        file_info: "Draftversie​"
+        file_location: "/assets/files/care/AIIndeZorg_v0punt99.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Kaartenset - Ook verkrijgbaar in gedrukte versie"
+        file_info: "​Aan de hand van deze kaartenset kan je de leerlingen laten stilstaan bij de ethische aspecten van nieuwe technologieën. Hoe zit het met privacy? Komen de sociale contacten niet in het gedrang? Welke technologieën worden met open armen ontvangen? Wat is niet wenselijk? Zijn de nieuwe technologieën voor iedereen betaalbaar?"
+        file_location: "/assets/files/care/Kaartset_AIIndeZorg_AIOpSchool_Dwengo.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Beslissingsboom 'mBrAIn'-project in niet-compacte vorm"
+        file_info: "In het onderzoeksproject ‘mBrain’, dat de ontwikkeling van een app die een migraineaanval voorspelt, als doel heeft, werd een beslissingsboom geconstrueerd. Met deze beslissingsboom wordt een probleem van binaire classificatie aangepakt: er zijn slechts twee klassen: ‘Migraine’ en ‘Geen migraine’. (Bronnen: Femke Ongenae. (2021), UGent; Van Hoecke, S., Ongenae, F., Paemeleire, K., & Vandenbussche, N. (2020). App moet hoofdpijn voorspellen. EOS Wetenschap Special, Technologie en gezondheid, 25.) Wij hebben de vorm van deze beslissingsboom omgevormd tot een binaire beslissingsboom om aan te tonen dat deze vorm niet altijd gebruiksvriendelijk is. Voor meer uitleg zie hoofdstuk 4 van de leerlingencursus van dit project.​"
+        file_location: "/assets/files/care/MBrainBeslissingsboom.png"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Zoektocht naar spraak - Computationeel denken (unplugged activiteit)"
+        file_info: "Het locked-in syndroom is een van de ergste medische aandoeningen. Je bent volledig verlamd, behalve dat je misschien nog kunt knipperen met een oog. Je intelligente geest zit opgesloten in een nutteloos lichaam: je kan alles voelen, maar niet communiceren. Het kan iedereen overkomen, uit het niets, als gevolg van een beroerte. Als je mensen met het locked-in syndroom zou willen helpen, word je dan best arts of verpleegkundige? Of kan je als computerwetenschapper ook helpen?​"
+        file_location: "/assets/files/care/ZoektochtNaarSpraak.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
   stem:
-    title: STEM
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    title: Python in STEM
+    description: "In dit pakket leer je complexe problemen eenvoudiger én sneller aanpakken met de programmeertaal Python. Programmeren kan immers een verbindende rol spelen tussen wetenschap, techniek, ontwerp en toegepaste wiskunde. Kortom, dankzij Python halen we het beste uit STEM."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   agriculture:
-    title: Landbouw
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    title: AI in de Landbouw
+    description: "Rotte tomaten weghalen tijdens de oogst? Daar kan artificiële intelligentie bij helpen. Maar hoe? Leerlingen uit de tweede en derde graad (SO) gaan met AI aan de slag. Misschien kan een trillende lopende band het systeem nog beter maken?"
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   art: 
-    title: Kunst
-    description: '‘KIKS’ is een project voor de derde graad binnen een context van biologie en klimaatverandering. Er wordt onderzocht hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. De huidmondjes worden geteld met een neuraal netwerk voor beeldherkenning.'
+    title: AI in de Kunst
+    description: "Kunnen we kunst maken met artificiële intelligentie? Leerlingen uit de tweede en derde graad (SO) leven zich creatief uit met AI en reflecteren over het resultaat. Is dit kunst? Ook ontdekken ze hoe AI ons cultureel erfgoed kan beschermen."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   wegostem:
     title: WeGoSTEM
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    description: "We dagen kinderen van de derde graad (BO) uit om een kunstrobot die kan tekenen te programmeren. Spelenderwijs leren de kinderen heel wat STEM-vaardigheden, van techniek tot computationeel denken."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   computational_thinking:
     title: Computationeel denken
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    description: "Hoe kunnen we complexe problemen oplossen met behulp van een computer? Dankzij computationeel denken! Dat kan je leren via allerlei activiteiten met óf zonder computer. Wij helpen je alvast op weg."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+    curricula_files:
+      - file_title: "Concepten en aanpak computationeel denken"
+        file_info: "poster​"
+        file_location: "/assets/files/computational_thinking/CDposterDwengo2.png"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Vier concepten van Computationeel denken uitgelegd"
+        file_info: "Presentatie over vier concepten van computationeel denken: decompositie, patroonherkenning, abstractie en algoritme. Je kan de pdf downloaden > openen > presenteren via CTRL-L  en navigeren met de pijltjestoetsen."
+        file_location: "/assets/files/computational_thinking/CD4concepten_33V3gBg.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Concepten en principes"
+        file_info: "Overzicht​"
+        file_location: "/assets/files/computational_thinking/Icoontjes.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Unplugged activiteit - Emotiemachine (opdracht)"
+        file_info: "Hoe kan je emoties stimuleren bij een robot?​"
+        file_location: "/assets/files/computational_thinking/emotiemachine_gids.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Unplugged activiteit - Emotiemachine"
+        file_info: "Hoe kan je emoties stimuleren bij een robot?​"
+        file_location: "/assets/files/computational_thinking/emotiemachine_gewoon_nl.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Unplugged activiteit - Kleuren op nummer"
+        file_info: "​Afbeeldingen kunnen op veel manieren worden gerepresenteerd. In deze kleuren op nummer puzzel moet je een afbeelding reconstrueren, gebruikmakend van de gegeven lijst van nummers; deze lijst vertelt je in welke kleur je elk vierkant (‘pixel’) inkleurt."
+        file_location: "/assets/files/computational_thinking/kleurenopnummer1.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Unplugged activiteit - Een menselijk computernetwerk"
+        file_info: "In deze activiteit maken de leerlingen kennis met hoe overdracht van gegevens over het internet werkt. Computers, smartphones en andere toestellen die met elkaar verbonden zijn via het internet, kunnen met elkaar communiceren. Om elkaar te kunnen begrijpen, dient die communicatie volgens bepaalde afspraken te verlopen. We noemen deze afspraken een protocol.​"
+        file_location: "/assets/files/computational_thinking/menselijkComputernetwerk.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Unplugged activiteit - Comprimeren"
+        file_info: "Om afbeeldingen te verzenden over netwerken, willen we de informatie met zo weinig mogelijk data representeren. Daar komt compressie aan te pas. Met behulp van algoritmes worden afbeeldingen met zo weinig mogelijk getallen gerepresenteerd, maar wel op zo’n manier dat je de oorspronkelijke figuur nog kunt terugkrijgen. Andere algoritmes herstellen de oorspronkelijke afbeelding als de informatie de bestemming bereikt heeft.​"
+        file_location: "/assets/files/computational_thinking/puzzel-gecomprimeerdepixel11.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Unplugged activiteit - Programmeer eens een mens"
+        file_info: "Computers kunnen niet interpreteren en voeren dus letterlijk iedere instructie uit die je ze geeft. De uitdaging van de programmeur bestaat erin problemen op te lossen door ze op te delen in kleine stappen die uitvoerbaar zijn door de computer, en de instructies op de juiste manier aan de computer te geven.​"
+        file_location: "/assets/files/computational_thinking/programmeerEensEenMens.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Unplugged activiteit - Zoektocht naar spraak"
+        file_info: "Het locked-in syndroom is een van de ergste medische aandoeningen. Je bent volledig verlamd, behalve dat je misschien nog kunt knipperen met een oog. Je intelligente geest zit opgesloten in een nutteloos lichaam: je kan alles voelen, maar niet communiceren. Het kan iedereen overkomen, uit het niets, als gevolg van een beroerte. Als je mensen met het locked-in syndroom zou willen helpen, word je dan best arts of verpleegkundige? Of kan je als computerwetenschapper ook helpen?​"
+        file_location: "/assets/files/computational_thinking/ZoektochtNaarSpraak.pdf"
+        file_icon_name: "description"
+        link_name: "Download"  
   math_with_python: 
-    title: Python in wiskunde
-    description: '‘KIKS’ is een project voor de derde graad binnen een context van biologie en klimaatverandering. Er wordt onderzocht hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. De huidmondjes worden geteld met een neuraal netwerk voor beeldherkenning.'
+    title: Python in de Wiskundeles
+    description: "De programmeertaal Python biedt toffe mogelijkheden om de wiskundeles te verrijken. Van de stelling van Pythagoras tot de opmaak van eigen grafieken, digitale beeldverwerking en lineaire regressie, alles wordt duidelijker met Python."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   python_programming:
-    title: Programmeren met python
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    title: Programmeren met Python
+    description: "De basisprincipes van programmeren aanleren? Dat kan perfect via dit pakket. We gaan aan de slag met Python en leren alles over sequenties, herhalingsstructuur en keuzestructuur. Dat is precies wat er in de eindtermen staat. En meer!"
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   physical_computing:
     title: Physical computing
-    description: "‘Sociale robot’ is een project voor de eerste graad waarin de principes van computationeel denken aan bod komen, gelinkt aan de nieuwe eindtermen rond digitale competenties."
+    description: "Een muziekinstrument, auto of weerstation bouwen? Dat kan met Dwenguino, een microcontrollerplatform met een eigen programmeeromgeving. Leerlingen uit zowel basis- als secundair onderwijs kunnen er meteen mee aan de slag. In het echt of in onze simulator, blokgebaseerd of tekstueel. "
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
 

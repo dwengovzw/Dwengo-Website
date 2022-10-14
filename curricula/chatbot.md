@@ -32,4 +32,6 @@ paragraph2=paragraph2
 
 {%- include learning_paths.html filter_object=lp_filter -%}
 
+{%- include curricula_files.html page_translation_key="chatbot" -%}
+
 {%- include partners.html images=page.partner_images -%}
