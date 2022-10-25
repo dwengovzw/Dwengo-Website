@@ -8,6 +8,9 @@ permalink: /computational_thinking/
 redirect_from: 
   - /Computationeel_Denken/
   - /computatoineel_denken/
+  - /ComputationeelDenken/
+  - /Computationeeldenken/
+  - /computationeeldenken/
 banner_image: "/images/curricula/banner_computational_thinking.png"
 logo_image: "/images/curricula/logo_computational_thinking.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/pov.jpeg', '/images/partners/hogent.svg', '/images/partners/istem.png', '/images/partners/vlaanderen.svg']
