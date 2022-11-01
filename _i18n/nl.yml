@@ -356,17 +356,17 @@ curricula_page:
         file_icon_name: "description"
         link_name: "Download"
       - file_title: "De leerlingencursus - Finaliteit Doorstroom"
-        file_info: "Draftversie​"
+        file_info: "Draftversie"
         file_location: "/assets/files/care/AIIndeZorg_v0punt99.pdf"
         file_icon_name: "description"
         link_name: "Download"
       - file_title: "Kaartenset - Ook verkrijgbaar in gedrukte versie"
-        file_info: "​Aan de hand van deze kaartenset kan je de leerlingen laten stilstaan bij de ethische aspecten van nieuwe technologieën. Hoe zit het met privacy? Komen de sociale contacten niet in het gedrang? Welke technologieën worden met open armen ontvangen? Wat is niet wenselijk? Zijn de nieuwe technologieën voor iedereen betaalbaar?"
+        file_info: "Aan de hand van deze kaartenset kan je de leerlingen laten stilstaan bij de ethische aspecten van nieuwe technologieën. Hoe zit het met privacy? Komen de sociale contacten niet in het gedrang? Welke technologieën worden met open armen ontvangen? Wat is niet wenselijk? Zijn de nieuwe technologieën voor iedereen betaalbaar?"
         file_location: "/assets/files/care/Kaartset_AIIndeZorg_AIOpSchool_Dwengo.pdf"
         file_icon_name: "description"
         link_name: "Download"
       - file_title: "Beslissingsboom 'mBrAIn'-project in niet-compacte vorm"
-        file_info: "In het onderzoeksproject ‘mBrain’, dat de ontwikkeling van een app die een migraineaanval voorspelt, als doel heeft, werd een beslissingsboom geconstrueerd. Met deze beslissingsboom wordt een probleem van binaire classificatie aangepakt: er zijn slechts twee klassen: ‘Migraine’ en ‘Geen migraine’. (Bronnen: Femke Ongenae. (2021), UGent; Van Hoecke, S., Ongenae, F., Paemeleire, K., & Vandenbussche, N. (2020). App moet hoofdpijn voorspellen. EOS Wetenschap Special, Technologie en gezondheid, 25.) Wij hebben de vorm van deze beslissingsboom omgevormd tot een binaire beslissingsboom om aan te tonen dat deze vorm niet altijd gebruiksvriendelijk is. Voor meer uitleg zie hoofdstuk 4 van de leerlingencursus van dit project.​"
+        file_info: "In het onderzoeksproject 'mBrain', dat de ontwikkeling van een app die een migraineaanval voorspelt, als doel heeft, werd een beslissingsboom geconstrueerd. Met deze beslissingsboom wordt een probleem van binaire classificatie aangepakt: er zijn slechts twee klassen: ‘Migraine’ en ‘Geen migraine’. (Bronnen: Femke Ongenae. (2021), UGent; Van Hoecke, S., Ongenae, F., Paemeleire, K., & Vandenbussche, N. (2020). App moet hoofdpijn voorspellen. EOS Wetenschap Special, Technologie en gezondheid, 25.) Wij hebben de vorm van deze beslissingsboom omgevormd tot een binaire beslissingsboom om aan te tonen dat deze vorm niet altijd gebruiksvriendelijk is. Voor meer uitleg zie hoofdstuk 4 van de leerlingencursus van dit project.​"
         file_location: "/assets/files/care/MBrainBeslissingsboom.png"
         file_icon_name: "description"
         link_name: "Download"
@@ -385,6 +385,12 @@ curricula_page:
     description: "Rotte tomaten weghalen tijdens de oogst? Daar kan artificiële intelligentie bij helpen. Maar hoe? Leerlingen uit de tweede en derde graad (SO) gaan met AI aan de slag. Misschien kan een trillende lopende band het systeem nog beter maken?"
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+    curricula_files:
+      - file_title: "Ontwerp"
+        file_info: "Ontwerp van de lopende band"
+        file_location: "/assets/files/art/Transportband_InnoVET_RCH.zip"
+        file_icon_name: "description"
+        link_name: "Download"
   art: 
     title: AI in de Kunst
     description: "Kunnen we kunst maken met artificiële intelligentie? Leerlingen uit de tweede en derde graad (SO) leven zich creatief uit met AI en reflecteren over het resultaat. Is dit kunst? Ook ontdekken ze hoe AI ons cultureel erfgoed kan beschermen."
