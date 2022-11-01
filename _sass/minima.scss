@@ -583,6 +583,15 @@ img {
     position: absolute;
     top: 0px;
   }
+  .ct_algorithm_container,  .ct_abstraction_container, .ct_decomposition_container, .ct_pattern_recognition_container {
+    width: calc(50% + 0.5px);
+    padding: 15px;
+    min-width: 318px;
+    border: 1px solid black;
+    margin-top: -1px;
+    margin-left: -1px;
+    position: relative;
+  }
 }
 
 
@@ -598,6 +607,16 @@ img {
     position: absolute;
     top: 0px;
   }
+
+  .ct_algorithm_container,  .ct_abstraction_container, .ct_decomposition_container, .ct_pattern_recognition_container {
+    width: 100%;
+    padding: 15px;
+    min-width: 318px;
+    border: 1px solid black;
+    margin-top: -1px;
+    margin-left: -1px;
+    position: relative;
+  }
 }
 
 @media (max-width:768px){
@@ -610,6 +629,16 @@ img {
     background-size: cover;
     position: absolute;
     top: 77px
+  }
+
+  .ct_algorithm_container,  .ct_abstraction_container, .ct_decomposition_container, .ct_pattern_recognition_container {
+    width: 100%;
+    padding: 15px;
+    min-width: 318px;
+    border: 1px solid black;
+    margin-top: -1px;
+    margin-left: -1px;
+    position: relative;
   }
 }
 
@@ -752,6 +781,37 @@ footer {
  border-radius: 50%;
 }
 
+// CSS for ct-schema learning object
+
+.ct_schema_container {
+  display: flex;
+  flex-direction: column;
+}
+
+.ct_row1_container, .ct_row2_container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 100%;
+}
+
+.ct_context_container, .ct_implementation_container{
+  width: 100%;
+  border: 1px solid black;
+  padding: 15px;
+  margin-top: -1px;
+  margin-left: -1px;
+  position: relative;
+}
+
+.ct_logo {
+  width: 30px;
+  height:30px;
+  position:absolute;
+  bottom: 0px;
+  right: 0px;
+  margin: 5px;
+}
 
 
 
