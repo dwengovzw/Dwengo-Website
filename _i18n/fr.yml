@@ -394,6 +394,12 @@ curricula_page:
     description: "Rotte tomaten weghalen tijdens de oogst? Daar kan artificiële intelligentie bij helpen. Maar hoe? Leerlingen uit de tweede en derde graad (SO) gaan met AI aan de slag. Misschien kan een trillende lopende band het systeem nog beter maken?"
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+    curricula_files:
+      - file_title: "Ontwerp"
+        file_info: "Ontwerp van de lopende band"
+        file_location: "/assets/files/art/Transportband_InnoVET_RCH.zip"
+        file_icon_name: "description"
+        link_name: "Download"
   art: 
     title: AI in de Kunst
     description: "Kunnen we kunst maken met artificiële intelligentie? Leerlingen uit de tweede en derde graad (SO) leven zich creatief uit met AI en reflecteren over het resultaat. Is dit kunst? Ook ontdekken ze hoe AI ons cultureel erfgoed kan beschermen."
