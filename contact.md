@@ -7,7 +7,6 @@ title: contact
 introduction: introduction
 you_can_contact_dwengo: you_can_contact_dwengo
 email: email
-phone: phone
 mail: mail
 address_line_1: address_line_1
 address_line_2: address_line_2
@@ -24,7 +23,6 @@ permalink: /contact/
 {% t contact_page.you_can_contact_dwengo %}
 
 {% t contact_page.email %}\
-{% t contact_page.phone %}
 
 {% t contact_page.mail %}
 

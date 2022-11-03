@@ -174,7 +174,6 @@ contact_page:
   introduction: Wil je meer weten over hoe je met het lesmateriaal van Dwengo aan de slag kan op school? Of heb je net een keicool project uitgewerkt met je leerlingen en wil je dat delen? Laat dan zeker iets weten!
   you_can_contact_dwengo: "Je kan Dwengo vzw contacteren:"
   email: Via e-mail op info@dwengo.org
-  phone: Per telefoon op +32 473 30 07 29
   mail: "Per post:"
   address_line_1: Dwengo vzw
   address_line_2: Marcel Thirylaan 194
@@ -187,11 +186,11 @@ projects_page:
   title: Projecten in de kijker
   project_1_title: WeGoSTEM
   project_1_description: Met WeGoSTEM enthousiasmeren we leerlingen uit de derde graad van het basisonderwijs voor techniek en informaticawetenschappen. We dagen de kinderen uit om een creatieve kunst-robot die zelfstandig kan tekenen, te bouwen en te programmeren. Zo leren ze heel wat STEM-vaardigheden van techniek tot computationeel denken. De voorbije jaren bouwden in heel België al meer dan 20 000 kinderen hun eerste robot tijdens het WeGoSTEM-project. Ook jij kan met jouw school aan de slag dankzij het gratis lesmateriaal dat via Belgische bibliotheken verspreid wordt.
-  project_1_contact: "Vragen? Contacteer ons via wegostem@dwengo.org. Voor bibliotheken met logistieke vragen is er een apart adres: bib@dwengo.org. De pers kan contact opnemen met Peter Bertels via +32 474 87 40 95 of peter@dwengo.org."
+  project_1_contact: "Vragen? Contacteer ons via wegostem@dwengo.org. Voor bibliotheken met logistieke vragen is er een apart adres: bib@dwengo.org. De pers kan contact opnemen met Peter Bertels via peter@dwengo.org."
   project_1_teaser: https://www.youtube.com/embed/5zK8zEZL7rk
   project_2_title: AI Op School
   project_2_description: "Artificiële intelligentie (AI) komt volop aan bod in de media. Populaire thema’s zijn: chatbots, zelfrijdende auto’s, virtuele assistenten en het verlies aan jobs. AI-systemen dringen meer en meer onze wereld binnen. AI Op School is een project dat ontstaan is uit de bekommernis dat leerlingen kunstmatige (KI) of artificiële intelligentie moeten kunnen begrijpen en het besef dat er een hiaat is in het curriculum van het secundair onderwijs om hieraan tegemoet te komen. We maken lesmateriaal voor het secundair onderwijs rond AI gelinkt aan de eindtermen en de bestaande leerplandoelen. Al dit lesmateriaal is beschikbaar op onze website."
-  project_2_contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+  project_2_contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
   project_2_teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   project_3_title: Internationale projecten
   project_3_description: "Onze grote droom is dat elke jongere, waar ook ter wereld, de kans en de mogelijkheden krijgt om een robot te bouwen en te programmeren. Hierbij is het niet de bedoeling om van elke jongere een ingenieur te maken. Wel moet elke jongere zijn of haar talent voor STEM (Science, Technology, Engineering en Mathematics) kunnen ontdekken en ontplooien. Bij Dwengo zijn we ervan overtuigd dat we de grootste innovatieve vooruitgang bereiken wanneer we erin slagen om mensen uit verschillende culturen, sociale contexten en van verschillende achtergronden samen te brengen om een probleem op te lossen. Om dit te realiseren is een basis aan wetenschappelijke en technische geletterdheid voor iedereen noodzakelijk! Via onderwijsprojecten in o.a. Argentinië, België, India, Italië, Maleisië en Zwitserland draagt Dwengo haar steentje bij. Voor al deze inspanningen viel Dwengo meerdere malen in de prijzen."
@@ -235,7 +234,7 @@ curricula_page:
   socialrobot:
     title: Sociale robot
     description: "Terwijl leerlingen uit de eerste graad (SO) een sociale robot knutselen en programmeren, leren ze complexe problemen oplossen via computationeel denken. Spelenderwijs werken ze aan de nieuwe eindtermen rond digitale competenties."
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
     curricula_files:
       - file_title: "Collage sociale robots"
@@ -306,7 +305,7 @@ curricula_page:
   chatbot:
     title: Chatbot
     description: "Waar taal en technologie samenkomen, ontstaat het domein van Natural Language Processing. Kan een computer teksten begrijpen, vertalen of zelfs schrijven? Kan een computer emoties herkennen? Leerlingen uit de tweede en derde graad (SO) leren er alles over in dit pakket."
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
     curricula_files:
       - file_title: "BrAInfood Chatbots"
@@ -378,12 +377,12 @@ curricula_page:
   stem:
     title: Python in STEM
     description: "In dit pakket leer je complexe problemen eenvoudiger én sneller aanpakken met de programmeertaal Python. Programmeren kan immers een verbindende rol spelen tussen wetenschap, techniek, ontwerp en toegepaste wiskunde. Kortom, dankzij Python halen we het beste uit STEM."
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   agriculture:
     title: AI in de Landbouw
     description: "Rotte tomaten weghalen tijdens de oogst? Daar kan artificiële intelligentie bij helpen. Maar hoe? Leerlingen uit de tweede en derde graad (SO) gaan met AI aan de slag. Misschien kan een trillende lopende band het systeem nog beter maken?"
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
     curricula_files:
       - file_title: "Ontwerp"
@@ -399,12 +398,12 @@ curricula_page:
   wegostem:
     title: WeGoSTEM
     description: "We dagen kinderen van de derde graad (BO) uit om een kunstrobot die kan tekenen te programmeren. Spelenderwijs leren de kinderen heel wat STEM-vaardigheden, van techniek tot computationeel denken."
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   computational_thinking:
     title: Computationeel denken
     description: "Hoe kunnen we complexe problemen oplossen met behulp van een computer? Dankzij computationeel denken! Dat kan je leren via allerlei activiteiten met óf zonder computer. Wij helpen je alvast op weg."
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
     curricula_files:
       - file_title: "Concepten en aanpak computationeel denken"
@@ -465,12 +464,12 @@ curricula_page:
   python_programming:
     title: Programmeren met Python
     description: "De basisprincipes van programmeren aanleren? Dat kan perfect via dit pakket. We gaan aan de slag met Python en leren alles over sequenties, herhalingsstructuur en keuzestructuur. Dat is precies wat er in de eindtermen staat. En meer!"
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   physical_computing:
     title: Physical computing
     description: "Een muziekinstrument, auto of weerstation bouwen? Dat kan met Dwenguino, een microcontrollerplatform met een eigen programmeeromgeving. Leerlingen uit zowel basis- als secundair onderwijs kunnen er meteen mee aan de slag. In het echt of in onze simulator, blokgebaseerd of tekstueel. "
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
 
 
@@ -498,7 +497,6 @@ footer:
   follow: Volg ons
   contact: Contact
   email: info@dwengo.org
-  phone: +32 473 30 07 29
   address_line_1: Dwengo vzw
   address_line_2: Marcel Thirylaan 194
   address_line_3: 1200 Brussel
