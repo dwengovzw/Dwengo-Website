@@ -24,7 +24,6 @@ paragraph2=paragraph2
 paragraph3=paragraph3
 -%}
 
-
 {% assign begin = '{"hruids": ' %}
 {% assign end = '}' %}
 {% assign full = "'" | append: begin | append: page.learning_paths | append: end | append: "'" %}

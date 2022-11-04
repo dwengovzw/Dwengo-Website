@@ -24,6 +24,7 @@ paragraph2=paragraph2
 paragraph3=paragraph3
 -%}
 
+{%- include wegostem_extra_info.html -%}
 
 {% assign begin = '{"hruids": ' %}
 {% assign end = '}' %}
