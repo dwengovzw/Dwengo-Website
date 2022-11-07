@@ -33,9 +33,19 @@ kiks:
   paragraph1: "KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben."
   paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
   paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
-  form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
-  form_button_text: "Interesse?"
-  research: Het wetenschappelijk onderzoek
+  form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met 'KIKS' en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
+  form_button_text: "INTERESSE?"
+  title: "Het wetenschappelijk onderzoek"
+  titlep1: "Wetenschappers van de Plantentuin Meise en de UGent onderzoeken <strong>hoe bomen uit het tropisch regenwoud zich aanpassen aan de klimaatverandering</strong>. De stomata op hun bladeren verschaffen informatie over de CO<sub>2</sub>-concentratie in de atmosfeer ten tijde van de groei van de planten. De onderzoekers <strong>tellen</strong> het aantal stomata op de bladeren en ze <strong>meten</strong> hun grootte op. Erna vergelijken ze de resultaten van recent materiaal met die van materiaal van honderd jaar terug."
+  titlep2: "Het tellen en meten van stomata is echter een heel tijdrovende bezigheid. Om dit te <strong>automatiseren</strong>, heeft een computerwetenschapper van de UGent <strong>een neuraal netwerk getraind</strong>. Om zo'n netwerk te trainen zijn veel voorbeelden nodig: foto's van stomata en foto's van bladeren zonder stomata."
+  subtitle1: "Klimaat"
+  subtitle1p1: "Sinds het begin van de industriële revolutie (1750) is de concentratie van broeikasgassen in onze atmosfeer sterk toegenomen. Dit versterkt het natuurlijk broeikaseffect. De laag met broeikasgassen in de atmosfeer fungeert als een soort deken, dat dikker wordt naarmate de hoeveelheid broeikasgassen toeneemt. Bijgevolg wordt het onder het deken warmer omdat de warmte steeds moeilijker van onder het deken kan ontsnappen naar de ruimte. De verhoogde concentratie van broeikasgassen in de atmosfeer resulteert in een verhoging van de gemiddelde temperatuur en een globale klimaatverandering."
+  subtitle2: "Stomata"
+  subtitle2p1: "Planten zijn in staat om zelf de energierijke koolstofverbindingen op te bouwen die ze nodig hebben om te leven, te groeien en zich te kunnen reproduceren. Ze doen dit via fotosynthese. Hiervoor moet de plant CO2 opnemen. Om die opname mogelijk te maken, zijn er microscopisch kleine poortjes in de opperhuid van het blad, de huidmondjes (stomata). De huidmondjes staan ook in voor afkoeling van de plant en het onderhouden van de sapstroom van wortel tot hoog in de plant."
+  subtitle2p2: "Uit de paleoklimatologie blijkt dat de stomatale grootte en dichtheid beïnvloed worden door de atmosferische CO<sub>2</sub>-concentratie."
+  subtitle3: "AI"
+  subtitle3p1: "Diepe neurale netwerken zijn een vorm van machinaal leren, en behoren dus tot het domein van de artificiële intelligentie. Convolutionele neurale netwerken zijn uitermate geschikt om huidmondjes op microfoto's te herkennen."
+  subtitle3p2: "Aan de hand van Python notebooks verkennen we stap voor stap deze wondere wereld. Leerlingen krijgen inzicht in de fundamenten van artificiële intelligentie. Maar er komen ook praktische zaken bij kijken, zoals het verzamelen en voorbereiden van de dataset."
 
 socialrobot:
   intro_title: "Sociale robot"
