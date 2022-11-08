@@ -34,9 +34,19 @@ kiks:
   paragraph1: "KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben."
   paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
   paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
-  form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met ‘KIKS’ en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
-  form_button_text: "Interesse?"
-  research: Het wetenschappelijk onderzoek
+  form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met 'KIKS' en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
+  form_button_text: "INTERESSE?"
+  title: "Het wetenschappelijk onderzoek"
+  titlep1: "Wetenschappers van de Plantentuin Meise en de UGent onderzoeken <strong>hoe bomen uit het tropisch regenwoud zich aanpassen aan de klimaatverandering</strong>. De stomata op hun bladeren verschaffen informatie over de CO<sub>2</sub>-concentratie in de atmosfeer ten tijde van de groei van de planten. De onderzoekers <strong>tellen</strong> het aantal stomata op de bladeren en ze <strong>meten</strong> hun grootte op. Erna vergelijken ze de resultaten van recent materiaal met die van materiaal van honderd jaar terug."
+  titlep2: "Het tellen en meten van stomata is echter een heel tijdrovende bezigheid. Om dit te <strong>automatiseren</strong>, heeft een computerwetenschapper van de UGent <strong>een neuraal netwerk getraind</strong>. Om zo'n netwerk te trainen zijn veel voorbeelden nodig: foto's van stomata en foto's van bladeren zonder stomata."
+  subtitle1: "Klimaat"
+  subtitle1p1: "Sinds het begin van de industriële revolutie (1750) is de concentratie van broeikasgassen in onze atmosfeer sterk toegenomen. Dit versterkt het natuurlijk broeikaseffect. De laag met broeikasgassen in de atmosfeer fungeert als een soort deken, dat dikker wordt naarmate de hoeveelheid broeikasgassen toeneemt. Bijgevolg wordt het onder het deken warmer omdat de warmte steeds moeilijker van onder het deken kan ontsnappen naar de ruimte. De verhoogde concentratie van broeikasgassen in de atmosfeer resulteert in een verhoging van de gemiddelde temperatuur en een globale klimaatverandering."
+  subtitle2: "Stomata"
+  subtitle2p1: "Planten zijn in staat om zelf de energierijke koolstofverbindingen op te bouwen die ze nodig hebben om te leven, te groeien en zich te kunnen reproduceren. Ze doen dit via fotosynthese. Hiervoor moet de plant CO2 opnemen. Om die opname mogelijk te maken, zijn er microscopisch kleine poortjes in de opperhuid van het blad, de huidmondjes (stomata). De huidmondjes staan ook in voor afkoeling van de plant en het onderhouden van de sapstroom van wortel tot hoog in de plant."
+  subtitle2p2: "Uit de paleoklimatologie blijkt dat de stomatale grootte en dichtheid beïnvloed worden door de atmosferische CO<sub>2</sub>-concentratie."
+  subtitle3: "AI"
+  subtitle3p1: "Diepe neurale netwerken zijn een vorm van machinaal leren, en behoren dus tot het domein van de artificiële intelligentie. Convolutionele neurale netwerken zijn uitermate geschikt om huidmondjes op microfoto's te herkennen."
+  subtitle3p2: "Aan de hand van Python notebooks verkennen we stap voor stap deze wondere wereld. Leerlingen krijgen inzicht in de fundamenten van artificiële intelligentie. Maar er komen ook praktische zaken bij kijken, zoals het verzamelen en voorbereiden van de dataset."
 
 socialrobot:
   intro_title: "Sociale robot"
@@ -76,10 +86,24 @@ art:
 
 wegostem:
   intro_title: "WeGoSTEM"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
-
+  paragraph1: "Met WeGoSTEM enthousiasmeert Dwengo leerlingen uit de derde graad van het basisonderwijs voor techniek en informaticawetenschappen. We dagen de kinderen uit om een creatieve kunst-robot die zelfstandig kan tekenen, te bouwen en te programmeren. Zo leren ze heel wat STEM-vaardigheden van techniek tot computationeel denken."
+  paragraph2: "Op deze pagina hebben we al het ondersteunend didactisch materiaal samengebracht in een online les. WeGoSTEM bundelt een aantal interessante activiteiten die je op twee lesuren kan realiseren in de klas."  
+  title: "Ontleen gratis de tekenrobots in de bibliotheek en breng STEM in de klas"
+  titlep1: "Om het verdelen van ons materiaal zo vlot mogelijk te laten verlopen, werken we samen met lokale bibliotheken. Een overzicht vind je onderaan deze pagina terug, met links naar het reserveringsformulier of een contactpersoon."
+  titlep2: "Met het materiaal in deze doos kan je een WeGoSTEM-workshop geven voor een klas tot maximaal 30 leerlingen. Maak jouw collega's ook warm voor WeGoSTEM en geef de workshop samen voor alle leerlingen van 5de en 6de leerjaar!" 
+  titlep3: "Het is de bedoeling dat je het materiaal na <strong>twee weken</strong> terugbrengt naar de bibliotheek!"
+  subtitle1: "Ontstaan"
+  subtitle1p1: "In 2017, tijdens de jury presentaties van Young ICT Lady of the Year-kandidaten, kwamen 3 van de kandidaten met elkaar in gesprek. Al snel werd duidelijk dat de reden van deelname aan SheGoesICT dezelfde was: hun eigen passie delen door leerlingen te enthousiasmeren voor STEM. Diezelfde dag besloten de 3 om samen een activiteit op poten te zetten. Een eerste proefworkshop, die inhoudelijk al werd samengesteld door Dwengo vzw, ging door in een Gentse school op internationale vrouwendag."
+  subtitle1p2: "Die proefworkshop zag er goed uit, en we besloten er een groot initiatief van de maken met als eerste focus: duizenden kinderen deze workshop aanbieden op school, tijdens de EU Code Week in oktober. Om dat te realiseren bundelden we de didactische kennis en ervaring van Dwengo met het enthousiasme en netwerk van de SheGoesICT-kandidates. Samen trainden we 300 vrijwilligers die per 3 graag voor één dag voor de klas wilden staan om een robot workshop te bouwen. Het nodige materiaal brachten we naar de scholen, en pikten we daar weer op. Met de hulp van subsidie en sponsoring uit de industrie konden we op die manier zo'n 4000 kinderen bereiken."
+  subtitle2: "Professionaliseren"
+  subtitle2p1: "WeGoSTEM organiseren gaf veel voldoening, het was snel duidelijk dat we er een jaarlijks initiatief van wilden maken. Dat vroeg om een professionalisering van de aanpak. Vanaf 2018 zetten we vooral in op een eigen website waar vrijwilligers en scholen zich konden registreren. Zo konden we de planning voor een groot deel automatiseren. Ook de WeGoSTEM-kit vroeg om een verbetering. We leerden uit de feedback van de vrijwilligers en pasten het materiaal aan."
+  subtitle2p2: "We konden ons bereik in de EU Code Week in 2018 en 2019 nog vergroten, met respectievelijk meer dan 5000, meer dan 7000 kinderen werd het een groot succes! Vanaf 2018 breidden we naast Vlaanderen en Brussel ook uit naar Wallonië, en zelfs in Griekenland vond WeGoSTEM plaats. Net als in 2017 zetten we extra in op scholen waar, meer dan gemiddeld, kinderen met een kansarme achtergrond school lopen. Zo bereikten we telkens voor 30 % kinderen met een kansarme achtergrond. Ook bleven we aandacht hebben voor een goede meisjes-jongensverhouding en zijn we fier dat de vrijwilligers voor 40 % vrouwelijk zijn!"
+  subtitle3: "COVID"
+  subtitle3p1: "COVID verplichtte ons om na te denken over een geheel andere aanpak. Met vrijwilligers naar scholen gaan, lukte niet. Daarom besloten we in te zetten op een ‘teach-the-teacher’-principe. We ontwikkelden een online leerpad zodat de leerkrachten zichzelf konden voorbereiden en de workshop zelf konden geven in de klas. Het materiaal brachten we nog steeds naar de scholen. Elke leerkracht kreeg een online <em>buddy</em>, één van de meer ervaren vrijwilligers van de vorige jaren. In plaats van pure focus op EU Code Week spreidden we het initiatief in 2020 over het gehele schooljaar 2020-2021."
+  subtitle3p2: "We kregen positieve feedback van de leerkrachten, en de buddies lieten ons weten dat er amper vragen kwamen. De basis van het online leerpad zat goed, en werd nog verder verbeterd."
+  subtitle3p3: "Vanaf 2021 besloten we om de aanpak niet meer terug als voorheen te maken, maar om de aanpak verder te herdenken. We werken opnieuw met een (beperktere) versie van WeGoSTEM tijdens de EU Code Week, met een nog sterkere focus op kansarme kinderen. Tijdens de rest van het schooljaar kan nu élke school gebruikmaken van het ondersteunend didactisch materiaal, en bovendien het robotmateriaal gratis ontlenen in één van de bibliotheken waarmee we een samenwerking opzetten. Om het materiaal nog teoegankelijker te maken heeft Dwengo ondertussen een online simulator ontwikkeld die op elke computer of Chromebook kan gebruikt worden. Scholen kunnen nu met hun eigen laptops of Chromebooks werken."
+  title2: "Ontlenen"
+ 
 computational_thinking:
   intro_title: "Computationeel Denken"
   paragraph1: "<strong>In onze steeds meer gedigitaliseerde wereld is het belangrijk dat iedereen naast rekenen, lezen en schrijven ook computationeel kan denken. Computationeel denken gaat over het vermogen om problemen op te lossen met behulp van een computer.</strong>"
@@ -181,7 +205,6 @@ contact_page:
   introduction: Möchten Sie mehr darüber erfahren, wie Sie Dwengo-Lernmaterialien in Ihrer Schule einsetzen können? Oder hast du gerade ein richtig cooles Projekt mit deinen Schülern entwickelt und möchtest es teilen? Dann lass es uns wissen!
   you_can_contact_dwengo: "Sie können Dwengo vzw kontaktieren::"
   email: Per E-Mail an info@dwengo.org
-  phone: Telefonisch unter +32 473 30 07 29
   mail: "Oder per Post::"
   address_line_1: Dwengo vzw
   address_line_2: Marcel Thirylaan 194
@@ -234,11 +257,6 @@ curricula_page:
         file_location: "/assets/files/kiks/Leerdoelen-KIKS.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "De Python notebooks"
-        file_info: "De notebooks reiken toepassingen aan binnen een context van de klimaatverandering en van planten, en het verband tussen beide. De fundamentele begrippen uit machine learning en deep learning worden daarbij aangeleerd.\nDe notebooks zijn interactief opgebouwd. Er worden nieuwe begrippen in aangebracht via tekstuele uitleg, video en afbeeldingen, geleide voorbeelden, kleine en grotere opdrachten."
-        file_location: "https://www.aiopschool.be/kiks/r/jupyter/"
-        file_icon_name: "open_in_new"
-        link_name: "Openen"
       - file_title: "Het maken van een nagellakafdruk van een deel van een blad"
         file_info: "Om het aantal huidmondjes op een deel van een blad van een plant te kennen, bekijken we het bladoppervlak onder de microscoop. We kunnen daarvoor een stuk van de flinterdunne cuticula van het blad verwijderen, maar bij sommige planten lukt dat niet zo goed, bijvoorbeeld door de stugheid van het blad.\nDit kan echter opgevangen worden door dezelfde methode te gebruiken als de onderzoekers van de Plantentuin Meise, nl. een afdruk nemen van een deel van het bladoppervlak met doorzichtige nagellak.\nHet miscroscopische beeld kan met een smartphone gefotografeerd worden."
         file_location: "https://vimeo.com/467062270"
@@ -247,7 +265,7 @@ curricula_page:
   socialrobot:
     title: Sociale robot
     description: "Terwijl leerlingen uit de eerste graad (SO) een sociale robot knutselen en programmeren, leren ze complexe problemen oplossen via computationeel denken. Spelenderwijs werken ze aan de nieuwe eindtermen rond digitale competenties."
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
     curricula_files:
       - file_title: "Collage sociale robots"
@@ -318,7 +336,7 @@ curricula_page:
   chatbot:
     title: Chatbot
     description: "Waar taal en technologie samenkomen, ontstaat het domein van Natural Language Processing. Kan een computer teksten begrijpen, vertalen of zelfs schrijven? Kan een computer emoties herkennen? Leerlingen uit de tweede en derde graad (SO) leren er alles over in dit pakket."
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
     curricula_files:
       - file_title: "BrAInfood Chatbots"
@@ -390,13 +408,19 @@ curricula_page:
   stem:
     title: Python in STEM
     description: "In dit pakket leer je complexe problemen eenvoudiger én sneller aanpakken met de programmeertaal Python. Programmeren kan immers een verbindende rol spelen tussen wetenschap, techniek, ontwerp en toegepaste wiskunde. Kortom, dankzij Python halen we het beste uit STEM."
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   agriculture:
     title: AI in de Landbouw
     description: "Rotte tomaten weghalen tijdens de oogst? Daar kan artificiële intelligentie bij helpen. Maar hoe? Leerlingen uit de tweede en derde graad (SO) gaan met AI aan de slag. Misschien kan een trillende lopende band het systeem nog beter maken?"
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+    curricula_files:
+      - file_title: "Ontwerp"
+        file_info: "Ontwerp van de lopende band"
+        file_location: "/assets/files/art/Transportband_InnoVET_RCH.zip"
+        file_icon_name: "description"
+        link_name: "Download"
   art: 
     title: AI in de Kunst
     description: "Kunnen we kunst maken met artificiële intelligentie? Leerlingen uit de tweede en derde graad (SO) leven zich creatief uit met AI en reflecteren over het resultaat. Is dit kunst? Ook ontdekken ze hoe AI ons cultureel erfgoed kan beschermen."
@@ -405,12 +429,12 @@ curricula_page:
   wegostem:
     title: WeGoSTEM
     description: "We dagen kinderen van de derde graad (BO) uit om een kunstrobot die kan tekenen te programmeren. Spelenderwijs leren de kinderen heel wat STEM-vaardigheden, van techniek tot computationeel denken."
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   computational_thinking:
     title: Computationeel denken
     description: "Hoe kunnen we complexe problemen oplossen met behulp van een computer? Dankzij computationeel denken! Dat kan je leren via allerlei activiteiten met óf zonder computer. Wij helpen je alvast op weg."
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
     curricula_files:
       - file_title: "Concepten en aanpak computationeel denken"
@@ -471,12 +495,12 @@ curricula_page:
   python_programming:
     title: Programmeren met Python
     description: "De basisprincipes van programmeren aanleren? Dat kan perfect via dit pakket. We gaan aan de slag met Python en leren alles over sequenties, herhalingsstructuur en keuzestructuur. Dat is precies wat er in de eindtermen staat. En meer!"
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   physical_computing:
     title: Physical computing
     description: "Een muziekinstrument, auto of weerstation bouwen? Dat kan met Dwenguino, een microcontrollerplatform met een eigen programmeeromgeving. Leerlingen uit zowel basis- als secundair onderwijs kunnen er meteen mee aan de slag. In het echt of in onze simulator, blokgebaseerd of tekstueel. "
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via +32 473 300 729 of Francis@dwengo.org.
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
 
 # Translations for the learning-path page
@@ -500,7 +524,6 @@ footer:
   follow: Folge Sie uns
   contact: Kontakte
   email: info@dwengo.org
-  phone: +32 473 30 07 29
   address_line_1: Dwengo vzw
   address_line_2: Marcel Thirylaan 194
   address_line_3: 1200 Brüssel

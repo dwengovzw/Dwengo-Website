@@ -1,7 +1,6 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: agriculture
 permalink: /agriculture/
@@ -14,7 +13,7 @@ redirect_from:
 banner_image: "/images/curricula/banner_agriculture.png"
 logo_image: "/images/curricula/logo_agriculture.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/richtpunthamme.png', '/images/partners/west-vlaanderen.png', '/images/partners/ptikortrijk.png', '/images/partners/innovet.jpg', '/images/partners/istem.png']
-learning_paths: ['Werken met notebooks - Python', 'AGRI_landbouw', 'AGRI_lopendeband']
+learning_paths: ['Werken met notebooks - Python', 'agri_landbouw', 'agri_lopendeband']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].agriculture.intro_title }} {% endcapture %}
@@ -38,5 +37,7 @@ paragraph3=paragraph3
 {% capture lp_filter %} {{ full }} {% endcapture %}
 
 {%- include learning_paths.html filter_object=lp_filter -%}
+
+{%- include curricula_files.html page_translation_key="agriculture" -%}
 
 {%- include partners.html images=page.partner_images -%}
