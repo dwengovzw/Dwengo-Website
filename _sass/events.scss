@@ -33,10 +33,30 @@ $logo-size: 55px;
     max-width: $logo-size;
     text-align: center;
     margin-right: 25px;
+    color: gray;
+    margin-top: 5px;
 }
+
+.event-item-date-info{
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+    font-size: small;
+    color: gray;
+}
+
+@media (min-width: 768px){
+    .event-item-date-info{
+        display: none;
+    }
+}
+
 
 @media (max-width:768px){
     .event-item-logo {
+        display: none;
+    }
+    .event-item-theme-logo {
         display: none;
     }
 }

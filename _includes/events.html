@@ -20,6 +20,10 @@
                 {{ event.title | escape }}
             </h3>
             {{ event.content }}
+            <span class="event-item-date-info">
+                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                <span class="event-item-logo-date event-meta">{{ event.date | date: date_format }}</span>
+            </span>
         </span>
         <span class="event-item-theme-logo">
             <img src="{{ event.item_theme_logo_url }}" />
