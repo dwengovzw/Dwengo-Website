@@ -35,10 +35,14 @@ header_pages:
   - contact.md
   - about.markdown
   - projects.md
+  - events.md
 
 languages: ["nl", "en", "fr", "de"]
 exclude_from_localizations: ["js", "images", "css"]
 #default_locale_in_subfolder: true
+
+
+
 
 # Build settings
 theme: minima
@@ -68,3 +72,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  events:
