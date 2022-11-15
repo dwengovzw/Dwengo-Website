@@ -45,6 +45,17 @@ $logo-size: 55px;
     color: gray;
 }
 
+#event-show-past-events {
+    float: right;
+    color: gray;
+    font-size: small;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+#event-show-past-events:hover{
+    cursor: grab;
+}
+
 @media (min-width: 768px){
     .event-item-date-info{
         display: none;

@@ -524,6 +524,11 @@ curricula_files:
   title: Bestanden
   cc_by_text: Het lesmateriaal wordt ter beschikking gesteld overeenkomstig de voorwaarden van een Creative Commons BY-SA licentie.
 
+calendar_page:
+  past_events: Past events
+  no_events: No future events in English
+  no_past_events: No past events
+
 footer:
   follow: Follow us
   contact: Contact

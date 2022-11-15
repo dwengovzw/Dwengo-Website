@@ -1,35 +1,67 @@
 
-
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 
 <div class="calendar">
-    {%- if include.events.size > 0 -%}
+    
     <h2 class="event-list-heading">{% t calendar %}</h2>
+    {% assign sorted_events = include.events | sort: 'date' | reverse | where: "language", site.lang %}
+    {%- if sorted_events.size > 0 -%}
     <ul class="event-list">
-    {% assign sorted_events = include.events | sort: 'date' | reverse %}
       {%- for event in sorted_events -%}
-      <li class="event-list-item" >
-        <span class="event-item-logo">
-            <span class="icon_container">
-                <span class="material-symbols-outlined md-48">calendar_month</span>
-            </span>
-            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-            <span class="event-item-logo-date event-meta">{{ event.date | date: date_format }}</span>
-        </span>
-        <span class="event-item-content-container">
-            <h3>
-                {{ event.title | escape }}
-            </h3>
-            {{ event.content }}
-            <span class="event-item-date-info">
-                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                <span class="event-item-logo-date event-meta">{{ event.date | date: date_format }}</span>
-            </span>
-        </span>
-        <span class="event-item-theme-logo">
-            <img src="{{ event.item_theme_logo_url }}" />
-        </span>
-      </li>
+            <li class="event-list-item" data-event-date="{{ event.date }}">
+                <span class="event-item-logo">
+                    <span class="icon_container">
+                        <span class="material-symbols-outlined md-48">calendar_month</span>
+                    </span>
+                    <span class="event-item-logo-date event-meta">{{ event.date | date: date_format }}</span>
+                </span>
+                <span class="event-item-content-container">
+                    <h3>
+                        {{ event.title | escape }}
+                    </h3>
+                    {{ event.content }}
+                    <span class="event-item-date-info">
+                        <span class="event-item-logo-date event-meta">{{ event.date | date: date_format }}</span>
+                    </span>
+                </span>
+                <span class="event-item-theme-logo">
+                    <img src="{{ event.item_theme_logo_url }}" />
+                </span>
+            </li>
+
       {%- endfor -%}
     </ul>
-  {%- endif -%}
+    {%- else -%}
+        <span id="event-list-no-events">{% t calendar_page.no_events %}</span>
+    {%- endif -%}
+    <a id="event-show-past-events" style="display:none">{% t calendar_page.past_events %}</a>
+  
 </div>
+
+<script>
+    let calendar_items = document.getElementsByClassName("event-list-item");
+    let past_events = false;
+    Array.from(calendar_items).forEach((element) => {
+        if (Date.parse(element.getAttribute("data-event-date")) < new Date().valueOf()){
+            element.style.display = "none";
+            past_events = true;
+        }
+    });
+    // Show "past events link when there are past events"
+    if (past_events){
+        document.getElementById("event-show-past-events").style.display = "flex";
+    }
+    
+    // Show all elements when link is clicked
+    document.addEventListener("click", (e) => {
+        e = e || window.event;
+        let target = e.target || e.srcElement;
+        if (target.getAttribute("id") === "event-show-past-events"){
+            let calendar_items = document.getElementsByClassName("event-list-item");
+            Array.from(calendar_items).forEach((element) => {
+                    element.style.display = "flex";
+            })
+        }
+        target.style.display = "none" // Hide more events link
+    }, false);
+</script>
