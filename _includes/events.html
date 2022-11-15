@@ -51,17 +51,18 @@
     if (past_events){
         document.getElementById("event-show-past-events").style.display = "flex";
     }
-    
+
     // Show all elements when link is clicked
     document.addEventListener("click", (e) => {
         e = e || window.event;
         let target = e.target || e.srcElement;
-        if (target.getAttribute("id") === "event-show-past-events"){
+        if (target.getAttribute("id") == "event-show-past-events"){
             let calendar_items = document.getElementsByClassName("event-list-item");
             Array.from(calendar_items).forEach((element) => {
                     element.style.display = "flex";
             })
+            target.style.display = "none" // Hide more events link
         }
-        target.style.display = "none" // Hide more events link
+        
     }, false);
 </script>
