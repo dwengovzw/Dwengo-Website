@@ -38,11 +38,11 @@
   
 </div>
 
-<script>
+<script defer>
     let calendar_items = document.getElementsByClassName("event-list-item");
     let past_events = false;
     Array.from(calendar_items).forEach((element) => {
-        if (Date.parse(element.getAttribute("data-event-date")) < new Date().valueOf()){
+        if (Date.parse(element.getAttribute("data-event-date").replace(/-/g, " ")) < new Date().valueOf()){
             element.style.display = "none";
             past_events = true;
         }
