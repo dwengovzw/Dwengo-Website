@@ -1,35 +1,104 @@
 
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+{%- assign date_time_format = "%b %-d, %Y: %R" -%}
+{%- assign time_format = "%R" -%}
 
 <div class="calendar">
     
     <h2 class="event-list-heading">{% t calendar %}</h2>
-    {% assign sorted_events = include.events | sort: 'date' | reverse | where: "language", site.lang %}
+    {% assign sorted_events = include.events | sort: 'date' | where: "language", site.lang %}
+    {% assign sorted_events_reverse = include.events | sort: 'date' | reverse | where: "language", site.lang %}
     {%- if sorted_events.size > 0 -%}
     <ul class="event-list">
       {%- for event in sorted_events -%}
-            <li class="event-list-item" data-event-date="{{ event.date }}">
+            <li class="event-list-item event-list-item-global" data-event-date="{{ event.date }}" itemscope itemtype="https://schema.org/Event">
                 <span class="event-item-logo">
                     <span class="icon_container">
                         <span class="material-symbols-outlined md-48">calendar_month</span>
                     </span>
-                    <span class="event-item-logo-date event-meta">{{ event.date | date: date_format }}</span>
+                    <span class="event-item-logo-date event-meta" itemscope itemtype="https://schema.org/startDate">{{ event.date | date: date_format }}</span>
                 </span>
                 <span class="event-item-content-container">
                     <h3>
                         {{ event.title | escape }}
                     </h3>
                     {{ event.content }}
-                    <span class="event-item-date-info">
-                        <span class="event-item-logo-date event-meta">{{ event.date | date: date_format }}</span>
+                    <span id="event-footer">
+                        <span class="footer-event-date-info nowrap">
+                            <span class="material-symbols-outlined md-48">calendar_month</span>
+                            <span class="event-item-date event-item-start-date">{{ event.date | date: date_time_format }}</span>
+                            <span class="event-date-separator-dash">-</span>
+                            <span class="event-item-date event-item-end-date">{{ event.end_date | date: time_format }}</span>
+                        </span>
+                        <span class="footer-event-location-info nowrap">
+                            {%- if event.location == "online" -%}
+                                    <span class="material-symbols-outlined md-48">location_on</span>
+                                    <span itemscope itemtype="https://schema.org/location">{% t calendar_page.online %}</span>
+                            {%- else -%}
+                                    <span class="material-symbols-outlined md-48">location_on</span>
+                                    {%- if event.location_link and event.location_link != "" and event.location_link != nil -%}
+                                        <a href="{{ event.location_link }}" target="_blank" itemscope itemtype="https://schema.org/location">
+                                    {%- endif -%}
+                                    <span>{{ event.location }}</span>
+                                    {%- if event.location_link and event.location_link != "" and event.location_link != nil -%}
+                                        </a>
+                                    {%- endif -%}
+                            {%- endif -%}
+                        </span>
                     </span>
                 </span>
                 <span class="event-item-theme-logo">
                     <img src="{{ event.item_theme_logo_url }}" />
                 </span>
             </li>
-
       {%- endfor -%}
+
+            <!-- This is hacky to add the items again. However, it is required to show upcoming items in order and past items in reverse order. -->
+      {%- for event in sorted_events_reverse -%}
+      <!-- Hide all these items by default, use javascript to show the items past older than the current date -->
+            <li class="event-list-item-old event-list-item-global" style="display:none" data-event-date="{{ event.date }}" itemscope itemtype="https://schema.org/Event">
+                <span class="event-item-logo">
+                    <span class="icon_container">
+                        <span class="material-symbols-outlined md-48">calendar_month</span>
+                    </span>
+                    <span class="event-item-logo-date event-meta" itemscope itemtype="https://schema.org/startDate">{{ event.date | date: date_format }}</span>
+                </span>
+                <span class="event-item-content-container">
+                    <h3>
+                        {{ event.title | escape }}
+                    </h3>
+                    {{ event.content }}
+                    <span id="event-footer">
+                        <span class="footer-event-date-info nowrap">
+                            <span class="material-symbols-outlined md-48">calendar_month</span>
+                            <span class="event-item-date event-item-start-date">{{ event.date | date: date_time_format }}</span>
+                            <span class="event-date-separator-dash">-</span>
+                            <span class="event-item-date event-item-end-date">{{ event.end_date | date: time_format }}</span>
+                        </span>
+                        <span class="footer-event-location-info nowrap">
+                            {%- if event.location == "online" -%}
+                                    <span class="material-symbols-outlined md-48">location_on</span>
+                                    <span itemscope itemtype="https://schema.org/location">{% t calendar_page.online %}</span>
+                            {%- else -%}
+                                    <span class="material-symbols-outlined md-48">location_on</span>
+                                    {%- if event.location_link and event.location_link != "" and event.location_link != nil -%}
+                                        <a href="{{ event.location_link }}" target="_blank" itemscope itemtype="https://schema.org/location">
+                                    {%- endif -%}
+                                    <span>{{ event.location }}</span>
+                                    {%- if event.location_link and event.location_link != "" and event.location_link != nil -%}
+                                        </a>
+                                    {%- endif -%}
+                            {%- endif -%}
+                        </span>
+                    </span>
+                </span>
+                <span class="event-item-theme-logo">
+                    <img src="{{ event.item_theme_logo_url }}" />
+                </span>
+            </li>
+        {%- endfor -%}
+
+
     </ul>
     {%- else -%}
         <span id="event-list-no-events">{% t calendar_page.no_events %}</span>
@@ -47,6 +116,7 @@
             past_events = true;
         }
     });
+
     // Show "past events link when there are past events"
     if (past_events){
         document.getElementById("event-show-past-events").style.display = "flex";
@@ -57,10 +127,12 @@
         e = e || window.event;
         let target = e.target || e.srcElement;
         if (target.getAttribute("id") == "event-show-past-events"){
-            let calendar_items = document.getElementsByClassName("event-list-item");
-            Array.from(calendar_items).forEach((element) => {
+            let old_calendar_items = document.getElementsByClassName("event-list-item-old");
+            Array.from(old_calendar_items).forEach((element) => {
+                if (Date.parse(element.getAttribute("data-event-date").replace(/-/g, " ")) < new Date().valueOf()){
                     element.style.display = "flex";
-            })
+                }
+            });
             target.style.display = "none" // Hide more events link
         }
         

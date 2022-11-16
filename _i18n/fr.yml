@@ -526,6 +526,7 @@ calendar_page:
   past_events: Événements passés
   no_events: Aucun événement futur en français
   no_past_events: Aucun événement passé en français
+  online: en ligne
 
 footer:
   follow: Suivez-nous

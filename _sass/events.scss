@@ -4,7 +4,7 @@ $logo-size: 55px;
     list-style: none;
 }
 
-.event-list-item {
+.event-list-item-global {
     display: flex;
     flex-direction: row;
     margin-top: 2rem;
@@ -54,6 +54,39 @@ $logo-size: 55px;
 }
 #event-show-past-events:hover{
     cursor: grab;
+}
+
+#event-footer {
+    float: right;
+    display: flex;
+    align-items: center;
+    padding-right: 1rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+}
+
+#event-footer .material-symbols-outlined{
+    padding: 0 0.2em;
+}
+
+#event-footer {
+    .nowrap{
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    span {
+        margin-top: 0.1rem;
+        margin-bottom: 0.1rem;
+    }
+}
+
+.event-item-end-date {
+    margin-right: 1rem;
+}
+
+.event-date-separator-dash {
+    padding: 0 0.2em;
 }
 
 @media (min-width: 768px){

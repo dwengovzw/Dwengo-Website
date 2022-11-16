@@ -528,6 +528,7 @@ calendar_page:
   past_events: Past events
   no_events: No future events in English
   no_past_events: No past events
+  online: online
 
 footer:
   follow: Follow us

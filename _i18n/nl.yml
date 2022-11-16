@@ -521,6 +521,7 @@ calendar_page:
   past_events: Eerdere activiteiten
   no_events: Geen toekomstige activiteiten
   no_past_events: Geen eerdere activiteiten
+  online: online
 
 footer:
   follow: Volg ons

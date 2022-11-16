@@ -524,6 +524,7 @@ calendar_page:
   past_events: Vergangene Ereignisse
   no_events: Keine zukünftigen Veranstaltungen auf Deutsch
   no_past_events: Keine vergangenen Ereignisse auf Deutsch
+  online: online
 
 footer:
   follow: Folge Sie uns
