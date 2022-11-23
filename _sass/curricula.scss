@@ -39,6 +39,7 @@ $neutral-gray: #eee;
     //flex-grow: 1;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 }    
 
 @media (max-width: 1268px){
@@ -52,6 +53,7 @@ $neutral-gray: #eee;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    
 }
 
 .teaching_theme_title {
