@@ -564,20 +564,19 @@ keywords:
   none: " "
 
 theme_selection_filter_translation:
-  lang_art: "Cultuur"
-  agro: "Landbouw"
-  soc: "Maatschappij"
+  lang_art: "Taal en kunst"
+  clim: "Natuur en klimaat"
+  agro: "Land- en tuinbouw"
+  soc: "Maatschappij en welzijn"
   math: "Wiskunde"
   sci: "Natuurwetenschappen"
   tec: "Technologie"
   bio: "Biologie"
-  tech: "tech"
+  mech: "Elektriciteit en mechanica"
 
 
 theme_selection_age_group_translation:
-  p1: "1e graad lager"
-  p2: "2e graad lager"
-  p3: "3e graad lager"
+  p: "Lagere school"
   s1: "1e graad secundair"
   s2: "2e graad secundair"
   s3: "3e graad secundair"

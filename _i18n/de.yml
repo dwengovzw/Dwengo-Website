@@ -568,17 +568,17 @@ keywords:
 
 theme_selection_filter_translation:
   lang_art: "Kultur"
+  clim: "Natur und Klima"
   agro: "Landwirtschaft"
   soc: "Gesellschaft"
   math: "Mathematik"
   sci: "Naturwissenschaften"
   tec: "Technologie"
   bio: "Biologie"
+  mech: "Elektrizität und Mechanik"
   
 theme_selection_age_group_translation:
-  p1: "6-8 Jahre alt"
-  p2: "8-10 Jahre alt"
-  p3: "10-12 Jahre alt"
+  p: Grundschule
   s1: "12-14 Jahre alt"
   s2: "14-16 Jahre alt"
   s3: "16-18 Jahre alt"
