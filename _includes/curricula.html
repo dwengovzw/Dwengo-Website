@@ -8,16 +8,82 @@
     {%- assign language_path = "/" | append: site.lang -%}
     {% endif %}
 
-    <div class="row q-col-gutter-y-lg q-col-gutter-x-xl q-mt-lg">
+    <div class="curricula_select_container">
+        <select id="theme_filter_select">
+            <option value="all" selected>{% t theme_selection.select_theme %}</option>
+            {% for theme_filter in site.theme_selection_filters %}
+                <option value="{{ theme_filter }}">{% t 'theme_selection_filter_translation.{{ theme_filter }}' %}</option>
+            {% endfor %}
+        </select>
+        <select id="age_filter_select">
+            <option value="all" selected>{% t theme_selection.select_age %}</option>
+            {% for age_filter in site.theme_age_groups %}
+                <option value="{{ age_filter }}">{% t 'theme_selection_age_group_translation.{{ age_filter }}' %}</option>
+            {% endfor %}
+        </select>
+    </div>
+
+
+    <div class="curricula_grid">
         {% for curriculum_page in include.curricula_pages %}
-            <div class="col-12 col-md-4">
-                <img src="/images/curricula/logo_{{curriculum_page}}.png" class="float-right logo-right"/>
-                <h6 class="q-mt-none bolder">{% t 'curricula_page.{{curriculum_page}}.title' %}</h6>
-                <p class="my-4"><a href="{{language_path}}/{{curriculum_page}}/" class="">{% t curricula_page.read_more %}<i
-                            aria-hidden="true" role="presentation" class="q-ml-xs material-icons q-icon notranslate"
-                            style="font-size: 18px;">&gt;</i></a></p>
-                <p>{% t 'curricula_page.{{curriculum_page}}.description' %}</p>
+            <div class="teaching_theme" data-themes="{{ site.theme_tags[curriculum_page]  | join ' '  }}" data-ages="{{ site.age_tags[curriculum_page]  | join ' '  }}">
+                <div class="teaching_theme_content_container">
+                    <a href="{{ language_path}}/{{curriculum_page}}/">
+                        <div class="teaching_theme_header">
+                            <img src="/images/curricula/logo_{{curriculum_page}}.png" class="logo-left"/>
+                            <span class="teaching_theme_container">
+                                <h5 class="q-mt-none bolder teaching_theme_title">{% t 'curricula_page.{{curriculum_page}}.title' %}</h5>
+                            </span>
+                        </div>
+                    </a>
+                    
+                    <p class="teaching_theme_teaser">{% t 'curricula_page.{{curriculum_page}}.description' %}</p>
+                </div>
+                <p class="teaching_theme_read_more"><a href="{{language_path}}/{{curriculum_page}}/">{% t curricula_page.read_more %}<i
+                    aria-hidden="true" role="presentation" class="q-ml-xs material-icons q-icon notranslate"
+                    style="font-size: 18px;">&gt;</i></a></p>
             </div>
         {% endfor %}
     </div>
 </div>
+
+<script defer>
+    let curricula_items = document.getElementsByClassName("teaching_theme");
+    let theme_select = document.querySelector("#theme_filter_select");
+    let age_select = document.querySelector("#age_filter_select");
+    let age_filter = "all";
+    let theme_filter = "all";
+    theme_select.addEventListener("change", (event) => {
+        theme_filter = event.target.value;
+        updateShownCurricula();
+    })
+    age_select.addEventListener("change", (event) => {
+        age_filter = event.target.value;
+        updateShownCurricula();
+    })
+
+    let updateShownCurricula = () => {
+        let toDisplay = [];
+        let toHide = [];
+        Array.from(curricula_items).forEach((element) => {
+            let theme_tags = element.getAttribute("data-themes").split(" ");
+            let age_tags = element.getAttribute("data-ages").split(" ");
+            if (!(theme_tags.includes(theme_filter) && age_tags.includes(age_filter))){
+                toHide.push(element);
+            } else {
+                toDisplay.push(element);
+            }
+        })
+        if (toDisplay.length == 0){
+            toDisplay = toHide;
+            toHide = [];
+        }
+        toDisplay.forEach((element) => {
+            element.style.display = "flex";
+        })
+        toHide.forEach((element) => {
+            element.style.display = "none";
+        })
+    }
+
+</script>

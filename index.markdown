@@ -38,6 +38,8 @@ paragraph2=paragraph2
 paragraph3=paragraph3
 -%}
 
+{%- include project_highlights.html -%}
+
 {%- include curricula.html curricula_pages=page.curricula -%}
 
 {%- include learning_paths_search.html keyword="none" -%}

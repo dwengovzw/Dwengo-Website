@@ -41,7 +41,37 @@ languages: ["nl", "en", "fr", "de"]
 exclude_from_localizations: ["js", "images", "css"]
 #default_locale_in_subfolder: true
 
+theme_selection_filters: ["lang_art", "agro", "soc", "math", "sci", "tec", "bio"]
 
+theme_age_groups: ["p1" ,"p2" ,"p3" ,"s1" ,"s2" ,"s3" ,"h"]
+
+theme_tags:
+  kiks: ["all", "soc", "math", "sci", "bio"]
+  socialrobot: ["all", "soc"]
+  agriculture: ["all", "agro", "sci", "bio"]
+  art: ["all", "lang_art"]
+  wegostem: ["all", "lang_art", "tec"]
+  computational_thinking: ["all", "tec"]
+  math_with_python: ["all", "math"]
+  python_programming: ["all", "math"]
+  stem: ["all", "math", "sci"]
+  care: ["all", "soc"]
+  chatbot: ["all", "lang_art", "soc"]
+  physical_computing: ["all", "tec"]
+
+age_tags:
+  kiks: ["all", "s2" ,"s3" ,"h"]
+  socialrobot: ["all", "s1" ,"s2"]
+  agriculture: ["all", "s2" ,"s3"]
+  art: ["all", "s2" ,"s3"]
+  wegostem: ["all", "p3" ,"s1"]
+  computational_thinking: ["all", "p1" ,"p2" ,"p3" ,"s1" ,"s2" ,"s3" ,"h"]
+  math_with_python: ["all", "s2" ,"s3"]
+  python_programming: ["all", "s1" ,"s2" ,"s3"]
+  stem: ["all", "s2" ,"s3"]
+  care: ["all", "s1" ,"s2"]
+  chatbot: ["all", "s2" ,"s3"]
+  physical_computing: ["all", "p3" ,"s1"]
 
 
 # Build settings

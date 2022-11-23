@@ -191,7 +191,7 @@ about_page:
   team: team
 
 content_page:
-  title: Lesonderwerpen
+  title: Lesthema's
 
 # Translations for the contact page
 contact_page:
@@ -232,11 +232,12 @@ projects_page:
   
 # Translations for the projects page
 curricula_page:
-  title: Onze lesonderwerpen
+  title: Onze lesthema's
   read_more: Lees meer
   curricula_files: Bestanden
   kiks: 
-    title: KIKS
+    title: AI en klimaat
+    sub_title: KIKS
     description: "Leerlingen uit de derde graad (SO) onderzoeken hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. Daarvoor tellen ze deze huidmondjes met artificiële intelligentie en beeldherkenning."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
@@ -258,6 +259,7 @@ curricula_page:
         link_name: "Kijk"
   socialrobot:
     title: Sociale robot
+    sub_title: Robotica in de klas
     description: "Terwijl leerlingen uit de eerste graad (SO) een sociale robot knutselen en programmeren, leren ze complexe problemen oplossen via computationeel denken. Spelenderwijs werken ze aan de nieuwe eindtermen rond digitale competenties."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
@@ -328,7 +330,8 @@ curricula_page:
         file_icon_name: "description"
         link_name: "Download" 
   chatbot:
-    title: Chatbot
+    title: Taaltechnologie
+    sub_title: Aan de slag met een chatbot
     description: "Waar taal en technologie samenkomen, ontstaat het domein van Natural Language Processing. Kan een computer teksten begrijpen, vertalen of zelfs schrijven? Kan een computer emoties herkennen? Leerlingen uit de tweede en derde graad (SO) leren er alles over in dit pakket."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
@@ -360,6 +363,7 @@ curricula_page:
         link_name: "Download"  
   care: 
     title: AI in de Zorg
+    sub_title: AI systemen die helpen in de zorg
     description: "Ziekenhuizen maken vandaag al gebruik van artificiële intelligentie. Leerlingen uit de tweede en derde graad (SO) ontdekken welke systemen er bestaan en hoe ze dokters helpen om beslissingen te nemen. Zo leren leerlingen de principes van de beslissingsboom, een veelgebruikte techniek in machine learning."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
@@ -401,11 +405,13 @@ curricula_page:
         link_name: "Download"
   stem:
     title: Python in STEM
+    sub_title: Datavisualisaties met Python
     description: "In dit pakket leer je complexe problemen eenvoudiger én sneller aanpakken met de programmeertaal Python. Programmeren kan immers een verbindende rol spelen tussen wetenschap, techniek, ontwerp en toegepaste wiskunde. Kortom, dankzij Python halen we het beste uit STEM."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   agriculture:
     title: AI in de Landbouw
+    sub_title: AI in de landbouw
     description: "Rotte tomaten weghalen tijdens de oogst? Daar kan artificiële intelligentie bij helpen. Maar hoe? Leerlingen uit de tweede en derde graad (SO) gaan met AI aan de slag. Misschien kan een trillende lopende band het systeem nog beter maken?"
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
@@ -417,16 +423,19 @@ curricula_page:
         link_name: "Download"
   art: 
     title: AI in de Kunst
+    sub_title: Tekenrobots in de klas
     description: "Kunnen we kunst maken met artificiële intelligentie? Leerlingen uit de tweede en derde graad (SO) leven zich creatief uit met AI en reflecteren over het resultaat. Is dit kunst? Ook ontdekken ze hoe AI ons cultureel erfgoed kan beschermen."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   wegostem:
     title: WeGoSTEM
+    sub_title: Tekenrobots in de klas
     description: "We dagen kinderen van de derde graad (BO) uit om een kunstrobot die kan tekenen te programmeren. Spelenderwijs leren de kinderen heel wat STEM-vaardigheden, van techniek tot computationeel denken."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   computational_thinking:
     title: Computationeel denken
+    sub_title: Computationeel denken in de klas
     description: "Hoe kunnen we complexe problemen oplossen met behulp van een computer? Dankzij computationeel denken! Dat kan je leren via allerlei activiteiten met óf zonder computer. Wij helpen je alvast op weg."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
@@ -483,16 +492,19 @@ curricula_page:
         link_name: "Download"  
   math_with_python: 
     title: Python in de Wiskundeles
+    sub_title: Python in wiskunde
     description: "De programmeertaal Python biedt toffe mogelijkheden om de wiskundeles te verrijken. Van de stelling van Pythagoras tot de opmaak van eigen grafieken, digitale beeldverwerking en lineaire regressie, alles wordt duidelijker met Python."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   python_programming:
     title: Programmeren met Python
+    sub_title: Basis programmeren in Python
     description: "De basisprincipes van programmeren aanleren? Dat kan perfect via dit pakket. We gaan aan de slag met Python en leren alles over sequenties, herhalingsstructuur en keuzestructuur. Dat is precies wat er in de eindtermen staat. En meer!"
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   physical_computing:
     title: Physical computing
+    sub_title: Programmeer robots in de klas
     description: "Een muziekinstrument, auto of weerstation bouwen? Dat kan met Dwenguino, een microcontrollerplatform met een eigen programmeeromgeving. Leerlingen uit zowel basis- als secundair onderwijs kunnen er meteen mee aan de slag. In het echt of in onze simulator, blokgebaseerd of tekstueel. "
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
@@ -523,6 +535,9 @@ calendar_page:
   no_past_events: Geen eerdere activiteiten
   online: online
 
+project_highlights:
+  title: Projecten in de kijker!
+
 footer:
   follow: Volg ons
   contact: Contact
@@ -547,12 +562,37 @@ keywords:
   graphical_prog: Grafisch programmeren
   kiks: KIKS
   none: " "
+
+theme_selection_filter_translation:
+  lang_art: "Cultuur"
+  agro: "Landbouw"
+  soc: "Maatschappij"
+  math: "Wiskunde"
+  sci: "Natuurwetenschappen"
+  tec: "Technologie"
+  bio: "Biologie"
+  tech: "tech"
+
+
+theme_selection_age_group_translation:
+  p1: "1e graad lager"
+  p2: "2e graad lager"
+  p3: "3e graad lager"
+  s1: "1e graad secundair"
+  s2: "2e graad secundair"
+  s3: "3e graad secundair"
+  h: "Hoger onderwijs"
+
+theme_selection:
+  select_theme: Kies een thema
+  select_age: Kies een leeftijd
+  filters: Filter
   
 # Translations for the menu items
 about: Over
 contact: Contact
 projects: Projecten
 curricula: Leerlijnen
-content: Lesonderwerpen
+content: Lesthema's
 calendar: Agenda
 test: test nl

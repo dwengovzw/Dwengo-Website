@@ -38,6 +38,8 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 
 $table-text-align: left !default;
 
+$neutral-background: #F6FAF2;
+
 // Width of the content area
 $content-width:    1000px !default;
 
@@ -643,7 +645,7 @@ img {
 }
 
 .home_info_pane {
-  margin-bottom:40px;
+  margin-bottom:20px;
   padding: 20px;
 }
 
@@ -664,7 +666,7 @@ img {
 }
 
 footer {
-  background-color: #eee;
+  background-color: $neutral-background;
 }
 
 .flex-container-partners {
@@ -692,7 +694,7 @@ footer {
 }
 
 .curricula_files{
-  background-color:#eee;
+  background-color:$neutral-background;
   color: #757575 !important;
   width: 100vw;
   position: relative;
@@ -754,7 +756,7 @@ footer {
   border: 1px solid #757575;
   border-radius: 5px;
   padding: 3px 10px;
-  background-color: #eee;
+  background-color: $neutral-background;
   color: #757575;
 }
 

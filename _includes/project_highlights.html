@@ -1,0 +1,35 @@
+{% if site.lang == "en" %}
+    {% capture page_link_location %}{{ site.baseurl_root }}/en{% endcapture %}
+{% elsif site.lang == "nl" %}
+    {% capture page_link_location %}{{ site.baseurl_root }}{% endcapture %}
+{% elsif site.lang == "de" %}
+    {% capture page_link_location %}{{ site.baseurl_root }}/de{% endcapture %}
+{% elsif site.lang == "fr" %}
+    {% capture page_link_location %}{{ site.baseurl_root }}/fr{% endcapture %}
+{% endif %}
+
+<h2 class="fp_subtitle">{% t project_highlights.title %}</h2>
+<div class="project_highlights">
+    <div class="container">
+        <div class="highlight_container">
+            <span class="highlight_element">
+                <a href="{{page_link_location}}/kiks">
+                    <img src="/images/curricula/logo_kiks.png" class="highlight_element_logo"/>
+                    <h4 class="highlight_element_title">{% t kiks.intro_title %}</h4>
+                </a>
+            </span>
+            <span class="highlight_element">
+                <a href="{{page_link_location}}/socialerobot">
+                    <img src="/images/curricula/logo_socialrobot.png" class="highlight_element_logo"/>
+                    <h4 class="highlight_element_title">{% t socialrobot.intro_title %}</h4>
+                </a>
+            </span>
+            <span class="highlight_element">
+                <a href="{{page_link_location}}/wegostem">
+                    <img src="/images/curricula/logo_wegostem.png" class="highlight_element_logo"/>
+                    <h4 class="highlight_element_title">{% t wegostem.intro_title %}</h4>
+                </a>
+            </span>
+        </div>
+    </div>
+</div>
