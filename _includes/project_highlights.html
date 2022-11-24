@@ -8,28 +8,53 @@
     {% capture page_link_location %}{{ site.baseurl_root }}/fr{% endcapture %}
 {% endif %}
 
-<h2 class="fp_subtitle">{% t project_highlights.title %}</h2>
+
+<h2 class="fp_subtitle project_highlights_title">{% t project_highlights.title %}</h2>
+
 <div class="project_highlights">
     <div class="container">
+        <div class="project_highlights_teaser">
+            <span class="project_highlights_learner_count_text">{% t project_highlights.teaser_text_part1 %}</span>
+            <span><img id="dwengo_logo_image" src="/images/logos/dwengo-groen-zwart.svg" width="124" height="50" alt=""></span>
+            <span class="project_highlights_learner_count_text">{% t project_highlights.teaser_text_part2 %}</span>
+        </div>
         <div class="highlight_container">
             <span class="highlight_element">
                 <a href="{{page_link_location}}/kiks">
-                    <img src="/images/curricula/logo_kiks.png" class="highlight_element_logo"/>
-                    <h4 class="highlight_element_title">{% t kiks.intro_title %}</h4>
+                    <div class="highlight_element_logo_teaser">
+                        <img src="/images/curricula/logo_kiks.png" class="highlight_element_logo"/>
+                        <h4 class="highlight_element_title">{% t kiks.intro_title %}</h4>
+                    </div>
+                    <div class="highlight_element_teaser_text">{% t project_highlights.teaser_kiks %}</div>
                 </a>
             </span>
             <span class="highlight_element">
                 <a href="{{page_link_location}}/socialerobot">
-                    <img src="/images/curricula/logo_socialrobot.png" class="highlight_element_logo"/>
-                    <h4 class="highlight_element_title">{% t socialrobot.intro_title %}</h4>
+                    <div class="highlight_element_logo_teaser">
+                        <img src="/images/curricula/logo_socialrobot.png" class="highlight_element_logo"/>
+                        <h4 class="highlight_element_title">{% t socialrobot.intro_title %}</h4>
+                    </div>
+                    <div class="highlight_element_teaser_text">{% t project_highlights.teaser_socialrobot %}</div>
                 </a>
             </span>
             <span class="highlight_element">
                 <a href="{{page_link_location}}/wegostem">
-                    <img src="/images/curricula/logo_wegostem.png" class="highlight_element_logo"/>
-                    <h4 class="highlight_element_title">{% t wegostem.intro_title %}</h4>
+                    
+                    <div class="highlight_element_logo_teaser">
+                        <img src="/images/curricula/logo_wegostem.png" class="highlight_element_logo"/>
+                        <h4 class="highlight_element_title">{% t wegostem.intro_title %}</h4>
+                    </div>
+                    <div class="highlight_element_teaser_text">{% t project_highlights.teaser_wegostem %}</div>
+                   
                 </a>
             </span>
+        </div>
+        <div class="project_highlights_learner_count_container">
+            <span class="project_highlights_learner_count_text nowrap">{% t project_highlights.count_intro_text %}</span>
+            <span class="project_highlights_learner_count_count nowrap">{% t project_highlights.count_learner_count %}</span>
+            <span class="project_highlights_learner_count_text wrap">{% t project_highlights.count_middle_text %}</span>
+            <span class="project_highlights_learner_count_count nowrap">{% t project_highlights.count_school_count %}</span>
+            <span class="project_highlights_learner_count_text wrap">{% t project_highlights.count_outro_text %}</span>
         </div>
     </div>
 </div>

@@ -544,7 +544,17 @@ calendar_page:
   online: online
 
 project_highlights:
-  title: Je kent ons van
+  title: We are known from
+  count_intro_text: More than
+  count_learner_count: 25 000
+  count_middle_text: learners at more than
+  count_school_count: "?????"
+  count_outro_text: schools participated in our projects.
+  teaser_text_part1: You might know
+  teaser_text_part2: from one of our projects
+  teaser_kiks: How AI help to gain insight into nature and climate.
+  teaser_socialrobot: Social robots turn the interaction with the digital world on its head.
+  teaser_wegostem: Build and program a drawing robot in primary school.
 
 footer:
   follow: Follow us

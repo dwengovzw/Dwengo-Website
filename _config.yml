@@ -65,7 +65,7 @@ age_tags:
   agriculture: ["all", "s2" ,"s3"]
   art: ["all", "s2" ,"s3"]
   wegostem: ["all", "p" ,"s1"]
-  computational_thinking: ["all", "p3" ,"s1" ,"s2" ,"s3" ,"h"]
+  computational_thinking: ["all", "p" ,"s1" ,"s2" ,"s3" ,"h"]
   math_with_python: ["all", "s2" ,"s3"]
   python_programming: ["all", "s1" ,"s2" ,"s3"]
   stem: ["all", "s2" ,"s3"]

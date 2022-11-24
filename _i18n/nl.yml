@@ -536,7 +536,17 @@ calendar_page:
   online: online
 
 project_highlights:
-  title: Projecten in de kijker!
+  title: Projecten in de kijker
+  count_intro_text: Waaraan al meer dan
+  count_learner_count: 25 000
+  count_middle_text: leerlingen op
+  count_school_count: "?????"
+  count_outro_text: scholen deelnamen.
+  teaser_text_part1: Je kent
+  teaser_text_part2: misschien van één van onze projecten
+  teaser_kiks: Hoe AI help om inzichten te verwerven in natuur en klimaat.
+  teaser_socialrobot: Sociale robots zetten de interactie met de digitale wereld op zijn kop.
+  teaser_wegostem: Bouw en programmeer een tekenrobot in de lagere school.
 
 footer:
   follow: Volg ons

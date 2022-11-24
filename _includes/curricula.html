@@ -53,13 +53,34 @@
     let age_select = document.querySelector("#age_filter_select");
     let age_filter = "all";
     let theme_filter = "all";
+
+    let getOptionsForShown = (optionTag, curricula_elements, filterTag, filterValue) => {
+        let optionSet = new Set();
+        Array.from(curricula_elements).forEach((element) => {
+            let filterTags = element.getAttribute(filterTag).split(" ");
+            if (filterTags.includes(filterValue)){
+                let tags = element.getAttribute(optionTag).split(" ");
+                tags.forEach(tag => optionSet.add(tag));
+            }
+        })
+        return optionSet
+    }
+
+
+    let age_options = getOptionsForShown("data-ages", Array.from(curricula_items), "data-themes", "all");
+    let theme_options = getOptionsForShown("data-themes", Array.from(curricula_items), "data-ages", "all");
+
     theme_select.addEventListener("change", (event) => {
         theme_filter = event.target.value;
         updateShownCurricula();
+        age_options = getOptionsForShown("data-ages", curricula_items, "data-themes", theme_filter);
+        updateSelectOptions();
     })
     age_select.addEventListener("change", (event) => {
         age_filter = event.target.value;
-        updateShownCurricula();
+        let toDisplay = updateShownCurricula();
+        theme_options = getOptionsForShown("data-themes", curricula_items, "data-ages", age_filter);
+        updateSelectOptions();
     })
 
     let updateShownCurricula = () => {
@@ -83,7 +104,31 @@
         })
         toHide.forEach((element) => {
             element.style.display = "none";
-        })
+        })        
     }
+
+    let updateSelectOptions = () => {
+        Array.from(theme_select.children).forEach(option => {
+            if (Array.from(theme_options).includes(option.attributes.value.nodeValue)){
+                option.style.display = "initial";
+            } else {
+                option.style.display = "none";
+            }
+        })
+        Array.from(age_select.children).forEach(option => {
+            if (Array.from(age_options).includes(option.attributes.value.nodeValue)){
+                option.style.display = "initial";
+            } else {
+                option.style.display = "none";
+            }
+        })
+        console.log(theme_select);
+        console.log(age_select);
+    }
+
+    
+
+    
+
 
 </script>
