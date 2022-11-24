@@ -47,7 +47,7 @@ theme_age_groups: ["p" ,"s1" ,"s2" ,"s3" ,"h"]
 
 theme_tags:
   kiks: ["all", "soc", "math", "clim"]
-  socialrobot: ["all", "soc", "tech", "mech"]
+  socialrobot: ["all", "soc", "tec", "mech"]
   agriculture: ["all", "agro", clim]
   art: ["all", "lang_art"]
   wegostem: ["all", "lang_art", "tec", "mech"]
@@ -55,7 +55,7 @@ theme_tags:
   math_with_python: ["all", "math"]
   python_programming: ["all", "math"]
   stem: ["all", "math", "tec", "mech"]
-  care: ["all", "soc"]
+  care: ["all", "soc", "math"]
   chatbot: ["all", "lang_art", "soc"]
   physical_computing: ["all", "tec", "mech"]
 
@@ -67,7 +67,7 @@ age_tags:
   wegostem: ["all", "p" ,"s1"]
   computational_thinking: ["all", "p" ,"s1" ,"s2" ,"s3" ,"h"]
   math_with_python: ["all", "s2" ,"s3"]
-  python_programming: ["all", "s1" ,"s2" ,"s3"]
+  python_programming: ["all", "s2" ,"s3"]
   stem: ["all", "s2" ,"s3"]
   care: ["all", "s1" ,"s2"]
   chatbot: ["all", "s2" ,"s3"]
