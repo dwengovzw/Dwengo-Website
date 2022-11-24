@@ -8,10 +8,7 @@ location_link: "https://www.google.com/maps/place/Kantersteen+10,+1000+Brussel/@
 language: "nl"
 ---
 
-Come join the first event on AI & Education in Belgium! It is said that the country will need more educated citizens and workers on these technologies. 
-Let's have a conversation with local experts and inspiring initiatives to understand: Who are the key actors in the country? What is needed in and for Belgium? 
-How to teach about the technology but also its ethical and legal challenges?
-This event will be followed by a meet-and-greet to maybe inspire you to collaborate together! Let's join our forces to bring a high-quality AI education in Belgium.
+Kom naar het eerste evenement over AI & Onderwijs in België! Er wordt gezegd dat het land meer burgers en werknemers die opgeleid zijn in deze technologieën, nodig zal hebben. Laten we in gesprek gaan met lokale experts en inspirerende initiatieven om te begrijpen: Wie zijn de belangrijkste actoren in ons land? Wat is er nodig in en voor België? Hoe onderwijzen we over de technologie, maar ook over de ethische en juridische uitdagingen? Dit evenement wordt gevolgd door een meet-and-greet om je misschien te inspireren om samen te werken! Laten we onze krachten bundelen om AI-onderwijs van hoge kwaliteit in België te brengen.
 
 Organisatie: AI4InclusiveEducation
 
