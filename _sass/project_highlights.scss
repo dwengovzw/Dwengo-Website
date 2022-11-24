@@ -85,6 +85,7 @@ $kiks-bg-color: #116943;
     font-size:x-large;
     color: $kiks-bg-color;
     margin: 0 1rem;
+    text-align: center;
 }
 
 .project_highlights_learner_count_count {
@@ -126,4 +127,8 @@ $kiks-bg-color: #116943;
     justify-content: center;
     flex-wrap: wrap;
     margin-bottom: 1rem;
+}
+
+.project_highlights_dwengo_logo{
+    margin: 0 -1rem;
 }
