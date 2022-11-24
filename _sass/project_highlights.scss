@@ -15,11 +15,12 @@ $kiks-bg-color: #116943;
     margin-top: -5rem;
     margin-bottom: 3rem;
     padding-top:5rem;
-    z-index: -1;
 }
 
 .project_highlights_title {
+    position: relative;
     margin-top: 1rem;
+    z-index: 100;
 }
 
 .highlight_container {
@@ -105,6 +106,7 @@ $kiks-bg-color: #116943;
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
 }
 .project_highlights_teaser bold{
     font-weight: 900;

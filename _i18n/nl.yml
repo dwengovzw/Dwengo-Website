@@ -9,7 +9,7 @@ global:
 
 # Translations for the home page split into the strengths section and learning paths section
 strengths:
-  title: Onze sterktes
+  title: dwengo ontwikkelt leermateriaal over technologie
   innovative: Innovatief
   research_based: Onderzoeksgedreven
   inclusive: Inclusief
@@ -18,7 +18,7 @@ strengths:
   research_based_text: Alle lespakketten van Dwengo vzw zijn gebaseerd op gedegen wetenschappelijk onderzoek.
   inclusive_text: We richten ons op alle kinderen en jongeren met een specifieke aandacht voor het evenwicht tussen meisjes en jongens en leerlingen uit kansengroepen.
   socially_relevant_text: We zoeken projecten uit die passen binnen de actualiteit en maatschappelijke thema's.
-  summary: Wij ontwikkelen leermateriaal over technologie.
+  summary: ""
   main: Kinderen en leerkrachten van over de hele wereld leren via onze innovatieve pakketten programmeren, robots bouwen en AI-systemen opzetten. Tijdens één van onze workshops of gewoon in de klas. Want al onze pakketten zijn gebruiksvriendelijk, maatschappelijk relevant, wetenschappelijk onderbouwd, én inclusief. Iedereen kan er dus eenvoudig mee aan de slag.
   quote:
     text: Je maakt iets praktisch, je leert werken met hardware en je kan zelf iets nieuws cre&euml;ren. 
