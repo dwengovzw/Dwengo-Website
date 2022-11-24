@@ -6,6 +6,8 @@ global:
   german: Deutsch
   select_language: Sprache wählen
   simulator: Simulator
+  donate: spenden
+  shop: Shop
 
 # Translations for the home page split into the strengths section and learning paths section
 strengths:
@@ -598,6 +600,10 @@ theme_selection:
   select_theme: Wähle ein Thema
   select_age: Alter auswählen
   filters: Filter
+
+donate:
+  title: Doneer en krijg een fiscaal attest!
+  info: Bla bla bla, hier de info hoe ze kunnen geld geven.
 
 # Translations for the menu items
 about: Über uns

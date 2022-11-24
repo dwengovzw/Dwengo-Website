@@ -205,6 +205,13 @@ img.team-member {
 .simulator {
   background-color: $brand-primary;
   color: $lo-color;
+  margin-left: 0.5rem;
+}
+
+.header_button_container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
 a.simulator{

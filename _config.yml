@@ -34,7 +34,6 @@ header_pages:
   - content.md
   - contact.md
   - about.markdown
-  - projects.md
   - events.md
 
 languages: ["nl", "en", "fr", "de"]

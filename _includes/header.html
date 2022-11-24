@@ -4,6 +4,11 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 
+    {% if site.lang == "nl" %}
+      {% capture lang_prefix %}{{ "" }}{% endcapture %}
+    {% else %}
+      {% capture lang_prefix %}{{ site.lang }}/{% endcapture %}
+    {% endif %}
     {%- if page_paths -%}
     <nav class="navbar navbar-expand-md navbar-light bg-light">
       {% if site.lang == "en" %}
@@ -68,7 +73,12 @@
           </li>
         </ul>
       </div>
-      <a href="https://blockly.dwengo.org" class="btn simulator" target="_blank" role="button" aria-disabled="true">{% t global.simulator %}</a>
+      <span class="header_button_container">
+        <a href="/{{lang_prefix}}shop" class="btn simulator" target="_blank" role="button" aria-disabled="true">{% t global.shop %}</a>
+        <a href="/{{lang_prefix}}donate" class="btn simulator" role="button" aria-disabled="true">{% t global.donate %}</a>
+        <a href="https://blockly.dwengo.org" class="btn simulator" target="_blank" role="button" aria-disabled="true">{% t global.simulator %}</a>
+      </span>
+      
     </nav>
     {%- endif -%}
   </div>

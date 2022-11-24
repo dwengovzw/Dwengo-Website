@@ -22,7 +22,7 @@ permalink: /contact/
 
 {% t contact_page.you_can_contact_dwengo %}
 
-{% t contact_page.email %}\
+{% t contact_page.email %}
 
 {% t contact_page.mail %}
 

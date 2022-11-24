@@ -6,6 +6,8 @@ global:
   german: Duits
   select_language: Kies taal
   simulator: Simulator
+  donate: Doneer
+  shop: Shop
 
 # Translations for the home page split into the strengths section and learning paths section
 strengths:
@@ -208,7 +210,7 @@ contact_page:
 
 # Translations for the projects page
 projects_page:
-  title: Projecten in de kijker
+  title: Onze projecten
   project_1_title: WeGoSTEM
   project_1_description: Met WeGoSTEM enthousiasmeren we leerlingen uit de derde graad van het basisonderwijs voor techniek en informaticawetenschappen. We dagen de kinderen uit om een creatieve kunst-robot die zelfstandig kan tekenen, te bouwen en te programmeren. Zo leren ze heel wat STEM-vaardigheden van techniek tot computationeel denken. De voorbije jaren bouwden in heel België al meer dan 20 000 kinderen hun eerste robot tijdens het WeGoSTEM-project. Ook jij kan met jouw school aan de slag dankzij het gratis lesmateriaal dat via Belgische bibliotheken verspreid wordt.
   project_1_contact: "Vragen? Contacteer ons via wegostem@dwengo.org. Voor bibliotheken met logistieke vragen is er een apart adres: bib@dwengo.org. De pers kan contact opnemen met Peter Bertels via peter@dwengo.org."
@@ -596,6 +598,10 @@ theme_selection:
   select_theme: Kies een thema
   select_age: Kies een leeftijd
   filters: Filter
+
+donate:
+  title: Doneer en krijg een fiscaal attest!
+  info: Bla bla bla, hier de info hoe ze kunnen geld geven.
   
 # Translations for the menu items
 about: Over

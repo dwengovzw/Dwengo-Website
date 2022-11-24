@@ -22,3 +22,13 @@ img:
 ---
 
 {%- include about.html -%}
+
+
+
+<br>
+<br>
+<br>
+
+### {% t projects_page.title %}
+
+{%- include projects.html -%}
