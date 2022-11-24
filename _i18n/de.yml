@@ -603,7 +603,15 @@ theme_selection:
 
 donate:
   title: Doneer en krijg een fiscaal attest!
-  info: Bla bla bla, hier de info hoe ze kunnen geld geven.
+  info1: Dwengo is officieel erkend als een goed doel. Bij een donatie van minstens €40 krijg je van ons een fiscaal attest. Aan de hand van dat attest kan je een belastingsvermindering krijgen van 45% van het gestorte bedrag.
+  info2: "U kunt een bedrag naar keuze overschrijven op het rekeningnummer:"
+  account_nr: "BE74 0015 8122 6807"
+  info3: "Vermeld in de mededeling de volgende info:"
+  info4: "Gift-[naam]-[e-mailadres]"
+  info5: "Waarbij je [naam] en [e-mailadres] vervangt door jou naam en e-mailadres."
+  proof: "De info over de officiële erkenning als goed doel kan je vinden op onderstaande link:"
+  proof_link: "Officiële erkenning"
+
 
 # Translations for the menu items
 about: Über uns
