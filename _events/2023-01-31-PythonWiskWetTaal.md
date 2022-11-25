@@ -15,4 +15,6 @@ Workshop 3: Hoe werkt taaltechnologie? Een concreet voorbeeld a.d.h.v. interacti
 
 Organisatie: GO!
 
-- [23 januari 2023, 16:00 - 21:00](https://pro.g-o.be/kalender/detail/6656/12748?ref=catalogus)
+- [31 januari 2023, 09:30 - 12:30](https://pro.g-o.be/kalender/detail/6656/12748?ref=catalogus)
+- [31 januari 2023, 13:30 - 16:30](https://pro.g-o.be/kalender/detail/6656/12748?ref=catalogus)
+- [2 februari 2023, 09:30 - 12:30](https://pro.g-o.be/kalender/detail/6656/12748?ref=catalogus)
