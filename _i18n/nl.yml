@@ -614,7 +614,7 @@ shop:
   products_title: Onze producten
   products:
     - title: "Sociale robot kit"
-      desc: "Met deze kit kan je aan de slag met sociale robots in je klas. Hiervoor kan je je baseren op ons gratis lesmateriaal op dwengo.org/socialrobot"
+      desc: "Met deze kit kan je aan de slag met sociale robots in je klas. Hiervoor kan je je baseren op ons gratis lesmateriaal op <a href='/socialrobot'>dwengo.org/socialrobot</a>"
       image: "test"
       content: "Deze kit bevat:"
       items:
@@ -635,7 +635,7 @@ shop:
         - "16 bevestigingsplaatjes."
         - "Vier bevestigingsplaatjes voor de servomotoren."
         - "Voldoende op maat gemaakte kabels voor het aansluiten van sensoren en actuatoren."
-        - "Een waaier aan didactisch materiaal op <a href='dwengo.org/socialrobot'>dwengo.org/socialrobot</a>"
+        - "Een waaier aan didactisch materiaal op <a href='/socialrobot'>dwengo.org/socialrobot</a>"
     - title: "Stellingenspel sociale robots"
       desc: "Met dit stellingenspel krijgen de leerlingen inzichten in de maatschappelijke impact van AI-systemen."
       image: "/assets/images/shop/card_game.png"

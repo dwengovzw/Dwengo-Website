@@ -625,7 +625,7 @@ shop:
   products_title: Our products
   products:
     - title: "Social robot kit"
-      desc: "With this kit you can get started with social robots in your class. For this you can rely on our free teaching materials on dwengo.org/socialobot"
+      desc: "With this kit you can get started with social robots in your class. For this you can rely on our free teaching materials on <a href='/en/socialrobot'>dwengo.org/en/socialrobot</a>"
       image: "test"
       content: "This kit contains:"
       items:
@@ -646,6 +646,7 @@ shop:
         - "16 Fasteners."
         - "Four mounting plates for the servomotors."
         - "Sufficient customized cables for connecting sensors and actuators."
+        - "A range of didactic materials on <a href='/en/socialrobot'>dwengo.org/en/socialrobot</a>"
     - title: "Staff game Social robots"
       desc: "With this statement game, the students gain insights into the social impact of AI systems."
       image: "/assets/images/shop/card_game.png"

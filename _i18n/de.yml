@@ -621,7 +621,7 @@ shop:
   products_title: Unsere Produkte
   products:
     - title: "Social Robot Kit"
-      desc: "Mit diesem Kit können Sie mit sozialen Robotern in Ihrer Klasse beginnen.Dazu können Sie sich auf unsere kostenlosen Unterrichtsmaterialien auf dwengo.org/socialobot verlassen"
+      desc: "Mit diesem Kit können Sie mit sozialen Robotern in Ihrer Klasse beginnen.Dazu können Sie sich auf unsere kostenlosen Unterrichtsmaterialien auf <a href='/de/socialrobot'>dwengo.org/de/socialrobot</a> verlassen"
       image: "test"
       content: "Dieses Kit enthält:"
       items:
@@ -642,6 +642,7 @@ shop:
         - "16 Befestigungselemente."
         - "Vier Montageplatten für die Servomotoren."
         - "Ausreichende kundenspezifische Kabel zum Anschließen von Sensoren und Aktuatoren."
+        - "Eine Reihe von didaktischen Materialien auf <a href='/de/socialrobot'>dwengo.org/de/socialrobot</a>"
     - title: "Personalspiel Soziale Roboter"
       desc: "Mit diesem Statement -Spiel erhalten die Schüler Einblicke in die sozialen Auswirkungen von KI -Systemen."
       image: "/assets/images/shop/card_game.png"
