@@ -613,8 +613,45 @@ donate:
   info3: "Vermeld in de mededeling de volgende info:"
   info4: "Gift-[naam]-[e-mailadres]"
   info5: "Waarbij je [naam] en [e-mailadres] vervangt door jou naam en e-mailadres."
+  info6: "After donating you can enter your details into the form linked below. Thay way we are able to send you your certificate of donation."
+  info7: "Dwengo gift form"
+  info7_url: "todo"
   proof: "De info over onze officiële erkenning als goed doel kan je vinden op onderstaande link:"
   proof_link: "Officiële erkenning"
+
+shop:
+  title: Shop
+  intro: Our web store is still developing.You can purchase on request via shop@dwengo.org.
+  products_title: Our products
+  products:
+    - title: "Staff game Social robots"
+      desc: "With this statement game, the students gain insights into the social impact of AI systems."
+      image: "/assets/images/shop/kiks_cover.png"
+    - title: "Social robot kit"
+      desc: "With this kit you can get started with social robots in your class. For this you can rely on our free teaching materials on dwengo.org/socialobot"
+      image: "test"
+      content: "This kit contains:"
+      items:
+        - "The Dwenguino microcontroller platform."
+        - "The more social robot expansion sign."
+        - "A USB-A to mini-USB cable."
+        - "Four servomotors (2 x 180 degrees and 2 x continuously)."
+        - "Two distance sensors."
+        - "A sound sensor."
+        - "An RGB LED."
+        - "vier8X8LedMatrices."
+        - "An awl."
+        - "A screwdriver."
+        - "60 m3 nuts."
+        - "100M3Bouten (20X8Mm,20X16Mm,40X25MmEn20X40Mm)"
+        - "A tailor -made stencil for cutting out components."
+        - "Four servo arms."
+        - "16 Fasteners."
+        - "Four mounting plates for the servomotors."
+        - "Sufficient customized cables for connecting sensors and actuators."
+    - title: "Teacher guide Kiks"
+      desc: "With this teacher manual you can quickly get started with our material on artificial intelligence and climate."
+      image: "test"
 
 
 # Translations for the menu items

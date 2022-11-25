@@ -20,34 +20,34 @@ strengths:
   research_based_text: Tout le matériel de cours de Dwengo ASBL est fondé sur la recherche scientifique profonde.
   inclusive_text: On se concentre à atteindre tous les enfants avec une attention particulière pour l'égalite de genre et l'inclusion sociale.
   socially_relevant_text: Nous recherchons des projects qui s'inscrivent dans l'actualité et les thèmes sociaux.
-  summary: We develop innovative workshops and educational resources, and we provide them to students around the globe in collaboration with teachers and volunteers. Our train-the-trainer sessions enable them to bring our hands-on workshops to the students.
-  main: We voegen steeds nieuwe projecten en methodieken toe aan al onze projecten. Voor deze projecten zoeken we steeds een maatschappelijk relevant thema. Bovendien zorgen we er steeds voor dat ons didactisch materiaal gebaseerd is op wetenschappelijk onderzoek en houden we ook aldijd een oog op de inclusiviteit.
+  summary: Nous développons des ateliers innovants et des ressources éducatives, et nous les fournissons aux étudiants du monde entier en collaboration avec les enseignants et les bénévoles.Nos séances de train-Trainer leur permettent d'amener nos ateliers pratiques aux étudiants.
+  main: Nous ajoutons toujours de nouveaux projets et méthodologies à tous nos projets.Nous recherchons toujours un thème socialement pertinent pour ces projets.De plus, nous nous assurons toujours que notre matériel didactique est basé sur la recherche scientifique et nous gardons également un œil sur l'inclusivité.
   quote:
-    text: Je maakt iets praktisch, je leert werken met hardware en je kan zelf iets nieuws cre&euml;ren. 
+    text: Vous faites quelque chose de pratique, vous apprenez à travailler avec du matériel et vous pouvez exécuter quelque chose de nouveau Cre & Euml; 
     name: Matthias en Bruno
-    affiliation: 4e middelbaar
+    affiliation: 4e milieu
 
 partners:
   partners: Partners
 
 kiks:
   intro_title: "KIKS"
-  paragraph1: "KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben."
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
-  form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met 'KIKS' en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
-  form_button_text: "INTERESSE?"
-  title: "Het wetenschappelijk onderzoek"
-  titlep1: "Wetenschappers van de Plantentuin Meise en de UGent onderzoeken <strong>hoe bomen uit het tropisch regenwoud zich aanpassen aan de klimaatverandering</strong>. De stomata op hun bladeren verschaffen informatie over de CO<sub>2</sub>-concentratie in de atmosfeer ten tijde van de groei van de planten. De onderzoekers <strong>tellen</strong> het aantal stomata op de bladeren en ze <strong>meten</strong> hun grootte op. Erna vergelijken ze de resultaten van recent materiaal met die van materiaal van honderd jaar terug."
-  titlep2: "Het tellen en meten van stomata is echter een heel tijdrovende bezigheid. Om dit te <strong>automatiseren</strong>, heeft een computerwetenschapper van de UGent <strong>een neuraal netwerk getraind</strong>. Om zo'n netwerk te trainen zijn veel voorbeelden nodig: foto's van stomata en foto's van bladeren zonder stomata."
-  subtitle1: "Klimaat"
-  subtitle1p1: "Sinds het begin van de industriële revolutie (1750) is de concentratie van broeikasgassen in onze atmosfeer sterk toegenomen. Dit versterkt het natuurlijk broeikaseffect. De laag met broeikasgassen in de atmosfeer fungeert als een soort deken, dat dikker wordt naarmate de hoeveelheid broeikasgassen toeneemt. Bijgevolg wordt het onder het deken warmer omdat de warmte steeds moeilijker van onder het deken kan ontsnappen naar de ruimte. De verhoogde concentratie van broeikasgassen in de atmosfeer resulteert in een verhoging van de gemiddelde temperatuur en een globale klimaatverandering."
+  paragraph1: "KIKS est un projet vocal sur l'intelligence artificielle (IA) pour l'enseignement secondaire du troisième degré. Les élèves apprennent à comprendre l'IA, avec des possibilités et des limites; ils apprennent à avoir un impact à ce sujet."
+  paragraph2: "La relation entre les estomacs (stomates) des plantes et le changement climatique offre un cadre unique pour travailler avec des réseaux de neurones profonds. Le langage de programmation Python est également très accessible comme outil pour étudier les fondements des réseaux de neurones."
+  paragraph3: "Un actif du projet Kiks est la collaboration entre les chercheurs et les enseignants. Après tout, le matériel pédagogique de Kiks est en cours de développement, parallèle aux résultats d'une recherche scientifique en cours à Ugent et au Botuin Garden Meise."
+  form_text: "Nous voulons que autant d'enseignants et d'élèves possibles pour connaître les« Kiks »et se mettre au travail en classe. Vous pouvez montrer votre intérêt via notre formulaire."
+  form_button_text: "INTÉRÊT?"
+  title: "Recherche scientifique"
+  titlep1: "Les scientifiques du jardin botanique Meise et Ugent étudient <strong> comment les arbres de la forêt tropicale tropicale s'adaptent au changement climatique </strong>. Les stomates de leurs feuilles fournissent des informations sur la concentration de CO <bus 2 </bin> dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la CO <bin> 2 </bin> dans la concentration dans la atmosphère au moment de la croissance des plantes. Les chercheurs <strong> comptent </strong> le nombre de stomates sur les feuilles et ils <strong> mesurent </strong> leur taille. Ensuite, ils comparent les résultats du matériel récent avec celui du matériel il y a cent ans. "
+  titlep2: "Cependant, le comptage et la mesure des stomates est une activité consommatrice de temps. Pour <strong> automatiser ce </strong>, un informaticien d'Ugent <strong> a formé un réseau neuronal </strong> à une telle formation de réseau est nécessaire De nombreux exemples: Photos de stomates et photos de feuilles sans stomates. "
+  subtitle1: "climat"
+  subtitle1p1: "Depuis le début de la révolution industrielle (1750), la concentration des gaz à effet de serre dans notre atmosphère a fortement augmenté. Cela renforce l'effet naturel en serre. La couche avec des gaz à effet de serre dans l'atmosphère agit comme une sorte de couverture que la quantité de serre en serre Les gaz augmentent. Par conséquent, il devient plus chaud sous la couverture car la chaleur est de plus en plus difficile à échapper sous la couverture. La concentration accrue de gaz à effet de serre dans l'atmosphère entraîne une augmentation de la température moyenne et un changement climatique mondial. "
   subtitle2: "Stomata"
-  subtitle2p1: "Planten zijn in staat om zelf de energierijke koolstofverbindingen op te bouwen die ze nodig hebben om te leven, te groeien en zich te kunnen reproduceren. Ze doen dit via fotosynthese. Hiervoor moet de plant CO2 opnemen. Om die opname mogelijk te maken, zijn er microscopisch kleine poortjes in de opperhuid van het blad, de huidmondjes (stomata). De huidmondjes staan ook in voor afkoeling van de plant en het onderhouden van de sapstroom van wortel tot hoog in de plant."
-  subtitle2p2: "Uit de paleoklimatologie blijkt dat de stomatale grootte en dichtheid beïnvloed worden door de atmosferische CO<sub>2</sub>-concentratie."
-  subtitle3: "AI"
-  subtitle3p1: "Diepe neurale netwerken zijn een vorm van machinaal leren, en behoren dus tot het domein van de artificiële intelligentie. Convolutionele neurale netwerken zijn uitermate geschikt om huidmondjes op microfoto's te herkennen."
-  subtitle3p2: "Aan de hand van Python notebooks verkennen we stap voor stap deze wondere wereld. Leerlingen krijgen inzicht in de fundamenten van artificiële intelligentie. Maar er komen ook praktische zaken bij kijken, zoals het verzamelen en voorbereiden van de dataset."
+  subtitle2p1: "Les plantes sont capables de construire les composés de carbone riches en énergie dont ils ont besoin pour vivre, se développer et se reproduire. Ils le font par la photosynthèse. La plante doit absorber le CO2 pour cela. Pour rendre cet enregistrement possible, y a-t-il des portes microscopiquement petites dans L'épiderme de la feuille, l'estomac (stomates). Les stomates sont également responsables du refroidissement de la plante et du maintien du ruisseau de jus de la racine à la haute dans la plante."
+  subtitle2p2: "La climatologie paléo montre que la taille et la densité stomatales sont influencées par la concentration atmosphérique Co <sb> 2 </bin>."
+  subtitle3: "IA"
+  subtitle3p1: "Les réseaux de neurones profonds sont une forme d'apprentissage mécanique, et appartiennent donc au domaine de l'intelligence artificielle. Les réseaux de neurones convolutionnels sont extrêmement adaptés pour reconnaître les stomges de microvotos."
+  subtitle3p2: "Sur la base des cahiers Python, nous explorons ce merveilleux monde étape par étape. Les étudiants ont un aperçu des fondements de l'intelligence artificielle. Mais il y a aussi des questions pratiques, comme la collecte et la préparation de l'ensemble de données."
 
 socialrobot:
   intro_title: "Sociale robot"
@@ -607,15 +607,51 @@ theme_selection:
 
 donate:
   title: Doneer en krijg een fiscaal attest!
-  info1: Dwengo is officieel erkend als een goed doel. Bij een donatie van minstens €40 krijg je van ons een fiscaal attest. Aan de hand van dat attest kan je een belastingsvermindering krijgen van 45% van het gestorte bedrag.
-  info2: "U kunt een bedrag naar keuze overschrijven op het rekeningnummer:"
+  info1: Dwengo est officiellement reconnu comme un organisme de bienfaisance.Avec un don d'au moins 40 €, vous recevrez un certificat d'impôt de notre part.Sur la base de ce certificat, vous pouvez obtenir une réduction d'impôt de 45% du montant payé.
+  info2: "Vous pouvez transférer un montant de votre choix au numéro de compte:"
   account_nr: "BE74 0015 8122 6807"
-  info3: "Vermeld in de mededeling de volgende info:"
-  info4: "Gift-[naam]-[e-mailadres]"
-  info5: "Waarbij je [naam] en [e-mailadres] vervangt door jou naam en e-mailadres."
-  proof: "De info over de officiële erkenning als goed doel kan je vinden op onderstaande link:"
-  proof_link: "Officiële erkenning"
+  info3: "Dans l'annonce, indiquez les informations suivantes:"
+  info4: "Gift-[naam]"
+  info5: "Où vous remplacez [nom] par votre nom."
+  info6: "Remplissez ensuite le formulaire ci-dessous afin que nous ayons besoin des informations pour vous envoyer le certificat fiscal."
+  info7: "Formulaire cadeau Dwengo"
+  info7_url: "todo"
+  proof: "Les informations sur la reconnaissance officielle en tant que charité peuvent être trouvées sur le lien ci-dessous:"
+  proof_link: "Reconnaissance officielle"
 
+shop:
+  title: Boutique
+  intro: Notre boutique en ligne se développe toujours.Vous pouvez acheter sur demande via shop@dwengo.org.
+  products_title: Nos produits
+  products:
+    - title: "Robots sociaux du jeu du personnel"
+      desc: "Avec ce jeu de déclaration, les étudiants acquièrent un aperçu de l'impact social des systèmes d'IA."
+      image: "test"
+    - title: "Kit de robot social"
+      desc: "Avec ce kit, vous pouvez commencer avec des robots sociaux dans votre classe.Pour cela, vous pouvez compter sur notre matériel pédagogique gratuit sur dwengo.org/socialobot"
+      image: "test"
+      content: "Ce kit contient:"
+      items:
+        - "Le microcontrôleur Dwenguino."
+        - "Le signe d'expansion du robot social."
+        - "Un câble USB-A à mini-USB."
+        - "Quatre serviteurs (2 x 180 degrés et 2 x en continu)."
+        - "Deux capteurs de distance."
+        - "Un capteur sonore."
+        - "Un RVB a mené."
+        - "Vier 8 x 8 matrices LED."
+        - "Un premier."
+        - "Un tourne vis."
+        - "60 m3 noix."
+        - "100 m3 Bouten (20 x 8 mm, 20 x 16 mm, 40 x 25 mm en 20 x 40 mm)."
+        - "Un pochoir de tailleur pour découper les composants."
+        - "Quatre servoms."
+        - "16 attaches."
+        - "Quatre plaques de montage pour les servomoteurs."
+        - "Des câbles personnalisés suffisants pour connecter des capteurs et des actionneurs."
+    - title: "Guide des enseignants Kiks"
+      desc: "Avec ce manuel d'enseignant, vous pouvez rapidement commencer avec notre matériel sur l'intelligence artificielle et le climat."
+      image: "test"
 
 # Translations for the menu items
 about: À propos de nous
