@@ -546,9 +546,9 @@ calendar_page:
 project_highlights:
   title: Des projets à l'honneur
   count_intro_text: Auquel plus de
-  count_learner_count: 25 000
+  count_learner_count: 50 000
   count_middle_text: élèves de
-  count_school_count: "?????"
+  count_school_count: "500"
   count_outro_text: écoles ont déjà participé.
   teaser_text_part1: Vous connaissez peut-être
   teaser_text_part2: grâce à l'un de nos projets

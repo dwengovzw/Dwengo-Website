@@ -548,9 +548,9 @@ calendar_page:
 project_highlights:
   title: We are known from
   count_intro_text: More than
-  count_learner_count: 25 000
+  count_learner_count: 50 000
   count_middle_text: learners at more than
-  count_school_count: "?????"
+  count_school_count: "500"
   count_outro_text: schools participated in our projects.
   teaser_text_part1: You might know
   teaser_text_part2: from one of our projects
