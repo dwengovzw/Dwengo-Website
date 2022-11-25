@@ -624,9 +624,6 @@ shop:
   intro: Our web store is still developing.You can purchase on request via shop@dwengo.org.
   products_title: Our products
   products:
-    - title: "Staff game Social robots"
-      desc: "With this statement game, the students gain insights into the social impact of AI systems."
-      image: "/assets/images/shop/kiks_cover.png"
     - title: "Social robot kit"
       desc: "With this kit you can get started with social robots in your class. For this you can rely on our free teaching materials on dwengo.org/socialobot"
       image: "test"
@@ -649,9 +646,15 @@ shop:
         - "16 Fasteners."
         - "Four mounting plates for the servomotors."
         - "Sufficient customized cables for connecting sensors and actuators."
-    - title: "Teacher guide Kiks"
+    - title: "Staff game Social robots"
+      desc: "With this statement game, the students gain insights into the social impact of AI systems."
+      image: "/assets/images/shop/card_game.png"
+    - title: "Teacher guide KIKS"
       desc: "With this teacher manual you can quickly get started with our material on artificial intelligence and climate."
-      image: "test"
+      image: "/assets/images/shop/kiks_cover.png"
+    - title: "Teacher guide Chatbot"
+      desc: "With this teacher manual you can quickly get started with our material on language technology."
+      image: "/assets/images/shop/chatbot_cover.png"
 
 
 # Translations for the menu items

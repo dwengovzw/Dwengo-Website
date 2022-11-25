@@ -624,9 +624,6 @@ shop:
   intro: Notre boutique en ligne se développe toujours.Vous pouvez acheter sur demande via shop@dwengo.org.
   products_title: Nos produits
   products:
-    - title: "Robots sociaux du jeu du personnel"
-      desc: "Avec ce jeu de déclaration, les étudiants acquièrent un aperçu de l'impact social des systèmes d'IA."
-      image: "test"
     - title: "Kit de robot social"
       desc: "Avec ce kit, vous pouvez commencer avec des robots sociaux dans votre classe.Pour cela, vous pouvez compter sur notre matériel pédagogique gratuit sur dwengo.org/socialobot"
       image: "test"
@@ -649,9 +646,15 @@ shop:
         - "16 attaches."
         - "Quatre plaques de montage pour les servomoteurs."
         - "Des câbles personnalisés suffisants pour connecter des capteurs et des actionneurs."
+    - title: "Robots sociaux du jeu du personnel"
+      desc: "Avec ce jeu de déclaration, les étudiants acquièrent un aperçu de l'impact social des systèmes d'IA."
+      image: "/assets/images/shop/card_game.png"
     - title: "Guide des enseignants Kiks"
       desc: "Avec ce manuel d'enseignant, vous pouvez rapidement commencer avec notre matériel sur l'intelligence artificielle et le climat."
-      image: "test"
+      image: "/assets/images/shop/kiks_cover.png"
+    - title: "Guide des enseignants chatbot"
+      desc: "Avec ce manuel d'enseignant, vous pouvez rapidement commencer avec notre matériel sur la technologie linguistique."
+      image: "/assets/images/shop/chatbot_cover.png"
 
 # Translations for the menu items
 about: À propos de nous

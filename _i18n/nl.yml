@@ -613,9 +613,6 @@ shop:
   intro: Onze webwinkel is nog in ontwikkeling. Aankoop kan op aanvraag via shop@dwengo.org.
   products_title: Onze producten
   products:
-    - title: "Stellingenspel sociale robots"
-      desc: "Met dit stellingenspel krijgen de leerlingen inzichten in de maatschappelijke impact van AI-systemen."
-      image: "/assets/images/shop/kiks_cover.png"
     - title: "Sociale robot kit"
       desc: "Met deze kit kan je aan de slag met sociale robots in je klas. Hiervoor kan je je baseren op ons gratis lesmateriaal op dwengo.org/socialrobot"
       image: "test"
@@ -639,9 +636,15 @@ shop:
         - "Vier bevestigingsplaatjes voor de servomotoren."
         - "Voldoende op maat gemaakte kabels voor het aansluiten van sensoren en actuatoren."
         - "Een waaier aan didactisch materiaal op <a href='dwengo.org/socialrobot'>dwengo.org/socialrobot</a>"
+    - title: "Stellingenspel sociale robots"
+      desc: "Met dit stellingenspel krijgen de leerlingen inzichten in de maatschappelijke impact van AI-systemen."
+      image: "/assets/images/shop/card_game.png"
     - title: "Lerarenhandleiding KIKS"
       desc: "Met deze lerarenhandleiding kan je snel aan de slag met ons materiaal rond artificiële inteligentie en klimaat."
-      image: "test"
+      image: "/assets/images/shop/kiks_cover.png"
+    - title: "Lerarenhandleiding Chatbot"
+      desc: "Met deze lerarenhandleiding kan je snel aan de slag met ons materiaal rond taaltechnologie."
+      image: "/assets/images/shop/chatbot_cover.png"
 
 # Translations for the menu items
 about: Over

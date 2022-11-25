@@ -620,9 +620,6 @@ shop:
   intro: Unser Webladen entwickelt sich noch.Sie können auf Anfrage über Shop@dwengo.org kaufen.
   products_title: Unsere Produkte
   products:
-    - title: "Personalspiel Soziale Roboter"
-      desc: "Mit diesem Statement -Spiel erhalten die Schüler Einblicke in die sozialen Auswirkungen von KI -Systemen."
-      image: "test"
     - title: "Social Robot Kit"
       desc: "Mit diesem Kit können Sie mit sozialen Robotern in Ihrer Klasse beginnen.Dazu können Sie sich auf unsere kostenlosen Unterrichtsmaterialien auf dwengo.org/socialobot verlassen"
       image: "test"
@@ -645,9 +642,15 @@ shop:
         - "16 Befestigungselemente."
         - "Vier Montageplatten für die Servomotoren."
         - "Ausreichende kundenspezifische Kabel zum Anschließen von Sensoren und Aktuatoren."
+    - title: "Personalspiel Soziale Roboter"
+      desc: "Mit diesem Statement -Spiel erhalten die Schüler Einblicke in die sozialen Auswirkungen von KI -Systemen."
+      image: "/assets/images/shop/card_game.png"
     - title: "Lehrerführer Kiks"
       desc: "Mit diesem Lehrerhandbuch können Sie schnell mit unserem Material über künstliche Intelligenz und Klima beginnen."
       image: "/assets/images/shop/kiks_cover.png"
+    - title: "Lehrerführer Chatbot"
+      desc: "Mit diesem Lehrerhandbuch können Sie schnell mit unserem Material über die Sprachtechnologie beginnen."
+      image: "/assets/images/shop/chatbot_cover.png"
 
 
 # Translations for the menu items

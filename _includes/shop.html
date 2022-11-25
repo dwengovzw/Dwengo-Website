@@ -5,10 +5,10 @@
 <h2>{% t shop.products_title %}</h2>
 
 {%- for p in site.translations[site.lang].shop.products -%}
-<h3>{{ p.title }}</h3>
+<h3 class="shop_product_title">{{ p.title }}</h3>
 <p>{{ p.desc }}</p>
 
-<div><img src="{{p.image}}"/></div>
+<div><img class="shop_image" src="{{p.image}}"/></div>
 
 {%- if p.items -%}
 <p>{{ p.content }}</p>
@@ -18,5 +18,4 @@
 {%- endfor -%}
 </ul>
 {%- endif -%}
-
 {%- endfor -%}
