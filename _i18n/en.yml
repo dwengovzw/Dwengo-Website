@@ -607,26 +607,27 @@ theme_selection:
 
 donate:
   title: Doneer en krijg een fiscaal attest!
-  info1: Dwengo is officieel erkend als een goed doel. Bij een donatie van minstens €40 krijg je van ons een fiscaal attest. Aan de hand van dat attest kan je een belastingsvermindering krijgen van 45% van het gestorte bedrag.
-  info2: "U kunt een bedrag naar keuze overschrijven op het rekeningnummer:"
+  info1: Dwengo is officially recognized as a charity. With a donation of at least €40 you will receive a tax certificate from us. Based on that certificate, you can get a tax reduction of 45% of the deposited amount.
+  info2: "You can transfer an amount of your choice to the account number:"
   account_nr: "BE74 0015 8122 6807"
-  info3: "Vermeld in de mededeling de volgende info:"
-  info4: "Gift-[naam]-[e-mailadres]"
-  info5: "Waarbij je [naam] en [e-mailadres] vervangt door jou naam en e-mailadres."
+  info3: "Include the following information in the notice:"
+  info4: "Gift-[name]"
+  info5: "Where you replace [name] with your name and email address."
   info6: "After donating you can enter your details into the form linked below. Thay way we are able to send you your certificate of donation."
   info7: "Dwengo gift form"
-  info7_url: "todo"
-  proof: "De info over onze officiële erkenning als goed doel kan je vinden op onderstaande link:"
-  proof_link: "Officiële erkenning"
+  info7_url: "https://docs.google.com/forms/d/e/1FAIpQLSfmdnJgYp94X8jwNlx1Vml3lVw4GFsnwnzKYfq1XbKwiQxN3A/viewform?usp=sf_link&hl=nl"
+  proof: "The information about our official recognition as a charity can be found on the link below:"
+  proof_link: "Official Recognition"
+  proof_link_link: "https://github.com/dwengovzw/Board/raw/main/Official/GoedDoel-Erkenning.pdf"
 
 shop:
   title: Shop
-  intro: Our web store is still developing.You can purchase on request via shop@dwengo.org.
+  intro: Our web store is still developing.You can purchase on request via sales@dwengo.org.
   products_title: Our products
   products:
     - title: "Social robot kit"
       desc: "With this kit you can get started with social robots in your class. For this you can rely on our free teaching materials on <a href='/en/socialrobot'>dwengo.org/en/socialrobot</a>"
-      image: "test"
+      image: "https://docs.google.com/forms/d/e/1FAIpQLSf6ScyRraE71d925vIxpr9hAo4pu95qJgVz6sfk64MXoMC5Hg/viewform?usp=sf_link&hl=en"
       content: "This kit contains:"
       items:
         - "The Dwenguino microcontroller platform."

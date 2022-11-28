@@ -604,13 +604,15 @@ donate:
   info5: "Waarbij je [naam] vervangt door jou naam."
   info6: "Vul daarna onderstaand formulier in zodat wij de nodig info hebben om het fiscaal attest naar u op te sturen."
   info7: "Formulier gift dwengo"
-  info7_url: "todo"
+  info7_url: "https://docs.google.com/forms/d/e/1FAIpQLSf6ScyRraE71d925vIxpr9hAo4pu95qJgVz6sfk64MXoMC5Hg/viewform?usp=sf_link&hl=nl"
   proof: "De info over de officiële erkenning als goed doel kan je vinden op onderstaande link:"
   proof_link: "Officiële erkenning"
+  proof_link_link: "https://github.com/dwengovzw/Board/raw/main/Official/GoedDoel-Erkenning.pdf"
+
 
 shop:
   title: Shop
-  intro: Onze webwinkel is nog in ontwikkeling. Aankoop kan op aanvraag via shop@dwengo.org.
+  intro: Onze webwinkel is nog in ontwikkeling. Aankoop kan op aanvraag via sales@dwengo.org.
   products_title: Onze producten
   products:
     - title: "Sociale robot kit"
@@ -637,13 +639,13 @@ shop:
         - "Voldoende op maat gemaakte kabels voor het aansluiten van sensoren en actuatoren."
         - "Een waaier aan didactisch materiaal op <a href='/socialrobot'>dwengo.org/socialrobot</a>"
     - title: "Stellingenspel sociale robots"
-      desc: "Met dit stellingenspel krijgen de leerlingen inzichten in de maatschappelijke impact van AI-systemen."
+      desc: "Met dit stellingenspel krijgen de leerlingen inzichten in de maatschappelijke impact van AI-systemen. Meer info <a href='/care'>dwengo.org/care</a>."
       image: "/assets/images/shop/card_game.png"
     - title: "Lerarenhandleiding KIKS"
-      desc: "Met deze lerarenhandleiding kan je snel aan de slag met ons materiaal rond artificiële inteligentie en klimaat."
+      desc: "Met deze lerarenhandleiding kan je snel aan de slag met ons materiaal rond artificiële inteligentie en klimaat. Meer info <a href='/kiks'>dwengo.org/kiks</a>."
       image: "/assets/images/shop/kiks_cover.png"
     - title: "Lerarenhandleiding Chatbot"
-      desc: "Met deze lerarenhandleiding kan je snel aan de slag met ons materiaal rond taaltechnologie."
+      desc: "Met deze lerarenhandleiding kan je snel aan de slag met ons materiaal rond taaltechnologie. Meer info <a href='/chatbot'>dwengo.org/chatbot</a>."
       image: "/assets/images/shop/chatbot_cover.png"
 
 # Translations for the menu items

@@ -17,8 +17,8 @@ permalink: /donate/
 {% t donate.info5 %}<br>
 
 {% t donate.info6 %}<br>
-[{% t donate.info7 %}]({% t donate.info7_url %})<br>
+<a href="{% t donate.info7_url %}" target="_blank">{% t donate.info7 %}</a>
 
 <br>
 {% t donate.proof %}<br>
-[{% t donate.proof_link %}](https://github.com/dwengovzw/Board/raw/main/Official/GoedDoel-Erkenning.pdf)
+<a href="{% t donate.proof_link_link %}" target="_blank">{% t donate.proof_link %}</a>

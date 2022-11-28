@@ -606,22 +606,23 @@ theme_selection:
   filters: Filtre
 
 donate:
-  title: Doneer en krijg een fiscaal attest!
-  info1: Dwengo est officiellement reconnu comme un organisme de bienfaisance.Avec un don d'au moins 40 €, vous recevrez un certificat d'impôt de notre part.Sur la base de ce certificat, vous pouvez obtenir une réduction d'impôt de 45% du montant payé.
+  title: Faites un don et obtenez un certificat fiscal!
+  info1: Dwengo est officiellement reconnu comme un organisme de bienfaisance. Avec un don d'au moins 40 €, vous recevrez un certificat d'impôt de notre part. Sur la base de ce certificat, vous pouvez obtenir une réduction d'impôt de 45% du montant payé.
   info2: "Vous pouvez transférer un montant de votre choix au numéro de compte:"
   account_nr: "BE74 0015 8122 6807"
   info3: "Dans l'annonce, indiquez les informations suivantes:"
-  info4: "Gift-[naam]"
+  info4: "Gift-[Nom]"
   info5: "Où vous remplacez [nom] par votre nom."
   info6: "Remplissez ensuite le formulaire ci-dessous afin que nous ayons besoin des informations pour vous envoyer le certificat fiscal."
   info7: "Formulaire cadeau Dwengo"
-  info7_url: "todo"
+  info7_url: "https://docs.google.com/forms/d/e/1FAIpQLSclt9bh8OoPEimfbCadXWwLNT9qvACvYKqdwLLnkoakpQ7GeA/viewform?usp=sf_link&hl=fr"
   proof: "Les informations sur la reconnaissance officielle en tant que charité peuvent être trouvées sur le lien ci-dessous:"
-  proof_link: "Reconnaissance officielle"
+  proof_link: "Information de reconnaissance officielle"
+  proof_link_link: "https://finances.belgium.be/fr/particuliers/avantages_fiscaux/dons#q2"
 
 shop:
   title: Boutique
-  intro: Notre boutique en ligne se développe toujours.Vous pouvez acheter sur demande via shop@dwengo.org.
+  intro: Notre boutique en ligne se développe toujours.Vous pouvez acheter sur demande via sales@dwengo.org.
   products_title: Nos produits
   products:
     - title: "Kit de robot social"
