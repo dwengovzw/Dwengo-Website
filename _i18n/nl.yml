@@ -11,7 +11,7 @@ global:
 
 # Translations for the home page split into the strengths section and learning paths section
 strengths:
-  title: Dwengo ontwikkelt leermateriaal over technologie
+  title: Innovatief en maatschappelijk relevant lesmateriaal rond technologie en AI!
   innovative: Innovatief
   research_based: Onderzoeksgedreven
   inclusive: Inclusief
@@ -21,7 +21,7 @@ strengths:
   inclusive_text: We richten ons op alle kinderen en jongeren met een specifieke aandacht voor het evenwicht tussen meisjes en jongens en leerlingen uit kansengroepen.
   socially_relevant_text: We zoeken projecten uit die passen binnen de actualiteit en maatschappelijke thema's.
   summary: ""
-  main: Kinderen en leerkrachten van over de hele wereld leren via onze innovatieve pakketten programmeren, robots bouwen en AI-systemen opzetten. Tijdens één van onze workshops of gewoon in de klas. Want al onze pakketten zijn gebruiksvriendelijk, maatschappelijk relevant, wetenschappelijk onderbouwd, én inclusief. Iedereen kan er dus eenvoudig mee aan de slag.
+  main: Kinderen en leerkrachten van over de hele wereld leren via onze innovatieve pakketten programmeren, robots bouwen en AI-systemen opzetten. Al onze pakketten zijn gebruiksvriendelijk, maatschappelijk relevant, wetenschappelijk onderbouwd, én inclusief. Bovendien kan iedereen er eenvoudig mee aan de slag!
   quote:
     text: Je maakt iets praktisch, je leert werken met hardware en je kan zelf iets nieuws cre&euml;ren.
     name: Matthias en Bruno
@@ -612,13 +612,16 @@ donate:
 
 shop:
   title: Shop
-  intro: Onze webwinkel is nog in ontwikkeling. Aankoop kan op aanvraag via sales@dwengo.org.
+  intro: Vraag vrijblijvend een offerte aan via <a href="mailto:sales@dwengo.org">sales@dwengo.org</a>.<br>Onze prijzen zijn exclusief verzendkosten.
   products_title: Onze producten
+  price: Prijs
   products:
     - title: "Sociale robot kit"
-      desc: "Met deze kit kan je aan de slag met sociale robots in je klas. Hiervoor kan je je baseren op ons gratis lesmateriaal op <a href='/socialrobot'>dwengo.org/socialrobot</a>"
-      image: "test"
+      desc: "Met deze kit kan je aan de slag met sociale robots in je klas. Hiervoor kan je je baseren op ons <strong>gratis lesmateriaal</strong> op <a href='/socialrobot'>dwengo.org/socialrobot</a>"
+      image: "/assets/images/shop/sociale_robot_kit_afbeeldingen.png"
       content: "Deze kit bevat:"
+      price: "€1000 excl. 21% BTW voor <strong>vijf kits</strong> (exclusief korting voor scholen)"
+      price_extra_info: "Aangezien scholen de voornaamste doelgroep zijn voor de aankoop van deze kit wordt deze enkel per vijf verkocht. <br>Als <strong>bedrijf of organisatie</strong> is het mogelijk om deze robotkit te <strong>sponsoren</strong>. Afhankelijk van het aantal gesponsorde sets wordt er op de doos branding van de sponsor voorzien. In samenspraak met de sponsor gaan we dan op zoek naar scholen die de sets het meest kunnen gebruiken. Voor meer info over sponsoring neem contact op met <a href='mailto:sales@dwengo.org'>sales@dwengo.org</a>."
       items:
         - "Het dwenguino microcontrollerplatform."
         - "Het sociale robot uitbreidingsbord."
@@ -641,12 +644,18 @@ shop:
     - title: "Stellingenspel sociale robots"
       desc: "Met dit stellingenspel krijgen de leerlingen inzichten in de maatschappelijke impact van AI-systemen. Meer info <a href='/care'>dwengo.org/care</a>."
       image: "/assets/images/shop/card_game.png"
+      price: "€10 excl. 6% BTW"
+      price_extra_info: ""
     - title: "Lerarenhandleiding KIKS"
       desc: "Met deze lerarenhandleiding kan je snel aan de slag met ons materiaal rond artificiële inteligentie en klimaat. Meer info <a href='/kiks'>dwengo.org/kiks</a>."
       image: "/assets/images/shop/kiks_cover.png"
+      price: "€50 excl. 6% BTW"
+      price_extra_info: "" 
     - title: "Lerarenhandleiding Chatbot"
       desc: "Met deze lerarenhandleiding kan je snel aan de slag met ons materiaal rond taaltechnologie. Meer info <a href='/chatbot'>dwengo.org/chatbot</a>."
       image: "/assets/images/shop/chatbot_cover.png"
+      price: "€30 excl. 6% BTW"
+      price_extra_info: ""
 
 # Translations for the menu items
 about: Over

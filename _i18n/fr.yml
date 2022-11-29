@@ -622,13 +622,16 @@ donate:
 
 shop:
   title: Boutique
-  intro: Notre boutique en ligne se développe toujours.Vous pouvez acheter sur demande via sales@dwengo.org.
+  intro: "Demandez un devis sans engagement à <a href='mailto:sales@dwengo.org'>sales@dwengo.org</a>.<br>Nos prix n'incluent pas les frais de port."
   products_title: Nos produits
+  price: Prix
   products:
     - title: "Kit de robot social"
-      desc: "Avec ce kit, vous pouvez commencer avec des robots sociaux dans votre classe.Pour cela, vous pouvez compter sur notre matériel pédagogique gratuit sur <a href='/fr/socialrobot'>dwengo.org/fr/socialrobot</a>"
-      image: "test"
+      desc: "Avec ce kit, vous pouvez commencer avec des robots sociaux dans votre classe. Pour cela, vous pouvez compter sur notre matériel pédagogique gratuit sur <a href='/fr/socialrobot'>dwengo.org/fr/socialrobot</a>"
+      image: "/assets/images/shop/sociale_robot_kit_afbeeldingen.png"
       content: "Ce kit contient:"
+      price: "1000 € hors TVA 21% pour cinq kits"
+      price_extra_info: "Les écoles étant le principal groupe cible pour l'achat de ce kit, il n'est vendu que par pack de cinq. <br>En tant qu'<strong>entreprise ou organisation</strong> il est possible de <strong>sponsoriser</strong> ce kit robot. En fonction du nombre d'ensembles sponsorisés, la marque du sponsor sera fournie sur la boîte. Nous recherchons ensuite les écoles qui peuvent utiliser le plus les ensembles et donnons les ensembles à ces écoles. Pour plus d'informations sur le parrainage, veuillez contacter <a href='mailto:sales@dwengo.org'>sales@dwengo.org</a>."
       items:
         - "Le microcontrôleur Dwenguino."
         - "Le signe d'expansion du robot social."
@@ -651,12 +654,18 @@ shop:
     - title: "Robots sociaux du jeu du personnel"
       desc: "Avec ce jeu de déclaration, les étudiants acquièrent un aperçu de l'impact social des systèmes d'IA."
       image: "/assets/images/shop/card_game.png"
+      price: "10 € hors TVA 6%"
+      price_extra_info: ""
     - title: "Guide des enseignants Kiks"
       desc: "Avec ce manuel d'enseignant, vous pouvez rapidement commencer avec notre matériel sur l'intelligence artificielle et le climat."
       image: "/assets/images/shop/kiks_cover.png"
+      price: "50 € hors TVA 6%"
+      price_extra_info: "" 
     - title: "Guide des enseignants chatbot"
       desc: "Avec ce manuel d'enseignant, vous pouvez rapidement commencer avec notre matériel sur la technologie linguistique."
       image: "/assets/images/shop/chatbot_cover.png"
+      price: "30 € hors TVA 6%"
+      price_extra_info: ""
 
 # Translations for the menu items
 about: À propos de nous

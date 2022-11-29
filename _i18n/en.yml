@@ -622,13 +622,16 @@ donate:
 
 shop:
   title: Shop
-  intro: Our web store is still developing.You can purchase on request via sales@dwengo.org.
+  intro: "Request a quote without obligation at <a href='mailto:sales@dwengo.org'>sales@dwengo.org</a>.<br>Our prices do not include shipping costs."
   products_title: Our products
+  price: Price
   products:
     - title: "Social robot kit"
-      desc: "With this kit you can get started with social robots in your class. For this you can rely on our free teaching materials on <a href='/en/socialrobot'>dwengo.org/en/socialrobot</a>"
-      image: "https://docs.google.com/forms/d/e/1FAIpQLSf6ScyRraE71d925vIxpr9hAo4pu95qJgVz6sfk64MXoMC5Hg/viewform?usp=sf_link&hl=en"
+      desc: "With this kit you can get started with social robots in your classroom. For this you can base yourself on our <strong>free teaching material</strong> at <a href='/socialrobot'>dwengo.org/socialrobot</a>"
+      image: "/assets/images/shop/sociale_robot_kit_afbeeldingen.png"
       content: "This kit contains:"
+      price: "€1000 excl. 21% VAT for five kits"
+      price_extra_info: "Since schools are the main target group for the purchase of this kit, it is only sold in packs of five. <br>As <strong>company or organization</strong> it is possible to <strong>sponsor</strong> this robot kit. Depending on the number of sponsored sets, the sponsor's branding will be provided on the box. We then look for schools that can use the sets the most and donate the sets to those schools. For more information about sponsorship, please contact <a href='mailto:sales@dwengo.org'>sales@dwengo.org</a>."
       items:
         - "The Dwenguino microcontroller platform."
         - "The more social robot expansion sign."
@@ -651,12 +654,18 @@ shop:
     - title: "Staff game Social robots"
       desc: "With this statement game, the students gain insights into the social impact of AI systems."
       image: "/assets/images/shop/card_game.png"
+      price: "€10 excl. 6% VAT"
+      price_extra_info: ""
     - title: "Teacher guide KIKS"
       desc: "With this teacher manual you can quickly get started with our material on artificial intelligence and climate."
       image: "/assets/images/shop/kiks_cover.png"
+      price: "€50 excl. 6% VAT"
+      price_extra_info: "" 
     - title: "Teacher guide Chatbot"
       desc: "With this teacher manual you can quickly get started with our material on language technology."
       image: "/assets/images/shop/chatbot_cover.png"
+      price: "€30 excl. 6% VAT"
+      price_extra_info: ""
 
 
 # Translations for the menu items

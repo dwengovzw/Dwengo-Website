@@ -618,13 +618,16 @@ donate:
 
 shop:
   title: Geschäft
-  intro: Unser Webladen entwickelt sich noch.Sie können auf Anfrage über sales@dwengo.org kaufen.
+  intro: "Fordern Sie ein unverbindliches Angebot an unter <a href='mailto:sales@dwengo.org'>sales@dwengo.org</a>.<br>Unsere Preise beinhalten keine Versandkosten."
   products_title: Unsere Produkte
+  price: Preis
   products:
-    - title: "Social Robot Kit"
-      desc: "Mit diesem Kit können Sie mit sozialen Robotern in Ihrer Klasse beginnen.Dazu können Sie sich auf unsere kostenlosen Unterrichtsmaterialien auf <a href='/de/socialrobot'>dwengo.org/de/socialrobot</a> verlassen"
-      image: "test"
+    - title: "Bausatz für soziale Roboter"
+      desc: "Mit diesem Kit können Sie mit sozialen Robotern in Ihrem Klassenzimmer beginnen. Dazu können Sie sich auf unser <strong>kostenloses Lehrmaterial</strong> unter <a href='/socialrobot'>dwengo.org/socialrobot</a> stützen"
+      image: "/assets/images/shop/sociale_robot_kit_afbeeldingen.png"
       content: "Dieses Kit enthält:"
+      price: "€1000 exkl. 21% MwSt für fünf Bausätze"
+      price_extra_info: "Da Schulen die Hauptzielgruppe für den Kauf dieses Kits sind, wird es nur in 5er-Packungen verkauft. <br>Als <strong>Firma oder Organisation</strong> ist es möglich, diesen Roboterbausatz zu <strong>sponsern</strong>. Abhängig von der Anzahl der gesponserten Sets wird das Branding des Sponsors auf der Box bereitgestellt. Wir suchen dann nach Schulen, die die Sets am meisten nutzen können, und spenden die Sets an diese Schulen. Für weitere Informationen zum Sponsoring wenden Sie sich bitte an <a href='mailto:sales@dwengo.org'>sales@dwengo.org</a>."
       items:
         - "Die Dwenguino -Mikrocontroller -Plattform."
         - "Das soziale Roboter -Expansionsausschuss."
@@ -647,12 +650,18 @@ shop:
     - title: "Personalspiel Soziale Roboter"
       desc: "Mit diesem Statement -Spiel erhalten die Schüler Einblicke in die sozialen Auswirkungen von KI -Systemen."
       image: "/assets/images/shop/card_game.png"
+      price: "€10 exkl. 6% MwSt"
+      price_extra_info: ""
     - title: "Lehrerführer Kiks"
       desc: "Mit diesem Lehrerhandbuch können Sie schnell mit unserem Material über künstliche Intelligenz und Klima beginnen."
       image: "/assets/images/shop/kiks_cover.png"
+      price: "€50 exkl. 6% MwSt"
+      price_extra_info: "" 
     - title: "Lehrerführer Chatbot"
       desc: "Mit diesem Lehrerhandbuch können Sie schnell mit unserem Material über die Sprachtechnologie beginnen."
       image: "/assets/images/shop/chatbot_cover.png"
+      price: "€30 exkl. 6% MwSt"
+      price_extra_info: ""
 
 
 # Translations for the menu items
