@@ -40,7 +40,7 @@ languages: ["nl", "en", "fr", "de"]
 exclude_from_localizations: ["js", "images", "css"]
 #default_locale_in_subfolder: true
 
-theme_selection_filters: ["lang_art", "clim", "agro", "soc", "math", "tec", "mech"]
+theme_selection_filters: ["lang_art", "mech", "clim", "agro", "soc", "math", "tec"]
 
 theme_age_groups: ["p" ,"s1" ,"s2" ,"s3" ,"h"]
 

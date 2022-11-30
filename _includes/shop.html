@@ -8,7 +8,7 @@
 <h3 class="shop_product_title">{{ p.title }}</h3>
 <p>{{ p.desc }}</p>
 
-<div><img class="shop_image" src="{{p.image}}"/></div>
+<div><a href="{{p.image}}" target="_blank"><img class="shop_image" src="{{p.image}}"/></a></div>
 
 {%- if p.items -%}
 <p>{{ p.content }}</p>
