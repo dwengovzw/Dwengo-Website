@@ -633,7 +633,7 @@ shop:
   products:
     - title: "Kit de robot social"
       desc: "Avec ce kit, vous pouvez commencer avec des robots sociaux dans votre classe. Pour cela, vous pouvez compter sur notre matériel pédagogique gratuit sur <a href='/fr/socialrobot'>dwengo.org/fr/socialrobot</a>"
-      image: "/assets/images/shop/sociale_robot_kit_afbeeldingen.png"
+      image: "/assets/images/shop/sociale_robot_kit_afbeeldingen.webp"
       content: "Ce kit contient:"
       price: "1000 € hors TVA 21% pour cinq kits"
       price_extra_info: "Les écoles étant le principal groupe cible pour l'achat de ce kit, il n'est vendu que par pack de cinq. <br>En tant qu'<strong>entreprise ou organisation</strong> il est possible de <strong>sponsoriser</strong> ce kit robot. En fonction du nombre d'ensembles sponsorisés, la marque du sponsor sera fournie sur la boîte. Nous recherchons ensuite les écoles qui peuvent utiliser le plus les ensembles et donnons les ensembles à ces écoles. Pour plus d'informations sur le parrainage, veuillez contacter <a href='mailto:sales@dwengo.org'>sales@dwengo.org</a>."
