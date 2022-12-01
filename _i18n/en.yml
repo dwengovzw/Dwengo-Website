@@ -585,7 +585,7 @@ keywords:
   ct: Computational thinking
   graphical_prog: Graphical programming
   kiks: KIKS
-  none: " "
+  none: ""
 
 theme_selection_filter_translation:
   lang_art: "Culture"

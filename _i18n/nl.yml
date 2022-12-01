@@ -574,7 +574,7 @@ keywords:
   ct: Computationeel denken
   graphical_prog: Grafisch programmeren
   kiks: KIKS
-  none: " "
+  none: ""
 
 theme_selection_filter_translation:
   lang_art: "Taal en kunst"
