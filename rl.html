@@ -1,0 +1,54 @@
+---
+permalink: /rl/
+---
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Reinforcement learning game</title>
+      <meta charset="utf-8">
+      <style>
+        .controlbutton {
+          font-size: 50px;
+        }
+        .center {
+          margin: auto;
+          width: 100%;
+          padding: 10px;
+        }
+        #gameContainer {
+          display: inline-block;
+          text-align: center;
+        }
+      </style>
+    </head>
+    <body>
+      <span id="gameContainer">
+        <div>
+          <canvas id="gameCanvas" width="500" height="500" style="border:1px solid #000000;"></canvas>
+        </div>
+        <span class="center">
+          <button id= "up" class="controlbutton" style="color:red" onclick="up()">
+            &#11044;
+          </button>
+          <button id= "down" class="controlbutton" style="color:yellow" onclick="down()">
+            &#11044;
+          </button>
+          <button id= "left" class="controlbutton" style="color:violet" onclick="left()">
+            &#11044;
+          </button>
+          <button id= "right" class="controlbutton" style="color:coral" onclick="right()">
+            &#11044;
+          </button>
+          <button id= "grab" class="controlbutton" style="color:cyan" onclick="grabControl()">
+            &#11044;
+          </button>
+          <button id= "grab" class="controlbutton" style="color:darkviolet" onclick="dropControl()">
+            &#11044;
+          </button>
+        </span>
+      </span>
+
+      <script src="http://chancejs.com/chance.min.js"></script>
+      <script src="/assets/js/rl/game.js"></script>
+    </body>
+  </html>
