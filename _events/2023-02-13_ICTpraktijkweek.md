@@ -7,7 +7,11 @@ location: "Online"
 language: "nl"
 ---
 
-Inhoud nog te bepalen.
+Sessies: 
+* AI in de Zorg
+* Computationeel dneken concreet in de klas
+* Python en computationeel denken in de wiskundeles
+* Chatbot (over AI en taaltechnologie) 
 
 Organisatie: ICT-praktijkweek
 
