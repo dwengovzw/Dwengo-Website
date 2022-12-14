@@ -9,3 +9,5 @@ language: "nl"
 ---
 
 Een sociale robot, wat moet je je daar bij voorstellen? Hoe werkt zoiets? En hoe sociaal is zo'n sociale robot dan precies? Het project ‘Sociale Robot’ wil jou ondersteunen om rond deze vragen aan de slag te gaan, en omvat het ontwerpen, bouwen en programmeren van zo’n robot. Dankzij herbruikbaar materiaal zoals een kartonnen doos of lege verpakking kunnen de leerlingen hun fysieke robot vormgeven. Het wordt nog leuker als ze op een creatieve manier de robot een persoonlijke toets geven.
+
+Inschrijven kan via de website van het [CNO](https://cno.uantwerpen.be/nl/opleiding/ontwerpen-bouwen-en-programmeren-van-een-sociale-robot-78651?filter=)
