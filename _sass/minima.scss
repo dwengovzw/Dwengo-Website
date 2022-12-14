@@ -604,8 +604,13 @@ img {
     margin-top: -30px;
     position: absolute;
     top: 0px;
+    
+  }
+
+  .frontpage_frontpage_banner{
     background-position-y: -230px;
   }
+
   .ct_algorithm_container,  .ct_abstraction_container, .ct_decomposition_container, .ct_pattern_recognition_container {
     width: calc(50% + 0.5px);
     padding: 15px;

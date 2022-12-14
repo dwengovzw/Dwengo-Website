@@ -36,6 +36,7 @@ intro_title=intro_title
 paragraph1=paragraph1
 paragraph2=paragraph2
 paragraph3=paragraph3
+additional_classname="frontpage_frontpage_banner"
 -%}
 
 {%- include project_highlights.html -%}
