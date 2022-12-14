@@ -8,7 +8,7 @@ permalink: /kiks/
 banner_image: "/images/curricula/banner_kiks.png"
 logo_image: "/images/curricula/logo_kiks.png"
 partner_images: ['/images/partners/sintbavo.png', '/images/partners/kae.png', '/images/partners/ugent.svg','/images/partners/meise.png', '/images/partners/dwengo.png', '/images/partners/accenture.svg', '/images/partners/oost-vlaanderen.svg', '/images/partners/rvo-society.svg', '/images/partners/imec.svg', '/images/partners/vlaanderen.svg', '/images/partners/vlaams-brabant.svg', '/images/partners/veranderwijs.png']
-learning_paths: ['Werken met notebooks - Python', 'Klimaatverandering - Python in STEM', 'KIKS - Microscopie', 'kiks_practicum', 'Python in STEM - Digitale beelden', 'KIKS - Basis Deep Learning', 'KIKS - Gevorderd Deep Learning', 'KIKS-classificatie', 'KIKS-regressie', 'kiks_ethiek']
+learning_paths: ['pn_werking', 'pn_klimaatverandering', 'kiks1_microscopie', 'kiks2_practicum', 'pn_digitalebeelden', 'kiks3_dl_basis', 'kiks4_dl_gevorderd', 'kiks5_classificatie', 'kiks6_regressie', 'kiks7_ethiek']
 
 ---
 

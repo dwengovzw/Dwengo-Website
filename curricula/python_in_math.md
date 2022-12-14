@@ -13,7 +13,7 @@ redirect_from:
 banner_image: "/images/curricula/banner_python_in_math.png"
 logo_image: "/images/curricula/logo_math_with_python.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png']
-learning_paths: ['Werken met notebooks - Python', 'Pythagoras - Python in wiskunde', 'Spreidingsdiagrammen - Python in wiskunde', 'Rechten - Python in wiskunde', 'Lineaire Regressie - Python in wiskunde', 'Epidemie - Python in STEM', 'Python in STEM - Digitale beelden', 'pn_logica', 'pn_parameters', 'pn_parabolen']
+learning_paths: ['pn_werking', 'maths_pythagoras', 'maths_spreidingsdiagrammen', 'maths_rechten', 'maths_lineaireregressie', 'maths_epidemie', 'pn_digitalebeelden', 'maths_logica', 'maths_parameters', 'maths_parabolen', 'pn_regressie']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].math_with_python.intro_title }} {% endcapture %}

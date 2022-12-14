@@ -13,7 +13,7 @@ redirect_from:
 banner_image: "/images/curricula/banner_python_programming.png"
 logo_image: "/images/curricula/logo_python_programming.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png']
-learning_paths: ['Werken met notebooks - Python', 'Programmeerelementen', 'Datatypes', 'Operatoren', 'Structuren']
+learning_paths: ['pn_werking', 'pn_functies', 'pn_datatypes', 'pn_operatoren', 'pn_structuren']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].python_programming.intro_title }} {% endcapture %}
