@@ -5,6 +5,8 @@
 layout: default
 title: Physical computing
 permalink: /physical_computing/
+redirect_from:
+    - /physicalcomputing/
 banner_image: "/images/curricula/banner_physical_computing.png"
 logo_image: "/images/curricula/logo_physical_computing.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png']
