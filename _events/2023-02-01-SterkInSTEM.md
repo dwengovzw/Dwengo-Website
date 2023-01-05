@@ -1,6 +1,6 @@
 ---
 title: "Studiedag: Sterk in STEM"
-date: 2023-02-01T00:00:00
+date: 2023-02-01T00:01:00
 end_date: 2023-02-01T23:99:00
 item_theme_logo_url: "/images/curricula/logo_stem.png"
 location: "Online in Gather.town"
