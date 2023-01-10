@@ -8,9 +8,8 @@ language: "nl"
 ---
 
 Sessies: 
-* AI in de Zorg
-* Chatbot (over AI en taaltechnologie) 
+* [AI in de Zorg](https://www.ictdag.be/39/aanbod/sessie/3310) op woensdag 15 februari 2023, 13:00 - 15:00 
+* [Chatbot (over AI en taaltechnologie)](https://www.ictdag.be/39/aanbod/sessie/4308) op donderdag 16 februari 2023, 13:00 - 15:00 
 
 Organisatie: ICT-praktijkweek
-
-- [15 februari 2023, 09:30 - 16:30](https://www.ictdag.be/39)
+ ![image](https://user-images.githubusercontent.com/48352335/211619395-77c21fa9-dc97-4d08-a3c9-d1a190ad0c58.png)
