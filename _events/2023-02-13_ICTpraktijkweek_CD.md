@@ -8,9 +8,9 @@ language: "nl"
 ---
 
 Sessies: 
-* Computationeel denken concreet in de klas
-* Python en computationeel denken in de wiskundeles
+* [Python en computationeel denken in de wiskundeles](https://www.ictdag.be/39/aanbod/sessie/3507) op woensdag 15 februari 19:00-21:00
+* [Computationeel denken concreet in de klas](https://www.ictdag.be/39/aanbod/sessie/4106) op donderdag 16 februari 9:30-11:00
 
 Organisatie: ICT-praktijkweek
 
-- [15 en 16 februari 2023, 09:30 - 16:30](https://www.ictdag.be/39)
+![image](https://user-images.githubusercontent.com/48352335/211619871-a7d7367c-3a0e-45de-ae31-5140150086f5.png)
