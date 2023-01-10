@@ -12,4 +12,4 @@ Sessies:
 * [Chatbot (over AI en taaltechnologie)](https://www.ictdag.be/39/aanbod/sessie/4308) op donderdag 16 februari 2023, 13:00 - 15:00 
 
 Organisatie: ICT-praktijkweek
- ![image](https://user-images.githubusercontent.com/48352335/211619395-77c21fa9-dc97-4d08-a3c9-d1a190ad0c58.png)
+![image](https://user-images.githubusercontent.com/48352335/211619664-2c99e86d-8beb-4d60-98ea-6cfeae17957d.png)
