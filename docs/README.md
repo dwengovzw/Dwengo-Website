@@ -1,0 +1,1 @@
+Use this folder only for files which need to be accessible through a short url.
