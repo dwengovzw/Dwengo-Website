@@ -1,7 +1,7 @@
 ---
 title: "Computationeel denken in de lessen wiskunde, wetenschappen of taal"
-date: 2023-01-31T16:00:00
-end_date: 2023-02-02T21:00:00
+date: 2023-01-31T09:30:00
+end_date: 2023-02-02T16:30:00
 item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
 location: "Huis van het GO! Willebroekkaai 36 1000 Brussel"
 location_link: "https://www.google.com/maps/place/GO!+onderwijs+van+de+Vlaamse+Gemeenschap/@50.8633456,4.3502028,17z/data=!3m1!4b1!4m5!3m4!1s0x47c3c386acd2c0a1:0x1930a2f02ba17925!8m2!3d50.8633393!4d4.3524112"
