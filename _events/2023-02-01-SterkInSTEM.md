@@ -3,7 +3,7 @@ title: "Studiedag: Sterk in STEM"
 date: 2023-02-01T09:00:00
 end_date: 2023-02-01T16:00:00
 item_theme_logo_url: "/images/curricula/logo_stem.png"
-location: "Online in Gather.town"
+location: "https://www.google.be/maps/place/Technicum+-+Blok+2,+Sint-Pietersnieuwstraat+41%2Ft1,+9000+Gent/@51.0460167,3.7248181,17z/data=!3m1!4b1!4m5!3m4!1s0x47c371503e195cbd:0xf9b5c0a9201f9948!8m2!3d51.0460167!4d3.7270068"
 language: "nl"
 ---
 **Studeren voor ingenieur aan de UGent.** 
