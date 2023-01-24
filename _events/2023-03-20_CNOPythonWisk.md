@@ -16,5 +16,5 @@ Workshop 2: Data visualiseren in Python
 
 Organisatie: CNO
 
-- [20 maart 2023, 09:00 - 16:00](https://cno.uantwerpen.be/nl/opleiding/computationeel-denken-en-python-in-de-wiskundeles-78677?filter=15_46_168)
-- [18 april 2023, 09:00 - 16:00](https://cno.uantwerpen.be/nl/opleiding/data-visualiseren-in-python-python-in-wiskunde-78678?filter=15_46_168)
+- [20 maart 2023, 13:30 - 16:3](https://cno.uantwerpen.be/nl/opleiding/computationeel-denken-en-python-in-de-wiskundeles-78677?filter=15_46_168)
+- [18 april 2023, 13:30 - 16:30](https://cno.uantwerpen.be/nl/opleiding/data-visualiseren-in-python-python-in-wiskunde-78678?filter=15_46_168)
