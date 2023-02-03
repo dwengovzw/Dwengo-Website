@@ -334,7 +334,7 @@ curricula_page:
         link_name: "Download"
       - file_title: "Handleiding 'Hallo robot!'"
         file_info: "Met dit lesboekje breng je je eigen sociale robot tot leven.​"
-        file_location: "/assets/files/socialrobot/SocialeRobot_handleiding_eerstedruk.pdf"
+        file_location: "/assets/files/socialrobot/handleiding_hallo_robot.pdf"
         file_icon_name: "description"
         link_name: "Download"
   chatbot:
