@@ -17,7 +17,7 @@ redirect_from:
 banner_image: "/images/curricula/banner_care.png"
 logo_image: "/images/curricula/logo_care.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png']
-learning_paths: ['pn_werking', 'aiz1_zorg', 'aiz2_grafen', 'aiz3_unplugged', 'aiz4_eindtermen']
+learning_paths: ['pn_werking', 'un_artificiele_intelligentie', 'aiz1_zorg', 'aiz2_grafen', 'aiz3_unplugged', 'aiz4_eindtermen']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].care.intro_title }} {% endcapture %}
