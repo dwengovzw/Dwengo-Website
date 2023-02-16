@@ -17,7 +17,7 @@ redirect_from:
 banner_image: "/images/curricula/banner_art.png"
 logo_image: "/images/curricula/logo_art.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png']
-learning_paths: ['pn_werking', 'jommeke-vooroordelen-van-ai', 'art_turtle']
+learning_paths: ['pn_werking', 'un_artificiele_intelligentie', 'jommeke-vooroordelen-van-ai', 'art_turtle']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].art.intro_title }} {% endcapture %}

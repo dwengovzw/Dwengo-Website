@@ -17,7 +17,7 @@ Leerkrachten secundair onderwijs, lerarenopleiders voor leerkrachten secundair o
 
 **Lesgevers**:<br>
 Marie-Paule Buyse en Natacha Gesquière.<br>
-Beide lesgevers maken deel uit van de cel ‘iSTEM inkleuren’ (https://istem.be/).<br>
+Beide lesgevers maken deel uit van de cel [‘iSTEM inkleuren’](https://istem.be/).<br>
 
 **Wanneer**: 2 maart 2023, 11:30 - 13:00
 
