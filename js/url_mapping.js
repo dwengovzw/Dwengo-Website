@@ -4,252 +4,242 @@
 // 2) In that file you specify the permalink and include the learning path html
 // 3) Add the permalink text in the object below and specify the hruid and available languages
 let urlToHruidMapping = {
-    socialrobot_old: {
+    agri_deeplearning: {
         hruid: "agri_landbouw",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot0: {
+    agri_lopendeband: {
         hruid: "agri_lopendeband",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot1: {
+    aiz1_zorg: {
         hruid: "aiz1_zorg",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot2: {
+    aiz2_grafen: {
         hruid: "aiz2_grafen",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot2oefeningen: {
+    aiz3_unplugged: {
         hruid: "aiz3_unplugged",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot3: {
+    aiz4_eindtermen: {
         hruid: "aiz4_eindtermen",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot4: {
-        hruid: "jommeke-vooroordelen-van-ai",
+    art_jommeke: {
+        hruid: "art_jommeke",
         languages: ["nl"],
         default_language: "nl"
     },
-    starttodwenguino: {
+    art_turtle: {
         hruid: "art_turtle",
         languages: ["nl"],
         default_language: "nl"
     },
-    starttodwenguino: {
+    cb1_chatbot: {
         hruid: "cb1_chatbot",
         languages: ["nl"],
         default_language: "nl"
     },
-    starttodwenguino: {
+    cb2_sentimentanalyse: {
         hruid: "cb2_sentimentanalyse",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialrobot_old: {
+    cb3_vervoegmachine: {
         hruid: "cb3_vervoegmachine",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot0: {
+    cb4_eindtermen: {
         hruid: "cb4_eindtermen",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot1: {
+    ct1_concepten: {
         hruid: "ct1_concepten",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot2: {
+    ct2_concreet: {
         hruid: "ct2_concreet",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot2oefeningen: {
+    ct3_voorbeelden: {
         hruid: "ct3_voorbeelden",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot3: {
+    ct4_evaluatiekader: {
         hruid: "ct4_evaluatiekader",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot4: {
+    ct5_kijkwijzer: {
         hruid: "ct5_kijkwijzer",
         languages: ["nl"],
         default_language: "nl"
     },
-    starttodwenguino: {
+    ct6_cases: {
         hruid: "ct6_cases",
         languages: ["nl"],
         default_language: "nl"
     },
-    starttodwenguino: {
+    ct7_historiek: {
         hruid: "ct7_historiek",
         languages: ["nl"],
         default_language: "nl"
     },
-    starttodwenguino: {
+    ct8_eindtermen: {
         hruid: "ct8_eindtermen",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialrobot_old: {
+    kiks1_microscopie: {
         hruid: "kiks1_microscopie",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot0: {
+    kiks2_practicum: {
         hruid: "kiks2_practicum",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot1: {
+    kiks3_dl_basis: {
         hruid: "kiks3_dl_basis",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot2: {
+    kiks4_dl_gevorderd: {
         hruid: "kiks4_dl_gevorderd",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot2oefeningen: {
+    kiks5_classificatie: {
         hruid: "kiks5_classificatie",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot3: {
+    kiks6_regressie: {
         hruid: "kiks6_regressie",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot4: {
+    kiks7_ethiek: {
         hruid: "kiks7_ethiek",
         languages: ["nl"],
         default_language: "nl"
     },
-    starttodwenguino: {
+    kiks8_eindtermen: {
         hruid: "kiks8_eindtermen",
         languages: ["nl"],
         default_language: "nl"
     },
-    starttodwenguino: {
+    maths_parabolen: {
         hruid: "maths_parabolen",
         languages: ["nl"],
         default_language: "nl"
     },
-    starttodwenguino: {
+    maths_parameters: {
         hruid: "maths_parameters",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialrobot_old: {
+    maths1_pythagoras: {
         hruid: "maths_pythagoras",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot0: {
+    maths2_spreidingsdiagrammen: {
         hruid: "maths_spreidingsdiagrammen",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot1: {
+    maths3_rechten: {
         hruid: "maths_rechten",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot2: {
+    maths4_linreg: {
         hruid: "maths_lineaireregressie",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot2oefeningen: {
+    maths5_epidemie: {
         hruid: "maths_epidemie",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot3: {
-        hruid: "sr_module3",
-        languages: ["nl"],
-        default_language: "nl"
-    },
-    socialerobot4: {
-        hruid: "sr_module4",
-        languages: ["nl"],
-        default_language: "nl"
-    },
-    starttodwenguino: {
+    maths_logica: {
         hruid: "maths_logica",
         languages: ["nl"],
         default_language: "nl"
     },
-    starttodwenguino: {
+    maths7_grafen: {
         hruid: "maths7_grafen",
         languages: ["nl"],
         default_language: "nl"
     },
-    starttodwenguino: {
+    pc_microcontroller: {
         hruid: "pc_microcontroller",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialrobot_old: {
+    pc_starttodwenguino: {
         hruid: "pc_starttodwenguino",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot0: {
+    pn_datatypes: {
         hruid: "pn_datatypes",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot1: {
+    pn_digitalebeelden: {
         hruid: "pn_digitalebeelden",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot2: {
+    pn_functies: {
         hruid: "pn_functies",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot2oefeningen: {
+    pn_functiesblockly: {
         hruid: "pn_peb",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot3: {
+    pn_klimaat: {
         hruid: "pn_klimaatverandering",
         languages: ["nl"],
         default_language: "nl"
     },
-    socialerobot4: {
+    pn_operatoren: {
         hruid: "pn_operatoren",
         languages: ["nl"],
         default_language: "nl"
     },
-    starttodwenguino: {
+    pn_regressie: {
         hruid: "pn_regressie",
         languages: ["nl"],
         default_language: "nl"
     },
-    starttodwenguino: {
+    pn_structuren: {
         hruid: "pn_structuren",
         languages: ["nl"],
         default_language: "nl"
     },
-    starttodwenguino: {
+    pn_werking: {
         hruid: "pn_werking",
         languages: ["nl"],
         default_language: "nl"
@@ -284,18 +274,23 @@ let urlToHruidMapping = {
         languages: ["nl"],
         default_language: "nl"
     },
-    starttodwenguino: {
+    stem_ipadres: {
         hruid: "stem_ipadres",
         languages: ["nl"],
         default_language: "nl"
     },
-    starttodwenguino: {
+    wgs_fr: {
         hruid: "wegostem",
         languages: ["fr"],
         default_language: "nl"
     },
-    starttodwenguino: {
+    wgs_nl: {
         hruid: "wegostem",
+        languages: ["nl"],
+        default_language: "nl"
+    },
+    un_artificiele_intelligentie: {
+        hruid: "un_artificiele_intelligentie",
         languages: ["nl"],
         default_language: "nl"
     }
