@@ -6,7 +6,6 @@ item_theme_logo_url: "/images/curricula/logo_socialrobot.png"
 location: "Chinastraat, 9000 Gent"
 language: "nl"
 ---
-**Onze sociale robots op de Maker Faire Gent**
 
 Een Maker Faire kan je het best omschrijven als een geschifte doe-het-zelf kermis waar alles kan én mag. 
 Robotarmen, een vuurspuwende draak, een touwtjes-springende pinguïn, … Je kan het niet gek genoeg bedenken of je komt het er tegen.
