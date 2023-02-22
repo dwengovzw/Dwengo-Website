@@ -22,3 +22,5 @@ Beide lesgevers maken deel uit van de cel [‘iSTEM inkleuren’](https://istem.
 **Wanneer**: 2 maart 2023, 11:30 - 13:00
 
 [Inschrijven via SETT](https://www.sett-gent.be/nl/activity/evaluatie-stem-projecten/)
+
+![lezing](https://user-images.githubusercontent.com/48352335/220715668-44a97f31-e22b-45b3-b418-b3a0c4255784.png)
