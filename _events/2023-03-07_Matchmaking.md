@@ -13,6 +13,6 @@ Een voormiddag rond educatieve toepassingen voor leerkrachten in het secundair o
 Organisatie: EDTech Station
 
 **Datum:** 7 maart 2023, 09:00-12:00<br>
-**Locatie:**  Hangar K, 8500 KORTRIJK
+**Locatie:**  Hangar K, 8500 Kortrijk
 
 
