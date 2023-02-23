@@ -12,6 +12,8 @@ Een voormiddag rond educatieve toepassingen voor leerkrachten in het secundair o
 
 Een evenement waarbij EdTech Station leerkrachten en beleidsmensen uit het secundair onderwijs samenbrengt met EdTech-bedrijven die een relevant aanbod hebben en - al dan niet - al cases hebben van samenwerking met secundaire scholen.
 
+**Met Dwengo vzw stellen we er alvast ons materiaal voor leerkrachten voor.** 
+
 **Voor wie?** Leerkrachten en beleidsmensen secundair onderwijs, leerkrachten in opleiding.
 
 **Datum:** 7 maart 2023, 09:00-12:00<br>
