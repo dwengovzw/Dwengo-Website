@@ -19,6 +19,6 @@ Organisatie: Maker Faire Gent.
 **Datum:** 28 mei 2023, Opening Night, 18:00 - 24:00<br>
 **Locatie:**  Zebrastraat Gent
 
-[Meer info op de website van de Maker Faire](https://www.makerfairegent.be/programma-item/sociale-robots-by-ugent-en-dwengo))
+[Meer info op de website van de Maker Faire](https://www.makerfairegent.be/programma-item/sociale-robots-by-ugent-en-dwengo)
 
 ![MakerFaire_WebsiteHeader_2705x1435](https://user-images.githubusercontent.com/48352335/219815451-ef3fd0f5-1ee8-414e-8c92-92e92e4b414e.png)
