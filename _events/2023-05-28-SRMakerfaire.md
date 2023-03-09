@@ -17,7 +17,7 @@ Zo’n persoonlijke robot waar je écht mee kan interageren. Het klinkt crazy, m
 Organisatie: Maker Faire Gent.
 
 **Datum:** 28 mei 2023, Opening Night, 18:00 - 24:00<br>
-**Locatie:**  Zebrastraat Gent
+**Locatie:**  Chinastraat, Gent
 
 [Meer info op de website van de Maker Faire](https://www.makerfairegent.be/programma-item/sociale-robots-by-ugent-en-dwengo)
 
