@@ -254,6 +254,11 @@ curricula_page:
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
     curricula_files:
+      - file_title: "Projectfiche KIKS"
+        file_info: "Dit is een kort overzicht van het KIKS-project met projectstructuur- en kenmerken."
+        file_location: "/assets/files/kiks/projectfiche_kiks.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
       - file_title: "De handleiding - ook verkrijgbaar in gedrukte versie"
         file_info: "We willen de leerkrachten achtergrondkennis geven over de inhoud van dit project: de klimaatverandering, de biologie van de huidmondjes en de manier waarop planten zich via de huidmondjes aan die klimaatverandering aanpassen, het wetenschappelijk onderzoek van de UGent en de Plantentuin Meise dat aan de grondslag ligt van dit project, burgerwetenschap, wat is artificiële intelligentie (AI), de geschiedenis van AI, het gebruik ervan en de ethiek errond, de principes van digitale beelden, de wiskunde achter de algoritmen en de fundamenten van de momenteel meest gebruikte AI-technieken. We geven ook aan hoe wij met KIKS aan de slag gegaan zijn in de klas.​"
         file_location: "/assets/files/kiks/KIKS_handleiding_eerstedruk.pdf"
@@ -281,6 +286,11 @@ curricula_page:
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
     curricula_files:
+      - file_title: "Projectfiche Sociale Robot"
+        file_info: "Dit is een kort overzicht van project Sociale Robot met projectstructuur- en kenmerken."
+        file_location: "/assets/files/socialrobot/projectfiche_socialerobot.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
       - file_title: "Collage sociale robots"
         file_info: "De robots op deze foto zijn realisaties van leerlingen van de eerste graad van het secundair onderwijs of zijn prototypes.​"
         file_location: "/assets/files/socialrobot/collage.png"
@@ -353,6 +363,11 @@ curricula_page:
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
     curricula_files:
+      - file_title: "Projectfiche Chatbot"
+        file_info: "Dit is een kort overzicht van Chatbot-project met projectstructuur- en kenmerken."
+        file_location: "/assets/files/chatbot/projectfiche_chatbot.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
       - file_title: "BrAInfood Chatbots"
         file_info: "In deze brAInfood - gericht naar jongeren - geeft het Kenniscentrum Data & Maatschappij meer informatie over chatbots. De brAInfood bevat een fictief verhaal over Lotte die praat met een chatbot, en vermoedelijk informatie over haar doorgeeft aan bedrijven. Verder worden enkele aandachtspunten met betrekking tot chatbots toegelicht, alsook enkele tips voor jongeren om hun (persoons)gegevens beter te beschermen. Op die manier willen we jongeren bewuster maken van de werking van chatbots en hen stimuleren te reflecteren over de gegevens die van hen worden verzameld.​"
         file_location: "/assets/files/chatbot/Brainfood13_Chatbots_NL.pdf"
@@ -385,6 +400,11 @@ curricula_page:
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
     curricula_files:
+      - file_title: "Projectfiche AI in de Zorg"
+        file_info: "Dit is een kort overzicht van project AI in de Zorg met projectstructuur- en kenmerken."
+        file_location: "/assets/files/care/projectfiche_aiindezorg.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
       - file_title: "Sprouts"
         file_info: "Een spel ter inleiding op 'Grafen'.​"
         file_location: "/assets/files/care/Sprouts.mov"
