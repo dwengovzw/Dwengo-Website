@@ -397,6 +397,11 @@ curricula_page:
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
     curricula_files:
+      - file_title: "Projectfiche AI in de Zorg"
+        file_info: "Dit is een kort overzicht van project AI in de Zorg met projectstructuur- en kenmerken."
+        file_location: "/assets/files/care/projectfiche_aiindezorg.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
       - file_title: "Sprouts"
         file_info: "Een spel ter inleiding op 'Grafen'.​"
         file_location: "/assets/files/care/Sprouts.mov"
