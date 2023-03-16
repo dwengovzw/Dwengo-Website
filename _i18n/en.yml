@@ -74,6 +74,12 @@ socialrobot:
   subtitle3p4: "Tijdens het programmeer- en bouwproces komen verschillende aspecten van computationeel denken aan bod. Door grafisch te programmeren in de simulator hebben leerlingen op een laagdrempelige manier kennisgemaakt met de universele concepten van programmeren. Nadien kunnen ze gemakkelijk overschakelen naar andere programmeertalen."
 
 
+congres:
+  intro_title: "Congres"
+  paragraph1: "Voormiddag: Computationeel denken en geïntegreerde STEM concreet in de klas. <br> Namiddag: Artificiële intelligentie en haar maatschappelijke aspecten in de klas"
+  paragraph2: "U zal kunnen inschrijven voor een halve of voor de volledige dag.<br> Programma: in opbouw <br><br><strong>Wanneer</strong>: 7 juni 2023<br><strong>Locatie:</strong> De Krook, Miriam Makebaplein 1, 9000 Gent<br><br>Met steun van de Vlaamse overheid, Departement Onderwijs en Vorming, en het Erasmus+ programma van de EU"
+  paragraph3: ""
+
 agriculture:
   intro_title: "Agriculture"
   paragraph1: "TODO: translate all content"
@@ -705,4 +711,5 @@ projects: Projects
 curricula: Curricula
 calendar: Calendar
 content: Lesonderwerpen
+congres2023: "<strong>Congres 2023</strong>"
 test: test en
