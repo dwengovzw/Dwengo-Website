@@ -4,9 +4,9 @@ title: congres2023
 permalink: /congres2023/
 redirect_from: 
   - /congres/
-banner_image: "/images/congres2023/banner_congres2023_full.png"
+banner_image: "/images/congres2023/congres2023fb.png"
 logo_image: "/images/congres2023/logo_congres2023.png"
-partner_images: ['/images/partners/ugent.svg', '/images/partners/logoCollectiveUp.svg', '/images/partners/dwengo.png', '/images/partners/istem.png', '/images/partners/2link2.png', '/images/partners/hogent.svg', '/images/partners/pov.jpg']
+partner_images: ['/images/partners/ugent.svg', '/images/partners/logoCollectiveUp.svg', '/images/partners/dwengo.png', '/images/partners/istem.png', '/images/partners/2link2.png', '/images/partners/hogent.svg', '/images/partners/pov.jpg' , '/images/partners/onderwijsvlaanderen.png']
 learning_paths: [""]
 ---
 
