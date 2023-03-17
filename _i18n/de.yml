@@ -644,7 +644,7 @@ donate:
   info2: "Sie können einen Betrag Ihrer Wahl in die Kontonummer überweisen:"
   account_nr: "BE74 0015 8122 6807"
   info3: "Geben Sie in der Ankündigung die folgenden Informationen an:"
-  info4: "Gift-[Name]"
+  info4: "Gift-[Name]-[Nationalregisternummer]"
   info5: "Wo Sie [Name] durch Ihren Namen ersetzen."
   info6: "Füllen Sie dann das folgende Formular aus, damit wir die Informationen benötigen, um das Steuerzertifikat an Sie zu senden."
   info7: "Formular Geschenk Dwengo"

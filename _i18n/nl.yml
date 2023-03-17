@@ -642,7 +642,7 @@ donate:
   info2: "U kunt een bedrag naar keuze overschrijven op het rekeningnummer:"
   account_nr: "BE74 0015 8122 6807"
   info3: "Vermeld in de mededeling de volgende info:"
-  info4: "Gift-[naam]"
+  info4: "Gift-[naam]-[Rijksregisternummer]"
   info5: "Waarbij je [naam] vervangt door jouw naam."
   info6: "Vul daarna onderstaand formulier in zodat wij de nodig info hebben om het fiscaal attest naar je op te sturen."
   info7: "Formulier gift dwengo"

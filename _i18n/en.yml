@@ -647,7 +647,7 @@ donate:
   info2: "You can transfer an amount of your choice to the account number:"
   account_nr: "BE74 0015 8122 6807"
   info3: "Include the following information in the notice:"
-  info4: "Gift-[name]"
+  info4: "Gift-[name]-[National register number]"
   info5: "Where you replace [name] with your name and email address."
   info6: "After donating you can enter your details into the form linked below. Thay way we are able to send you your certificate of donation."
   info7: "Dwengo gift form"

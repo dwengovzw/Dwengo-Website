@@ -648,7 +648,7 @@ donate:
   info2: "Vous pouvez transférer un montant de votre choix au numéro de compte:"
   account_nr: "BE74 0015 8122 6807"
   info3: "Dans l'annonce, indiquez les informations suivantes:"
-  info4: "Gift-[Nom]"
+  info4: "Gift-[Nom]-[Numéro de registre national]"
   info5: "Où vous remplacez [nom] par votre nom."
   info6: "Remplissez ensuite le formulaire ci-dessous afin que nous ayons besoin des informations pour vous envoyer le certificat fiscal."
   info7: "Formulaire cadeau Dwengo"
