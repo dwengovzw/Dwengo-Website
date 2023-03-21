@@ -93,8 +93,8 @@ aiopschool:
   "
   paragraph2: "
   AI Op School is een project van dwengo vzw. 
-  Binnen het project ontwikkelden we zowel lesmateriaal als de nodig tools om ermee in de klas aan de slag te gaan met machinaal leren en artificiële intelligentie.
-  Alle lesinhouden die beschikbaar waren op aiopschool.be (<a href='http://localhost:4000/content/'>en nog veel meer</a>) zijn nu beschikbaar op dwengo.org"
+  Binnen het project ontwikkelden we zowel het lesmateriaal als de nodige tools om in de klas aan de slag te gaan met machinaal leren en artificiële intelligentie.
+  Alle lesinhouden die beschikbaar waren op aiopschool.be (<a href='/content/'>en nog veel meer</a>) zijn nu beschikbaar op dwengo.org"
 
 agriculture:
   intro_title: "AI in de Landbouw"
