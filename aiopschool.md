@@ -15,10 +15,16 @@ curricula: ['kiks', 'socialrobot', 'agriculture', 'art', 'computational_thinking
 {% capture paragraph1 %} {{ site.translations[site.lang].aiopschool.paragraph1 }} {% endcapture %}
 {% capture paragraph2 %} {{ site.translations[site.lang].aiopschool.paragraph2 }} {% endcapture %}
 
+{% capture banner_info %} {{ site.translations[site.lang].aiopschool.banner_info }} {% endcapture %}
+
 {%- include frontpage_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
 intro_title=intro_title
 paragraph1=paragraph1
 paragraph2=paragraph2
 -%}
+
+{%- include page_wide_info_banner.html text=banner_info button_text="kiks.form_button_text" -%}
+
+{%- include ai_op_school_info.html -%}
 
 {%- include curricula.html curricula_pages=page.curricula -%}
