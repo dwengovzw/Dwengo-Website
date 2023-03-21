@@ -841,6 +841,15 @@ footer {
   margin: 5px;
 }
 
+.nav-item.active{
+  background-color: $brand-primary;
+  border-radius: 0.25rem;
+}
+
+.nav-link.active {
+  color: white !important;
+}
+
 
 
 // Import partials.

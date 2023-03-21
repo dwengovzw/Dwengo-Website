@@ -80,6 +80,18 @@ congres:
   paragraph2: "You will be able to register for a half day or for the whole day.<br> PProgram: under construction<br><br><strong>Date</strong>: June 7, 2023<br><strong>Location:</strong> De Krook, Miriam Makebaplein 1, 9000 Gent<br><br>With the support of the Flemish government, Department of Education and Training, and the Erasmus+ program of the EU"
   paragraph3: ""
 
+aiopschool:
+  intro_title: "AI Op School"
+  paragraph1: "
+  Artificiële intelligentie (AI) komt volop aan bod in de media. 
+  Populaire thema’s zijn: chatbots, zelfrijdende auto’s, virtuele assistenten en het verlies aan jobs. 
+  AI-systemen dringen meer en meer onze wereld binnen.
+  "
+  paragraph2: "
+  AI Op School is een project van dwengo vzw. 
+  Binnen het project ontwikkelden we zowel het nodig lesmateriaal als de nodig tools om in de klas aan de slag te gaan met machinaal leren en artificiële intelligentie.
+  Alle lesinhouden die beschikbaar waren op aiopschool.be (en nog veel meer) zijn nu beschikbaar op dwengo.org"
+
 agriculture:
   intro_title: "Agriculture"
   paragraph1: "TODO: translate all content"
