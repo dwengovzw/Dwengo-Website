@@ -446,7 +446,7 @@ curricula_page:
         file_icon_name: "play_arrow"
         link_name: "Download"
       - file_title: "De leerlingencursus - Finaliteit Doorstroom"
-        file_info: "Draftversie"
+        file_info: "Leerlingencursus"
         file_location: "/assets/files/care/AIindeZorg_doorstroom_eerstedruk.pdf"
         file_icon_name: "description"
         link_name: "Download"
