@@ -1,7 +1,7 @@
 ---
 title: "Uitlenen van de 'Sociale robot'-kit"
-date: 2022-05-30T11:00:00
-item_theme_logo_url: "/images/curricula/logo_wegostem.png"
+date: 2021-12-23T09:00:00
+item_theme_logo_url: "/images/curricula/logo_socialrobot.png"
 language: "nl"
 ---
 
