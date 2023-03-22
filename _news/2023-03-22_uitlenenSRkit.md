@@ -1,7 +1,7 @@
 ---
 title: "Uitlenen van de 'Sociale robot'-kit"
 date: 2023-03-22T21:00:00
-item_theme_logo_url: "/images/curricula/logo_socialerobot.png"
+item_theme_logo_url: "/images/curricula/logo_socialrobot.png"
 language: "nl"
 ---
 
