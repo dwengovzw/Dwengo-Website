@@ -1,0 +1,40 @@
+
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+{%- assign date_time_format = "%b %-d, %Y: %R" -%}
+{%- assign time_format = "%R" -%}
+
+<div class="calendar">
+    <h2 class="event-list-heading">{% t news %}</h2>
+    {% assign sorted_events = include.news | sort: 'date' | where: "language", site.lang %}
+    {% assign sorted_events_reverse = include.news | sort: 'date' | reverse | where: "language", site.lang %}
+    {%- if sorted_events.size > 0 -%}
+    <ul class="event-list">
+      {%- for event in sorted_events -%}
+            <li class="event-list-item event-list-item-global" data-event-date="{{ event.date }}" itemscope itemtype="https://schema.org/Event">
+                <span class="event-item-logo">
+                    <span class="icon_container">
+                        <span class="material-symbols-outlined md-48">calendar_month</span>
+                    </span>
+                    <span class="event-item-logo-date event-meta" itemscope itemtype="https://schema.org/startDate">{{ event.date | date: date_format }}</span>
+                </span>
+                <span class="event-item-content-container">
+                    <h3>
+                        {{ event.title | escape }}
+                    </h3>
+                    {{ event.content }}
+                    <span id="event-footer">
+                        <span class="footer-event-date-info nowrap">
+                            <span class="material-symbols-outlined md-48">calendar_month</span>
+                            <span class="event-item-date event-item-start-date">{{ event.date | date: date_format }}</span>
+                        </span>
+                    </span>
+                </span>
+                <span class="event-item-theme-logo">
+                    <img src="{{ event.item_theme_logo_url }}" />
+                </span>
+            </li>
+      {%- endfor -%}
+    {%- else -%}
+      <span id="event-list-no-events">{% t news_page.no_news %}</span>
+    {%- endif -%}
+

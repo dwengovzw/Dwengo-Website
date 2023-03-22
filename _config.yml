@@ -35,6 +35,7 @@ header_pages:
   - contact.md
   - about.markdown
   - events.md
+  - news.md
   - congres2023.md
 
 languages: ["nl", "en", "fr", "de"]
@@ -109,3 +110,4 @@ include:
 
 collections:
   events:
+  news:

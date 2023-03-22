@@ -596,6 +596,9 @@ calendar_page:
   no_past_events: Geen eerdere activiteiten
   online: online
 
+news_page:
+  no_news: Geen nieuws 
+
 project_highlights:
   title: Projecten in de kijker
   count_intro_text: Waaraan al meer dan
@@ -729,3 +732,4 @@ content: Lesthema's
 calendar: Agenda
 test: test nl
 congres2023: "<strong>Congres</strong>"
+news: "Nieuws"

@@ -601,6 +601,9 @@ calendar_page:
   no_past_events: No past events
   online: online
 
+news_page:
+  no_news: No news
+
 project_highlights:
   title: We are known from
   count_intro_text: More than
@@ -732,4 +735,5 @@ curricula: Curricula
 calendar: Calendar
 content: Lesonderwerpen
 congres2023: "<strong>Congres 2023</strong>"
+news: "News"
 test: test en
