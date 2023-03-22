@@ -9,7 +9,7 @@ language: "nl"
 ---
 
 Een Maker Faire kan je het best omschrijven als een geschifte doe-het-zelf kermis waar alles kan én mag. 
-Robotarmen, een vuurspuwende draak, een touwtjes-springende pinguïn, … Je kan het niet gek genoeg bedenken of je komt het er tegen.
+Robotarmen, een vuurspuwende draak, een touwtjespringende pinguïn, … Je kan het niet gek genoeg bedenken of je komt het er tegen.
 
 Verwacht je aan heel wat coole showcases, workshops en keynote speeches! Kom de meest creatieve projecten en ideeën van het moment ontdekken.
 
