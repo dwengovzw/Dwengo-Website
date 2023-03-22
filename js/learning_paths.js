@@ -362,7 +362,7 @@ function visualizeLearningPath(path) {
     /**
      * Set return url for "back to learning paths page"
      */
-    document.getElementById("btn_to_lp").href = decodeURI(getParameterByName("source_page"))
+    document.getElementById("btn_to_lp").href = decodeURI(getParameterByName("source_page")) ?? "/"
 
     /** 
      * Load content of the first learning object
