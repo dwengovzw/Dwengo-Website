@@ -74,9 +74,14 @@ socialrobot:
   subtitle3p4: "Tijdens het programmeer- en bouwproces komen verschillende aspecten van computationeel denken aan bod. Door grafisch te programmeren in de simulator hebben leerlingen op een laagdrempelige manier kennisgemaakt met de universele concepten van programmeren. Nadien kunnen ze gemakkelijk overschakelen naar andere programmeertalen."
 
 congres:
-  intro_title: "Congrès Pensée informatique, STEM et l'intelligence artificielle en classe"
-  paragraph1: "Matin: Pensée informatique et intégration des STEM concrète en classe<br> Après-midi : L'intelligence artificielle et ses aspects sociétaux en classe"
-  paragraph2: "Vous pourrez vous inscrire pour une demi-journée ou pour la journée entière.<br> Programme: à déterminer<br><br><strong>Date</strong>: 7 juin 2023<br><strong>Location:</strong> De Krook, Miriam Makebaplein 1, 9000 Gent<br><br>Soutenu par le gouvernement flamand, Departement Onderwijs en Vorming, et le programme Erasmus+ de l'Union européenne"
+  intro_title: "Congrès Pensée computationnelle, STEM et l'intelligence artificielle en classe"
+  paragraph1: "Matin: Pensée computationnelle et intégration des STEM concrète en classe<br> 
+  Après-midi : L'intelligence artificielle et ses aspects sociétaux en classe"
+  paragraph2: "Vous pourrez vous inscrire pour une demi-journée ou pour la journée entière.<br><br> 
+  Programme: à déterminer<br><br><strong>Date</strong>: 7 juin 2023<br>
+  Keynotes: Kris Coolsaet, Gregorio Robles, Hannes Cools ... <br>
+  Ateliers sur la façon de mettre en œuvre la pensée computationnelle en classe, sur la façon d'évaluer les projets STEM, sur l'IA dans l'agriculture et sur le ChatGPT.<br><br>
+  <strong>Location:</strong> De Krook, Miriam Makebaplein 1, 9000 Gent<br><br>Soutenu par le gouvernement flamand, Departement Onderwijs en Vorming, et le programme Erasmus+ de l'Union européenne"
   paragraph3: ""
 
 aiopschool:
