@@ -10,7 +10,7 @@ redirect_from:
 banner_image: "/images/curricula/banner_physical_computing.png"
 logo_image: "/images/curricula/logo_physical_computing.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png']
-learning_paths: ['pc_starttodwenguino', 'pc_microcontroller']
+learning_paths: ['pc_microcontroller', 'pc_starttodwenguino', 'pc_theremin', 'pc_rijdenderobot']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].physical_computing.intro_title }} {% endcapture %}
