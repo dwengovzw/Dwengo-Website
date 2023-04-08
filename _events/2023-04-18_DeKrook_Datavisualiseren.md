@@ -32,7 +32,7 @@ Lerarenopleiders wiskunde, wetenschappen en STEM voor leerkrachten secundair ond
 
 **Er is geen voorkennis nodig voor het programmeren.**
 
-**Wanneer:** 7 juni 2023<br>
+**Wanneer:** 18 april 2023 van 13u30-16u30<br>
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>
 **Organisatie:** Dwengo vzw
 
