@@ -19,9 +19,9 @@ learning_paths: [""]
 intro_title=intro_title
 paragraph1=paragraph1
 paragraph2=paragraph2
-paragraph3=paragraph3
+paragraph3=""
 -%}
 
-{%- include congres_extra_info.html -%}
+<p>{{ paragraph3 }}</p>
 
 {%- include partners.html images=page.partner_images -%}
