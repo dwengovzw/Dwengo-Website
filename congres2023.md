@@ -22,6 +22,6 @@ paragraph2=paragraph2
 paragraph3=paragraph3
 -%}
 
-
+{%- include congres_extra_info.html -%}
 
 {%- include partners.html images=page.partner_images -%}
