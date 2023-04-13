@@ -6,6 +6,8 @@ let siteLanguages = ["nl", "en", "fr", "de"]
 
 let backToLearningPathsButtonDisplayStyle = "none";
 
+let _paq
+
 /**
  * visualises all learning paths (on home screen), currently alphabetically ordered by title
  * @param {array} paths array of learning-paths
@@ -789,7 +791,7 @@ function setupAgeSlider() {
 
 
 function setAnalyticsTracker() {
-    var _paq = window._paq = window._paq || [];
+    _paq = window._paq = window._paq || [];
     // tracker methods like "setCustomDimension" should be called before "trackPageView" 
     _paq.push(['trackPageView']);
     _paq.push(['enableLinkTracking']);
