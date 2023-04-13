@@ -6,7 +6,7 @@ let siteLanguages = ["nl", "en", "fr", "de"]
 
 let backToLearningPathsButtonDisplayStyle = "none";
 
-let _paq
+let _paq = null
 
 /**
  * visualises all learning paths (on home screen), currently alphabetically ordered by title
