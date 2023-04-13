@@ -84,6 +84,16 @@ congres:
   Unterstützt von der flämischen Regierung, Departement Onderwijs en Vorming, Digital Belgium Skils Fund und dem Erasmus+ Programm der EU"
   paragraph3: "tekst"
 
+privacy:
+  detail: "Transparenz ist uns bei Dwengo wichtig. Wir möchten, dass unsere Benutzer wissen, welche Daten wir sammeln und warum wir sie sammeln. Wir verwenden ein Analysetool namens Matomo, das auf unserem Server in Belgien gehostet wird. Das bedeutet, dass wir die Daten besitzen und sie nicht mit anderen teilen. Außerdem sind die Daten anonym und enthalten keine persönlichen Informationen.
+Wir verfolgen, welche Seiten Sie auf unserer Website besuchen und wie lange Sie auf ihnen bleiben. Dies hilft uns zu verstehen, welche Inhalte Sie interessant finden, damit wir unsere Website verbessern können. Wir verfolgen auch, wie Sie auf unsere Website gelangt sind und auf welche Links Sie klicken, um zu sehen, welche Quellen am effektivsten sind, um Besucher auf unsere Seite zu bringen.
+Darüber hinaus verfolgen wir, welches Betriebssystem, Gerät und welchen Browser Sie verwenden, um auf unsere Website zuzugreifen. Dies hilft uns, unsere Website für verschiedene Geräte zu optimieren und technische Probleme zu identifizieren.
+Wir verfolgen auch, aus welchem Land Sie auf unsere Website zugreifen, damit wir unsere Website für verschiedene Regionen optimieren können.
+Wir verwenden diese Daten nur für interne Analysen, um unsere Website zu verbessern, und wir geben sie niemals an Dritte weiter. Ihre Privatsphäre ist uns wichtig. Wenn Sie Fragen zu unserer Datenschutzrichtlinie haben, kontaktieren Sie uns bitte unter dpo@dwengo.org."
+  notice: Wir verwenden funktionale Cookies, um Daten darüber zu sammeln, wie unsere Website genutzt wird.
+  accept: Zustimmen
+  info: Mehr Informationen
+
 aiopschool:
   intro_title: "AI Op School"
   paragraph1: "

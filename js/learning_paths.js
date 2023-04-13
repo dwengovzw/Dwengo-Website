@@ -170,7 +170,9 @@ function setLearningObjectLinkOnClickHandler(hruid, language, version){
 function loadObjectContent(hruid, language, version) {
     setLearningObjectLinkOnClickHandler(hruid, language, version);
 
-    _paq.push(['trackEvent', 'learningobject', 'load', `${hruid}-${language}-${version}`])
+    if (_paq){
+        _paq.push(['trackEvent', 'learningobject', 'load', `${hruid}-${language}-${version}`])
+    }
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
@@ -528,7 +530,9 @@ function getLastParamFromUrl(){
 function loadLearningPath() {
     let id = getParameterByName('id');
     // Send analytics data to matomo
-    _paq.push(['trackEvent', 'learningpath', 'load', id])
+    if (_paq){
+        _paq.push(['trackEvent', 'learningpath', 'load', id])
+    }
     let url = "";
     if (id){
         url = api_base_path + "/api/learningPath/" + id;
@@ -783,6 +787,20 @@ function setupAgeSlider() {
     })
 }
 
+
+function setAnalyticsTracker() {
+    var _paq = window._paq = window._paq || [];
+    // tracker methods like "setCustomDimension" should be called before "trackPageView" 
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u="//dwengo.org/matomo/";
+        _paq.push(['setTrackerUrl', u+'matomo.php']);
+        _paq.push(['setSiteId', '1']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+    })();
+}
 // if the element learning_paths is present it means the user has loaded the front page
 //      load the filters, show the language selection and visualize all learning-paths
 // if the element learning_path is present it means the user has loaded a learning-path page
@@ -790,8 +808,8 @@ function setupAgeSlider() {
 // otherwise show language selection
 
 // load matomo analytics
-var _paq = window._paq = window._paq || [];
-/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+/*var _paq = window._paq = window._paq || [];
+// tracker methods like "setCustomDimension" should be called before "trackPageView" 
 _paq.push(['trackPageView']);
 _paq.push(['enableLinkTracking']);
 (function() {
@@ -800,7 +818,7 @@ _paq.push(['enableLinkTracking']);
     _paq.push(['setSiteId', '1']);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
     g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-})();
+})();*/
 
 if (document.getElementById("learning_paths")) {
     //showLoadingMessage();
