@@ -5,10 +5,10 @@
 layout: default
 title: dummy
 permalink: /dummy/
-banner_image: "/images/curricula/banner_kiks.png"
-logo_image: "/images/curricula/logo_kiks.png"
-partner_images: ['/images/partners/sintbavo.png', '/images/partners/kae.png', '/images/partners/ugent.svg','/images/partners/meise.png', '/images/partners/dwengo.png', '/images/partners/accenture.svg', '/images/partners/oost-vlaanderen.svg', '/images/partners/rvo-society.svg', '/images/partners/imec.svg', '/images/partners/vlaanderen.svg', '/images/partners/vlaams-brabant.svg', '/images/partners/veranderwijs.png']
-learning_paths: ['pn_werking', 'un_artificiele_intelligentie', 'pn_klimaatverandering', 'kiks1_microscopie', 'kiks2_practicum', 'pn_digitalebeelden', 'kiks3_dl_basis', 'kiks4_dl_gevorderd', 'kiks5_classificatie', 'kiks6_regressie', 'kiks7_ethiek', 'kiks8_eindtermen']
+banner_image: "/images/curricula/banner_socialrobot.png"
+logo_image: "/images/curricula/logo_socialrobot.png"
+partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/vlaio.png', '/images/partners/hogent.svg']
+learning_paths: ['sr_algemeen', 'sr_module1', 'sr_module2', 'sr_module22', 'sr_module3', 'sr_module4']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].dummy.intro_title }} {% endcapture %}
