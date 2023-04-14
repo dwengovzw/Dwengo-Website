@@ -1,12 +1,38 @@
+// styles for project page
+
+.dummy_intro p:first-of-type{
+    font-weight: 550;
+}
+
+.dummy_summary {
+
+}
+
+    // removing margin home_info_pane; problem with @media and padding priorities
+.dummy_header_pane { // page title, intro and summary
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-top: 180px;
+}
+
+
+.dummy_title { //how to differ first title from other titles? (seperate top margin)
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.dummy_icon {
+    margin-right: 15px;
+}
+
+.dummy_substyle {
+    width: 100%;
+}
+
 .dummy_subtitle {
-    background-color: #1565c0;
-    color:white;
-    font-size: large;
-    font-weight: 600;
-    padding: 8px 10px;
-    margin-left: -10px;
-    margin-bottom: 1.5rem;
-    display: inline-block;
+
 }
 
 .dummy_icon-max {
@@ -31,3 +57,4 @@
     display: inline-block;
     padding: 6px 8px;
 }
+

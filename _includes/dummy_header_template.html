@@ -1,0 +1,16 @@
+<div class="frontpage_banner {{ include.additional_classname }}" style="background-image: url({{ include.banner_url }})"></div>
+<section id="strengths" class="section">
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-9 col-lg-7 bg-white aiops-over-banner q-pt-xl q-px-xl dummy_header_pane">
+                    {%- include dummy_header_content_single_logo.html 
+                        project_logo_url=include.project_logo_url 
+                        page_title=include.page_title
+                        intro=include.intro
+                        summary=include.summary-%}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

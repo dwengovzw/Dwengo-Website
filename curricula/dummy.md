@@ -11,19 +11,18 @@ partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/
 learning_paths: ['sr_algemeen', 'sr_module1', 'sr_module2', 'sr_module22', 'sr_module3', 'sr_module4']
 ---
 
-{% capture intro_title %} {{ site.translations[site.lang].dummy.intro_title }} {% endcapture %}
-{% capture paragraph1 %} {{ site.translations[site.lang].dummy.paragraph1 }} {% endcapture %}
-{% capture paragraph2 %} {{ site.translations[site.lang].dummy.paragraph2 }} {% endcapture %}
-{% capture paragraph3 %} {{ site.translations[site.lang].dummy.paragraph3 }} {% endcapture %}
+{% capture page_title %} {{ site.translations[site.lang].dummy.page_title }} {% endcapture %}
+{% capture intro %} {{ site.translations[site.lang].dummy.intro }} {% endcapture %}
+{% capture summary %} {{ site.translations[site.lang].dummy.summary }} {% endcapture %}
 
 
-{%- include frontpage_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
-intro_title=intro_title
-paragraph1=paragraph1
-paragraph2=paragraph2
-paragraph3=paragraph3
+{%- include dummy_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
+page_title=page_title
+intro=intro
+summary=summary
 -%}
 
+{%- include dummy_extra_info.html -%}
 
 {% assign begin = '{"hruids": ' %}
 {% assign end = '}' %}
