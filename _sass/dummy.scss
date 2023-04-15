@@ -32,10 +32,11 @@
     width: 100%;
 }
 
-.dummy_subtitle {
-
-}
-
+.container-image {
+    object-fit: cover;
+    object-position: center;
+  }
+  
 .dummy_icon-max {
     max-height: 100px;
     max-width: 40%;
