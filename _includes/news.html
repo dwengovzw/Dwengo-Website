@@ -9,7 +9,7 @@
     {% assign sorted_events_reverse = include.news | sort: 'date' | reverse | where: "language", site.lang %}
     {%- if sorted_events.size > 0 -%}
     <ul class="event-list">
-      {%- for event in sorted_events -%}
+      {%- for event in sorted_events_reverse -%}
             <li class="event-list-item event-list-item-global" data-event-date="{{ event.date }}" itemscope itemtype="https://schema.org/Event">
                 <span class="event-item-logo">
                     <span class="icon_container">
