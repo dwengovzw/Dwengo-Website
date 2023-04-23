@@ -6,7 +6,7 @@ redirect_from:
   - /congres/
 banner_image: "/images/congres2023/banner_congres.png"
 logo_image: "/images/congres2023/logo_congres2023.png"
-partner_images: ['/images/partners/ugent.svg', '/images/partners/logoCollectiveUp.svg', '/images/partners/dwengo.png', '/images/partners/istem.png', '/images/partners/2link2.png', '/images/partners/hogent.svg', '/images/partners/pov.jpg' , '/images/partners/onderwijsvlaanderen.png', '/images/partners/cofundedEU-nl.png', '/images/partners/digitalbelgium.png']
+partner_images: ['/images/partners/ugent.svg', '/images/partners/logoCollectiveUp.svg', '/images/partners/dwengo.png', '/images/partners/istem.png',  '/images/partners/hogent.svg', '/images/partners/pov.jpg' , '/images/partners/2link2.png', '/images/partners/onderwijsvlaanderen.png', '/images/partners/cofundedEU-nl.png', '/images/partners/digitalbelgium.png']
 learning_paths: [""]
 ---
 
