@@ -19,28 +19,32 @@
     border-radius: 2rem
 }
 
-a:link {
+.congres_container a:link,
+.button_link a:link{
     color: white;
     text-decoration: none;
 }
 
-a:visited {
+.congres_container a:visited,
+.button_link a:visited {
     color: white;
     text-decoration: none;
 }
 
-a:hover {
+.congres_container a:hover,
+.button_link a:hover {
     color: white;
     text-decoration: underline;
 }
 
-a:active {
+.congres_container a:active,
+.button_link a:active {
     color: white;
     text-decoration: underline;
 }
 
 .session-title {
-    color: #88bd28
+    color: white
 }
 
 /*************************
@@ -115,10 +119,7 @@ a:active {
             [time-1900] 0.33fr
             [time-1910] 0.33fr
             [time-1920] 0.33fr
-            [time-1930] 0.33fr
-            [time-1940] 0.33fr
-            [time-1950] 0.33fr
-            [time-2000] 0.33fr;
+            [time-1930] 0.33fr;
 			/* Note 1:
 			Use 24hr time for gridline names for simplicity
 
@@ -153,7 +154,7 @@ a:active {
 			padding: 10px 5px 5px;
 			position: sticky;
 			top: 0;
-			z-index: 1000;
+			z-index: 5;
 			background-color: rgba(255,255,255,.9);
 		}
 	}
@@ -283,4 +284,73 @@ a:active {
 
 hr {
 	margin: 40px 0;
+}
+
+
+/***************************
+    * Hover function *
+***************************/
+
+.hover {
+    /*position: relative;*/
+    display: inline-block;
+    border-bottom: 1px dotted black;
+  }
+  
+.hover .hovertext {
+    /*display: none;
+    min-width: 120px;
+    max-width: 700px;
+    //width: 50vw;
+    //margin-top: 1rem;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    //left: 50vw;
+    //transform:translate(-25vw, 0); 
+    Position the tooltip
+    position: absolute;
+    z-index: 1;*/
+    position: fixed;
+    //display: none;
+    width: 50%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0,0,0,.8);
+    color: white;
+    z-index: 6;
+    visibility: hidden;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+.hover:hover {
+    cursor: pointer;
+}
+
+.hover:hover .hovertext, .hover:active .hovertext {
+    visibility: visible;
+  }
+
+#session_event_details {
+    position: fixed;
+    display: none;
+    width: 50%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0,0,0,.8);
+    color: white;
+    z-index: 6;
+    //visibility: hidden;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#session_event_details button{
+    float: right;
+    margin-top: 5px;
 }
