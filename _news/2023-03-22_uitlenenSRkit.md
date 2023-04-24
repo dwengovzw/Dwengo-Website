@@ -10,4 +10,4 @@ Deze kunnen in overleg met de verantwoordelijken ontleend worden via [e-mail](jo
 
 Scholen van het [Provinciaal Onderwijs Vlaanderen](https://povsites.be/stem/voorbereiding-project-sociale-robot/) kunnen terecht bij hun [pedagogische begeleidingsdienst](https://povsites.be/stem/voorbereiding-project-sociale-robot/#kits-en-lesfiches).
 
-De [cel iSTEM inkleuren](https://istem.be/) heeft ook enkele sets om uit te lenen. Contacteer de cel via [e-mail](contact(at)istem.be).
+De [cel iSTEM inkleuren](https://istem.be/) heeft ook enkele sets die we gratis uitlenen. Je kan robotkits reserveren via [dit formulier](https://docs.google.com/.../1fmMl2VOOVSSkAy8SrYShH1V.../edit). Zodra iSTEM je vraag ontvangt, nemen ze contact op om een contract op te maken voor deze reservatie. De cel stelt het materiaal gratis ter beschikking, jij zorgt voor de ophaling en de retour van de volledige sets. Heb je nog vragen, aarzel niet iSTEM te contacteren via [e-mail](mailto:contact@istem.be).
