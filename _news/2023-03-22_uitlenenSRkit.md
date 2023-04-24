@@ -10,4 +10,4 @@ Deze kunnen in overleg met de verantwoordelijken ontleend worden via [e-mail](jo
 
 Scholen van het [Provinciaal Onderwijs Vlaanderen](https://povsites.be/stem/voorbereiding-project-sociale-robot/) kunnen terecht bij hun [pedagogische begeleidingsdienst](https://povsites.be/stem/voorbereiding-project-sociale-robot/#kits-en-lesfiches).
 
-De [cel iSTEM inkleuren](https://istem.be/) heeft ook enkele sets om uit te lenen. Contacteer de cel via [e-mail](contact(at)istem.be).
+De [cel iSTEM inkleuren](https://istem.be/) heeft ook enkele sets om uit te lenen. Contacteer de cel via [e-mail](mailto:contact@istem.be).
