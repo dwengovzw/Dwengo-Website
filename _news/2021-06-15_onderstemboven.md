@@ -10,4 +10,4 @@ computationeel denken tot artificiële intelligentie. Nele licht graag toe hoe w
 
 Alle lesmateriaal vind je op deze website.
 
-[Bekijk het filmpje >](https://www.youtube.com/watch?v=3z2lbx8P5kA)
+[Bekijk >](https://www.youtube.com/watch?v=3z2lbx8P5kA)
