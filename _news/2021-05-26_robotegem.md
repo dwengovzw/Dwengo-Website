@@ -10,4 +10,4 @@ Samen met Dempsey en verschillende onderzoekers en ingenieurs ga je op bezoek in
 
 Ook Francis wyffels en Pieter Wolfert van de onderzoekgroep UGent - IDLAb - AIRO vertellen over hun onderzoek met robots.
 
-[Bekijk het filmpje >](https://player.vimeo.com/video/555128973)
+[Bekijk >](https://player.vimeo.com/video/555128973)
