@@ -1,5 +1,5 @@
 ---
-title: "Radiospecial 'Why is this AI?"
+title: "Radiospecial 'Why is this AI?'"
 date: 2021-03-18T21:00:00
 item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
 language: "nl"
