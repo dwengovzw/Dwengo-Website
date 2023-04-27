@@ -11,7 +11,7 @@ redirect_from:
 banner_image: "/images/curricula/banner_socialrobot.png"
 logo_image: "/images/curricula/logo_socialrobot.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/vlaio.png', '/images/partners/hogent.svg']
-learning_paths: ['sr_algemeen', 'sr_module1', 'sr_module2', 'sr_module22', 'sr_module3', 'sr_module4']
+learning_paths: ['sr0_lkr_algemeen', 'sr_algemeen', 'sr_module1', 'sr_module2', 'sr_module22', 'sr_module3', 'sr_module4']
 ---
 
 {% capture page_title %} {{ site.translations[site.lang].socialrobot.page_title }} {% endcapture %}
