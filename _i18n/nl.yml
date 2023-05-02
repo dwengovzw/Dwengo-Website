@@ -316,27 +316,27 @@ contact_page:
 
 # Translations for the projects page
 projects_page:
-  title: Onze projecten
-  project_1_title: WeGoSTEM
-  project_1_description: Met <a href="https://dwengo.org/wegostem">WeGoSTEM</a> enthousiasmeren we leerlingen uit de derde graad van het basisonderwijs voor techniek en informaticawetenschappen. We dagen de kinderen uit om een creatieve kunst-robot die zelfstandig kan tekenen, te bouwen en te programmeren. Zo leren ze heel wat STEM-vaardigheden van techniek tot computationeel denken. De voorbije jaren bouwden in heel België al meer dan 20 000 kinderen hun eerste robot tijdens het WeGoSTEM-project. Ook jij kan met jouw school aan de slag dankzij het gratis lesmateriaal dat via Belgische bibliotheken verspreid wordt.
+  title: "Onze projecten"
+  project_1_title: "WeGoSTEM"
+  project_1_description: 'Met <a href="https://dwengo.org/wegostem">WeGoSTEM</a> enthousiasmeren we leerlingen uit de derde graad van het basisonderwijs voor techniek en informaticawetenschappen. We dagen de kinderen uit om een creatieve kunst-robot die zelfstandig kan tekenen, te bouwen en te programmeren. Zo leren ze heel wat STEM-vaardigheden van techniek tot computationeel denken. De voorbije jaren bouwden in heel België al meer dan 20 000 kinderen hun eerste robot tijdens het WeGoSTEM-project. Ook jij kan met jouw school aan de slag dankzij het gratis lesmateriaal dat via Belgische bibliotheken verspreid wordt.'
   project_1_contact: "Vragen? Contacteer ons via wegostem@dwengo.org. Voor bibliotheken met logistieke vragen is er een apart adres: bib@dwengo.org. De pers kan contact opnemen met Peter Bertels via peter@dwengo.org."
-  project_1_teaser: https://www.youtube.com/embed/5zK8zEZL7rk
-  project_2_title: AI Op School
+  project_1_teaser: "https://www.youtube.com/embed/5zK8zEZL7rk"
+  project_2_title: "AI Op School"
   project_2_description: "Artificiële intelligentie (AI) komt volop aan bod in de media. Populaire thema’s zijn: chatbots, zelfrijdende auto’s, virtuele assistenten en het verlies aan jobs. AI-systemen dringen meer en meer onze wereld binnen. <a href="https://dwengo.org/aiopschool">AI Op School</a> is een project dat ontstaan is uit de bekommernis dat leerlingen kunstmatige (KI) of artificiële intelligentie moeten kunnen begrijpen en het besef dat er een hiaat is in het curriculum van het secundair onderwijs om hieraan tegemoet te komen. We maken lesmateriaal voor het secundair onderwijs rond AI gelinkt aan de eindtermen en de bestaande leerplandoelen. Al dit lesmateriaal is beschikbaar op onze website."
-  project_2_contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
-  project_2_teaser: https://www.youtube.com/embed/tqSnpAKLsu8
-  project_3_title: Internationale projecten
+  project_2_contact: "Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org."
+  project_2_teaser: "https://www.youtube.com/embed/tqSnpAKLsu8"
+  project_3_title: "Internationale projecten"
   project_3_description: "Onze grote droom is dat elke jongere, waar ook ter wereld, de kans en de mogelijkheden krijgt om een robot te bouwen en te programmeren. Hierbij is het niet de bedoeling om van elke jongere een ingenieur te maken. Wel moet elke jongere zijn of haar talent voor STEM (Science, Technology, Engineering en Mathematics) kunnen ontdekken en ontplooien. Bij Dwengo zijn we ervan overtuigd dat we de grootste innovatieve vooruitgang bereiken wanneer we erin slagen om mensen uit verschillende culturen, sociale contexten en van verschillende achtergronden samen te brengen om een probleem op te lossen. Om dit te realiseren is een basis aan wetenschappelijke en technische geletterdheid voor iedereen noodzakelijk! Via onderwijsprojecten in o.a. Argentinië, België, India, Italië, Maleisië en Zwitserland draagt Dwengo haar steentje bij. Voor al deze inspanningen viel Dwengo meerdere malen in de prijzen."
-  project_3_contact: Interesse om een internationaal project te starten? Contacteer Francis wyffels via Francis@dwengo.org.
-  project_3_teaser: https://www.youtube.com/embed/HP0ncKuV2-A
-  project_4_title: Dwenguino
+  project_3_contact: "Interesse om een internationaal project te starten? Contacteer Francis wyffels via Francis@dwengo.org."
+  project_3_teaser: "https://www.youtube.com/embed/HP0ncKuV2-A"
+  project_4_title: "Dwenguino"
   project_4_description: "Een robot bouwen met leerlingen of een andere toepassing van <a href="https://dwengo.org/physicalcomputing">physical computing</a> introduceren in de klas is niet zo eenvoudig. Om het voor leerkrachten zo laagdrempelig mogelijk te maken, ontwikkelde Dwengo een eiegen microcontrollerplatform, de Dwenguino, en een grafische programmeeromgeving, DwenguinoBlockly. Zelfs zonder fysiek materiaal kan je hiermee werken. De Dwenguino is een Arduino-gebaseerd microcontrollerplatform dat heel wat elementen bevat waarmee je snel je eigen apparaat kan bouwen, zoals een sociale robot, een weerstation, een muziekinstrument of een autonoom wagentje. De Dwenguino beschikt bijvoorbeeld over drukknoppen, een lcd-scherm, een zoemer, leds en connectoren om motoren aan te sluiten. De Dwenguino is open source. Het platform wordt momenteel reeds gebruikt voor leerlingen vanaf 10 jaar tot in het hoger onderwijs. Er kan een leerlijn mee opgebouwd worden van de eerste tot de derde graad van het secundair onderwijs, van grafisch tot tekstueel programmeren, en met een stijgende moeilijkheidsgraad in toepassingen."
   project_4_contact: "Vragen? Contacteer ons via natacha@dwengo.org."
-  project_4_teaser: https://www.youtube.com/embed/VpAXLlT_JP0
-  project_5_title: Computationeel denken
+  project_4_teaser: "https://www.youtube.com/embed/VpAXLlT_JP0"
+  project_5_title: "Computationeel denken"
   project_5_description: "Problemen zijn vaak gemakkelijker, nauwkeuriger en sneller op te lossen met behulp van een computer. Wanneer je computationeel denkt, dan denk je na over de stappen die nodig zijn om tot een oplossing van een bepaald probleem te komen, waarna je met je technische kennis de computer aan het werk zet om die stappen uit te voeren en het probleem op te lossen. <a href="https://www.dwengo.org/computationeeldenken">Computationeel denken</a> focust sterk op probleemoplossende vaardigheden en kan aan bod komen in elk vak in het reguliere onderwijs. Heel wat concepten van computationeel denken kan je praktisch benaderen in programmeerlessen. Toch kan je ook zonder computer heel wat leren over computationeel denken. Dwengo helpt leerkrachten aan plugged en unplugged activiteiten om hun leerlingen computationeel te leren denken, en wil leerkrachten vaardig maken in het herkennen van de concepten van computationeel denken in hun eigen lesmaterialen. De plugged activiteiten zetten in op physical computing (met grafisch en tekstueel programmeren) en STEM (met Python)."
   project_5_contact: "Vragen? Contacteer ons via natacha@dwengo.org."
-  project_5_teaser: https://youtube.com/embed/Nifa0vooyKg
+  project_5_teaser: "https://youtube.com/embed/Nifa0vooyKg"
 
 # Translations for the projects page
 curricula_page:
