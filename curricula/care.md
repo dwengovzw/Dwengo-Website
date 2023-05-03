@@ -16,7 +16,7 @@ redirect_from:
   - /aiindezorg/
 banner_image: "/images/curricula/banner_care.png"
 logo_image: "/images/curricula/logo_care.png"
-partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png', 'images/partners/pov.png']
+partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png', 'images/partners/pov.jpg']
 learning_paths: ['pn_werking', 'un_artificiele_intelligentie', 'aiz1_zorg', 'aiz2_grafen', 'aiz3_unplugged', 'aiz4_eindtermen']
 ---
 
