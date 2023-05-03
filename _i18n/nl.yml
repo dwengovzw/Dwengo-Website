@@ -86,7 +86,7 @@ dummy:
 socialrobot:
   page_title: "Sociale robot"
   intro: "Maak kennis met 'Sociale robot', een meeslepend STEM-project voor het secundair onderwijs! Hier zullen leerlingen zich onderdompelen in een uitdagend project waarin ze een eigen sociale robot ontwerpen, programmeren en bouwen."
-  summary: "Het 'Sociale Robot'-project is een fantastische manier om jonge studenten enthousiast te maken over STEM. Het stelt leerlingen in staat om hun creativiteit te botvieren en technische vaardigheden te ontwikkelen door het ontwerpen, programmeren en bouwen van hun eigen sociale robot. Bovendien sluit dit project aan bij actueel wetenschappelijk onderzoek naar het verbeteren van de interactie tussen mens en robot en de mogelijkheden die sociale robots bieden om bij te dragen aan verschillende maatschappelijke uitdagingen."
+  summary: "Het 'Sociale Robot'-project is een fantastische manier om jonge studenten enthousiast te maken voor STEM. Het stelt leerlingen in staat om hun creativiteit te botvieren en technische vaardigheden te ontwikkelen door het ontwerpen, programmeren en bouwen van hun eigen sociale robot. Bovendien sluit dit project aan bij actueel wetenschappelijk onderzoek naar het verbeteren van de interactie tussen mens en robot en de mogelijkheden die sociale robots bieden om bij te dragen aan verschillende maatschappelijke uitdagingen."
   title1: "Wat gaan ze doen?"
   t1_subtitle1: "Ontwerpen"
   t1_p1: "De leerlingen krijgen de volledige controle over het ontwerp van hun sociale robot. Zij zijn de architecten van hun creatie en hebben de mogelijkheid om hun visie en persoonlijke stijl tot uiting te brengen in het ontwerp."
@@ -107,7 +107,7 @@ socialrobot:
   t2_subtitle4: "Titel"
   t2_p4: ""
   title3: "Hoe begin je eraan?"
-  title3_p: "Met dit project kan je eenvoudig aan de slag. Hieronder vind je 4 modules terug waarin het project is opgedeeld. Alle praktische informatie die je nodig hebt om aan de slag te gaan, vind je terug in module 0.<br><br>Onderaan deze pagina vind je een overzicht van al het downloadbare materiaal dat je in de leerpaden tegenkomt."
+  title3_p: "Met dit project kan je eenvoudig aan de slag. Hieronder vind je de 4 modules waarin het project is opgedeeld. Alle praktische informatie die je nodig hebt om aan de slag te gaan, vind je terug in module 0.<br><br>Onderaan deze pagina vind je een overzicht van al het downloadbare materiaal dat je in de leerpaden tegenkomt."
   t3_subtitle1: "Titel"
   t3_p1: ""
   t3_subtitle2: "Titel"
@@ -383,7 +383,7 @@ curricula_page:
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8
     curricula_files:
       - file_title: "Projectfiche Sociale Robot"
-        file_info: "Dit is een kort overzicht van project Sociale Robot met projectstructuur- en kenmerken."
+        file_info: "Dit is een kort overzicht van het 'Sociale Robot'-project met projectstructuur en -kenmerken."
         file_location: "/assets/files/socialrobot/projectfiche_socialerobot.pdf"
         file_icon_name: "description"
         link_name: "Download"
