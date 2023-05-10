@@ -32,7 +32,7 @@ function visualizeLearningPaths(paths, sort=true) {
             let a = document.createElement("a");
             // TODO add language to url
             let langPrefix = ""
-            if (siteLanguages.includes(path.language)){
+            if (path.language !== "nl" && siteLanguages.includes(path.language)){
                 langPrefix = "/" + path.language
             }
             a.href = `${langPrefix}/learning-path.html?hruid=${path.hruid}&language=${path.language}&te=true&source_page=${encodeURIComponent(window.location.pathname)}`
