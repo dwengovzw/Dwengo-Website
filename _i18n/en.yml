@@ -321,7 +321,7 @@ about_page:
   team: Team
 
 content_page:
-  title: Lesonderwerpen
+  title: Teaching topics
 
 # Translations for the contact page
 contact_page:
@@ -362,7 +362,7 @@ projects_page:
 
 # Translations for the projects page
 curricula_page:
-  title: Onze lesonderwerpen
+  title: Our teaching topics
   read_more: Lees meer
   curricula_files: Bestanden
   kiks: 
@@ -825,7 +825,7 @@ contact: Contact
 projects: Projects
 curricula: Curricula
 calendar: Calendar
-content: Lesonderwerpen
+content: Teaching topics
 congres2023: "<strong>Congres 2023</strong>"
 news: "News"
 test: test en

@@ -311,7 +311,8 @@ about_page:
   team: Team
 
 content_page:
-  title: Lesthema's
+  title: Unterrichtsthemen
+
 
 # Translations for the contact page
 contact_page:
@@ -352,7 +353,7 @@ projects_page:
 
 # Translations for the projects page
 curricula_page:
-  title: Onze lesthema's
+  title: Unsere Unterrichtsthemen
   read_more: Lees meer
   curricula_files: Bestanden
   kiks: 
@@ -815,7 +816,7 @@ contact: Kontakt
 projects: Projekte
 curricula: Curricula
 calendar: Kalender
-content: Lesthema's
+content: Unterrichtsthemen
 congres2023: "<strong>Congres 2023</strong>"
 news: "Nachricht"
 test: test de
