@@ -341,7 +341,7 @@ function visualizeLearningPath(path) {
          window.open(url.replace('te=true', ''), '_blank')
      }
      // Hide link to student version of learning path if there are no learning object for students
-     if (path.nodes.filter(lo => !lo.teacher_exclusive).length > 0){
+     if (path.nodes.filter(lo => !lo.teacher_exclusive).length == 0){
         document.getElementById("link_lp").hide()
      }
 
