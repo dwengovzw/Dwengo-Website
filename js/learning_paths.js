@@ -319,7 +319,7 @@ function visualizeLearningPath(path) {
     $('#lo_content').empty();
     document.querySelectorAll('.lp_title').forEach((element) => {
         const a = document.createElement('a');
-        const linkText = path.title;
+        const linkText = document.createTextNode(path.title)
         a.appendChild(linkText);
         a.title = path.title;
         a.href = decodeURI(getParameterByName("source_page") ?? "/")
