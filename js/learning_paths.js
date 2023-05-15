@@ -35,7 +35,8 @@ function visualizeLearningPaths(paths, sort=true) {
             if (path.language !== "nl" && siteLanguages.includes(path.language)){
                 langPrefix = "/" + path.language
             }
-            a.href = `${langPrefix}/learning-path.html?hruid=${path.hruid}&language=${path.language}&te=true&source_page=${encodeURIComponent(window.location.pathname)}`
+            const pageTitle = document.getElementsByClassName("curriculum_title")[0].innerHTML || "Home"
+            a.href = `${langPrefix}/learning-path.html?hruid=${path.hruid}&language=${path.language}&te=true&source_page=${encodeURIComponent(window.location.pathname)}&source_title=${pageTitle}`
             a.style.textDecoration = "none"
 
             let card = document.createElement("div");
@@ -320,7 +321,7 @@ function visualizeLearningPath(path) {
     $('#lo_content').empty();
     document.querySelectorAll('.lp_title').forEach((element) => {
         const pageLink = document.createElement('a');
-        const pageLinkText = document.createTextNode((getParameterByName("source_page") ?? "/").replace(/\//g, ""))
+        const pageLinkText = document.createTextNode((getParameterByName("source_title") ?? "Home"))
         pageLink.appendChild(pageLinkText);
         pageLink.title = pageLinkText;
         pageLink.href = decodeURI(getParameterByName("source_page") ?? "/")
