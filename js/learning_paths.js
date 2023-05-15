@@ -319,6 +319,7 @@ function visualizeLearningPath(path) {
     $('#lo_content').empty();
     document.querySelectorAll('.lp_title').forEach((element) => {
         element.innerHTML = path.title;
+        element.href = decodeURI(getParameterByName("source_page") ?? "/")
     })
     let nodes = path.nodes.slice();
     let counter = 0;
