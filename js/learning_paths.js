@@ -310,6 +310,7 @@ async function printDiv(path, mywindow) {
     
 }
 
+
 /**
  * visualizes the learning path by adding buttons for all learning-objects in the correct order
  * and displaying the first object
@@ -319,7 +320,7 @@ function visualizeLearningPath(path) {
     $('#lo_content').empty();
     document.querySelectorAll('.lp_title').forEach((element) => {
         const pageLink = document.createElement('a');
-        const pageLinkText = document.createTextNode((getParameterByName("source_page") ?? "/").replace(/%2F/g, " "))
+        const pageLinkText = document.createTextNode((getParameterByName("source_page") ?? "/").replace(/\//g, ""))
         pageLink.appendChild(pageLinkText);
         pageLink.title = pageLinkText;
         pageLink.href = decodeURI(getParameterByName("source_page") ?? "/")
