@@ -318,11 +318,18 @@ async function printDiv(path, mywindow) {
 function visualizeLearningPath(path) {
     $('#lo_content').empty();
     document.querySelectorAll('.lp_title').forEach((element) => {
+        const pageLink = document.createElement('a');
+        const pageLinkText = document.createTextNode(path.title).filter(letter => letter !== "/");
+        pageLink.appendChild(pageLinkText);
+        pageLink.title = pageLinkText;
+        pageLink.href = decodeURI(getParameterByName("source_page") ?? "/")
+        element.appendChild(pageLink);
+        element.appendChild(document.createTextNode(" > "))
         const a = document.createElement('a');
         const linkText = document.createTextNode(path.title)
         a.appendChild(linkText);
         a.title = path.title;
-        a.href = decodeURI(getParameterByName("source_page") ?? "/")
+        a.href = "."// decodeURI(getParameterByName("source_page") ?? "/")
         element.appendChild(a);
     })
     let nodes = path.nodes.slice();
