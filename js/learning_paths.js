@@ -342,7 +342,7 @@ function visualizeLearningPath(path) {
      }
      // Hide link to student version of learning path if there are no learning object for students
      if (path.nodes.filter(lo => !lo.teacher_exclusive).length == 0){
-        document.getElementById("link_lp").style.display = none
+        document.getElementById("link_lp").style.display = "none"
      }
 
     setLearningObjectLinkOnClickHandler(nodes[0].learningobject_hruid, nodes[0].language, nodes[0].version)
