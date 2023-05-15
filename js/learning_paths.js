@@ -330,7 +330,7 @@ function visualizeLearningPath(path) {
         const linkText = document.createTextNode(path.title)
         a.appendChild(linkText);
         a.title = path.title;
-        a.href = "."// decodeURI(getParameterByName("source_page") ?? "/")
+        a.href = "#"
         element.appendChild(a);
     })
     let nodes = path.nodes.slice();
