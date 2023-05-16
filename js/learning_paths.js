@@ -880,3 +880,5 @@ if (document.getElementById("learning_paths")) {
 } else {
     showLanguageSelection();
 }
+
+
