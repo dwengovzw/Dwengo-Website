@@ -5,7 +5,7 @@ item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
 language: "nl"
 ---
 ###### Stad Gent
-Voor Internationale Vrouwendag 2023 sprak Satd Gent met twee vrouwelijke 
+Voor Internationale Vrouwendag 2023 sprak Stad Gent met twee vrouwelijke 
 tech-ondernemers: Geertrui Mieke De Ketelaere en Charlotte De Vlieghere.
 
 Mieke is een trouwe supporter van Dwengo vzw.
