@@ -13,6 +13,11 @@ probleemoplossing en samenwerking worden gestimuleerd door middel van programmer
 Het idee erachter is om programmeren bereikbaarder te maken en om leraren te laten zien hoe je ideeën met programmeercode tot leven kunt brengen. 
 De Code Week wil digitale vaardigheden ontwikkelen en gemotiveerde mensen bij elkaar brengen om te leren.
 
+Schrijf je in voor een van **onze sessies**:<br>
+- **De impact van digitale systemen op de maatschappij**<br>
+- **Bouwen van een sociale robot**
+
+
 Organisatie: Kenniscentrum Digisprong
 
-[Meer info en inschrijven](https://www.vlaanderen.be/kenniscentrum-digisprong/evenementen/codefestival-2023/09-10-2023)
+[Meer info en inschrijven](https://data-onderwijs.vlaanderen.be/inschrijvingen/onderwijsevent.aspx?id=367#P1220)
