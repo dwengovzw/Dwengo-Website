@@ -14,4 +14,4 @@ Het project heeft een laag instapniveau en is onmiddellijk toepasbaar in diverse
 
 Organisatie: CNO
 
-[Inschrijven voor 5 februari 2024, 09:30 - 16:30](https://cno.uantwerpen.be/nl/opleiding/ontwerpen-bouwen-en-programmeren-van-een-sociale-robot-79133?filter=)
+[Inschrijven voor deze nascholing op 5 februari 2024, 09:30 - 16:30](https://cno.uantwerpen.be/nl/opleiding/ontwerpen-bouwen-en-programmeren-van-een-sociale-robot-79133?filter=)
