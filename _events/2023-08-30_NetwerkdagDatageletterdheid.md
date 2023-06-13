@@ -11,7 +11,7 @@ language: "nl"
 Op deze netwerkdag wisselen pedagogisch begeleidingsdiensten en externe actoren good practices met elkaar uit rond het 
 begeleiden van scholen in datageletterdheid.
 
-Schrijf je in voor omze workshop (workshop 11): "Het belang van het visualiseren van data en de daarbij behorende aandachtspunten - om 13:30"
+Schrijf je in voor **onze workshop (workshop 11): "Het belang van het visualiseren van data en de daarbij behorende aandachtspunten - om 13:30"**
 
 Organisatie: Departement Onderwijs en Vorming
 
