@@ -12,4 +12,4 @@ Computationeel denken en programmeren is niet hetzelfde. Je kan computationeel i
 
 Organisatie: CNO
 
-[Inschrijven 19 oktober 2023, 13:30 - 16:30](https://cno.uantwerpen.be/nl/opleiding/computationeel-denken-en-python-in-de-wiskundeles-78985?filter=)
+[Inschrijven voor 19 oktober 2023, 13:30 - 16:30](https://cno.uantwerpen.be/nl/opleiding/computationeel-denken-en-python-in-de-wiskundeles-78985?filter=)
