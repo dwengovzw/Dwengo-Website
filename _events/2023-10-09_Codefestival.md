@@ -1,7 +1,7 @@
 ---
 title: "Codefestival"
 date: 2023-10-09T09:00:00
-end_date: 2023-10-09T16:30:00
+end_date: 2023-10-09T16:45:00
 item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
 location: "Hendrik Consciencegebouw, Koning Albert II-laan 15, Brussel"
 location_link: "https://www.google.be/maps/place/Koning%20Albert%20II-laan%2015,%201210%20Brussel"
@@ -15,4 +15,4 @@ De Code Week wil digitale vaardigheden ontwikkelen en gemotiveerde mensen bij el
 
 Organisatie: Kenniscentrum Digisprong
 
-[Inschrijven](https://www.vlaanderen.be/kenniscentrum-digisprong/evenementen/codefestival-2023/09-10-2023)
+[Meer info en inschrijven](https://www.vlaanderen.be/kenniscentrum-digisprong/evenementen/codefestival-2023/09-10-2023)
