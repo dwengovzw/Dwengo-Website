@@ -416,7 +416,7 @@ curricula_page:
         link_name: "Download"
       - file_title: "Construction kit for 'Social Robot' project"
         file_info: "Do you want your students to design and build a social robot too? This is possible via the construction kit of Dwengovzw. The figure shows the current composition of the construction kit. Interested? Contact us by email or find more information on this project page."
-        file_location: "/assets/files/socialrobot/constructiekit_SocialeRobot_wimVLR8.pdf"
+        file_location: "/assets/files/socialrobot/constructiekit_socialerobot.pdf"
         file_icon_name: "description"
         link_name: "Download"
       - file_title: "From project to end terms"
