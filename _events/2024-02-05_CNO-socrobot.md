@@ -1,5 +1,5 @@
 ---
-title: Ontwerpen, bouwen en programmeren van een sociale robot"
+title: "Ontwerpen, bouwen en programmeren van een sociale robot"
 date: 2024-02-05T09:30:00
 end_date: 2024-02-05T16:30:00
 item_theme_logo_url: "/images/curricula/logo_socialrobot.png"
