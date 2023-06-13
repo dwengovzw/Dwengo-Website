@@ -14,4 +14,4 @@ Een beslissingsboom is een type graaf, een algemen inleiding tot de grafentheori
 
 Organisatie: CNO
 
-- [20 februari 2024, 09:30 - 16:30](https://cno.uantwerpen.be/nl/opleiding/artificiele-intelligentie-in-de-zorg-een-stem-project-met-een-belangrijke-rol-voor-wiskunde-en-informaticawetenschappen-79222?filter=)
+- [Inschrijven voor 20 februari 2024, 09:30 - 16:30](https://cno.uantwerpen.be/nl/opleiding/artificiele-intelligentie-in-de-zorg-een-stem-project-met-een-belangrijke-rol-voor-wiskunde-en-informaticawetenschappen-79222?filter=)
