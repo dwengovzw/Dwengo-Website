@@ -11,7 +11,7 @@ language: "nl"
 
 Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op https://www.dwengo.org/wiskunde
 
-**Wanneer:** 15 maart 2023 van 9u30-12u30<br>
+**Wanneer:** 15 maart 2024 van 9u30-12u30<br>
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>
 **Organisatie:** Dwengo vzw
 
