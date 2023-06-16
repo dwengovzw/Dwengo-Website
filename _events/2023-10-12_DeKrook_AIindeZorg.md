@@ -17,8 +17,8 @@ en vervolgens gebruiken ze Python om het aan de computer over te laten op basis 
 Een beslissingsboom is een type graaf, een algemene inleiding tot de grafentheorie kan dus passen 
 binnen dit project.
 
-In de voormiddag maak je kennis me de mogelijkheden van dit project voor alle richtingen. <br>
-In de namiddag gaan we meer in detail aan de slag met wiskunde en programmeren. 
+In de voormiddag maak je kennis met de mogelijkheden van dit project voor alle richtingen. <br>
+In de namiddag ga je meer in detail aan de slag met wiskunde en programmeren. 
 
 Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op [www.dwengo.org/zorg](https://www.dwengo.org/zorg "AI in de Zorg").
 
