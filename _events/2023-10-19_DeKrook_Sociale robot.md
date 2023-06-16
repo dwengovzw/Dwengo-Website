@@ -1,5 +1,5 @@
 ---
-title: "Save the date. Sociale robot"
+title: "Save the date - Sociale robot"
 date: 2023-10-19T09:30:00
 end_date: 2023-10-19T16:30:00
 item_theme_logo_url: "/images/curricula/logo_socialrobot.png"
@@ -13,7 +13,7 @@ Je leert een sociale robot ontwerpen, bouwen, en programmeren. <br>
 Bovendien krijg je op gepaste momenten informatie over de link met de minimumdoelen over STEM en computationeel denken. <br>
 Het project heeft een laag instapniveau en is onmiddelijk toepasbaar in diverse klascontexten. 
 
-Uitgebreide info als ook een leerpad voor de leerkracht kan je vinden op https://www.dwengo.org/socialerobot
+Uitgebreide info alsook een leerpad voor de leerkracht kan je vinden op [www.dwengo.org/socialerobot](https://www.dwengo.org/socialerobot "sociale robot").
 
 **Wanneer:** 19 oktober 2023 van 9u30-16u30<br>
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>

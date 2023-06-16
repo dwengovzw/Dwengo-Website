@@ -1,5 +1,5 @@
 ---
-title: "Save the date. Kunstmatige Intelligentie, Klimaatveranderind, STomata: KIKS."
+title: "Save the date - Kunstmatige Intelligentie, Klimaatverandering, Stomata: KIKS"
 date: 2024-02-26T13:30:00
 end_date: 2024-03-12T16:30:00
 item_theme_logo_url: "/images/curricula/logo_kiks.png"
@@ -9,7 +9,7 @@ language: "nl"
 ---
 
 
-Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op https://www.dwengo.org/wiskunde
+Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op [www.dwengo.org/kiks](https://www.dwengo.org/kiks "KIKS")
 
 **Wanneer:**<br>
 Deel 1: 26 februari 2024 van 13u30-16u30 <br>

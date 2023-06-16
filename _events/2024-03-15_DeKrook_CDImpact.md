@@ -1,5 +1,5 @@
 ---
-title: "Save the date. De impact op digitale systemen op de maatschappij."
+title: "Save the date - De impact op digitale systemen op de maatschappij"
 date: 2024-03-15T13:00:00
 end_date: 2024-03-15T16:00:00
 item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
@@ -17,7 +17,9 @@ Je past concepten van computationeel denken toe op een digitaal systeem om de we
 
 Je gaat hier ook zelf mee aan de slag.
 
-Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op https://www.dwengo.org/computationeeldenken
+Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op [www.dwengo.org/computationeeldenken](https://www.dwengo.org/computationeeldenken "Computationeel denken")
+
+Het specifieke leerpad betreffende de impact van computationeel denken kan je ook rechtstreeks bereiken via de volgende link: [Leerpad Impact](https://www.dwengo.org/learning-path.html?hruid=ct9_impact&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct9_0;nl;3 "Leerpad Impact").
 
 **Wanneer:** 15 maart 2024 van 13u00-16u00<br>
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>

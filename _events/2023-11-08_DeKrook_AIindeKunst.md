@@ -1,5 +1,5 @@
 ---
-title: "Save the date. AI in de Kunst"
+title: "Save the date - AI in de Kunst"
 date: 2023-11-08T09:30:00
 end_date: 2023-11-08T12:30:00
 item_theme_logo_url: "/images/curricula/logo_art.png"
@@ -20,7 +20,7 @@ kijken we of zo'n systeem ons voor de gek kan houden maar ook hoe wij het systee
 
 
 
-Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op https://www.dwengo.org/kunst
+Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op [www.dwengo.org/kunst](https://www.dwengo.org/kunst "AI in de Kunst").
 
 **Wanneer:** 8 november 2023 van 9u30-12u30<br>
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>
