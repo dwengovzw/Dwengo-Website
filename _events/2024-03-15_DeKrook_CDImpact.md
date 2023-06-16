@@ -1,5 +1,5 @@
 ---
-title: "Save the date - De impact op digitale systemen op de maatschappij"
+title: "Save the date - De impact van digitale systemen op de maatschappij"
 date: 2024-03-15T13:00:00
 end_date: 2024-03-15T16:00:00
 item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
