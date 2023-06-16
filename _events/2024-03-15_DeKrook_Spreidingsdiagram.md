@@ -1,5 +1,5 @@
 ---
-title: "Save the date. Spreidingsdiagram en trendlijn met Python."
+title: "Save the date - Spreidingsdiagram en trendlijn met Python."
 date: 2024-03-15T09:30:00
 end_date: 2024-03-15T12:30:00
 item_theme_logo_url: "/images/curricula/logo_math_with_python.png"
@@ -9,7 +9,7 @@ language: "nl"
 ---
 
 
-Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op https://www.dwengo.org/wiskunde
+Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op [www.dwengo.org/wiskunde](https://www.dwengo.org/wiskunde "Python in de wiskundeles").
 
 **Wanneer:** 15 maart 2024 van 9u30-12u30<br>
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>

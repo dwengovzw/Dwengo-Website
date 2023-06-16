@@ -9,7 +9,7 @@ language: "nl"
 ---
 
 
-Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op [www.dwengo.org/wiskunde](https://www.dwengo.org/wiskunde "Python in de wiskundeles")
+Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op [www.dwengo.org/wiskunde](https://www.dwengo.org/wiskunde "Python in de wiskundeles").
 
 **Wanneer:** 12 maart 2024 van 9u30-12u30<br>
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>

@@ -9,7 +9,7 @@ language: "nl"
 ---
 
 
-Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op [www.dwengo.org/kiks](https://www.dwengo.org/kiks "KIKS")
+Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op [www.dwengo.org/kiks](https://www.dwengo.org/kiks "KIKS").
 
 **Wanneer:**<br>
 Deel 1: 26 februari 2024 van 13u30-16u30 <br>

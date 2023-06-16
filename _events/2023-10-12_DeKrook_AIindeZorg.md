@@ -20,7 +20,7 @@ binnen dit project.
 In de voormiddag maak je kennis me de mogelijkheden van dit project voor alle richtingen. <br>
 In de namiddag gaan we meer in detail aan de slag met wiskunde en programmeren. 
 
-Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op [www.dwengo.org/zorg](https://www.dwengo.org/zorg "AI in de Zorg")
+Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op [www.dwengo.org/zorg](https://www.dwengo.org/zorg "AI in de Zorg").
 
 **Wanneer:** 12 oktober 2023 van 9u30-12u30 voor het voormiddagdeel en 13u30-16u30 voor het namiddagdeel<br>
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>

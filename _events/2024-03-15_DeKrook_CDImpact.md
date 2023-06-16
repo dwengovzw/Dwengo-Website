@@ -17,7 +17,7 @@ Je past concepten van computationeel denken toe op een digitaal systeem om de we
 
 Je gaat hier ook zelf mee aan de slag.
 
-Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op [www.dwengo.org/computationeeldenken](https://www.dwengo.org/computationeeldenken "Computationeel denken")
+Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op [www.dwengo.org/computationeeldenken](https://www.dwengo.org/computationeeldenken "Computationeel denken").
 
 Het specifieke leerpad betreffende de impact van computationeel denken kan je ook rechtstreeks bereiken via de volgende link: [Leerpad Impact](https://www.dwengo.org/learning-path.html?hruid=ct9_impact&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct9_0;nl;3 "Leerpad Impact").
 
