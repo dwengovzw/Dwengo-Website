@@ -26,8 +26,17 @@ negatief of neutraal sentiment heeft, of hoe je samen met de leerlingen een eenv
 
 Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op https://www.dwengo.org/chatbot
 
+**Doelgroep:** Leerkrachten secundair onderwijs 2de en 3de graad (doorstroom en dubbele finaliteit).
+
+**Meebrengen:** Een opgeladen laptop.
+
+**Voorkennis:** Basis ICT-competenties (knippen, plakken, surfen via het internet ...). Er is geen voorkennis nodig over programmeren.<br> 
+
 **Wanneer:** 18 september 2023 van 9u30-12u30 voor het voormiddagdeel en van 13u30-16u30 voor het namiddagdeel<br>
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>
+
+**Broodjeslunch inbegrepen**<br>
+
 **Organisatie:** Dwengo vzw
 
 - De inschrijvingslink volgt.
