@@ -16,7 +16,7 @@ Met technieken uit machine learning kunnen we computers op een intelligente mani
 Bekende NLP-toepassingen van machine learning zijn bijvoorbeeld vertaalprogramma's, 
 spraakbesturingssystemen of virtuele assistenten, zoals Siri en chatrobots.<br> 
 
-In deze nascholing ga je in de **voormiddag** maak je zonder te programmeren kennis met principes van taaltechnologie.<br>
+In deze nascholing maak je in de **voormiddag** kennis met principes van taaltechnologie, zonder te programmeren. Veel hiervan is bruikbaar voor alle finaliteiten.<br>
 In de **namiddag** ga je aan de slag met Python notebooks die ontworpen zijn voor in de klas. 
 In deze interactieve, online documenten, zetten je leerlingen hun eerste stappen in de wereld 
 van het programmeren met Python, vanuit een maatschappelijk relevante context. 
@@ -26,16 +26,17 @@ negatief of neutraal sentiment heeft, of hoe je samen met de leerlingen een eenv
 
 Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op https://www.dwengo.org/chatbot
 
-**Doelgroep:** Leerkrachten secundair onderwijs 2de en 3de graad (doorstroom en dubbele finaliteit).
+**Doelgroep:** Leerkrachten secundair onderwijs 2de en 3de graad (doorstroom en dubbele finaliteit) - zowel taalleerkrachten, informaticaleerkrachten, leerkrachten STEM of in een STEM-discipline, leerkrachten economie, geïnteresseerde leerkrachten van andere vakken.
 
 **Meebrengen:** Een opgeladen laptop.
 
 **Voorkennis:** Basis ICT-competenties (knippen, plakken, surfen via het internet ...). Er is geen voorkennis nodig over programmeren.<br> 
 
-**Wanneer:** 18 september 2023 van 9u30-12u30 voor het voormiddagdeel en van 13u30-16u30 voor het namiddagdeel<br>
+**Wanneer:** 18 september 2023 van 9u30-16u30<br>
+**Broodjeslunch inbegrepen**<br>
+
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>
 
-**Broodjeslunch inbegrepen**<br>
 
 **Organisatie:** Dwengo vzw
 
