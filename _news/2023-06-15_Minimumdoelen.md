@@ -10,4 +10,4 @@ We werken in het kader van de nieuwe minimumdoelen druk aan **nieuwe leerpaden**
 Verschijnen weldra:<br>
 - een leerpad 'Statistiek met Python' binnen het thema 'Wiskunde' en de minimumdoelen Wiskunde en **Statistiek**;
 - een leerpad 'De invloed van digitale systemen op de maatschappij' binnen het thema 'Computationeel denken' en de minimumdoelen **Computationeel denken** en **Mediawijsheid**;
-- een leerpad "Insectenbooks' binnen de thema's 'Programmeren met Python' en 'STEM' en de specifieke minimumdoelen **Informaticawetenschappen**.
+- een leerpad "Insectbooks' binnen de thema's 'Programmeren met Python' en 'STEM' en de specifieke minimumdoelen **Informaticawetenschappen**.
