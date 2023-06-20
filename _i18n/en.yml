@@ -692,6 +692,7 @@ calendar_page:
   no_events: No future events in English
   no_past_events: No past events
   online: online
+  register: Register
 
 news_page:
   no_news: No news

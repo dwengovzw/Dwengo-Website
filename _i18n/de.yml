@@ -683,6 +683,7 @@ calendar_page:
   no_events: Keine zukünftigen Veranstaltungen auf Deutsch
   no_past_events: Keine vergangenen Ereignisse auf Deutsch
   online: online
+  register: Registrieren
 
 news_page:
   no_news: Keine nachrichten

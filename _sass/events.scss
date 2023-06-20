@@ -1,5 +1,9 @@
 $logo-size: 55px;
 
+.btn.register {
+    margin: 0;
+}
+
 .event-list {
     list-style: none;
 }
@@ -7,7 +11,7 @@ $logo-size: 55px;
 .event-list-item-global {
     display: flex;
     flex-direction: row;
-    margin-top: 2rem;
+    margin-top: 5rem;
 }
 
 .event-item-content-container{
@@ -64,6 +68,17 @@ $logo-size: 55px;
     flex-direction: row;
     flex-wrap: wrap;
     margin-top: 1rem;
+    width: 100%;
+}
+
+.event-item-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 0.5rem;
+    justify-content: space-between;
+    align-items: stretch;
+    padding-right: 1rem;
 }
 
 #event-footer .material-symbols-outlined{

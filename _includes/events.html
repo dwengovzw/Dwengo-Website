@@ -19,11 +19,20 @@
                     <span class="event-item-logo-date event-meta" itemscope itemtype="https://schema.org/startDate">{{ event.date | date: date_format }}</span>
                 </span>
                 <span class="event-item-content-container">
-                    <h3>
-                        {{ event.title | escape }}
-                    </h3>
+                    <div class="event-item-header">
+                        <h3>{{ event.title | escape }}</h3>
+                        
+                    </div>
+                    
                     {{ event.content }}
                     <span id="event-footer">
+                        {%- if event.registration_link and event.registration_link != "" and event.registration_link != nil -%}
+                            <span class="footer-event-registration-link nowrap">
+                                <a href="{{ event.registration_link }}" target="_blank"><button class="btn simulator register"><strong>{% t calendar_page.register %}</strong></button></a>
+                            </span>
+                            
+                        {%- endif -%}
+                        <span class="footer-filler" style="flex-grow: 1"></span>
                         <span class="footer-event-date-info nowrap">
                             <span class="material-symbols-outlined md-48">calendar_month</span>
                             <span class="event-item-date event-item-start-date">{{ event.date | date: date_time_format }}</span>
