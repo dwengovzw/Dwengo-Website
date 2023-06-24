@@ -10,7 +10,7 @@ language: "nl"
 
 Aan de hand van interactieve Python notebooks stel je gegevens in een csv-bestand voor in een spreidingsdiagram en leer je hoe je een trendlijn vindt die bij deze data past en deze ook visualiseert. Na deze nascholing kan je zelfstandig aan de slag gaan met andere kant-en-klare notebooks waarin STEM-inhouden worden behandeld. Je kan alvast een kijkje nemen op dwengo.org/wiskunde in de leerpaden Spreidingsdiagram, Lineaire Regressie en Regressie.
 
-Programma
+**Programma**<br>
 In deze hands-on workshop maak je kennis met de interactieve notebooks die je nadien in de klas met je leerlingen gebruikt. A.d.h.v. de programmeertaal Python teken je spreidingsdiagrammen van (echte) data. Je gaat ook aan de slag met een notebook met een STEM-context.
 
 Het lesmateriaal staat gratis ter beschikking op dwengo.org/wiskunde en dwengo.org/stem
