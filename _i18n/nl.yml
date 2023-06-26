@@ -8,6 +8,7 @@ global:
   simulator: Simulator
   donate: Doneer
   shop: Shop
+  social_media_tagline: Uniek lesmateriaal en nascholingen over AI en STEM
 
 # Translations for the home page split into the strengths section and learning paths section
 strengths:

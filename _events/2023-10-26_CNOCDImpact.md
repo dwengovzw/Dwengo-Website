@@ -22,5 +22,3 @@ Je past concepten van computationeel denken toe op een digitaal systeem om de we
 Je gaat hier ook zelf mee aan de slag.
 
 Organisatie: CNO
-
-- [Inschrijven voor deze nascholing op 26 oktober 2023, 09:30 - 12:30](https://cno.uantwerpen.be/nl/opleiding/de-leerlingen-analyseren-de-impact-van-digitale-systemen-op-de-maatschappij-vanuit-de-principes-van-computationeel-denken-concrete-voorbeelden-van-dit-nieuwe-minimumdoel-in-de-klaspraktijk-79387?filter=)

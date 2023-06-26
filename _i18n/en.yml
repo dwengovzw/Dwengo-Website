@@ -8,6 +8,7 @@ global:
   simulator: Simulator
   donate: Donate
   shop: Shop
+  social_media_tagline: Unique teaching content and trainings about AI and STEM.
 
 # Translations for the home page split into the strengths section and learning paths section
 strengths:

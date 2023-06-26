@@ -8,6 +8,7 @@ global:
   simulator: Simulator
   donate: spenden
   shop: Shop
+  social_media_tagline: Einzigartige Lehrinhalte und Trainings rund um KI und MINT.
 
 # Translations for the home page split into the strengths section and learning paths section
 strengths:

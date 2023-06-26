@@ -8,6 +8,7 @@ global:
   simulator: Simulateur
   donate: Faire un don
   shop: Magasin
+  social_media_tagline: Contenu pédagogique unique et formations sur l'IA et les STEM.
 
 # Translations for the home page split into the strengths section and learning paths section
 strengths:
