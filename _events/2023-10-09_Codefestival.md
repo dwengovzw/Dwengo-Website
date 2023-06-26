@@ -6,6 +6,7 @@ item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
 location: "Hendrik Consciencegebouw, Koning Albert II-laan 15, Brussel"
 location_link: "https://www.google.be/maps/place/Koning%20Albert%20II-laan%2015,%201210%20Brussel"
 language: "nl"
+registration_link: "https://data-onderwijs.vlaanderen.be/inschrijvingen/onderwijsevent.aspx?id=367#P1220"
 ---
 
 Het Codefestival vindt plaats tijdens de EU Code Week. Deze EU-programmeerweek is een initiatief waarin creativiteit, 
@@ -19,5 +20,3 @@ Schrijf je in voor een van **onze sessies**:<br>
 
 
 Organisatie: Kenniscentrum Digisprong
-
-[Meer info en inschrijven](https://data-onderwijs.vlaanderen.be/inschrijvingen/onderwijsevent.aspx?id=367#P1220)

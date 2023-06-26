@@ -6,6 +6,7 @@ item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
 location: "UHassselt, Gebouw D, Agoralaan, 3590 Diepenbeek"
 location_link: "https://www.google.be/maps/search/+Gebouw+D,+Agoralaan++3590+Diepenbeek/@50.9275728,5.3877074,17z/data=!3m1!4b1"
 language: "nl"
+registration_link: "https://www.stemportaallimburg.be/vormingsprogramma"
 ---
 
 Universiteit Hasselt, PXL-Education, Provincie Limburg en de Associatie Universiteit-Hogeschool Limburg (AUHL) willen, 

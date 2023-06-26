@@ -6,6 +6,7 @@ item_theme_logo_url: "/images/curricula/logo_care.png"
 location: "Universiteit Antwerpen, Boogkeers 5, 2000 Antwerpen"
 location_link: "https://www.google.com/maps/place/CNO/@51.2141398,4.4021687,17z/data=!3m1!4b1!4m5!3m4!1s0x47c3f6ff172ceed5:0xb3b8225c72873810!8m2!3d51.2141398!4d4.4043574"
 language: "nl"
+registration_link: "https://cno.uantwerpen.be/nl/opleiding/artificiele-intelligentie-in-de-zorg-een-stem-project-met-een-belangrijke-rol-voor-wiskunde-en-informaticawetenschappen-79222?filter="
 ---
 
 Artificieel intelligente systemen op basis van beslissingsbomen worden omwille van hun transparantie veel aangewend in de zorgsector. Zo’n beslissingsboom kan de arts of een andere zorgverlener helpen om op basis van patiëntengegevens sneller tot een diagnose of gewenste behandeling te komen.
