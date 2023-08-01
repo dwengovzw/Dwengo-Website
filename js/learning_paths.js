@@ -187,6 +187,12 @@ function loadObjectContent(hruid, language, version) {
             // Must be with the jquery .html() function! 
             // => This function evaluates the javascript in the <script> tags, normal JS (document.getElementbyId) does not.
             $("#lo_content").html(this.response);
+            if (window.MathJax) {
+                let newContent = document.getElementById("lo_content")
+                MathJax.typesetPromise([newContent]).then(() => {
+                    console.log("MathJax typeset complete")
+                }).catch((err) => console.log(err.message))
+            }
         }
     };
     xhttp.open("GET", `${api_base_path}/api/learningObject/getRaw?hruid=${hruid}&version=${version}&language=${language}`, true);
