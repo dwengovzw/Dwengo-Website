@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: dummy
-permalink: /dummy/
+title: project
+permalink: /project/
 banner_image: "/images/curricula/banner_socialrobot.png"
 logo_image: "/images/curricula/logo_socialrobot.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/vlaio.png', '/images/partners/hogent.svg']
