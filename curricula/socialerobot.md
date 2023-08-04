@@ -18,7 +18,7 @@ learning_paths: ['sr0_lkr', 'sr0_lln', 'sr1', 'sr2', 'sr3', 'sr4']
 {% capture intro %} {{ site.translations[site.lang].socialrobot.intro }} {% endcapture %}
 {% capture summary %} {{ site.translations[site.lang].socialrobot.summary }} {% endcapture %}
 
-{%- include dummy_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
+{%- include project_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
 page_title=page_title
 intro=intro
 summary=summary

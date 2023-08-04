@@ -16,13 +16,13 @@ learning_paths: ['sr_algemeen', 'sr_module1', 'sr_module2', 'sr_module22', 'sr_m
 {% capture summary %} {{ site.translations[site.lang].dummy.summary }} {% endcapture %}
 
 
-{%- include dummy_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
+{%- include project_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
 page_title=page_title
 intro=intro
 summary=summary
 -%}
 
-{%- include dummy_extra_info.html -%}
+{%- include project_extra_info.html -%}
 
 {% assign begin = '{"hruids": ' %}
 {% assign end = '}' %}
