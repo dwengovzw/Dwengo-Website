@@ -11,9 +11,9 @@ partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/
 learning_paths: ['sr_algemeen', 'sr_module1', 'sr_module2', 'sr_module22', 'sr_module3', 'sr_module4']
 ---
 
-{% capture page_title %} {{ site.translations[site.lang].dummy.page_title }} {% endcapture %}
-{% capture intro %} {{ site.translations[site.lang].dummy.intro }} {% endcapture %}
-{% capture summary %} {{ site.translations[site.lang].dummy.summary }} {% endcapture %}
+{% capture page_title %} {{ site.translations[site.lang].project.page_title }} {% endcapture %}
+{% capture intro %} {{ site.translations[site.lang].project.intro }} {% endcapture %}
+{% capture summary %} {{ site.translations[site.lang].project.summary }} {% endcapture %}
 
 
 {%- include project_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
