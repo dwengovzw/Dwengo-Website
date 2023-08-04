@@ -5,10 +5,10 @@
 layout: default
 title: project
 permalink: /project/
-banner_image: "/images/curricula/banner_socialrobot.png"
-logo_image: "/images/curricula/logo_socialrobot.png"
-partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/vlaio.png', '/images/partners/hogent.svg']
-learning_paths: ['sr_algemeen', 'sr_module1', 'sr_module2', 'sr_module22', 'sr_module3', 'sr_module4']
+banner_image: "/images/curricula/banner_computational_thinking.png"
+logo_image: "/images/curricula/logo_computational_thinking.png"
+partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/pov.jpeg', '/images/partners/hogent.svg', '/images/partners/istem.png', '/images/partners/vlaanderen.svg']
+learning_paths: ['ct1_concepten', 'ct2_concreet', 'ct3_voorbeelden', 'ct10_bebras', 'ct4_evaluatiekader', 'ct5_kijkwijzer', 'ct6_cases', 'ct7_historiek', 'ct8_eindtermen', 'ct9_impact']
 ---
 
 {% capture page_title %} {{ site.translations[site.lang].project.page_title }} {% endcapture %}
