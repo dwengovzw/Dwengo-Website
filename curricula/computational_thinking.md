@@ -7,7 +7,7 @@ title: computational thinking
 permalink: /computational_thinking/
 redirect_from: 
   - /Computationeel_Denken/
-  - /computatoineel_denken/
+  - /computationeel_denken/
   - /ComputationeelDenken/
   - /Computationeeldenken/
   - /computationeeldenken/
