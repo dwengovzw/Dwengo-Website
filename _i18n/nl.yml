@@ -1,4 +1,4 @@
-# Global translations
+# Global translations ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 global:
   dutch: Nederlands
   english: Engels
@@ -10,7 +10,8 @@ global:
   shop: Shop
   social_media_tagline: Uniek lesmateriaal en nascholingen over AI en STEM
 
-# Translations for the home page split into the strengths section and learning paths section
+
+# Translations for the home page split into the strengths section and learning paths section ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 strengths:
   title: Ga aan de slag met uniek lesmateriaal over AI en STEM!
   innovative: Innovatief
@@ -31,6 +32,8 @@ strengths:
 partners:
   partners: Partners
 
+
+# Old project pages ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 kiks:
   intro_title: "KIKS"
   paragraph1: "KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben."
@@ -49,112 +52,6 @@ kiks:
   subtitle3: "AI"
   subtitle3p1: "Diepe neurale netwerken zijn een vorm van machinaal leren, en behoren dus tot het domein van de artificiële intelligentie. Convolutionele neurale netwerken zijn uitermate geschikt om huidmondjes op microfoto's te herkennen."
   subtitle3p2: "Aan de hand van Python notebooks verkennen we stap voor stap deze wondere wereld. Leerlingen krijgen inzicht in de fundamenten van artificiële intelligentie. Maar er komen ook praktische zaken bij kijken, zoals het verzamelen en voorbereiden van de dataset."
-
-project:
-  page_title: "Computationeel denken"
-  intro: "In onze steeds meer gedigitaliseerde wereld is het belangrijk dat iedereen naast rekenen, lezen en schrijven ook computationeel kan denken. Computationeel denken gaat over het vermogen om problemen op te lossen met behulp van een computer."
-  summary: "Wanneer je computationeel denkt, dan denk je na over de stappen die nodig zijn om tot een oplossing van een bepaald probleem te komen, waarna je met behulp van jouw technische kennis de computer aan het werk zet om het probleem op te lossen."
-  title1: "In de Klas"
-  t1_subtitle1: "Voor iedereen"
-  t1_p1: "Omdat computationeel denken sterk focust op probleemoplossende vaardigheden kan het aan bod komen in elk bestaand vak in het reguliere onderwijs. Het gaat dan om problemen waarvoor men de oplossing vaak gemakkelijker bekomt met behulp van een computer."
-  t1_subtitle2: "zonder en mét computer"
-  t1_p2: "Via programmeerlessen kan je heel wat concepten van computationeel denken in de praktijk omzetten. Toch kan men ook zonder computer heel wat leren over computationeel denken. Daarvoor zijn tal van interessante unplugged activiteiten mogelijk."
-  t1_subtitle3: "Nascholing"
-  t1_p3: "Met dit project helpen we lerarenopleiders en leerkrachten secundair onderwijs aan de slag via een flexibel, online leertraject met concrete lesmaterialen, geïntegreerd in STEM-projecten, en verschaffen we inzichten om computationeel denken te vertalen naar de eigen studierichting-specifieke context. <br>We tonen hoe computationeel denken op een zinvolle manier en vanuit reële contexten in de lessen kan worden geïntegreerd, zoals in praktische vakken in nijverheidsrichtingen en harde wetenschapsvakken, maar ook in talen en humane wetenschappen. <br>De innovatieve lesmaterialen zijn ingehaakt aan een eerder ontwikkelde leerlijn, <strong>AI Op School</strong>, waarin computationeel denken voor eerste, tweede en derde graad aan bod komt vanuit verschillende contexten. De nadruk ligt hierbij op een <strong>vakoverstijgende werking</strong> met aandacht voor de <strong>impact van nieuwe technologieën</strong> op onze snel veranderende maatschappij."
-  t1_subtitle4: "Optioneel"
-  t1_p4: "tekst"
-  title2: "Wat gaan ze leren?"
-  title2_p: "Tekst"
-  t2_subtitle1: "Wetenschappelijk onderzoek"
-  t2_p1: "Er is echter nog veel werk aan de winkel. Er is nog veel onzekerheid over welke concepten van computationeel denken het beste aan bod komen in het onderwijs en hoe dat dan het beste gebeurt. Ook de professionalisering van leerkrachten verdient de nodige aandacht, want ze zijn onvoldoende vertrouwd met de terminologie van computationeel denken en mogelijke manieren van aanpak, didactiek en evaluatie.<br>
-Een historisch overzicht van het ontstaan van computationeel denken (zie leerpad 'Historiek' van het project 'Computationeel denken'), de ervaringen die men in het buitenland al heeft opgebouwd in het onderwijs, en inzichten van specialisten ter zake kunnen hier de weg wijzen. Voorbeelden uit de klaspraktijk maken de aanpak van computationeel denken concreet (zie leerpad 'Cases' van het project 'Computationeel denken')."
-  t2_subtitle2: "Nieuwe terminologie"
-  t2_p2: "Het is belangrijk om leerkrachten vertrouwd te maken met de terminologie zodat ze aspecten van computationeel denken in hun eigen lesmateriaal kunnen herkennen, en hun zelfvertrouwen om les te geven over computationeel denken groeit. Daartoe is er o.a. nood aan een ruim aanbod van kwalitatief lesmateriaal (Barr & Stephenson, 2011; Bocconi et al., 2016; Yadav et al., 2017a)."
-  t2_subtitle3: "Optioneel"
-  t2_p3: "Tekst"
-  t2_subtitle4: "Optioneel"
-  t2_p4: "tekst"
-  title3: "Hoe begin je eraan?"
-  title3_p: "Tekst"
-  t3_subtitle1: "Optioneel"
-  t3_p1: "tekst"
-  t3_subtitle2: "Optioneel"
-  t3_p2: "tekst"
-  t3_subtitle3: "Optioneel"
-  t3_p3: "tekst"
-  t3_subtitle4: "Optioneel"
-  t3_p4: "tekst"
-
-socialrobot:
-  page_title: "Sociale robot"
-  intro: "Maak kennis met 'Sociale robot', een meeslepend STEM-project voor het secundair onderwijs! Hier zullen leerlingen zich onderdompelen in een uitdagend project waarin ze een eigen sociale robot ontwerpen, programmeren en bouwen."
-  summary: "Het 'Sociale Robot'-project is een fantastische manier om jonge studenten enthousiast te maken voor STEM. Het stelt leerlingen in staat om hun creativiteit te botvieren en technische vaardigheden te ontwikkelen door het ontwerpen, programmeren en bouwen van hun eigen sociale robot. Bovendien sluit dit project aan bij actueel wetenschappelijk onderzoek naar het verbeteren van de interactie tussen mens en robot en de mogelijkheden die sociale robots bieden om bij te dragen aan verschillende maatschappelijke uitdagingen."
-  title1: "Wat gaan ze doen?"
-  t1_subtitle1: "Ontwerpen"
-  t1_p1: "De leerlingen krijgen de volledige controle over het ontwerp van hun sociale robot. Zij zijn de architecten van hun creatie en hebben de mogelijkheid om hun visie en persoonlijke stijl tot uiting te brengen in het ontwerp."
-  t1_subtitle2: "Programmeren"
-  t1_p2: "De leerlingen gebruiken de grafische programmeeromgeving van Dwengo om de robot te programmeren en interactie met zijn omgeving mogelijk te maken. "
-  t1_subtitle3: "Bouwen"
-  t1_p3: "Met behulp van elektronische componenten, herbruikbare materialen en knutselmateriaal hebben de leerlingen de mogelijkheid om hun robot uit het niets op te bouwen. Zo ontwikkelen ze niet alleen hun technische vaardigheden, maar ook hun creatieve en probleemoplossende vaardigheden. Het gebruik van herbruikbare materialen biedt daarnaast een duurzame oplossing."
-  t1_subtitle4: "Presenteren"
-  t1_p4: ""
-  title2: "Wat gaan ze leren?"
-  title2_p: "Dit project biedt een multimodale aanpak die de leerlingen stimuleert om probleemoplossend en kritisch te denken. Deze vaardigheden zijn van onschatbare waarde in de moderne samenleving en zullen hen helpen om in de toekomst succesvol te zijn, zowel in hun persoonlijke als professionele leven."
-  t2_subtitle1: "Creativiteit"
-  t2_p1: "De creativiteit van leerlingen komt niet alleen tot uiting tijdens het ontwerpproces, maar ook bij het programmeren en bouwen van hun sociale robot. Ze hebben de vrijheid om hun eigen ideeën en visies te integreren in de functionaliteiten van de robot en kunnen zo hun persoonlijke stempel op het project drukken. Dit maakt het leerproces niet alleen waardevoller, maar ook leuker en uitdagender voor de leerlingen."
-  t2_subtitle2: "Computationeel denken"
-  t2_p2: "Computationeel denken is niet alleen te vinden in het programmeren van de robot, maar het komt ook duidelijk naar voren bij de problemen die leerlingen moeten oplossen tijdens het ontwerpen en bouwen van hun sociale robot. Zo ontwikkelen de leerlingen niet alleen programmeervaardigheden, maar ook belangrijke cognitieve vaardigheden die relevant zijn in verschillende disciplines."
-  t2_subtitle3: "Technische vaardigheden"
-  t2_p3: "De bouw van hun eigen sociale robot geeft leerlingen de kans om te werken met verschillende elektronische componenten en gerecycleerde materialen. Door het aanpassen en verbeteren van deze componenten en materialen, leren ze niet alleen hoe ze de robot kunnen bouwen, maar ook hoe ze deze kunnen optimaliseren."
-  t2_subtitle4: "Titel"
-  t2_p4: ""
-  title3: "Hoe begin je eraan?"
-  title3_p: "Met dit project kan je eenvoudig aan de slag. Hieronder vind je de 4 modules waarin het project is opgedeeld. Alle praktische informatie die je nodig hebt om aan de slag te gaan, vind je terug in module 0.<br><br>Onderaan deze pagina vind je een overzicht van al het downloadbare materiaal dat je in de leerpaden tegenkomt."
-  t3_subtitle1: "Titel"
-  t3_p1: ""
-  t3_subtitle2: "Titel"
-  t3_p2: ""
-  t3_subtitle3: "Titel"
-  t3_p3: ""
-  t3_subtitle4: "Titel"
-  t3_p4: ""  
-
-congres:
-  intro_title: "Congres Computationeel denken, STEM en artificiële intelligentie in de klas"
-  paragraph1: "Datum: 7 juni 2023<br>Locatie: De Krook, Miriam Makebaplein 1, 9000 Gent"
-  paragraph2: ""
-  paragraph3: ""
-
-privacy: 
-  detail: "Bij dwengo vinden we transparantie erg belangrijk. We willen onze gebruikers dan ook graag informeren over welke data we verzamelen en waarom we dat doen. We maken gebruik van de analytics tool Matomo, die lokaal gehost wordt op een server in België. Dit betekent dat we 100% eigenaar zijn van de data en deze niet delen met derden. Deze data is volledig anoniem, er worden geen persoonsgegevens aan gekoppeld.<br><br>
-We houden bij welke pagina's u bezoekt op onze website en hoe lang u op deze pagina blijft. Dit helpt ons om te begrijpen welke inhouden u interessant vindt. Aan de hand van die informatie kunnen we onze website verbeteren. We houden ook bij hoe u onze website gevonden heeft, bijvoorbeeld via een zoekmachine, een ander platform of via een directe link. Dit helpt ons om te begrijpen via welke van onze partners u op onze website terechtgekomen bent. We houden ook bij op welke uitgaande links u klikt. Dit geeft ons inzicht in welke externe bronnen u interessant vindt en helpt ons om onze content te verbeteren.<br><br>
-Verder houden we bij welk besturingssysteem, welk apparaat en welke browser u gebruikt om onze website te bezoeken. Dit helpt ons om onze website te optimaliseren voor verschillende apparaten en om eventuele technische problemen op te sporen.<br><br>
-Daarnaast houden we bij uit welk land u onze website bezoekt. Dit is belangrijke informatie voor ons om te begrijpen waar ons publiek vandaan komt en om onze website te optimaliseren voor verschillende regio's.<br><br>
-We gebruiken deze gegevens uitsluitend voor interne analyse en om onze website te verbeteren. We delen deze gegevens niet met derden en behandelen uw privacy met de grootste zorg. Als u nog vragen heeft over ons privacybeleid, neem dan gerust contact met ons op via dpo@dwengo.org<br><br>"
-  notice: Wij gebruiken functionele cookies om informatie bij te houden over het gebruik van onze website.
-  accept: Akkoord
-  info: Meer informatie
-
-aiopschool:
-  intro_title: "AI Op School"
-  paragraph1: "
-  Artificiële intelligentie (AI) komt volop aan bod in de media. 
-  Populaire thema’s zijn: chatbots, zelfrijdende auto’s, virtuele assistenten en het verlies aan jobs. 
-  AI-systemen dringen meer en meer onze wereld binnen.
-  "
-  paragraph2: "
-  AI Op School is een project dat ontstaan is uit de bekommernis dat leerlingen kunstmatige (KI) of artificiële intelligentie moeten kunnen begrijpen en het besef dat er een hiaat is in het curriculum van het secundair onderwijs om hieraan tegemoet te komen. We maken lesmateriaal voor het secundair onderwijs rond AI gelinkt aan de eindtermen en de bestaande leerplandoelen.
-  "
-  banner_info: "
-  AI Op School is een project van dwengo vzw. 
-  Binnen het project ontwikkelden we zowel het lesmateriaal als de nodige tools om in de klas aan de slag te gaan met machinaal leren en artificiële intelligentie.
-  Alle lesinhouden die beschikbaar waren op aiopschool.be (<a href='/content/'>en nog veel meer</a>) zijn nu beschikbaar op <a href='/'>dwengo.org</a>"
-  subtitle1: "AI"
-  subtitle1p1: "AI is een tak binnen de computerwetenschappen. Een definitie geven voor AI, iets dat in zoveel verschillende domeinen wordt ingezet, is geen sinecure. Binnen AI onderscheidt men kennisgebaseerde en datagebaseerde systemen. De chatbot Eliza en de schaakcomputer Deep Blue zijn voorbeelden van kennisgebaseerde systemen. De regels die de computer volgt, zijn zorgvuldig geprogrammeerd. Gezichtsherkenning is een voorbeeld van een datagebaseerd systeem. Dit systeem heeft geleerd: gebaseerd op de gegeven data heeft het zelf de parameters in het geprogrammeerde algoritme aangepast. Men spreekt ook van machine learning."
-  subtitle2p2: "Men maakt een onderscheid tussen general AI en narrow AI. Bij general AI gaat het over computersystemen met dezelfde capaciteiten als een mens. We hebben vooralsnog niet de kennis om dergelijke systemen te ontwerpen. Voorlopig zit AI nog maar op het niveau van de narrow AI: AI-systemen die de specifieke taken doen waarvoor ze ontworpen werden."
-  subtitle2: "Op school"
-  subtitle2p1: "Als leerlingen surfen op het internet, foto’s posten op Instagram, gebruikmaken van Google docs, een e-mail laten versturen door een virtuele assistent zoals Siri of wandelen door de stad, worden er data gecapteerd. Wat als een AI-systeem al die big data met elkaar in verband brengt? Zijn die AI-systemen wel objectief als ze beslissingen nemen? Moeten leerlingen die het secundair onderwijs verlaten geen inzicht hebben in onze gedigitaliseerde wereld? Is dit inzicht niet noodzakelijk om in hun volwassen leven gefundeerde beslissingen te kunnen nemen? Het ‘AI op School’-team vindt van wel. We maken lesmateriaal voor het secundair onderwijs rond AI gelinkt aan de eindtermen en de bestaande leerplandoelen. We vinden dat alle jongeren de fundamenten van AI moeten kennen en begrijpen. De beste manier om alle jongeren te bereiken is via de school. Bovendien is de school de uitgelezen plaats om leerlingen attent te maken op de ethische aspecten van AI-systemen."
-
 
 agriculture:
   intro_title: "AI in de Landbouw"
@@ -193,8 +90,6 @@ computational_thinking:
   titlep1: "Omdat computationeel denken sterk focust op probleemoplossende vaardigheden kan het aan bod komen in elk bestaand vak in het reguliere onderwijs. Het gaat dan om problemen waarvoor men de oplossing vaak gemakkelijker bekomt met behulp van een computer."
   titlep2: "Via programmeerlessen kan je heel wat concepten van computationeel denken in de praktijk omzetten. Toch kan men ook zonder computer heel wat leren over computationeel denken. Daarvoor zijn tal van interessante unplugged activiteiten mogelijk."
   titlep3: "Met dit project helpen we lerarenopleiders en leerkrachten secundair onderwijs aan de slag via een flexibel, online leertraject met concrete lesmaterialen, geïntegreerd in STEM-projecten, en verschaffen we inzichten om computationeel denken te vertalen naar de eigen studierichting-specifieke context. <br>We tonen hoe computationeel denken op een zinvolle manier en vanuit reële contexten in de lessen kan worden geïntegreerd, zoals in praktische vakken in nijverheidsrichtingen en harde wetenschapsvakken, maar ook in talen en humane wetenschappen. <br>De innovatieve lesmaterialen zijn ingehaakt aan een eerder ontwikkelde leerlijn, <strong>AI Op School</strong>, waarin computationeel denken voor eerste, tweede en derde graad aan bod komt vanuit verschillende contexten. De nadruk ligt hierbij op een <strong>vakoverstijgende werking</strong> met voldoende aandacht voor de <strong>impact van nieuwe technologieën</strong> op onze snel veranderende maatschappij."
-
-
 
 math_with_python:
   intro_title: "Python in de Wiskundeles"
@@ -242,88 +137,84 @@ physical_computing:
   paragraph2: "De Dwenguino is een Arduino-gebaseerd microcontrollerplatform dat heel wat elementen bevat waarmee je snel een eigen apparaat kan bouwen."
   paragraph3: "De Dwenguino beschikt bijvoorbeeld over drukknoppen, een lcd-scherm, een zoemer, leds en connectoren om motoren aan te sluiten. De Dwenguino is open source. Het platform wordt momenteel reeds gebruikt voor leerlingen vanaf 10 jaar tot in het hoger onderwijs. Er kan een leerlijn mee opgebouwd worden van de eerste tot de derde graad van het secundair onderwijs, van grafisch tot tekstueel programmeren, en met een stijgende moeilijkheidsgraad in toepassingen."
 
-learning_paths:
-  title: Ons leermateriaal
-  search_title: Ons leermateriaal doorzoeken
-  filter_placeholder: Zoek
-  error_message: Er zijn geen leerpaden beschikbaar met uw voorkeuren.
-  loading_message: Aan het laden...
-  age: Leeftijd
 
-# Translations for the about page
-about_page:
-  title: Over
-  who: Over ons
-  changing_the_future: De toekomst van STEM veranderen
-  changing_the_future_body: Dwengo ontwikkelt didactisch materiaal waarmee wereldwijd vrijwilligers en leerkrachten aan de slag gaan om jongeren wegwijs te maken in wetenschappen en technologie. Via didactische projecten over onder meer computationeel denken, artificiële intelligentie, robotica en wiskunde bereiken we jaarlijks honderden leerkrachten en vrijwilligers, en ook duizenden leerlingen over de hele wereld. In al onze projecten hebben we bijzondere aandacht voor kansengroepen en meisjes. Bovendien is al ons materiaal open source zodat je het kunt aanpassen naargelang de noden in jouw klas of project.
-  our_history: Onze geschiedenis
-  our_history_body: Dwengo is een vzw, opgericht in 2009 door zes Belgische ingenieurs. Door middel van online handleidingen, ondersteuning en hands-on workshops begon Dwengo scholen in België te benaderen. Vandaag heeft Dwengo activiteiten over de hele wereld. Om zoveel mogelijk kansengroepen te bereiken, werkt Dwengo steeds samen met lokale gemeenschappen om nieuwe projecten op te starten.
-  vision: Onze visie
-  vision_subtitle: De wonderen van robotica en AI ontsluieren
-  vision_body: "Door samen te werken met leerkrachten en vrijwilligers over de hele wereld en door middel van train-de-trainersessies stellen we hen in staat onze hands-on workshops naar de leerlingen en de studenten te brengen. Onze belangrijkste doelen zijn: "
-  vision_list_1: "De impact meten: opvolgen van het aantal deelnemers en de duurzaamheid van het project"
-  vision_list_2: De uitdagingen van STEM-onderwijs in kaart brengen en hoe ze te overwinnen
-  vision_list_3: Kennisoverdracht naar kansengroepen
-  vision_list_4: Het opzetten van een nieuwe wereldwijde duurzame gemeenschap van leerkrachten en vrijwilligers
-  vision_list_5: Meerdere culturen samenbrengen door een jaarlijkse robotweek te organiseren
-  mission: Met de steun van industrie, overheden en vrijwilligers kunnen we wereldwijd jongeren in verwondering brengen voor wetenschappen en technologie
-  mission_subtitle: De wonderen van robotica en AI ontsluieren
-  mission_column_1: CONTINENTEN
-  mission_column_2: KINDEREN BEREIKT ELK JAAR
-  mission_column_3: VRIJWILLIGERS
-  mission_column_4: VRIJWILLIG
-  commitment: Onze verbintenissen
-  commitment_column_1: Kennis delen en samenwerking
-  commitment_column_2: Internationale focus met projecten op 4 continenten
-  commitment_column_3: Voor kinderen vanaf 8 jaar tot universiteitsstudenten
-  commitment_column_4: Al onze software en documentatie zijn open source
-  team: team
+# New project pages ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+socialrobot:
+  page_title: "Sociale robot"
+  intro: "Maak kennis met 'Sociale robot', een meeslepend STEM-project voor het secundair onderwijs! Hier zullen leerlingen zich onderdompelen in een uitdagend project waarin ze een eigen sociale robot ontwerpen, programmeren en bouwen."
+  summary: "Het 'Sociale Robot'-project is een fantastische manier om jonge studenten enthousiast te maken voor STEM. Het stelt leerlingen in staat om hun creativiteit te botvieren en technische vaardigheden te ontwikkelen door het ontwerpen, programmeren en bouwen van hun eigen sociale robot. Bovendien sluit dit project aan bij actueel wetenschappelijk onderzoek naar het verbeteren van de interactie tussen mens en robot en de mogelijkheden die sociale robots bieden om bij te dragen aan verschillende maatschappelijke uitdagingen."
+  title1: "Wat gaan ze doen?"
+  t1_subtitle1: "Ontwerpen"
+  t1_p1: "De leerlingen krijgen de volledige controle over het ontwerp van hun sociale robot. Zij zijn de architecten van hun creatie en hebben de mogelijkheid om hun visie en persoonlijke stijl tot uiting te brengen in het ontwerp."
+  t1_subtitle2: "Programmeren"
+  t1_p2: "De leerlingen gebruiken de grafische programmeeromgeving van Dwengo om de robot te programmeren en interactie met zijn omgeving mogelijk te maken. "
+  t1_subtitle3: "Bouwen"
+  t1_p3: "Met behulp van elektronische componenten, herbruikbare materialen en knutselmateriaal hebben de leerlingen de mogelijkheid om hun robot uit het niets op te bouwen. Zo ontwikkelen ze niet alleen hun technische vaardigheden, maar ook hun creatieve en probleemoplossende vaardigheden. Het gebruik van herbruikbare materialen biedt daarnaast een duurzame oplossing."
+  t1_subtitle4: "Presenteren"
+  t1_p4: ""
+  title2: "Wat gaan ze leren?"
+  title2_p: "Dit project biedt een multimodale aanpak die de leerlingen stimuleert om probleemoplossend en kritisch te denken. Deze vaardigheden zijn van onschatbare waarde in de moderne samenleving en zullen hen helpen om in de toekomst succesvol te zijn, zowel in hun persoonlijke als professionele leven."
+  t2_subtitle1: "Creativiteit"
+  t2_p1: "De creativiteit van leerlingen komt niet alleen tot uiting tijdens het ontwerpproces, maar ook bij het programmeren en bouwen van hun sociale robot. Ze hebben de vrijheid om hun eigen ideeën en visies te integreren in de functionaliteiten van de robot en kunnen zo hun persoonlijke stempel op het project drukken. Dit maakt het leerproces niet alleen waardevoller, maar ook leuker en uitdagender voor de leerlingen."
+  t2_subtitle2: "Computationeel denken"
+  t2_p2: "Computationeel denken is niet alleen te vinden in het programmeren van de robot, maar het komt ook duidelijk naar voren bij de problemen die leerlingen moeten oplossen tijdens het ontwerpen en bouwen van hun sociale robot. Zo ontwikkelen de leerlingen niet alleen programmeervaardigheden, maar ook belangrijke cognitieve vaardigheden die relevant zijn in verschillende disciplines."
+  t2_subtitle3: "Technische vaardigheden"
+  t2_p3: "De bouw van hun eigen sociale robot geeft leerlingen de kans om te werken met verschillende elektronische componenten en gerecycleerde materialen. Door het aanpassen en verbeteren van deze componenten en materialen, leren ze niet alleen hoe ze de robot kunnen bouwen, maar ook hoe ze deze kunnen optimaliseren."
+  t2_subtitle4: "Titel"
+  t2_p4: ""
+  title3: "Hoe begin je eraan?"
+  title3_p: "Met dit project kan je eenvoudig aan de slag. Hieronder vind je de 4 modules waarin het project is opgedeeld. Alle praktische informatie die je nodig hebt om aan de slag te gaan, vind je terug in module 0.<br><br>Onderaan deze pagina vind je een overzicht van al het downloadbare materiaal dat je in de leerpaden tegenkomt."
+  t3_subtitle1: "Titel"
+  t3_p1: ""
+  t3_subtitle2: "Titel"
+  t3_p2: ""
+  t3_subtitle3: "Titel"
+  t3_p3: ""
+  t3_subtitle4: "Titel"
+  t3_p4: ""  
 
-content_page:
-  title: Lesthema's
+project:
+  page_title: "Computationeel denken"
+  intro: "In onze steeds meer gedigitaliseerde wereld is het belangrijk dat iedereen naast rekenen, lezen en schrijven ook computationeel kan denken. Computationeel denken gaat over het vermogen om problemen op te lossen met behulp van een computer."
+  summary: "Wanneer je computationeel denkt, dan denk je na over de stappen die nodig zijn om tot een oplossing van een bepaald probleem te komen, waarna je met behulp van jouw technische kennis de computer aan het werk zet om het probleem op te lossen."
+  title1: "In de Klas"
+  t1_subtitle1: "Voor iedereen"
+  t1_p1: "Omdat computationeel denken sterk focust op probleemoplossende vaardigheden kan het aan bod komen in elk bestaand vak in het reguliere onderwijs. Het gaat dan om problemen waarvoor men de oplossing vaak gemakkelijker bekomt met behulp van een computer."
+  t1_subtitle2: "zonder en mét computer"
+  t1_p2: "Via programmeerlessen kan je heel wat concepten van computationeel denken in de praktijk omzetten. Toch kan men ook zonder computer heel wat leren over computationeel denken. Daarvoor zijn tal van interessante unplugged activiteiten mogelijk."
+  t1_subtitle3: "Nascholing"
+  t1_p3: "Met dit project helpen we lerarenopleiders en leerkrachten secundair onderwijs aan de slag via een flexibel, online leertraject met concrete lesmaterialen, geïntegreerd in STEM-projecten, en verschaffen we inzichten om computationeel denken te vertalen naar de eigen studierichting-specifieke context. <br>We tonen hoe computationeel denken op een zinvolle manier en vanuit reële contexten in de lessen kan worden geïntegreerd, zoals in praktische vakken in nijverheidsrichtingen en harde wetenschapsvakken, maar ook in talen en humane wetenschappen. <br>De innovatieve lesmaterialen zijn ingehaakt aan een eerder ontwikkelde leerlijn, <strong>AI Op School</strong>, waarin computationeel denken voor eerste, tweede en derde graad aan bod komt vanuit verschillende contexten. De nadruk ligt hierbij op een <strong>vakoverstijgende werking</strong> met aandacht voor de <strong>impact van nieuwe technologieën</strong> op onze snel veranderende maatschappij."
+  t1_subtitle4: "Optioneel"
+  t1_p4: "tekst"
+  title2: "Wat gaan ze leren?"
+  title2_p: "Tekst"
+  t2_subtitle1: "Wetenschappelijk onderzoek"
+  t2_p1: "Er is echter nog veel werk aan de winkel. Er is nog veel onzekerheid over welke concepten van computationeel denken het beste aan bod komen in het onderwijs en hoe dat dan het beste gebeurt. Ook de professionalisering van leerkrachten verdient de nodige aandacht, want ze zijn onvoldoende vertrouwd met de terminologie van computationeel denken en mogelijke manieren van aanpak, didactiek en evaluatie.<br>
+Een historisch overzicht van het ontstaan van computationeel denken (zie leerpad 'Historiek' van het project 'Computationeel denken'), de ervaringen die men in het buitenland al heeft opgebouwd in het onderwijs, en inzichten van specialisten ter zake kunnen hier de weg wijzen. Voorbeelden uit de klaspraktijk maken de aanpak van computationeel denken concreet (zie leerpad 'Cases' van het project 'Computationeel denken')."
+  t2_subtitle2: "Nieuwe terminologie"
+  t2_p2: "Het is belangrijk om leerkrachten vertrouwd te maken met de terminologie zodat ze aspecten van computationeel denken in hun eigen lesmateriaal kunnen herkennen, en hun zelfvertrouwen om les te geven over computationeel denken groeit. Daartoe is er o.a. nood aan een ruim aanbod van kwalitatief lesmateriaal (Barr & Stephenson, 2011; Bocconi et al., 2016; Yadav et al., 2017a)."
+  t2_subtitle3: "Optioneel"
+  t2_p3: "Tekst"
+  t2_subtitle4: "Optioneel"
+  t2_p4: "tekst"
+  title3: "Hoe begin je eraan?"
+  title3_p: "Tekst"
+  t3_subtitle1: "Optioneel"
+  t3_p1: "tekst"
+  t3_subtitle2: "Optioneel"
+  t3_p2: "tekst"
+  t3_subtitle3: "Optioneel"
+  t3_p3: "tekst"
+  t3_subtitle4: "Optioneel"
+  t3_p4: "tekst"
 
-# Translations for the contact page
-contact_page:
-  title: Contact
-  introduction: Wil je meer weten over hoe je met het lesmateriaal van Dwengo aan de slag kan op school? Of heb je net een keicool project uitgewerkt met je leerlingen en wil je dat delen? Laat dan zeker iets weten!
-  you_can_contact_dwengo: "Je kan Dwengo vzw contacteren:"
-  email: Via e-mail op info@dwengo.org
-  mail: "Per post:"
-  address_line_1: Dwengo vzw
-  address_line_2: Marcel Thirylaan 194
-  address_line_3: 1200 Brussel
-  country: België
-  vat_number: Dwengo vzw is in België geregistreerd onder BTW-nummer BE 0811.397.278.
 
-# Translations for the projects page
-projects_page:
-  title: "Onze projecten"
-  project_1_title: "WeGoSTEM"
-  project_1_description: 'Met <a href="https://dwengo.org/wegostem">WeGoSTEM</a> enthousiasmeren we leerlingen uit de derde graad van het basisonderwijs voor techniek en informaticawetenschappen. We dagen de kinderen uit om een creatieve kunst-robot die zelfstandig kan tekenen, te bouwen en te programmeren. Zo leren ze heel wat STEM-vaardigheden van techniek tot computationeel denken. De voorbije jaren bouwden in heel België al meer dan 20 000 kinderen hun eerste robot tijdens het WeGoSTEM-project. Ook jij kan met jouw school aan de slag dankzij het gratis lesmateriaal dat via Belgische bibliotheken verspreid wordt.'
-  project_1_contact: "Vragen? Contacteer ons via wegostem@dwengo.org. Voor bibliotheken met logistieke vragen is er een apart adres: bib@dwengo.org. De pers kan contact opnemen met Peter Bertels via peter@dwengo.org."
-  project_1_teaser: "https://www.youtube.com/embed/5zK8zEZL7rk"
-  project_2_title: "AI Op School"
-  project_2_description: 'Artificiële intelligentie (AI) komt volop aan bod in de media. Populaire thema&#39;s zijn: chatbots, zelfrijdende auto&#39;s, virtuele assistenten en het verlies aan jobs. AI-systemen dringen meer en meer onze wereld binnen. <a href="https://dwengo.org/aiopschool">AI Op School</a> is een project dat ontstaan is uit de bekommernis dat leerlingen kunstmatige (KI) of artificiële intelligentie moeten kunnen begrijpen en het besef dat er een hiaat is in het curriculum van het secundair onderwijs om hieraan tegemoet te komen. We maken lesmateriaal voor het secundair onderwijs rond AI gelinkt aan de eindtermen en de bestaande leerplandoelen. Al dit lesmateriaal is beschikbaar op onze website.'
-  project_2_contact: "Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org."
-  project_2_teaser: "https://www.youtube.com/embed/tqSnpAKLsu8"
-  project_3_title: "Internationale projecten"
-  project_3_description: "Onze grote droom is dat elke jongere, waar ook ter wereld, de kans en de mogelijkheden krijgt om een robot te bouwen en te programmeren. Hierbij is het niet de bedoeling om van elke jongere een ingenieur te maken. Wel moet elke jongere zijn of haar talent voor STEM (Science, Technology, Engineering en Mathematics) kunnen ontdekken en ontplooien. Bij Dwengo zijn we ervan overtuigd dat we de grootste innovatieve vooruitgang bereiken wanneer we erin slagen om mensen uit verschillende culturen, sociale contexten en van verschillende achtergronden samen te brengen om een probleem op te lossen. Om dit te realiseren is een basis aan wetenschappelijke en technische geletterdheid voor iedereen noodzakelijk! Via onderwijsprojecten in o.a. Argentinië, België, India, Italië, Maleisië en Zwitserland draagt Dwengo haar steentje bij. Voor al deze inspanningen viel Dwengo meerdere malen in de prijzen."
-  project_3_contact: "Interesse om een internationaal project te starten? Contacteer Francis wyffels via Francis@dwengo.org."
-  project_3_teaser: "https://www.youtube.com/embed/HP0ncKuV2-A"
-  project_4_title: "Dwenguino"
-  project_4_description: 'Een robot bouwen met leerlingen of een andere toepassing van <a href="https://dwengo.org/physicalcomputing">physical computing</a> introduceren in de klas is niet zo eenvoudig. Om het voor leerkrachten zo laagdrempelig mogelijk te maken, ontwikkelde Dwengo een eiegen microcontrollerplatform, de Dwenguino, en een grafische programmeeromgeving, DwenguinoBlockly. Zelfs zonder fysiek materiaal kan je hiermee werken. De Dwenguino is een Arduino-gebaseerd microcontrollerplatform dat heel wat elementen bevat waarmee je snel je eigen apparaat kan bouwen, zoals een sociale robot, een weerstation, een muziekinstrument of een autonoom wagentje. De Dwenguino beschikt bijvoorbeeld over drukknoppen, een lcd-scherm, een zoemer, leds en connectoren om motoren aan te sluiten. De Dwenguino is open source. Het platform wordt momenteel reeds gebruikt voor leerlingen vanaf 10 jaar tot in het hoger onderwijs. Er kan een leerlijn mee opgebouwd worden van de eerste tot de derde graad van het secundair onderwijs, van grafisch tot tekstueel programmeren, en met een stijgende moeilijkheidsgraad in toepassingen.'
-  project_4_contact: "Vragen? Contacteer ons via natacha@dwengo.org."
-  project_4_teaser: "https://www.youtube.com/embed/VpAXLlT_JP0"
-  project_5_title: "Computationeel denken"
-  project_5_description: 'Problemen zijn vaak gemakkelijker, nauwkeuriger en sneller op te lossen met behulp van een computer. Wanneer je computationeel denkt, dan denk je na over de stappen die nodig zijn om tot een oplossing van een bepaald probleem te komen, waarna je met je technische kennis de computer aan het werk zet om die stappen uit te voeren en het probleem op te lossen. <a href="https://www.dwengo.org/computationeeldenken">Computationeel denken</a> focust sterk op probleemoplossende vaardigheden en kan aan bod komen in elk vak in het reguliere onderwijs. Heel wat concepten van computationeel denken kan je praktisch benaderen in programmeerlessen. Toch kan je ook zonder computer heel wat leren over computationeel denken. Dwengo helpt leerkrachten aan plugged en unplugged activiteiten om hun leerlingen computationeel te leren denken, en wil leerkrachten vaardig maken in het herkennen van de concepten van computationeel denken in hun eigen lesmaterialen. De plugged activiteiten zetten in op physical computing (met grafisch en tekstueel programmeren) en STEM (met Python).'
-  project_5_contact: "Vragen? Contacteer ons via natacha@dwengo.org."
-  project_5_teaser: "https://youtube.com/embed/Nifa0vooyKg"
-
-# Translations for the projects page
+# Downloadables ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 curricula_page:
   title: Onze lesthema's
   read_more: Lees meer
   curricula_files: Bestanden
+
   kiks:
     title: AI en klimaat
     sub_title: KIKS
@@ -356,6 +247,7 @@ curricula_page:
         file_location: "https://www.youtube.com/watch?v=JptF3jhOV5k"
         file_icon_name: "play_arrow"
         link_name: "Kijk"
+
   socialrobot:
     title: Sociale robot
     sub_title: Robotica in de klas
@@ -433,101 +325,7 @@ curricula_page:
         file_location: "/assets/files/socialrobot/handleiding_hallo_robot.pdf"
         file_icon_name: "description"
         link_name: "Download"
-  chatbot:
-    title: Taaltechnologie
-    sub_title: Aan de slag met een chatbot
-    description: "Waar taal en technologie samenkomen, ontstaat het domein van Natural Language Processing. Kan een computer teksten begrijpen, vertalen of zelfs schrijven? Kan een computer emoties herkennen? Leerlingen uit de tweede en derde graad (SO) leren er alles over in dit pakket."
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
-    teaser: https://www.youtube.com/embed/tqSnpAKLsu8
-    curricula_files:
-      - file_title: "Projectfiche Chatbot"
-        file_info: "Dit is een kort overzicht van Chatbot-project met projectstructuur- en kenmerken."
-        file_location: "/assets/files/chatbot/projectfiche_chatbot.pdf"
-        file_icon_name: "description"
-        link_name: "Download"
-      - file_title: "BrAInfood Chatbots"
-        file_info: "In deze brAInfood - gericht naar jongeren - geeft het Kenniscentrum Data & Maatschappij meer informatie over chatbots. De brAInfood bevat een fictief verhaal over Lotte die praat met een chatbot, en vermoedelijk informatie over haar doorgeeft aan bedrijven. Verder worden enkele aandachtspunten met betrekking tot chatbots toegelicht, alsook enkele tips voor jongeren om hun (persoons)gegevens beter te beschermen. Op die manier willen we jongeren bewuster maken van de werking van chatbots en hen stimuleren te reflecteren over de gegevens die van hen worden verzameld.​"
-        file_location: "/assets/files/chatbot/Brainfood13_Chatbots_NL.pdf"
-        file_icon_name: "description"
-        link_name: "Download"
-      - file_title: "BrAInfood Gepersonaliseerde nieuwsberichten"
-        file_info: "In deze brAInfood van het Kenniscentrum Data & Maatschappij worden tips gegeven over hoe je de controle houdt over je newsfeed.​"
-        file_location: "/assets/files/chatbot/brainfoodaanbevelingnieuws.jpg"
-        file_icon_name: "description"
-        link_name: "Download"
-      - file_title: "Handleiding 'Chatbot' - Ook verkrijgbaar in gedrukte versie"
-        file_info: "​Leerkrachten verwerven via deze handleiding voldoende achtergrondinformatie om met (een deel van) het 'Chatbot'-project aan de slag te gaan in de klas. Het boek behandelt verschillende aspecten van taaltechnologie, zoals de geschiedenis van de artificiële intelligentie, de ethische aspecten ervan, sentimentanalyse en cyberpestdetectie, chatbots, sprekende digitale assistenten, en auteursherkenning. Er wordt ook ingegaan op de STEM-eindtermen en de eindtermen rond digitale competentie en mediawijsheid."
-        file_location: "/assets/files/chatbot/Chatbot_handleiding_eerstedruk.pdf"
-        file_icon_name: "description"
-        link_name: "Download"
-      - file_title: "Improbotics - Lesmap - Leerkrachtenversie"
-        file_info: "In de theatervoorstelling Improbotics improviseert een sociale robot mee in de scènes. In de lesmap vind je informatie over de gebruikte technologieën.​"
-        file_location: "/assets/files/chatbot/Improbotics_lesmap_Leerkracht.pdf"
-        file_icon_name: "description"
-        link_name: "Download"
-      - file_title: "Improbotics - Lesmap - Leerlingen"
-        file_info: "In de theatervoorstelling Improbotics improviseert een sociale robot mee in de scènes. In de lesmap vind je informatie over de gebruikte technologieën.​"
-        file_location: "/assets/files/chatbot/Improbotics_lesmap_Leerling.pdf"
-        file_icon_name: "description"
-        link_name: "Download"
-  care:
-    title: AI in de Zorg
-    sub_title: AI systemen die helpen in de zorg
-    description: "Ziekenhuizen maken vandaag al gebruik van artificiële intelligentie. Leerlingen uit de tweede en derde graad (SO) ontdekken welke systemen er bestaan en hoe ze dokters helpen om beslissingen te nemen. Zo leren leerlingen de principes van de beslissingsboom, een veelgebruikte techniek in machine learning."
-    contact: ""
-    teaser: https://www.youtube.com/embed/dO-E33G20co
-    curricula_files:
-      - file_title: "Projectfiche AI in de Zorg"
-        file_info: "Dit is een kort overzicht van project AI in de Zorg met projectstructuur- en kenmerken."
-        file_location: "/assets/files/care/projectfiche_aiindezorg.pdf"
-        file_icon_name: "description"
-        link_name: "Download"
-      - file_title: "Sprouts"
-        file_info: "Een spel ter inleiding op 'Grafen'.​"
-        file_location: "/assets/files/care/Sprouts.mov"
-        file_icon_name: "play_arrow"
-        link_name: "Download"
-      - file_title: "Uitleg bij oefeningen grafen uit de leerlingencursus"
-        file_info: "Welke figuren stellen er dezelfde graaf voor? Een meer formele werkwijze.​"
-        file_location: "/assets/files/care/dezelfdegraafFormeel.mov"
-        file_icon_name: "play_arrow"
-        link_name: "Download"
-      - file_title: "Uitleg bij oefeningen grafen uit de leerlingencursus"
-        file_info: "Welke figuren stellen er dezelfde graaf voor? Een werkwijze met kleuren.​"
-        file_location: "/assets/files/care/dezelfdeGraaf.mov"
-        file_icon_name: "play_arrow"
-        link_name: "Download"
-      - file_title: "De leerlingencursus - Finaliteit Doorstroom"
-        file_info: "Leerlingencursus"
-        file_location: "/assets/files/care/AIindeZorg_doorstroom_eerstedruk.pdf"
-        file_icon_name: "description"
-        link_name: "Download"
-      - file_title: "Kaartenset - Ook verkrijgbaar in gedrukte versie"
-        file_info: "Aan de hand van deze kaartenset kan je de leerlingen laten stilstaan bij de ethische aspecten van nieuwe technologieën. Hoe zit het met privacy? Komen de sociale contacten niet in het gedrang? Welke technologieën worden met open armen ontvangen? Wat is niet wenselijk? Zijn de nieuwe technologieën voor iedereen betaalbaar?"
-        file_location: "/assets/files/care/Kaartset_AIIndeZorg_AIOpSchool_Dwengo.pdf"
-        file_icon_name: "description"
-        link_name: "Download"
-      - file_title: "Handleiding kaartenset"
-        file_info: "Deze handleiding voorziet extra uitleg bij de kaartenset."
-        file_location: "/assets/files/care/AIIndeZorgKaartenset_UitlegVoorLeerkracht.pdf"
-        file_icon_name: "description"
-        link_name: "Download"
-      - file_title: "Beslissingsboom 'mBrAIn'-project in niet-compacte vorm"
-        file_info: "In het onderzoeksproject 'mBrain', dat de ontwikkeling van een app die een migraineaanval voorspelt, als doel heeft, werd een beslissingsboom geconstrueerd. Met deze beslissingsboom wordt een probleem van binaire classificatie aangepakt: er zijn slechts twee klassen: ‘Migraine’ en ‘Geen migraine’. (Bronnen: Femke Ongenae. (2021), UGent; Van Hoecke, S., Ongenae, F., Paemeleire, K., & Vandenbussche, N. (2020). App moet hoofdpijn voorspellen. EOS Wetenschap Special, Technologie en gezondheid, 25.) Wij hebben de vorm van deze beslissingsboom omgevormd tot een binaire beslissingsboom om aan te tonen dat deze vorm niet altijd gebruiksvriendelijk is. Voor meer uitleg zie hoofdstuk 4 van de leerlingencursus van dit project.​"
-        file_location: "/assets/files/care/MBrainBeslissingsboom.png"
-        file_icon_name: "description"
-        link_name: "Download"
-      - file_title: "Zoektocht naar spraak - Computationeel denken (unplugged activiteit)"
-        file_info: "Het locked-in syndroom is een van de ergste medische aandoeningen. Je bent volledig verlamd, behalve dat je misschien nog kunt knipperen met een oog. Je intelligente geest zit opgesloten in een nutteloos lichaam: je kan alles voelen, maar niet communiceren. Het kan iedereen overkomen, uit het niets, als gevolg van een beroerte. Als je mensen met het locked-in syndroom zou willen helpen, word je dan best arts of verpleegkundige? Of kan je als computerwetenschapper ook helpen?​"
-        file_location: "/assets/files/care/ZoektochtNaarSpraak.pdf"
-        file_icon_name: "description"
-        link_name: "Download"
-  stem:
-    title: Python in STEM
-    sub_title: Datavisualisaties met Python
-    description: "In dit pakket leer je complexe problemen eenvoudiger én sneller aanpakken met de programmeertaal Python. Programmeren kan immers een verbindende rol spelen tussen wetenschap, techniek, ontwerp en toegepaste wiskunde. Kortom, dankzij Python halen we het beste uit STEM."
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
-    teaser: https://www.youtube.com/embed/tqSnpAKLsu8
+
   agriculture:
     title: AI in de Landbouw
     sub_title: AI in de landbouw
@@ -540,18 +338,21 @@ curricula_page:
         file_location: "/assets/files/art/Transportband_InnoVET_RCH.zip"
         file_icon_name: "description"
         link_name: "Download"
+
   art:
     title: AI in de Kunst
     sub_title: Tekenrobots in de klas
     description: "Kunnen we kunst maken met artificiële intelligentie? Leerlingen uit de tweede en derde graad (SO) leven zich creatief uit met AI en reflecteren over het resultaat. Is dit kunst? Ook ontdekken ze hoe AI ons cultureel erfgoed kan beschermen."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
+
   wegostem:
     title: WeGoSTEM
     sub_title: Tekenrobots in de klas
     description: "We dagen kinderen van de derde graad (BO) uit om een kunstrobot die kan tekenen te programmeren. Spelenderwijs leren de kinderen heel wat STEM-vaardigheden, van techniek tot computationeel denken."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8
+
   computational_thinking:
     title: Computationeel denken
     sub_title: Computationeel denken in de klas
@@ -609,18 +410,119 @@ curricula_page:
         file_location: "/assets/files/computational_thinking/ZoektochtNaarSpraak.pdf"
         file_icon_name: "description"
         link_name: "Download"
+
   math_with_python:
     title: Python in de Wiskundeles
     sub_title: Python in wiskunde
     description: "De programmeertaal Python biedt toffe mogelijkheden om de wiskundeles te verrijken. Van de stelling van Pythagoras tot de opmaak van eigen grafieken, digitale beeldverwerking en lineaire regressie, alles wordt duidelijker met Python."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
+
   python_programming:
     title: Programmeren met Python
     sub_title: Basis programmeren in Python
     description: "De basisprincipes van programmeren aanleren? Dat kan perfect via dit pakket. We gaan aan de slag met Python en leren alles over sequenties, herhalingsstructuur en keuzestructuur. Dat is precies wat er in de eindtermen staat. En meer!"
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8
+
+  stem:
+    title: Python in STEM
+    sub_title: Datavisualisaties met Python
+    description: "In dit pakket leer je complexe problemen eenvoudiger én sneller aanpakken met de programmeertaal Python. Programmeren kan immers een verbindende rol spelen tussen wetenschap, techniek, ontwerp en toegepaste wiskunde. Kortom, dankzij Python halen we het beste uit STEM."
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8
+
+  care:
+    title: AI in de Zorg
+    sub_title: AI systemen die helpen in de zorg
+    description: "Ziekenhuizen maken vandaag al gebruik van artificiële intelligentie. Leerlingen uit de tweede en derde graad (SO) ontdekken welke systemen er bestaan en hoe ze dokters helpen om beslissingen te nemen. Zo leren leerlingen de principes van de beslissingsboom, een veelgebruikte techniek in machine learning."
+    contact: ""
+    teaser: https://www.youtube.com/embed/dO-E33G20co
+    curricula_files:
+      - file_title: "Projectfiche AI in de Zorg"
+        file_info: "Dit is een kort overzicht van project AI in de Zorg met projectstructuur- en kenmerken."
+        file_location: "/assets/files/care/projectfiche_aiindezorg.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Sprouts"
+        file_info: "Een spel ter inleiding op 'Grafen'.​"
+        file_location: "/assets/files/care/Sprouts.mov"
+        file_icon_name: "play_arrow"
+        link_name: "Download"
+      - file_title: "Uitleg bij oefeningen grafen uit de leerlingencursus"
+        file_info: "Welke figuren stellen er dezelfde graaf voor? Een meer formele werkwijze.​"
+        file_location: "/assets/files/care/dezelfdegraafFormeel.mov"
+        file_icon_name: "play_arrow"
+        link_name: "Download"
+      - file_title: "Uitleg bij oefeningen grafen uit de leerlingencursus"
+        file_info: "Welke figuren stellen er dezelfde graaf voor? Een werkwijze met kleuren.​"
+        file_location: "/assets/files/care/dezelfdeGraaf.mov"
+        file_icon_name: "play_arrow"
+        link_name: "Download"
+      - file_title: "De leerlingencursus - Finaliteit Doorstroom"
+        file_info: "Leerlingencursus"
+        file_location: "/assets/files/care/AIindeZorg_doorstroom_eerstedruk.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Kaartenset - Ook verkrijgbaar in gedrukte versie"
+        file_info: "Aan de hand van deze kaartenset kan je de leerlingen laten stilstaan bij de ethische aspecten van nieuwe technologieën. Hoe zit het met privacy? Komen de sociale contacten niet in het gedrang? Welke technologieën worden met open armen ontvangen? Wat is niet wenselijk? Zijn de nieuwe technologieën voor iedereen betaalbaar?"
+        file_location: "/assets/files/care/Kaartset_AIIndeZorg_AIOpSchool_Dwengo.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Handleiding kaartenset"
+        file_info: "Deze handleiding voorziet extra uitleg bij de kaartenset."
+        file_location: "/assets/files/care/AIIndeZorgKaartenset_UitlegVoorLeerkracht.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Beslissingsboom 'mBrAIn'-project in niet-compacte vorm"
+        file_info: "In het onderzoeksproject 'mBrain', dat de ontwikkeling van een app die een migraineaanval voorspelt, als doel heeft, werd een beslissingsboom geconstrueerd. Met deze beslissingsboom wordt een probleem van binaire classificatie aangepakt: er zijn slechts twee klassen: ‘Migraine’ en ‘Geen migraine’. (Bronnen: Femke Ongenae. (2021), UGent; Van Hoecke, S., Ongenae, F., Paemeleire, K., & Vandenbussche, N. (2020). App moet hoofdpijn voorspellen. EOS Wetenschap Special, Technologie en gezondheid, 25.) Wij hebben de vorm van deze beslissingsboom omgevormd tot een binaire beslissingsboom om aan te tonen dat deze vorm niet altijd gebruiksvriendelijk is. Voor meer uitleg zie hoofdstuk 4 van de leerlingencursus van dit project.​"
+        file_location: "/assets/files/care/MBrainBeslissingsboom.png"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Zoektocht naar spraak - Computationeel denken (unplugged activiteit)"
+        file_info: "Het locked-in syndroom is een van de ergste medische aandoeningen. Je bent volledig verlamd, behalve dat je misschien nog kunt knipperen met een oog. Je intelligente geest zit opgesloten in een nutteloos lichaam: je kan alles voelen, maar niet communiceren. Het kan iedereen overkomen, uit het niets, als gevolg van een beroerte. Als je mensen met het locked-in syndroom zou willen helpen, word je dan best arts of verpleegkundige? Of kan je als computerwetenschapper ook helpen?​"
+        file_location: "/assets/files/care/ZoektochtNaarSpraak.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+
+  chatbot:
+    title: Taaltechnologie
+    sub_title: Aan de slag met een chatbot
+    description: "Waar taal en technologie samenkomen, ontstaat het domein van Natural Language Processing. Kan een computer teksten begrijpen, vertalen of zelfs schrijven? Kan een computer emoties herkennen? Leerlingen uit de tweede en derde graad (SO) leren er alles over in dit pakket."
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8
+    curricula_files:
+      - file_title: "Projectfiche Chatbot"
+        file_info: "Dit is een kort overzicht van Chatbot-project met projectstructuur- en kenmerken."
+        file_location: "/assets/files/chatbot/projectfiche_chatbot.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "BrAInfood Chatbots"
+        file_info: "In deze brAInfood - gericht naar jongeren - geeft het Kenniscentrum Data & Maatschappij meer informatie over chatbots. De brAInfood bevat een fictief verhaal over Lotte die praat met een chatbot, en vermoedelijk informatie over haar doorgeeft aan bedrijven. Verder worden enkele aandachtspunten met betrekking tot chatbots toegelicht, alsook enkele tips voor jongeren om hun (persoons)gegevens beter te beschermen. Op die manier willen we jongeren bewuster maken van de werking van chatbots en hen stimuleren te reflecteren over de gegevens die van hen worden verzameld.​"
+        file_location: "/assets/files/chatbot/Brainfood13_Chatbots_NL.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "BrAInfood Gepersonaliseerde nieuwsberichten"
+        file_info: "In deze brAInfood van het Kenniscentrum Data & Maatschappij worden tips gegeven over hoe je de controle houdt over je newsfeed.​"
+        file_location: "/assets/files/chatbot/brainfoodaanbevelingnieuws.jpg"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Handleiding 'Chatbot' - Ook verkrijgbaar in gedrukte versie"
+        file_info: "​Leerkrachten verwerven via deze handleiding voldoende achtergrondinformatie om met (een deel van) het 'Chatbot'-project aan de slag te gaan in de klas. Het boek behandelt verschillende aspecten van taaltechnologie, zoals de geschiedenis van de artificiële intelligentie, de ethische aspecten ervan, sentimentanalyse en cyberpestdetectie, chatbots, sprekende digitale assistenten, en auteursherkenning. Er wordt ook ingegaan op de STEM-eindtermen en de eindtermen rond digitale competentie en mediawijsheid."
+        file_location: "/assets/files/chatbot/Chatbot_handleiding_eerstedruk.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Improbotics - Lesmap - Leerkrachtenversie"
+        file_info: "In de theatervoorstelling Improbotics improviseert een sociale robot mee in de scènes. In de lesmap vind je informatie over de gebruikte technologieën.​"
+        file_location: "/assets/files/chatbot/Improbotics_lesmap_Leerkracht.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Improbotics - Lesmap - Leerlingen"
+        file_info: "In de theatervoorstelling Improbotics improviseert een sociale robot mee in de scènes. In de lesmap vind je informatie over de gebruikte technologieën.​"
+        file_location: "/assets/files/chatbot/Improbotics_lesmap_Leerling.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+
   physical_computing:
     title: Physical computing
     sub_title: Programmeer robots in de klas
@@ -628,7 +530,126 @@ curricula_page:
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8
 
-# Translations for the learning-path page
+
+# Projects, varia & temp ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+privacy: 
+  detail: "Bij dwengo vinden we transparantie erg belangrijk. We willen onze gebruikers dan ook graag informeren over welke data we verzamelen en waarom we dat doen. We maken gebruik van de analytics tool Matomo, die lokaal gehost wordt op een server in België. Dit betekent dat we 100% eigenaar zijn van de data en deze niet delen met derden. Deze data is volledig anoniem, er worden geen persoonsgegevens aan gekoppeld.<br><br>
+We houden bij welke pagina's u bezoekt op onze website en hoe lang u op deze pagina blijft. Dit helpt ons om te begrijpen welke inhouden u interessant vindt. Aan de hand van die informatie kunnen we onze website verbeteren. We houden ook bij hoe u onze website gevonden heeft, bijvoorbeeld via een zoekmachine, een ander platform of via een directe link. Dit helpt ons om te begrijpen via welke van onze partners u op onze website terechtgekomen bent. We houden ook bij op welke uitgaande links u klikt. Dit geeft ons inzicht in welke externe bronnen u interessant vindt en helpt ons om onze content te verbeteren.<br><br>
+Verder houden we bij welk besturingssysteem, welk apparaat en welke browser u gebruikt om onze website te bezoeken. Dit helpt ons om onze website te optimaliseren voor verschillende apparaten en om eventuele technische problemen op te sporen.<br><br>
+Daarnaast houden we bij uit welk land u onze website bezoekt. Dit is belangrijke informatie voor ons om te begrijpen waar ons publiek vandaan komt en om onze website te optimaliseren voor verschillende regio's.<br><br>
+We gebruiken deze gegevens uitsluitend voor interne analyse en om onze website te verbeteren. We delen deze gegevens niet met derden en behandelen uw privacy met de grootste zorg. Als u nog vragen heeft over ons privacybeleid, neem dan gerust contact met ons op via dpo@dwengo.org<br><br>"
+  notice: Wij gebruiken functionele cookies om informatie bij te houden over het gebruik van onze website.
+  accept: Akkoord
+  info: Meer informatie
+
+aiopschool:
+  intro_title: "AI Op School"
+  paragraph1: "
+  Artificiële intelligentie (AI) komt volop aan bod in de media. 
+  Populaire thema’s zijn: chatbots, zelfrijdende auto’s, virtuele assistenten en het verlies aan jobs. 
+  AI-systemen dringen meer en meer onze wereld binnen.
+  "
+  paragraph2: "
+  AI Op School is een project dat ontstaan is uit de bekommernis dat leerlingen kunstmatige (KI) of artificiële intelligentie moeten kunnen begrijpen en het besef dat er een hiaat is in het curriculum van het secundair onderwijs om hieraan tegemoet te komen. We maken lesmateriaal voor het secundair onderwijs rond AI gelinkt aan de eindtermen en de bestaande leerplandoelen.
+  "
+  banner_info: "
+  AI Op School is een project van dwengo vzw. 
+  Binnen het project ontwikkelden we zowel het lesmateriaal als de nodige tools om in de klas aan de slag te gaan met machinaal leren en artificiële intelligentie.
+  Alle lesinhouden die beschikbaar waren op aiopschool.be (<a href='/content/'>en nog veel meer</a>) zijn nu beschikbaar op <a href='/'>dwengo.org</a>"
+  subtitle1: "AI"
+  subtitle1p1: "AI is een tak binnen de computerwetenschappen. Een definitie geven voor AI, iets dat in zoveel verschillende domeinen wordt ingezet, is geen sinecure. Binnen AI onderscheidt men kennisgebaseerde en datagebaseerde systemen. De chatbot Eliza en de schaakcomputer Deep Blue zijn voorbeelden van kennisgebaseerde systemen. De regels die de computer volgt, zijn zorgvuldig geprogrammeerd. Gezichtsherkenning is een voorbeeld van een datagebaseerd systeem. Dit systeem heeft geleerd: gebaseerd op de gegeven data heeft het zelf de parameters in het geprogrammeerde algoritme aangepast. Men spreekt ook van machine learning."
+  subtitle2p2: "Men maakt een onderscheid tussen general AI en narrow AI. Bij general AI gaat het over computersystemen met dezelfde capaciteiten als een mens. We hebben vooralsnog niet de kennis om dergelijke systemen te ontwerpen. Voorlopig zit AI nog maar op het niveau van de narrow AI: AI-systemen die de specifieke taken doen waarvoor ze ontworpen werden."
+  subtitle2: "Op school"
+  subtitle2p1: "Als leerlingen surfen op het internet, foto’s posten op Instagram, gebruikmaken van Google docs, een e-mail laten versturen door een virtuele assistent zoals Siri of wandelen door de stad, worden er data gecapteerd. Wat als een AI-systeem al die big data met elkaar in verband brengt? Zijn die AI-systemen wel objectief als ze beslissingen nemen? Moeten leerlingen die het secundair onderwijs verlaten geen inzicht hebben in onze gedigitaliseerde wereld? Is dit inzicht niet noodzakelijk om in hun volwassen leven gefundeerde beslissingen te kunnen nemen? Het ‘AI op School’-team vindt van wel. We maken lesmateriaal voor het secundair onderwijs rond AI gelinkt aan de eindtermen en de bestaande leerplandoelen. We vinden dat alle jongeren de fundamenten van AI moeten kennen en begrijpen. De beste manier om alle jongeren te bereiken is via de school. Bovendien is de school de uitgelezen plaats om leerlingen attent te maken op de ethische aspecten van AI-systemen."
+
+learning_paths:
+  title: Ons leermateriaal
+  search_title: Ons leermateriaal doorzoeken
+  filter_placeholder: Zoek
+  error_message: Er zijn geen leerpaden beschikbaar met uw voorkeuren.
+  loading_message: Aan het laden...
+  age: Leeftijd
+
+congres:
+  intro_title: "Congres Computationeel denken, STEM en artificiële intelligentie in de klas"
+  paragraph1: "Datum: 7 juni 2023<br>Locatie: De Krook, Miriam Makebaplein 1, 9000 Gent"
+  paragraph2: ""
+  paragraph3: ""
+
+
+# About page ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+about_page:
+  title: Over
+  who: Over ons
+  changing_the_future: De toekomst van STEM veranderen
+  changing_the_future_body: Dwengo ontwikkelt didactisch materiaal waarmee wereldwijd vrijwilligers en leerkrachten aan de slag gaan om jongeren wegwijs te maken in wetenschappen en technologie. Via didactische projecten over onder meer computationeel denken, artificiële intelligentie, robotica en wiskunde bereiken we jaarlijks honderden leerkrachten en vrijwilligers, en ook duizenden leerlingen over de hele wereld. In al onze projecten hebben we bijzondere aandacht voor kansengroepen en meisjes. Bovendien is al ons materiaal open source zodat je het kunt aanpassen naargelang de noden in jouw klas of project.
+  our_history: Onze geschiedenis
+  our_history_body: Dwengo is een vzw, opgericht in 2009 door zes Belgische ingenieurs. Door middel van online handleidingen, ondersteuning en hands-on workshops begon Dwengo scholen in België te benaderen. Vandaag heeft Dwengo activiteiten over de hele wereld. Om zoveel mogelijk kansengroepen te bereiken, werkt Dwengo steeds samen met lokale gemeenschappen om nieuwe projecten op te starten.
+  vision: Onze visie
+  vision_subtitle: De wonderen van robotica en AI ontsluieren
+  vision_body: "Door samen te werken met leerkrachten en vrijwilligers over de hele wereld en door middel van train-de-trainersessies stellen we hen in staat onze hands-on workshops naar de leerlingen en de studenten te brengen. Onze belangrijkste doelen zijn: "
+  vision_list_1: "De impact meten: opvolgen van het aantal deelnemers en de duurzaamheid van het project"
+  vision_list_2: De uitdagingen van STEM-onderwijs in kaart brengen en hoe ze te overwinnen
+  vision_list_3: Kennisoverdracht naar kansengroepen
+  vision_list_4: Het opzetten van een nieuwe wereldwijde duurzame gemeenschap van leerkrachten en vrijwilligers
+  vision_list_5: Meerdere culturen samenbrengen door een jaarlijkse robotweek te organiseren
+  mission: Met de steun van industrie, overheden en vrijwilligers kunnen we wereldwijd jongeren in verwondering brengen voor wetenschappen en technologie
+  mission_subtitle: De wonderen van robotica en AI ontsluieren
+  mission_column_1: CONTINENTEN
+  mission_column_2: KINDEREN BEREIKT ELK JAAR
+  mission_column_3: VRIJWILLIGERS
+  mission_column_4: VRIJWILLIG
+  commitment: Onze verbintenissen
+  commitment_column_1: Kennis delen en samenwerking
+  commitment_column_2: Internationale focus met projecten op 4 continenten
+  commitment_column_3: Voor kinderen vanaf 8 jaar tot universiteitsstudenten
+  commitment_column_4: Al onze software en documentatie zijn open source
+  team: team
+
+content_page:
+  title: Lesthema's
+
+
+# Contact page ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+contact_page:
+  title: Contact
+  introduction: Wil je meer weten over hoe je met het lesmateriaal van Dwengo aan de slag kan op school? Of heb je net een keicool project uitgewerkt met je leerlingen en wil je dat delen? Laat dan zeker iets weten!
+  you_can_contact_dwengo: "Je kan Dwengo vzw contacteren:"
+  email: Via e-mail op info@dwengo.org
+  mail: "Per post:"
+  address_line_1: Dwengo vzw
+  address_line_2: Marcel Thirylaan 194
+  address_line_3: 1200 Brussel
+  country: België
+  vat_number: Dwengo vzw is in België geregistreerd onder BTW-nummer BE 0811.397.278.
+
+
+# Projects page ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+projects_page:
+  title: "Onze projecten"
+  project_1_title: "WeGoSTEM"
+  project_1_description: 'Met <a href="https://dwengo.org/wegostem">WeGoSTEM</a> enthousiasmeren we leerlingen uit de derde graad van het basisonderwijs voor techniek en informaticawetenschappen. We dagen de kinderen uit om een creatieve kunst-robot die zelfstandig kan tekenen, te bouwen en te programmeren. Zo leren ze heel wat STEM-vaardigheden van techniek tot computationeel denken. De voorbije jaren bouwden in heel België al meer dan 20 000 kinderen hun eerste robot tijdens het WeGoSTEM-project. Ook jij kan met jouw school aan de slag dankzij het gratis lesmateriaal dat via Belgische bibliotheken verspreid wordt.'
+  project_1_contact: "Vragen? Contacteer ons via wegostem@dwengo.org. Voor bibliotheken met logistieke vragen is er een apart adres: bib@dwengo.org. De pers kan contact opnemen met Peter Bertels via peter@dwengo.org."
+  project_1_teaser: "https://www.youtube.com/embed/5zK8zEZL7rk"
+  project_2_title: "AI Op School"
+  project_2_description: 'Artificiële intelligentie (AI) komt volop aan bod in de media. Populaire thema&#39;s zijn: chatbots, zelfrijdende auto&#39;s, virtuele assistenten en het verlies aan jobs. AI-systemen dringen meer en meer onze wereld binnen. <a href="https://dwengo.org/aiopschool">AI Op School</a> is een project dat ontstaan is uit de bekommernis dat leerlingen kunstmatige (KI) of artificiële intelligentie moeten kunnen begrijpen en het besef dat er een hiaat is in het curriculum van het secundair onderwijs om hieraan tegemoet te komen. We maken lesmateriaal voor het secundair onderwijs rond AI gelinkt aan de eindtermen en de bestaande leerplandoelen. Al dit lesmateriaal is beschikbaar op onze website.'
+  project_2_contact: "Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org."
+  project_2_teaser: "https://www.youtube.com/embed/tqSnpAKLsu8"
+  project_3_title: "Internationale projecten"
+  project_3_description: "Onze grote droom is dat elke jongere, waar ook ter wereld, de kans en de mogelijkheden krijgt om een robot te bouwen en te programmeren. Hierbij is het niet de bedoeling om van elke jongere een ingenieur te maken. Wel moet elke jongere zijn of haar talent voor STEM (Science, Technology, Engineering en Mathematics) kunnen ontdekken en ontplooien. Bij Dwengo zijn we ervan overtuigd dat we de grootste innovatieve vooruitgang bereiken wanneer we erin slagen om mensen uit verschillende culturen, sociale contexten en van verschillende achtergronden samen te brengen om een probleem op te lossen. Om dit te realiseren is een basis aan wetenschappelijke en technische geletterdheid voor iedereen noodzakelijk! Via onderwijsprojecten in o.a. Argentinië, België, India, Italië, Maleisië en Zwitserland draagt Dwengo haar steentje bij. Voor al deze inspanningen viel Dwengo meerdere malen in de prijzen."
+  project_3_contact: "Interesse om een internationaal project te starten? Contacteer Francis wyffels via Francis@dwengo.org."
+  project_3_teaser: "https://www.youtube.com/embed/HP0ncKuV2-A"
+  project_4_title: "Dwenguino"
+  project_4_description: 'Een robot bouwen met leerlingen of een andere toepassing van <a href="https://dwengo.org/physicalcomputing">physical computing</a> introduceren in de klas is niet zo eenvoudig. Om het voor leerkrachten zo laagdrempelig mogelijk te maken, ontwikkelde Dwengo een eiegen microcontrollerplatform, de Dwenguino, en een grafische programmeeromgeving, DwenguinoBlockly. Zelfs zonder fysiek materiaal kan je hiermee werken. De Dwenguino is een Arduino-gebaseerd microcontrollerplatform dat heel wat elementen bevat waarmee je snel je eigen apparaat kan bouwen, zoals een sociale robot, een weerstation, een muziekinstrument of een autonoom wagentje. De Dwenguino beschikt bijvoorbeeld over drukknoppen, een lcd-scherm, een zoemer, leds en connectoren om motoren aan te sluiten. De Dwenguino is open source. Het platform wordt momenteel reeds gebruikt voor leerlingen vanaf 10 jaar tot in het hoger onderwijs. Er kan een leerlijn mee opgebouwd worden van de eerste tot de derde graad van het secundair onderwijs, van grafisch tot tekstueel programmeren, en met een stijgende moeilijkheidsgraad in toepassingen.'
+  project_4_contact: "Vragen? Contacteer ons via natacha@dwengo.org."
+  project_4_teaser: "https://www.youtube.com/embed/VpAXLlT_JP0"
+  project_5_title: "Computationeel denken"
+  project_5_description: 'Problemen zijn vaak gemakkelijker, nauwkeuriger en sneller op te lossen met behulp van een computer. Wanneer je computationeel denkt, dan denk je na over de stappen die nodig zijn om tot een oplossing van een bepaald probleem te komen, waarna je met je technische kennis de computer aan het werk zet om die stappen uit te voeren en het probleem op te lossen. <a href="https://www.dwengo.org/computationeeldenken">Computationeel denken</a> focust sterk op probleemoplossende vaardigheden en kan aan bod komen in elk vak in het reguliere onderwijs. Heel wat concepten van computationeel denken kan je praktisch benaderen in programmeerlessen. Toch kan je ook zonder computer heel wat leren over computationeel denken. Dwengo helpt leerkrachten aan plugged en unplugged activiteiten om hun leerlingen computationeel te leren denken, en wil leerkrachten vaardig maken in het herkennen van de concepten van computationeel denken in hun eigen lesmaterialen. De plugged activiteiten zetten in op physical computing (met grafisch en tekstueel programmeren) en STEM (met Python).'
+  project_5_contact: "Vragen? Contacteer ons via natacha@dwengo.org."
+  project_5_teaser: "https://youtube.com/embed/Nifa0vooyKg"
+
+
+# Translations for the learning-path page ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 learning_path_page:
   title: Leerpad
   btn_next: Volgende
@@ -677,7 +698,8 @@ footer:
   country: België
   vat_number: BE 0811.397.278
 
-# Keywords show below the search bar
+
+# Keywords show below the search bar ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 keywords:
   python: Python
   stem: STEM
@@ -778,7 +800,8 @@ shop:
       price: "€30 excl. 6% BTW"
       price_extra_info: ""
 
-# Translations for the menu items
+
+# Translations for the menu items ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 about: Over
 contact: Contact
 projects: Projecten
