@@ -1,5 +1,5 @@
 ---
-title: "Inspiratiedag AI op school"
+title: "VOLZET - Inspiratiedag AI op school"
 date: 2023-10-10T09:00:00
 end_date: 2023-10-10T15:30:00
 item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
