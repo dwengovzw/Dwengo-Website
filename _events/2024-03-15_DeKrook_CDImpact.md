@@ -21,6 +21,10 @@ Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op [ww
 
 Het specifieke leerpad betreffende de impact van computationeel denken kan je ook rechtstreeks bereiken via de volgende link: [Leerpad Impact](https://www.dwengo.org/learning-path.html?hruid=ct9_impact&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct9_0;nl;3 "Leerpad Impact").
 
+**Doelgroep:**<br>
+Leerkrachten 2de graad (alle finaliteiten)<br>
+Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor en educatieve master).
+
 **Wanneer:** 15 maart 2024 van 13u00-16u00<br>
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>
 **Organisatie:** Dwengo vzw
