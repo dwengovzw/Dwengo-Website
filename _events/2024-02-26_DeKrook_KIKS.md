@@ -11,6 +11,10 @@ language: "nl"
 
 Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op [www.dwengo.org/kiks](https://www.dwengo.org/kiks "KIKS").
 
+**Doelgroep:**<br>
+Leerkrachten wiskunde, wetenschappen en STEM 2de en 3de graad doorstroom en dubbele finaliteit.<br>
+Lerarenopleiders wiskunde, wetenschappen en STEM voor leerkrachten secundair onderwijs (professionele bachelor en educatieve master).
+
 **Wanneer:**<br>
 Deel 1: 26 februari 2024 van 13u30-16u30 <br>
 Deel 2: 12 maart 2024 an 13u30-16u30 <br>
