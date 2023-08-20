@@ -15,6 +15,10 @@ In deze hands-on workshop maak je kennis met de interactieve notebooks die je na
 
 Het lesmateriaal staat gratis ter beschikking op dwengo.org/wiskunde en dwengo.org/stem
 
+**Doelgroep:**<br>
+Leerkrachten wiskunde, wetenschappen en STEM.<br>
+Lerarenopleiders wiskunde, wetenschappen en STEM voor leerkrachten secundair onderwijs (professionele bachelor en EduMa).
+
 Organisatie: CNO
 
 - [Inschrijven voor deze nascholing op 9 november 2023, 13:30 - 16:30](https://cno.uantwerpen.be/nl/opleiding/python-in-de-wiskundeles-spreidingsdiagram-en-trendlijn-met-python-79386?filter=)
