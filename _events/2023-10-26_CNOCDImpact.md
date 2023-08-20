@@ -21,4 +21,8 @@ Je past concepten van computationeel denken toe op een digitaal systeem om de we
 
 Je gaat hier ook zelf mee aan de slag.
 
+**Doelgroep:**<br>
+Leerkrachten 2de graad (alle finaliteiten)<br>
+Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor en educatieve master).
+
 Organisatie: CNO
