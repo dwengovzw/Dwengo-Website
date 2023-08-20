@@ -13,6 +13,10 @@ Artificieel intelligente systemen op basis van beslissingsbomen worden omwille v
 In dit STEM-project onderzoeken leerlingen hoe zo'n beslissingsboom tot stand komt, gebruikmakend van een tweedegraadsfunctie en een algoritme dat ze zelf opstellen (met hulp van de leerkracht). Ze gebruiken het algoritme op papier om zelf een beslissingsboom op te stellen op basis van weinig data en vervolgens gebruiken ze Python om het aan de computer over te laten op basis van veel data.
 Een beslissingsboom is een type graaf, een algemen inleiding tot de grafentheorie kan dus passen binnen dit project.
 
+**Doelgroep:** <br>
+Leerkrachten wiskunde, wetenschappen en STEM van het 4de jaar en de 3de graad (doorstroom en dubbele finaliteit). <br>
+Lerarenopleiders wiskunde, wetenschappen en STEM voor leerkrachten secundair onderwijs (professionele bachelor en EduMa).<br>
+
 Organisatie: CNO
 
 - [Inschrijven voor deze nascholing op 20 februari 2024, 09:30 - 16:30](https://cno.uantwerpen.be/nl/opleiding/artificiele-intelligentie-in-de-zorg-een-stem-project-met-een-belangrijke-rol-voor-wiskunde-en-informaticawetenschappen-79222?filter=)
