@@ -17,15 +17,14 @@ partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/
 learning_paths: ['ct1_concepten', 'ct2_concreet', 'ct3_voorbeelden', 'ct6_cases', 'ct9_impact', 'ct10_bebras', 'ct8_eindtermen', 'ct7_historiek', 'ct5_kijkwijzer', 'ct4_evaluatiekader']
 ---
 
-{% capture intro_title %} {{ site.translations[site.lang].computational_thinking.intro_title }} {% endcapture %}
-{% capture paragraph1 %} {{ site.translations[site.lang].computational_thinking.paragraph1 }} {% endcapture %}
-{% capture paragraph2 %} {{ site.translations[site.lang].computational_thinking.paragraph2 }} {% endcapture %}
+{% capture page_title %} {{ site.translations[site.lang].computational_thinking.page_title }} {% endcapture %}
+{% capture intro %} {{ site.translations[site.lang].computational_thinking.intro }} {% endcapture %}
+{% capture summary %} {{ site.translations[site.lang].computational_thinking.summary }} {% endcapture %}
 
-
-{%- include frontpage_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
-intro_title=intro_title
-paragraph1=paragraph1
-paragraph2=paragraph2
+{%- include project_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
+page_title=page_title
+intro=intro
+summary=summary
 -%}
 
 {%- include computational_thinking_extra_info.html -%}
