@@ -16,4 +16,4 @@ Er zijn workshops voor leerkrachten van het kleuter-, lager en secundair onderwi
 
 Organisatie: UHasselt, PXL-Education, Provincie Limburg en de Associatie Universiteit-Hogeschool Limburg
 
-[Meer info en inschrijven](https://www.stemportaallimburg.be/vormingsprogramma)
+[Meer info en inschrijven](https://www.stemportaallimburg.be/steminspiratiedag)
