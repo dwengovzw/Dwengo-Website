@@ -21,6 +21,6 @@ Tegelijkertijd belicht de lezing de potentiële risico's voor mens en planeet, w
 Door de kansen en uitdagingen van deze geavanceerde technologie in balans te brengen, kunnen we streven naar een 
 positieve en verantwoorde toekomst, en de komst van een nieuwe 'AI-winter' voorkomen.
 
-[Lees meer (pdf) >](https://dwengo.org/assets/files/dwengo/flyerAIgoodbadugly.pdf)
+[Lees meer (pdf) >](/assets/files/dwengo/flyerAIgoodbadugly.pdf)
 
 [Inschrijven](https://keynote.eventgoose.com/)
