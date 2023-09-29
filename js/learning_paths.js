@@ -187,11 +187,16 @@ function loadObjectContent(hruid, language, version) {
             // Must be with the jquery .html() function! 
             // => This function evaluates the javascript in the <script> tags, normal JS (document.getElementbyId) does not.
             $("#lo_content").html(this.response);
+            let newContent = document.getElementById("lo_content")
             if (window.MathJax) {
-                let newContent = document.getElementById("lo_content")
                 MathJax.typesetPromise([newContent]).then(() => {
                     console.log("MathJax typeset complete")
                 }).catch((err) => console.log(err.message))
+            }
+            if (Prism){
+                Prism.highlightAllUnder(newContent, true, () => {
+                    console.log("Prism highlight complete")
+                })
             }
         }
     };
