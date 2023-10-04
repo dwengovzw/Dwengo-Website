@@ -1,11 +1,12 @@
 ---
-title: "Save the date - De impact van digitale systemen op de maatschappij"
+title: "De impact van digitale systemen op de maatschappij"
 date: 2024-03-15T13:00:00
 end_date: 2024-03-15T16:00:00
 item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
 location: "De Krook, Miriam Makebaplein 1, 9000 Gent"
 location_link: "https://www.google.be/maps/place/De+Krook/@51.0486039,3.7264986,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3714effffffff:0x9b1a2c7f1cb8c825!8m2!3d51.0486039!4d3.7286873!16s%2Fg%2F1hc0gcm5l"
 language: "nl"
+registration_link: "https://www.eventbrite.com/e/tickets-de-impact-van-digitale-systemen-op-de-maatschappij-731763252587"
 ---
 Bij dit nieuwe minimumdoel komt heel wat kijken. Leerlingen hebben de basisconcepten van computationeel denken leren kennen in de eerste graad en moeten deze nu in een nieuwe context gaan toepassen om de werking van een digitaal systeem te begrijpen en zo goed te kunnen inschatten welke impact zo’n systeem op de maatschappij kan hebben.
 
@@ -28,5 +29,3 @@ Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor e
 **Wanneer:** 15 maart 2024 van 13u00-16u00<br>
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>
 **Organisatie:** Dwengo vzw
-
-- De inschrijvingslink volgt.

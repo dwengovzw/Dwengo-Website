@@ -1,5 +1,5 @@
 ---
-title: "Save the date - Kunstmatige Intelligentie, Klimaatverandering, Stomata: KIKS"
+title: "Kunstmatige Intelligentie, Klimaatverandering, Stomata: KIKS"
 date: 2024-02-26T13:30:00
 end_date: 2024-03-12T16:30:00
 item_theme_logo_url: "/images/curricula/logo_kiks.png"
@@ -26,4 +26,10 @@ Deel 2: 12 maart 2024 an 13u30-16u30 <br>
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>
 **Organisatie:** Dwengo vzw
 
-- De inschrijvingslink volgt.
+**Inschrijven:**
+
+We raden aan om je voor de twee sessies in te schrijven om zo voldoende inzicht te verwerven in het materiaal.
+
+[Inschrijven deel 1](https://www.eventbrite.com/e/tickets-kunstmatige-intelligentie-klimaatverandering-stomata-kiks-deel-1-731751246677?aff=oddtdtcreator)
+
+[Inschrijven deel 2](https://www.eventbrite.com/e/kunstmatige-intelligentie-klimaatverandering-stomata-kiks-deel-2-tickets-731752630817?aff=oddtdtcreator)
