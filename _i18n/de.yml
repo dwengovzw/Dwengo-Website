@@ -151,6 +151,21 @@ aiopschool:
   subtitle2: "Op school"
   subtitle2p1: "Als leerlingen surfen op het internet, foto’s posten op Instagram, gebruikmaken van Google docs, een e-mail laten versturen door een virtuele assistent zoals Siri of wandelen door de stad, worden er data gecapteerd. Wat als een AI-systeem al die big data met elkaar in verband brengt? Zijn die AI-systemen wel objectief als ze beslissingen nemen? Moeten leerlingen die het secundair onderwijs verlaten geen inzicht hebben in onze gedigitaliseerde wereld? Is dit inzicht niet noodzakelijk om in hun volwassen leven gefundeerde beslissingen te kunnen nemen? Het ‘AI op School’-team vindt van wel. We maken lesmateriaal voor het secundair onderwijs rond AI gelinkt aan de eindtermen en de bestaande leerplandoelen. We vinden dat alle jongeren de fundamenten van AI moeten kennen en begrijpen. De beste manier om alle jongeren te bereiken is via de school. Bovendien is de school de uitgelezen plaats om leerlingen attent te maken op de ethische aspecten van AI-systemen."
   
+waisda:
+  intro_title: "wAIsda?"
+  paragraph1: "
+  Künstliche Intelligenz (KI) wird in den Medien intensiv behandelt. Beliebte Themen sind: Chatbots, selbstfahrende Autos, virtuelle Assistenten und der Verlust von Arbeitsplätzen. KI-Systeme dringen immer mehr in unsere Welt ein."
+  paragraph2: "
+  In diesem Projekt werden verschiedene KI-Konzepte behandelt, wie Klassifikation, Bias, neuronale Netzwerke, Trainings-, Validierungs- und Testdaten sowie Unter- und Überanpassung,... Dies geschieht immer in einem gesellschaftlich relevanten Kontext wie Klimawandel oder Gesundheitswesen. Wir entwickeln zehn außerschulische Workshops von einer halben Tagesdauer. Um Wachstum zu ermöglichen, werden diese nach Schwierigkeitsgrad eingeteilt."
+  banner_info: "
+  wAIsda? ist ein Projekt von dwengo vzw. 
+  In diesem Projekt entwickeln wir einen Bildungsweg, um talentierte Jugendliche mit den Grundprinzipien der künstlichen Intelligenz vertraut zu machen. Die Teilnehmer erhalten Einblick in die Techniken hinter bekannten KI-basierten Anwendungen wie DALL·E, ChatGPT und Siri. Verschiedene KI-Konzepte werden behandelt, wie Klassifikation, Bias, neuronale Netzwerke, Trainings-, Validierungs- und Testdaten sowie Unter- und Überanpassung … Dies geschieht immer in einem gesellschaftlich relevanten Kontext wie Klimawandel oder Gesundheitswesen."
+  subtitle1: "KI"
+  subtitle1p1: "KI ist ein Zweig der Informatik. Eine Definition für KI zu geben, die in so vielen verschiedenen Bereichen eingesetzt wird, ist keine leichte Aufgabe. Innerhalb der KI unterscheidet man wissensbasierte und datenbasierte Systeme. Der Chatbot Eliza und der Schachcomputer Deep Blue sind Beispiele für wissensbasierte Systeme. Die Regeln, denen der Computer folgt, sind sorgfältig programmiert. Die Gesichtserkennung ist ein Beispiel für ein datenbasiertes System. Dieses System hat gelernt: basierend auf den gegebenen Daten hat es die Parameter im programmierten Algorithmus selbst angepasst. Man spricht auch von maschinellem Lernen."
+  subtitle2p2: "Man unterscheidet zwischen allgemeiner KI und schmaler KI. Bei der allgemeinen KI handelt es sich um Computersysteme mit den gleichen Fähigkeiten wie ein Mensch. Wir haben derzeit nicht das Wissen, solche Systeme zu entwerfen. KI befindet sich derzeit noch auf der Ebene der schmalen KI: KI-Systeme, die spezifische Aufgaben erfüllen, für die sie entwickelt wurden."
+  subtitle2: "wAIsda?"
+  subtitle2p1: ""
+
 agriculture:
   intro_title: "Agriculture"
   paragraph1: "TODO: translate all content"

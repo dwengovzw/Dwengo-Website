@@ -156,6 +156,21 @@ aiopschool:
   subtitle2p1: "Als leerlingen surfen op het internet, foto’s posten op Instagram, gebruikmaken van Google docs, een e-mail laten versturen door een virtuele assistent zoals Siri of wandelen door de stad, worden er data gecapteerd. Wat als een AI-systeem al die big data met elkaar in verband brengt? Zijn die AI-systemen wel objectief als ze beslissingen nemen? Moeten leerlingen die het secundair onderwijs verlaten geen inzicht hebben in onze gedigitaliseerde wereld? Is dit inzicht niet noodzakelijk om in hun volwassen leven gefundeerde beslissingen te kunnen nemen? Het ‘AI op School’-team vindt van wel. We maken lesmateriaal voor het secundair onderwijs rond AI gelinkt aan de eindtermen en de bestaande leerplandoelen. We vinden dat alle jongeren de fundamenten van AI moeten kennen en begrijpen. De beste manier om alle jongeren te bereiken is via de school. Bovendien is de school de uitgelezen plaats om leerlingen attent te maken op de ethische aspecten van AI-systemen."
   
 
+waisda:
+  intro_title: "wAIsda ?"
+  paragraph1: "
+  L'intelligence artificielle (IA) est largement abordée dans les médias. Les thèmes populaires incluent : les chatbots, les voitures autonomes, les assistants virtuels et la perte d'emplois. Les systèmes d'IA pénètrent de plus en plus dans notre monde."
+  paragraph2: "
+  Ce projet aborde différents concepts d'IA, tels que la classification, les biais, les réseaux neuronaux, les données d'entraînement, de validation et de test, ainsi que la sous-ajustement et la sur-ajustement,... Nous le faisons toujours dans un contexte socialement pertinent, comme le changement climatique ou les soins de santé. Nous développons dix ateliers parascolaires de demi-journée. Pour permettre la croissance, ils sont classés par niveau de difficulté."
+  banner_info: "
+  wAIsda? est un projet de dwengo vzw. 
+  Dans ce projet, nous développons un parcours éducatif pour familiariser les jeunes talentueux avec les principes fondamentaux de l'intelligence artificielle. Les participants acquièrent une compréhension des techniques derrière des applications d'IA bien connues telles que DALL·E, ChatGPT et Siri. Différents concepts d'IA sont abordés, tels que la classification, les biais, les réseaux neuronaux, les données d'entraînement, de validation et de test, ainsi que la sous-ajustement et la sur-ajustement... Nous le faisons toujours dans un contexte socialement pertinent, comme le changement climatique ou les soins de santé."
+  subtitle1: "IA"
+  subtitle1p1: "L'IA est une branche de l'informatique. Donner une définition de l'IA, qui est utilisée dans tant de domaines différents, n'est pas une mince affaire. En IA, on distingue les systèmes basés sur la connaissance et les systèmes basés sur les données. Le chatbot Eliza et l'ordinateur d'échecs Deep Blue sont des exemples de systèmes basés sur la connaissance. Les règles que l'ordinateur suit sont soigneusement programmées. La reconnaissance faciale est un exemple de système basé sur les données. Ce système a appris : sur la base des données fournies, il a ajusté lui-même les paramètres dans l'algorithme programmé. On parle aussi d'apprentissage automatique."
+  subtitle2p2: "On distingue entre l'IA générale et l'IA étroite. Dans l'IA générale, il s'agit de systèmes informatiques ayant les mêmes capacités qu'un être humain. Nous n'avons pas encore les connaissances nécessaires pour concevoir de tels systèmes. Pour l'instant, l'IA en est encore au niveau de l'IA étroite : des systèmes d'IA qui accomplissent des tâches spécifiques pour lesquelles ils ont été conçus."
+  subtitle2: "wAIsda ?"
+  subtitle2p1: ""
+
 agriculture:
   intro_title: "Agriculture"
   paragraph1: "Blabla"
