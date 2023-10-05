@@ -1,5 +1,5 @@
 ---
-title: "Nascholing AI in de Zorg"
+title: "UITGESTELD - Nascholing AI in de Zorg"
 date: 2023-10-12T09:30:00
 end_date: 2023-10-12T16:30:00
 item_theme_logo_url: "/images/curricula/logo_care.png"
