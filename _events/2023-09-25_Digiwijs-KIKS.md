@@ -1,5 +1,5 @@
 ---
-title: "Digiwijs - KIKS - Bias in AI-systemen"
+title: "VOLZET - Digiwijs - KIKS - Bias in AI-systemen"
 date: 2023-09-25T13:25:00
 end_date: 2023-09-25T14:25:00
 item_theme_logo_url: "/images/curricula/logo_kiks.png"
