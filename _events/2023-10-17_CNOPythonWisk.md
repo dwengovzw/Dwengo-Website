@@ -9,7 +9,7 @@ language: "nl"
 registration_link: "https://cno.uantwerpen.be/nl/opleiding/computationeel-denken-en-python-in-de-wiskundeles-78985?filter="
 ---
 
-Computationeel denken en programmeren is niet hetzelfde. Je kan computationeel integreren in de wiskundeles, en ondertussen werken aan de vakspecifieke lesdoelen. Je zal computationeel gaan denken als je bepaalde zaken wilt gaan automatiseren m.b.v. een computer, en dan zal je ook programmeren. De interactieve Python notebooks met onderwerpen uit de wiskundeles zijn daarbij een handig hulpmiddel, bv. de stelling van Pythagoras, het oplossen van een vierkantsvergelijking, het opstellen van waarheidstabellen, het tekenen van een rechte of parabool.
+Computationeel denken en programmeren is niet hetzelfde. Je kan computationeel denken integreren in de wiskundeles, en ondertussen werken aan de vakspecifieke lesdoelen. Je zal computationeel gaan denken als je bepaalde zaken wilt gaan automatiseren m.b.v. een computer, en dan zal je ook programmeren. De interactieve Python notebooks met onderwerpen uit de wiskundeles zijn daarbij een handig hulpmiddel, bv. de stelling van Pythagoras, het oplossen van een vierkantsvergelijking, het opstellen van waarheidstabellen, het tekenen van een rechte of parabool.
 
 **Doelgroep:**
 Leerkrachten wiskunde, wetenschappen en STEM 2de en 3de graad doorstroom en dubbele finaliteit.<br>

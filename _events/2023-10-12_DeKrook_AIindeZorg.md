@@ -26,7 +26,7 @@ Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op [ww
 **Doelgroep:** <br>
 Leerkrachten wiskunde, wetenschappen en STEM van het 4de jaar en de 3de graad (doorstroom en dubbele finaliteit). <br>
 Lerarenopleiders wiskunde, wetenschappen en STEM voor leerkrachten secundair onderwijs (professionele bachelor en EduMa).<br><br>
-**Wanneer:** 12 oktober 2023 van 9u30-12u30 voor het voormiddagdeel en 13u30-16u30 voor het namiddagdeel<br>
+**Wanneer:** 12 oktober 2023 van 9u30-12u30 voor het voormiddagdeel en van 13u30-16u30 voor het namiddagdeel<br>
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>
 **Organisatie:** Dwengo vzw
 

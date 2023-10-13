@@ -23,7 +23,7 @@ Lerarenopleiders wiskunde, wetenschappen en STEM voor leerkrachten secundair ond
 
 **Wanneer:**<br>
 Deel 1: 26 februari 2024 van 13u30-16u30 <br>
-Deel 2: 12 maart 2024 an 13u30-16u30 <br>
+Deel 2: 12 maart 2024 van 13u30-16u30 <br>
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>
 **Organisatie:** Dwengo vzw
 

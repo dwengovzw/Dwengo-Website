@@ -1,5 +1,5 @@
 ---
-title: "Spreidingsdiagram en trendlijn met Python."
+title: "Spreidingsdiagram en trendlijn met Python"
 date: 2024-03-15T09:30:00
 end_date: 2024-03-15T12:30:00
 item_theme_logo_url: "/images/curricula/logo_math_with_python.png"

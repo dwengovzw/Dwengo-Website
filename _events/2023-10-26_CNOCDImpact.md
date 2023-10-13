@@ -17,12 +17,12 @@ In deze nascholing wordt niet geprogrammeerd.
 
 In deze nascholing worden de concepten van computationeel denken verduidelijkt. Vervolgens maak je kennis met concrete voorbeelden die je kan gebruiken in je klaspraktijk.  
 
-Je past concepten van computationeel denken toe op een digitaal systeem om de werking van het systeem te begrijpen. Zo kan je de impact van het digitaal systeem op de maatschappij beter inschatten.
+Je past concepten van computationeel denken toe op een digitaal systeem om de werking van het systeem te begrijpen. Zo kan je de impact van het digitale systeem op de maatschappij beter inschatten.
 
 Je gaat hier ook zelf mee aan de slag.
 
 **Doelgroep:**<br>
-Leerkrachten 2de graad (alle finaliteiten)<br>
+Leerkrachten 2de graad (alle finaliteiten).<br>
 Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor en educatieve master).
 
 Organisatie: CNO

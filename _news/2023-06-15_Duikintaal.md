@@ -9,7 +9,7 @@ Duik in taal! promoot het talenonderwijs.
 
 In de nieuwe minimumdoelen is ook taaltechnologie opgenomen.
 
-Met ons project rond [taaltechnologie](https://dwengo.org/chatbot/) voorzien wij alvast lesmateriaal om dit thema op een zinvolle manier naar de klas te brengen.
+Met ons project rond [taaltechnologie](https://dwengo.org/chatbot/) voorzien wij alvast in lesmateriaal om dit thema op een zinvolle manier naar de klas te brengen.
 Dit lesmateriaal is opgenomen op het [Duik in taal!-lerarenplatform](https://duikintaal.be/lerarenplatform/).
 
 [iSTEM blogpost >](https://istem.be/blog/didactisch-materiaal-taaltechnologie/?lid=6738)

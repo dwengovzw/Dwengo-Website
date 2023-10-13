@@ -14,7 +14,7 @@ In deze nascholing wordt niet geprogrammeerd.
 
 In deze nascholing worden de concepten van computationeel denken verduidelijkt. Vervolgens maak je kennis met concrete voorbeelden die je kan gebruiken in je klaspraktijk.
 
-Je past concepten van computationeel denken toe op een digitaal systeem om de werking van het systeem te begrijpen. Zo kan je de impact van het digitaal systeem op de maatschappij beter inschatten.
+Je past concepten van computationeel denken toe op een digitaal systeem om de werking van het systeem te begrijpen. Zo kan je de impact van het digitale systeem op de maatschappij beter inschatten.
 
 Je gaat hier ook zelf mee aan de slag.
 
@@ -23,7 +23,7 @@ Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op [ww
 Het specifieke leerpad betreffende de impact van computationeel denken kan je ook rechtstreeks bereiken via de volgende link: [Leerpad Impact](https://www.dwengo.org/learning-path.html?hruid=ct9_impact&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct9_0;nl;3 "Leerpad Impact").
 
 **Doelgroep:**<br>
-Leerkrachten 2de graad (alle finaliteiten)<br>
+Leerkrachten 2de graad (alle finaliteiten).<br>
 Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor en educatieve master).
 
 **Wanneer:** 15 maart 2024 van 13u00-16u00<br>

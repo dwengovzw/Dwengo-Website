@@ -6,7 +6,7 @@ language: "nl"
 ---
 ###### Lezing Mieke De Ketelaere - Merelbeke, 12 oktober 2023
 
-"Duik in de wereld van AI met Geertrui Mieke De Ketelaeres boeiende lezing!"
+"Duik in de wereld van AI met Geertrui Mieke De Ketelaere's boeiende lezing!"
 
 AI: The good, the bad and the ugly
 

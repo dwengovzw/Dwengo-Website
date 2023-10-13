@@ -17,7 +17,7 @@ Wil je te weten komen wat de sterktes en zwaktes van deze systemen zijn en hoe j
 Dan is deze workshop iets voor jou! 
 
 In de workshop lichten we kort toe hoe deze AI-systemen achter de schermen werken, verder gaan we in op de mogelijke vooroordelen van deze systemen, 
-kijken we of zo'n systeem ons voor de gek kan houden maar ook hoe wij het systeem in de war kunnen brengen. 
+kijken we of zo'n systeem ons voor de gek kan houden, maar ook hoe wij het systeem in de war kunnen brengen. 
 
 
 

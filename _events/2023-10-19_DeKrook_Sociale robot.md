@@ -12,7 +12,7 @@ registration_link: "https://www.eventbrite.com/e/tickets-workshop-sociale-robot-
 In onze workshop maak je kennis met de basisprincipes van de robotica. 
 Je leert een sociale robot ontwerpen, bouwen, en programmeren. <br>
 Bovendien krijg je op gepaste momenten informatie over de link met de minimumdoelen over STEM en computationeel denken. <br>
-Het project heeft een laag instapniveau en is onmiddelijk toepasbaar in diverse klascontexten. 
+Het project heeft een laag instapniveau en is onmiddellijk toepasbaar in diverse klascontexten. 
 
 Uitgebreide info alsook een leerpad voor de leerkracht kan je vinden op [www.dwengo.org/socialerobot](https://www.dwengo.org/socialerobot "sociale robot").
 
