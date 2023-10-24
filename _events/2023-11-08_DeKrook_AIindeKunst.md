@@ -1,5 +1,5 @@
 ---
-title: "Nascholing AI in de Kunst"
+title: "GEANNULEERD - Nascholing AI in de Kunst"
 date: 2023-11-08T09:30:00
 end_date: 2023-11-08T12:30:00
 item_theme_logo_url: "/images/curricula/logo_art.png"
