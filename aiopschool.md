@@ -28,3 +28,5 @@ paragraph2=paragraph2
 {%- include ai_op_school_info.html -%}
 
 {%- include curricula.html curricula_pages=page.curricula -%}
+
+{%- include partners.html images=page.partner_images -%}
