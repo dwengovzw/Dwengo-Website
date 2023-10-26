@@ -9,6 +9,8 @@ Op de nocturne van de Trefdag Vlaanderen Digitaal in Flanders Expo zijn de drie 
 De vzw Dwengo won met het project AI op school de award voor het “Meest Inclusieve project”. 
 De jury was onder de indruk hoe dé technologie van het jaar (AI) in laagdrempelige lesinhoud werd vertaald.  
 
+![Prijsuitreiking](/assets/images/news/pers_groepsfoto_Photo_STYN.jpeg)
+
 Artificiële intelligentie is nu al overal aanwezig, en dat zal alleen maar toenemen.
 Wij bij Dwengo zijn er dan ook van overtuigd dat iedereen inzichten moet hebben in de werking van AI. Inzichten in AI zijn bovendien een noodzaak geworden in het kader van mediawijsheid en burgerzin. En dat voor elke burger, en in het bijzonder voor de leerkrachten en leerlingen van onze scholen. 
 We zien dat opleidingen ‘voor iedereen’ in de praktijk vaak blijven hangen bij het gebruiken van AI-tools. Bij Dwengo menen we dat dat niet volstaat, maar dat enkel voldoende kennis van de algoritmes achter de AI-systemen ons toelaat op een bewuste manier met AI-systemen om te gaan.
