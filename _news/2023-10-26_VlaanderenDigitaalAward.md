@@ -18,7 +18,7 @@ Via de scholen pogen we alle leerlingen van het secundair onderwijs te bereiken,
 We zorgen voor laagdrempeligheid door activiteiten met en zonder computer aan te bieden. Ook daardoor is er voor elk wat wils en is het voor iedereen haalbaar.
 De leerlijn is gratis beschikbaar op onze website en kan door iedereen doorlopen worden, ook door jou. 
 Onze leerlijn kan daarom ingezet worden voor levenslang leren, op eigen initiatief of door elke organisatie die dat wil. 
-En als je zelf niet beschikt over een computer, dan bieden de computers in de lokale bibliotheek een uitkomst.
+Voor wie zelf niet beschikt over een computer, bieden de computers in de lokale bibliotheek een uitkomst.
 
 Dwengo is 5 jaar geleden gestart met AI Op School. Samen met en dankzij de vele partners kwamen we tot de leerlijn die er nu is. 
 In het bijzonder willen we de UGent (IDlab-AIRO en de Faculteit van de ingenieurswetenschappen en architectuur) en de cel iSTEM inkleuren bedanken. 
