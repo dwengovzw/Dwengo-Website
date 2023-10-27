@@ -6,7 +6,7 @@ language: "nl"
 ---
 
 Op de nocturne van de Trefdag Vlaanderen Digitaal in Flanders Expo zijn de drie Vlaanderen Digitaal Awards uitgereikt. 
-De vzw Dwengo won met het project AI op school de award voor het “Meest Inclusieve project”. 
+De vzw Dwengo won met het project AI Op School de award voor het “Meest Inclusieve project”. 
 De jury was onder de indruk hoe dé technologie van het jaar (AI) in laagdrempelige lesinhoud werd vertaald.  
 
 ![Prijsuitreiking](/assets/images/news/pers_groepsfoto_Photo_STYN.jpeg)
