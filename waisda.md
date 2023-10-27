@@ -4,7 +4,7 @@ title: "wAIsda?"
 permalink: /waisda/
 banner_image: "/images/aiopschool/banner_wide.jpg"
 logo_image: "/images/curricula/logo_aiopschool_rond.png"
-partner_images: ['/images/partners/dwengo.png', '/images/partners/logo_bekina.png', '/images/partners/gluon_art_research_logo.png', '/images/partners/logo_SMCLEDE.png', '/images/partners/ugent.svg', '/images/partners/istem.png', '/images/partners/pov.jpg', '/images/partners/logo_hoogbloeier.png']
+partner_images: ['/images/partners/dwengo.png', '/images/partners/logo_bekina.png', '/images/partners/gluon_education_logo.png', '/images/partners/logo_SMCLEDE.png', '/images/partners/ugent.svg', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/logo_hoogbloeier.png']
 learning_paths: [""]
 curricula: []
 ---
