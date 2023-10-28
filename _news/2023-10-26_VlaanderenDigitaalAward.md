@@ -25,4 +25,6 @@ Voor wie zelf niet beschikt over een computer, bieden de computers in de lokale 
 Dwengo is 5 jaar geleden gestart met AI Op School. Samen met en dankzij de vele partners kwamen we tot de leerlijn die er nu is. 
 In het bijzonder willen we de UGent ([IDLab-AIRO](https://airo.ugent.be/) en de [Faculteit Ingenieurswetenschappen en Architectuur](https://www.ugent.be/ea/nl)) en de [cel iSTEM inkleuren](https://istem.be/) bedanken. 
 
+![Projecten AI Op School](/assets/images/news/projectenaiopschool.png)
+
 [Lees meer](https://www.vlaanderen.be/digitaal-vlaanderen/nieuwsberichten/ai-op-school-erfgoeddigitalisering-en-uitwisselingsplatform-winnen-de-vlaanderen-digitaal-awards)
