@@ -1,5 +1,5 @@
 ---
-title: "AI Op School"
+title: "AI Op School op de ICT-praktijkdag"
 date: 2024-02-05T00:00:00
 end_date: 2023-02-05T24:00:00
 item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
@@ -18,4 +18,4 @@ Na deze sessie zal je:
 
 Organisatie: ICT-praktijkdag
 
-[Info en inschrijven}(https://www.ictdag.be/42)
+[Info en inschrijven](https://www.ictdag.be/42)
