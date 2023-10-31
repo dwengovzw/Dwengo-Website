@@ -20,3 +20,5 @@ Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor e
 
 **Locatie:** Gent of Mechelen of online <br>
 **Organisatie:** Katholiek Onderwijs Vlaanderen
+
+[Meer info en inschrijven](https://nascholing.be/2023-2024/index.aspx?modID=4056689)
