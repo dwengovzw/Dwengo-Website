@@ -8,7 +8,7 @@ language: "nl"
 ---
 
 Onze sessie (102): 
-[Aan de slag met een uitgebreide AI-leerlijn voor het secundair](https://www.ictdag.be/42) 
+[Aan de slag met een uitgebreide AI-leerlijn voor het secundair onderwijs](https://www.ictdag.be/42) 
 
 Na deze sessie zal je:
 
