@@ -270,10 +270,23 @@ function objectButtonClicked(hruid, language, version, path) {
  */
 async function printDiv(path, mywindow) {  
     mywindow.document.write(`<html><head><title>${path.title}</title>`);
+    // TODO: link learning path print css here!
+    mywindow.document.write(`<link rel="stylesheet" href="https://staging.dwengo.org/backend/static/css/public/dwengo_learning_path_styles.css">`)
     mywindow.document.write(`<link rel="stylesheet" href="/assets/main.css">`);
     mywindow.document.write(`<link rel="shortcut icon" type="image/png" href="/images/favicon.ico"></link>`);
     mywindow.document.write(`<link rel="stylesheet" href="/css/bootstrap/bootstrap.min.css"">`);
     mywindow.document.write('</head><body>');
+
+    // Include MathJax in the new window
+    var mathjaxScript = document.createElement("script");
+    mathjaxScript.type = "text/javascript";
+    mathjaxScript.src = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js";
+    mywindow.document.head.appendChild(mathjaxScript);
+
+    // Trigger MathJax typesetting in the new window
+    mathjaxScript.onload = function() {
+        newWindow.MathJax.typeset();
+    };
     
     let stub_wrapper = $("<div>");
     let containerdiv = $("<div>").attr("class", "wrapper")
@@ -298,6 +311,7 @@ async function printDiv(path, mywindow) {
     mywindow.document.write(stub_wrapper.html());
 
     mywindow.document.write('</body></html>');
+  
   
     mywindow.document.close(); // necessary for IE >= 10
     mywindow.focus(); // necessary for IE >= 10*/
