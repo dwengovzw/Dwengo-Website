@@ -298,5 +298,10 @@ let urlToHruidMapping = {
         hruid: "un_elevator_riddle",
         languages: ["nl"],
         default_language: "nl"
-    }
+    },
+    lift_web: {
+        hruid: "un_elevator_riddle",
+        languages: ["nl"],
+        default_language: "nl"
+    },
 }
