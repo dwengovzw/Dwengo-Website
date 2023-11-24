@@ -304,4 +304,14 @@ let urlToHruidMapping = {
         languages: ["nl"],
         default_language: "nl"
     },
+    lift_fb: {
+        hruid: "un_elevator_riddle",
+        languages: ["nl"],
+        default_language: "nl"
+    },
+    lift_x: {
+        hruid: "un_elevator_riddle",
+        languages: ["nl"],
+        default_language: "nl"
+    },
 }
