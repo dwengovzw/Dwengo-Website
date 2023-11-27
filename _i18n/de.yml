@@ -22,67 +22,67 @@ strengths:
   inclusive_text: Wir konzentrieren uns darauf, alle Kinder zu erreichen, mit besonderem Augenmerk auf die Geschlechterinklusion und die soziale Inklusion.
   socially_relevant_text: Wir suchen Projekte, die zu aktuellen Ereignissen und gesellschaftlichen Themen passen.
   summary: We develop innovative workshops and educational resources, and we provide them to students around the globe in collaboration with teachers and volunteers. Our train-the-trainer sessions enable them to bring our hands-on workshops to the students.
-  main: We voegen steeds nieuwe projecten en methodieken toe aan al onze projecten. Voor deze projecten zoeken we steeds een maatschappelijk relevant thema. Bovendien zorgen we er steeds voor dat ons didactisch materiaal gebaseerd is op wetenschappelijk onderzoek en houden we ook aldijd een oog op de inclusiviteit.
+  main: Wir fügen kontinuierlich neue Projekte und Methoden zu all unseren Projekten hinzu. Für diese Projekte suchen wir immer nach einem gesellschaftlich relevanten Thema. Darüber hinaus stellen wir sicher, dass unser didaktisches Material auf wissenschaftlicher Forschung basiert, und wir achten immer auf Inklusivität.
   quote:
-    text: Je maakt iets praktisch, je leert werken met hardware en je kan zelf iets nieuws cre&euml;ren. 
-    name: Matthias en Bruno
-    affiliation: 4e middelbaar
+    text: Du machst etwas Praktisches, du lernst mit Hardware zu arbeiten und du kannst etwas Neues schaffen.
+    name: Matthias und Bruno
+    affiliation: 4. Jahr der weiterführenden Schule
 
 
 partners:
-  partners: Partners
+  partners: Partner
 
 kiks:
   intro_title: "KIKS"
-  paragraph1: "KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben."
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
-  form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met 'KIKS' en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
+  paragraph1: "KIKS ist ein MINT-Projekt zu künstlicher Intelligenz (KI) für die dritte Sekundarschulstufe. Schülerinnen und Schüler lernen KI zu verstehen, mit Möglichkeiten und Grenzen; sie lernen, wie sie darauf Einfluss nehmen können."
+  paragraph2: "Die Beziehung zwischen den Spaltöffnungen (Stomata) von Pflanzen und dem Klimawandel bietet einen einzigartigen Rahmen, um mit tiefen neuronalen Netzwerken zu arbeiten. Die Programmiersprache Python ist außerdem sehr zugänglich als Werkzeug, um die Grundlagen neuronaler Netzwerke zu studieren."
+  paragraph3: "Ein Pluspunkt des KIKS-Projekts ist die Zusammenarbeit zwischen Forschern und Lehrern. Das Unterrichtsmaterial von KIKS wird parallel zu den Ergebnissen laufender wissenschaftlicher Untersuchungen an der UGent und dem Pflanzengarten Meise entwickelt."
+  form_text: "Wir möchten, dass so viele Lehrerinnen und Lehrer sowie Schülerinnen und Schüler 'KIKS' kennenlernen und damit im Unterricht arbeiten. Sie können Ihr Interesse über unser Formular bekunden."
   form_button_text: "INTERESSE?"
-  title1: "Het wetenschappelijk onderzoek"
-  title1p1: "Wetenschappers van de Plantentuin Meise en de UGent onderzoeken <strong>hoe bomen uit het tropisch regenwoud zich aanpassen aan de klimaatverandering</strong>. De stomata op hun bladeren verschaffen informatie over de CO<sub>2</sub>-concentratie in de atmosfeer ten tijde van de groei van de planten. De onderzoekers <strong>tellen</strong> het aantal stomata op de bladeren en ze <strong>meten</strong> hun grootte op. Erna vergelijken ze de resultaten van recent materiaal met die van materiaal van honderd jaar terug."
-  title1p2: "Het tellen en meten van stomata is echter een heel tijdrovende bezigheid. Om dit te <strong>automatiseren</strong>, heeft een computerwetenschapper van de UGent <strong>een neuraal netwerk getraind</strong>. Om zo'n netwerk te trainen zijn veel voorbeelden nodig: foto's van stomata en foto's van bladeren zonder stomata."
-  title2: "In de klas"
-  title2p1: "Het KIKS-project heeft als doel de leerlingen de fundamenten van AI te leren kennen en hen bij te brengen hoe ze vat kunnen hebben op AI-systemen die ze tegenkomen in hun dagelijks leven. <br>
-We willen daarom leerkrachten aanmoedigen om met KIKS en AI aan de slag te gaan in de klas (zie figuur), met of zonder programmeren.<br>
-We hebben geprobeerd het project zo laagdrempelig mogelijk te houden door het materiaal online aan te bieden, door ervoor te zorgen dat er geen extra software geïnstalleerd moet worden en door in de nodige achtergrondinformatie te voorzien via een handleiding.<br>
-We hopen dat er tijdens de projectlessen ook tijd wordt vrijgemaakt om stil te staan bij de ethische kwesties die opduiken door de aanwezigheid van AI en deep learning-systemen in het dagelijks leven."
-  title2p2: "Het lesmateriaal kan ook op een andere manier worden ingezet. Men kan bv. enkele notebooks uitkiezen om de leerlingen te leren programmeren in Python of men kan er opdrachten uit halen om te werken aan onderzoekscompetenties in de lessen biologie, aardrijkskunde of wiskunde. Men kan de leerlingen aan de hand van enkele notebooks vertrouwd maken met de principes van digitale beeldverwerking of de leerkracht Nederlands of godsdienst kan in dit project inspiratie halen voor een les over de maatschappelijke aspecten van AI."
-  subtitle1: "Klimaat"
-  subtitle1p1: "Sinds het begin van de industriële revolutie (1750) is de concentratie van broeikasgassen in onze atmosfeer sterk toegenomen. Dit versterkt het natuurlijk broeikaseffect. De laag met broeikasgassen in de atmosfeer fungeert als een soort deken, dat dikker wordt naarmate de hoeveelheid broeikasgassen toeneemt. Bijgevolg wordt het onder het deken warmer omdat de warmte steeds moeilijker van onder het deken kan ontsnappen naar de ruimte. De verhoogde concentratie van broeikasgassen in de atmosfeer resulteert in een verhoging van de gemiddelde temperatuur en een globale klimaatverandering."
+  title1: "Wissenschaftliche Forschung"
+  title1p1: "Wissenschaftler des Pflanzengartens Meise und der UGent erforschen <strong>, wie Bäume im tropischen Regenwald sich an den Klimawandel anpassen</strong>. Die Stomata auf ihren Blättern liefern Informationen über die CO<sub>2</sub>-Konzentration in der Atmosphäre während des Pflanzenwachstums. Die Forscher <strong>zählen</strong> die Anzahl der Stomata auf den Blättern und <strong>messen</strong> ihre Größe. Dann vergleichen sie die Ergebnisse aktueller Materialien mit denen von vor hundert Jahren."
+  title1p2: "Das Zählen und Messen von Stomata ist jedoch sehr zeitaufwendig. Um dies zu <strong>automatisieren</strong>, hat ein Informatiker der UGent <strong>ein neuronales Netzwerk trainiert</strong>. Um ein solches Netzwerk zu trainieren, sind viele Beispiele erforderlich: Fotos von Stomata und Fotos von Blättern ohne Stomata."
+  title2: "Im Klassenzimmer"
+  title2p1: "Das Ziel des KIKS-Projekts ist es, den Schülerinnen und Schülern die Grundlagen der KI beizubringen und ihnen beizubringen, wie sie Einfluss auf KI-Systeme nehmen können, die sie im täglichen Leben begegnen. <br>
+Wir möchten Lehrer ermutigen, mit KIKS und KI im Unterricht zu arbeiten (siehe Abbildung), mit oder ohne Programmierung.<br>
+Wir haben versucht, das Projekt so zugänglich wie möglich zu gestalten, indem wir das Material online anbieten, sicherstellen, dass keine zusätzliche Software installiert werden muss, und Hintergrundinformationen über ein Handbuch bereitstellen.<br>
+Wir hoffen, dass während der Projektstunden auch Zeit dafür eingeräumt wird, ethische Fragen zu diskutieren, die durch die Präsenz von KI- und Deep-Learning-Systemen im täglichen Leben entstehen."
+  title2p2: "Das Unterrichtsmaterial kann auch auf andere Weise genutzt werden. Man kann zum Beispiel einige Notebooks auswählen, um den Schülerinnen und Schülern das Programmieren in Python beizubringen, oder man kann Aufgaben daraus entnehmen, um an Forschungskompetenzen in den Fächern Biologie, Geografie oder Mathematik zu arbeiten. Die Schülerinnen und Schüler können anhand einiger Notebooks mit den Prinzipien der digitalen Bildverarbeitung vertraut gemacht werden, oder der Lehrer für Deutsch oder Religion kann in diesem Projekt Inspiration für eine Unterrichtsstunde zu den gesellschaftlichen Aspekten von KI finden."
+  subtitle1: "Klima"
+  subtitle1p1: "Seit Beginn der industriellen Revolution (1750) hat sich die Konzentration von Treibhausgasen in unserer Atmosphäre stark erhöht. Dies verstärkt den natürlichen Treibhauseffekt. Die Schicht von Treibhausgasen in der Atmosphäre fungiert wie eine Art Decke, die dicker wird, je mehr Treibhausgase vorhanden sind. Infolgedessen wird es unter der Decke wärmer, da die Wärme immer schwerer von unter der Decke in den Weltraum entweichen kann. Die erhöhte Konzentration von Treibhausgasen in der Atmosphäre führt zu einer Erhöhung der Durchschnittstemperatur und zu einem globalen Klimawandel."
   subtitle2: "Stomata"
-  subtitle2p1: "Planten zijn in staat om zelf de energierijke koolstofverbindingen op te bouwen die ze nodig hebben om te leven, te groeien en zich te kunnen reproduceren. Ze doen dit via fotosynthese. Hiervoor moet de plant CO2 opnemen. Om die opname mogelijk te maken, zijn er microscopisch kleine poortjes in de opperhuid van het blad, de huidmondjes (stomata). De huidmondjes staan ook in voor afkoeling van de plant en het onderhouden van de sapstroom van wortel tot hoog in de plant."
-  subtitle2p2: "Uit de paleoklimatologie blijkt dat de stomatale grootte en dichtheid beïnvloed worden door de atmosferische CO<sub>2</sub>-concentratie."
-  subtitle3: "AI"
-  subtitle3p1: "Diepe neurale netwerken zijn een vorm van machinaal leren, en behoren dus tot het domein van de artificiële intelligentie. Convolutionele neurale netwerken zijn uitermate geschikt om huidmondjes op microfoto's te herkennen."
-  subtitle3p2: "Aan de hand van Python notebooks verkennen we stap voor stap deze wondere wereld. Leerlingen krijgen inzicht in de fundamenten van artificiële intelligentie. Maar er komen ook praktische zaken bij kijken, zoals het verzamelen en voorbereiden van de dataset."
+  subtitle2p1: "Pflanzen sind in der Lage, die energiereichen Kohlenstoffverbindungen aufzubauen, die sie zum Leben, Wachsen und zur Fortpflanzung benötigen. Dies geschieht durch Photosynthese. Dafür muss die Pflanze CO2 aufnehmen. Um diese Aufnahme zu ermöglichen, gibt es mikroskopisch kleine Pforten in der Oberhaut des Blattes, die Stomata. Die Stomata sind auch für die Kühlung der Pflanze und die Aufrechterhaltung des Saftflusses von der Wurzel bis in die Pflanze verantwortlich."
+  subtitle2p2: "Die paläoklimatologische Forschung zeigt, dass Größe und Dichte der Stomata von der atmosphärischen CO<sub>2</sub>-Konzentration beeinflusst werden."
+  subtitle3: "KI"
+  subtitle3p1: "Tiefe neuronale Netzwerke sind eine Form des maschinellen Lernens und gehören daher zum Bereich der künstlichen Intelligenz. Faltende neuronale Netzwerke eignen sich besonders gut, um Stomata auf Mikrofotos zu erkennen."
+  subtitle3p2: "Mit Python-Notebooks erkunden wir diese faszinierende Welt Schritt für Schritt. Schülerinnen und Schüler erhalten Einblick in die Grundlagen der künstlichen Intelligenz. Aber es gibt auch praktische Aspekte, wie das Sammeln und Vorbereiten des Datensatzes."
 
 
 socialrobot:
-  page_title: "Sociale robot"
-  intro: "Maak kennis met 'Sociale robot', een meeslepend STEM-project voor het secundair onderwijs! Hier zullen leerlingen zich onderdompelen in een uitdagend project waarin ze een eigen sociale robot ontwerpen, programmeren en bouwen."
-  summary: "Het 'Sociale Robot'-project is een fantastische manier om jonge studenten enthousiast te maken voor STEM. Het stelt leerlingen in staat om hun creativiteit te botvieren en technische vaardigheden te ontwikkelen door het ontwerpen, programmeren en bouwen van hun eigen sociale robot. Bovendien sluit dit project aan bij actueel wetenschappelijk onderzoek naar het verbeteren van de interactie tussen mens en robot en de mogelijkheden die sociale robots bieden om bij te dragen aan verschillende maatschappelijke uitdagingen."
-  title1: "Wat gaan ze doen?"
-  t1_subtitle1: "Ontwerpen"
-  t1_p1: "De leerlingen krijgen de volledige controle over het ontwerp van hun sociale robot. Zij zijn de architecten van hun creatie en hebben de mogelijkheid om hun visie en persoonlijke stijl tot uiting te brengen in het ontwerp."
-  t1_subtitle2: "Programmeren"
-  t1_p2: "De leerlingen gebruiken de grafische programmeeromgeving van Dwengo om de robot te programmeren en interactie met zijn omgeving mogelijk te maken. "
-  t1_subtitle3: "Bouwen"
-  t1_p3: "Met behulp van elektronische componenten, herbruikbare materialen en knutselmateriaal hebben de leerlingen de mogelijkheid om hun robot uit het niets op te bouwen. Zo ontwikkelen ze niet alleen hun technische vaardigheden, maar ook hun creatieve en probleemoplossende vaardigheden. Het gebruik van herbruikbare materialen biedt daarnaast een duurzame oplossing."
-  t1_subtitle4: "Presenteren"
+  page_title: "Sozialer Roboter"
+  intro: "Lernen Sie den 'Sozialen Roboter' kennen, ein fesselndes MINT-Projekt für die Sekundarstufe! Hier tauchen Schülerinnen und Schüler in ein herausforderndes Projekt ein, in dem sie ihren eigenen sozialen Roboter entwerfen, programmieren und bauen."
+  summary: "Das 'Sozialer Roboter'-Projekt ist eine fantastische Möglichkeit, junge Schülerinnen und Schüler für MINT zu begeistern. Es ermöglicht den Lernenden, ihre Kreativität zu entfalten und technische Fähigkeiten durch das Entwerfen, Programmieren und Bauen ihres eigenen sozialen Roboters zu entwickeln. Darüber hinaus knüpft dieses Projekt an aktuelle wissenschaftliche Forschung zur Verbesserung der Interaktion zwischen Mensch und Roboter und den Möglichkeiten an, die soziale Roboter bieten, um zu verschiedenen gesellschaftlichen Herausforderungen beizutragen."
+  title1: "Was werden sie tun?"
+  t1_subtitle1: "Entwerfen"
+  t1_p1: "Die Schülerinnen und Schüler haben die volle Kontrolle über das Design ihres sozialen Roboters. Sie sind die Architekten ihrer Kreation und haben die Möglichkeit, ihre Vision und ihren persönlichen Stil im Design zum Ausdruck zu bringen."
+  t1_subtitle2: "Programmieren"
+  t1_p2: "Die Lernenden verwenden die grafische Programmierumgebung von Dwengo, um den Roboter zu programmieren und die Interaktion mit seiner Umgebung zu ermöglichen."
+  t1_subtitle3: "Bauen"
+  t1_p3: "Mit Hilfe von elektronischen Komponenten, wiederverwendbaren Materialien und Bastelmaterial haben die Lernenden die Möglichkeit, ihren Roboter von Grund auf zu bauen. Dadurch entwickeln sie nicht nur ihre technischen Fähigkeiten, sondern auch ihre kreativen und problemlösenden Fähigkeiten. Die Verwendung von wiederverwendbaren Materialien bietet zudem eine nachhaltige Lösung."
+  t1_subtitle4: "Präsentieren"
   t1_p4: ""
-  title2: "Wat gaan ze leren?"
-  title2_p: "Dit project biedt een multimodale aanpak die de leerlingen stimuleert om probleemoplossend en kritisch te denken. Deze vaardigheden zijn van onschatbare waarde in de moderne samenleving en zullen hen helpen om in de toekomst succesvol te zijn, zowel in hun persoonlijke als professionele leven."
-  t2_subtitle1: "Creativiteit"
-  t2_p1: "De creativiteit van leerlingen komt niet alleen tot uiting tijdens het ontwerpproces, maar ook bij het programmeren en bouwen van hun sociale robot. Ze hebben de vrijheid om hun eigen ideeën en visies te integreren in de functionaliteiten van de robot en kunnen zo hun persoonlijke stempel op het project drukken. Dit maakt het leerproces niet alleen waardevoller, maar ook leuker en uitdagender voor de leerlingen."
-  t2_subtitle2: "Computationeel denken"
-  t2_p2: "Computationeel denken is niet alleen te vinden in het programmeren van de robot, maar het komt ook duidelijk naar voren bij de problemen die leerlingen moeten oplossen tijdens het ontwerpen en bouwen van hun sociale robot. Zo ontwikkelen de leerlingen niet alleen programmeervaardigheden, maar ook belangrijke cognitieve vaardigheden die relevant zijn in verschillende disciplines."
-  t2_subtitle3: "Technische vaardigheden"
-  t2_p3: "De bouw van hun eigen sociale robot geeft leerlingen de kans om te werken met verschillende elektronische componenten en gerecycleerde materialen. Door het aanpassen en verbeteren van deze componenten en materialen, leren ze niet alleen hoe ze de robot kunnen bouwen, maar ook hoe ze deze kunnen optimaliseren."
+  title2: "Was werden sie lernen?"
+  title2_p: "Dieses Projekt bietet einen multimodalen Ansatz, der die Schülerinnen und Schüler dazu anregt, problemlösend und kritisch zu denken. Diese Fähigkeiten sind in der modernen Gesellschaft von unschätzbarem Wert und werden ihnen helfen, in der Zukunft sowohl im persönlichen als auch im beruflichen Leben erfolgreich zu sein."
+  t2_subtitle1: "Kreativität"
+  t2_p1: "Die Kreativität der Lernenden zeigt sich nicht nur während des Entwurfsprozesses, sondern auch beim Programmieren und Bauen ihres sozialen Roboters. Sie haben die Freiheit, ihre eigenen Ideen und Visionen in die Funktionalitäten des Roboters zu integrieren und können so ihren persönlichen Stempel auf das Projekt drücken. Dies macht den Lernprozess nicht nur wertvoller, sondern auch unterhaltsamer und herausfordernder für die Lernenden."
+  t2_subtitle2: "Computational Thinking"
+  t2_p2: "Computational Thinking zeigt sich nicht nur in der Programmierung des Roboters, sondern wird auch deutlich bei den Problemen, die die Lernenden beim Entwerfen und Bauen ihres sozialen Roboters lösen müssen. Auf diese Weise entwickeln die Lernenden nicht nur Programmierfähigkeiten, sondern auch wichtige kognitive Fähigkeiten, die in verschiedenen Disziplinen relevant sind."
+  t2_subtitle3: "Technische Fähigkeiten"
+  t2_p3: "Der Bau ihres eigenen sozialen Roboters gibt den Lernenden die Möglichkeit, mit verschiedenen elektronischen Komponenten und recycelten Materialien zu arbeiten. Durch Anpassen und Verbessern dieser Komponenten und Materialien lernen sie nicht nur, wie sie den Roboter bauen können, sondern auch, wie sie ihn optimieren können."
   t2_subtitle4: "Titel"
   t2_p4: ""
-  title3: "Hoe begin je eraan?"
-  title3_p: "Met dit project kan je eenvoudig aan de slag. Hieronder vind je de 4 modules waarin het project is opgedeeld. Alle praktische informatie die je nodig hebt om aan de slag te gaan, vind je terug in module 0.<br><br>Onderaan deze pagina vind je een overzicht van al het downloadbare materiaal dat je in de leerpaden tegenkomt."
+  title3: "Wie fängt man an?"
+  title3_p: "Mit diesem Projekt können Sie leicht beginnen. Im Folgenden finden Sie die 4 Module, in die das Projekt unterteilt ist. Alle praktischen Informationen, die Sie benötigen, um loszulegen, finden Sie im Modul 0.<br><br>Unten auf dieser Seite finden Sie eine Übersicht über alle herunterladbaren Materialien, die Sie in den Lernpfaden finden."
   t3_subtitle1: "Titel"
   t3_p1: ""
   t3_subtitle2: "Titel"
@@ -90,7 +90,7 @@ socialrobot:
   t3_subtitle3: "Titel"
   t3_p3: ""
   t3_subtitle4: "Titel"
-  t3_p4: ""  
+  t3_p4: "" 
 
 #  socialrobot:
 #  intro_title: "Sociale robot"
@@ -138,25 +138,25 @@ Wir verwenden diese Daten nur für interne Analysen, um unsere Website zu verbes
   info: Mehr Informationen
 
 aiopschool:
-  intro_title: "AI Op School"
+  intro_title: "KI in der Schule"
   paragraph1: "
-  Artificiële intelligentie (AI) komt volop aan bod in de media. 
-  Populaire thema’s zijn: chatbots, zelfrijdende auto’s, virtuele assistenten en het verlies aan jobs. 
-  AI-systemen dringen meer en meer onze wereld binnen.
+  Künstliche Intelligenz (KI) kommt in den Medien immer wieder zur Sprache.
+  Beliebte Themen sind: Chatbots, selbstfahrende Autos, virtuelle Assistenten und der Verlust von Arbeitsplätzen.
+  KI-Systeme dringen immer mehr in unsere Welt ein.
   "
   paragraph2: "
-  AI Op School is een project dat ontstaan is uit de bekommernis dat leerlingen kunstmatige (KI) of artificiële intelligentie moeten kunnen begrijpen en het besef dat er een hiaat is in het curriculum van het secundair onderwijs om hieraan tegemoet te komen. We maken lesmateriaal voor het secundair onderwijs rond AI gelinkt aan de eindtermen en de bestaande leerplandoelen.
+  KI in der Schule ist ein Projekt, das aus der Sorge entstanden ist, dass Schüler künstliche Intelligenz verstehen sollten, und der Erkenntnis, dass es eine Lücke im Lehrplan der Sekundarschule gibt, um diesem Bedürfnis gerecht zu werden. Wir erstellen Unterrichtsmaterialien für die Sekundarschule im Bereich KI, die mit den Endzielen und den bestehenden Lehrplanzielen verknüpft sind.
   "
   banner_info: "
-  AI Op School is een project van dwengo vzw. 
-  Binnen het project ontwikkelden we zowel het lesmateriaal als de nodige tools om in de klas aan de slag te gaan met machinaal leren en artificiële intelligentie.
-  Alle lesinhouden die beschikbaar waren op aiopschool.be (<a href='/content/'>en nog veel meer</a>) zijn nu beschikbaar op dwengo.org"
-  subtitle1: "AI"
-  subtitle1p1: "AI is een tak binnen de computerwetenschappen. Een definitie geven voor AI, iets dat in zoveel verschillende domeinen wordt ingezet, is geen sinecure. Binnen AI onderscheidt men kennisgebaseerde en datagebaseerde systemen. De chatbot Eliza en de schaakcomputer Deep Blue zijn voorbeelden van kennisgebaseerde systemen. De regels die de computer volgt, zijn zorgvuldig geprogrammeerd. Gezichtsherkenning is een voorbeeld van een datagebaseerd systeem. Dit systeem heeft geleerd: gebaseerd op de gegeven data heeft het zelf de parameters in het geprogrammeerde algoritme aangepast. Men spreekt ook van machine learning."
-  subtitle2p2: "Men maakt een onderscheid tussen general AI en narrow AI. Bij general AI gaat het over computersystemen met dezelfde capaciteiten als een mens. We hebben vooralsnog niet de kennis om dergelijke systemen te ontwerpen. Voorlopig zit AI nog maar op het niveau van de narrow AI: AI-systemen die de specifieke taken doen waarvoor ze ontworpen werden."
-  subtitle2: "Op school"
-  subtitle2p1: "Als leerlingen surfen op het internet, foto’s posten op Instagram, gebruikmaken van Google docs, een e-mail laten versturen door een virtuele assistent zoals Siri of wandelen door de stad, worden er data gecapteerd. Wat als een AI-systeem al die big data met elkaar in verband brengt? Zijn die AI-systemen wel objectief als ze beslissingen nemen? Moeten leerlingen die het secundair onderwijs verlaten geen inzicht hebben in onze gedigitaliseerde wereld? Is dit inzicht niet noodzakelijk om in hun volwassen leven gefundeerde beslissingen te kunnen nemen? Het ‘AI op School’-team vindt van wel. We maken lesmateriaal voor het secundair onderwijs rond AI gelinkt aan de eindtermen en de bestaande leerplandoelen. We vinden dat alle jongeren de fundamenten van AI moeten kennen en begrijpen. De beste manier om alle jongeren te bereiken is via de school. Bovendien is de school de uitgelezen plaats om leerlingen attent te maken op de ethische aspecten van AI-systemen."
-  
+  KI in der Schule ist ein Projekt von Dwengo vzw.
+  Im Rahmen des Projekts haben wir sowohl das Unterrichtsmaterial als auch die erforderlichen Tools zur Arbeit mit maschinellem Lernen und künstlicher Intelligenz im Klassenzimmer entwickelt.
+  Alle verfügbaren Lerninhalte auf aiopschool.be (<a href='/content/'>und noch viel mehr</a>) sind jetzt auf dwengo.org verfügbar."
+  subtitle1: "KI"
+  subtitle1p1: "KI ist ein Bereich der Informatik. Eine Definition für KI, die in so vielen verschiedenen Bereichen eingesetzt wird, ist keine einfache Aufgabe. In der KI unterscheidet man zwischen wissensbasierten und datenbasierten Systemen. Der Chatbot Eliza und der Schachcomputer Deep Blue sind Beispiele für wissensbasierte Systeme. Die Regeln, denen der Computer folgt, sind sorgfältig programmiert. Gesichtserkennung ist ein Beispiel für ein datenbasiertes System. Dieses System hat gelernt: basierend auf den bereitgestellten Daten hat es die Parameter im programmierten Algorithmus selbst angepasst. Man spricht auch von maschinellem Lernen."
+  subtitle2p2: "Man unterscheidet zwischen generaler KI und enger KI. Bei genereller KI handelt es sich um Computersysteme mit den gleichen Fähigkeiten wie ein Mensch. Wir haben bisher nicht das Wissen, um solche Systeme zu entwerfen. Derzeit befindet sich KI noch auf der Ebene der engen KI: KI-Systeme, die die spezifischen Aufgaben erledigen, für die sie entworfen wurden."
+  subtitle2: "In der Schule"
+  subtitle2p1: "Wenn Schüler im Internet surfen, Fotos auf Instagram posten, Google Docs verwenden, eine E-Mail von einem virtuellen Assistenten wie Siri senden oder durch die Stadt gehen, werden Daten erfasst. Was passiert, wenn ein KI-System all diese Big Data miteinander verknüpft? Sind diese KI-Systeme objektiv, wenn sie Entscheidungen treffen? Sollten Schüler, die die Sekundarschule verlassen, nicht Einblick in unsere digitalisierte Welt haben? Ist dieses Verständnis nicht notwendig, um in ihrem Erwachsenenleben fundierte Entscheidungen treffen zu können? Das 'KI in der Schule'-Team findet schon. Wir erstellen Unterrichtsmaterialien für die Sekundarschule im Bereich KI, die mit den Endzielen und den bestehenden Lehrplanzielen verknüpft sind. Wir sind der Meinung, dass alle Jugendlichen die Grundlagen von KI kennen und verstehen sollten. Der beste Weg, alle Jugendlichen zu erreichen, ist über die Schule. Außerdem ist die Schule der ideale Ort, um die Schüler auf die ethischen Aspekte von KI-Systemen aufmerksam zu machen."
+
 waisda:
   intro_title: "wAIsda?"
   paragraph1: "
@@ -173,155 +173,155 @@ waisda:
   subtitle2p1: ""
 
 agriculture:
-  intro_title: "Agriculture"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  intro_title: "Landwirtschaft"
+  paragraph1: "TODO: Übersetzen Sie alle Inhalte"
+  paragraph2: "Die Beziehung zwischen den Spaltöffnungen (Stomata) von Pflanzen und dem Klimawandel bietet einen einzigartigen Rahmen, um mit tiefen neuronalen Netzwerken zu arbeiten. Die Programmiersprache Python ist zudem ein sehr zugängliches Werkzeug, um die Grundlagen neuronaler Netzwerke zu studieren."
+  paragraph3: "Ein Vorteil des KIKS-Projekts ist die Zusammenarbeit zwischen Forschern und Lehrern. Das Lehrmaterial von KIKS wird parallel zu den Ergebnissen einer laufenden wissenschaftlichen Untersuchung an der UGent und dem Plantentuin Meise entwickelt."
 
 art:
   intro_title: "Kunst"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  paragraph1: "TODO: Übersetzen Sie alle Inhalte"
+  paragraph2: "Die Beziehung zwischen den Spaltöffnungen (Stomata) von Pflanzen und dem Klimawandel bietet einen einzigartigen Rahmen, um mit tiefen neuronalen Netzwerken zu arbeiten. Die Programmiersprache Python ist zudem ein sehr zugängliches Werkzeug, um die Grundlagen neuronaler Netzwerke zu studieren."
+  paragraph3: "Ein Vorteil des KIKS-Projekts ist die Zusammenarbeit zwischen Forschern und Lehrern. Das Lehrmaterial von KIKS wird parallel zu den Ergebnissen einer laufenden wissenschaftlichen Untersuchung an der UGent und dem Plantentuin Meise entwickelt."
 
 wegostem:
   intro_title: "WeGoSTEM"
-  paragraph1: "Met WeGoSTEM enthousiasmeert Dwengo leerlingen uit de derde graad van het basisonderwijs voor techniek en informaticawetenschappen. We dagen de kinderen uit om een creatieve kunst-robot die zelfstandig kan tekenen, te bouwen en te programmeren. Zo leren ze heel wat STEM-vaardigheden van techniek tot computationeel denken."
-  paragraph2: "Op deze pagina hebben we al het ondersteunend didactisch materiaal samengebracht in een online les. WeGoSTEM bundelt een aantal interessante activiteiten die je op twee lesuren kan realiseren in de klas."  
-  title: "Ontleen gratis de tekenrobots in de bibliotheek en breng STEM in de klas"
-  titlep1: "Om het verdelen van ons materiaal zo vlot mogelijk te laten verlopen, werken we samen met lokale bibliotheken. Een overzicht vind je onderaan deze pagina terug, met links naar het reserveringsformulier of een contactpersoon."
-  titlep2: "Met het materiaal in deze doos kan je een WeGoSTEM-workshop geven voor een klas tot maximaal 30 leerlingen. Maak jouw collega's ook warm voor WeGoSTEM en geef de workshop samen voor alle leerlingen van 5de en 6de leerjaar!" 
-  titlep3: "Het is de bedoeling dat je het materiaal na <strong>twee weken</strong> terugbrengt naar de bibliotheek!"
-  subtitle1: "Ontstaan"
-  subtitle1p1: "In 2017, tijdens de jury presentaties van Young ICT Lady of the Year-kandidaten, kwamen 3 van de kandidaten met elkaar in gesprek. Al snel werd duidelijk dat de reden van deelname aan SheGoesICT dezelfde was: hun eigen passie delen door leerlingen te enthousiasmeren voor STEM. Diezelfde dag besloten de 3 om samen een activiteit op poten te zetten. Een eerste proefworkshop, die inhoudelijk al werd samengesteld door Dwengo vzw, ging door in een Gentse school op internationale vrouwendag."
-  subtitle1p2: "Die proefworkshop zag er goed uit, en we besloten er een groot initiatief van de maken met als eerste focus: duizenden kinderen deze workshop aanbieden op school, tijdens de EU Code Week in oktober. Om dat te realiseren bundelden we de didactische kennis en ervaring van Dwengo met het enthousiasme en netwerk van de SheGoesICT-kandidates. Samen trainden we 300 vrijwilligers die per 3 graag voor één dag voor de klas wilden staan om een robot workshop te bouwen. Het nodige materiaal brachten we naar de scholen, en pikten we daar weer op. Met de hulp van subsidie en sponsoring uit de industrie konden we op die manier zo'n 4000 kinderen bereiken."
-  subtitle2: "Professionaliseren"
-  subtitle2p1: "WeGoSTEM organiseren gaf veel voldoening, het was snel duidelijk dat we er een jaarlijks initiatief van wilden maken. Dat vroeg om een professionalisering van de aanpak. Vanaf 2018 zetten we vooral in op een eigen website waar vrijwilligers en scholen zich konden registreren. Zo konden we de planning voor een groot deel automatiseren. Ook de WeGoSTEM-kit vroeg om een verbetering. We leerden uit de feedback van de vrijwilligers en pasten het materiaal aan."
-  subtitle2p2: "We konden ons bereik in de EU Code Week in 2018 en 2019 nog vergroten, met respectievelijk meer dan 5000, meer dan 7000 kinderen werd het een groot succes! Vanaf 2018 breidden we naast Vlaanderen en Brussel ook uit naar Wallonië, en zelfs in Griekenland vond WeGoSTEM plaats. Net als in 2017 zetten we extra in op scholen waar, meer dan gemiddeld, kinderen met een kansarme achtergrond school lopen. Zo bereikten we telkens voor 30 % kinderen met een kansarme achtergrond. Ook bleven we aandacht hebben voor een goede meisjes-jongensverhouding en zijn we fier dat de vrijwilligers voor 40 % vrouwelijk zijn!"
+  paragraph1: "Mit WeGoSTEM begeistert Dwengo Schüler der dritten Klasse der Grundschule für Technik und Informatik. Wir fordern die Kinder heraus, einen kreativen Kunstroboter zu bauen, der selbstständig zeichnen, bauen und programmieren kann. So lernen sie viele STEM-Fähigkeiten von Technik bis zum rechnerischen Denken."
+  paragraph2: "Auf dieser Seite haben wir alle unterstützenden didaktischen Materialien in einer Online-Lektion zusammengefasst. WeGoSTEM bietet eine Reihe interessanter Aktivitäten, die Sie in zwei Unterrichtsstunden im Klassenzimmer umsetzen können."
+  title: "Leihen Sie die Zeichenroboter kostenlos in der Bibliothek aus und bringen Sie STEM in den Unterricht"
+  titlep1: "Um die Verteilung unseres Materials so reibungslos wie möglich zu gestalten, arbeiten wir mit örtlichen Bibliotheken zusammen. Eine Übersicht finden Sie am Ende dieser Seite, mit Links zum Reservierungsformular oder einem Ansprechpartner."
+  titlep2: "Mit dem Material in diesem Kasten können Sie einen WeGoSTEM-Workshop für eine Klasse mit maximal 30 Schülern durchführen. Begeistern Sie auch Ihre Kollegen für WeGoSTEM und geben Sie den Workshop gemeinsam für alle Schüler der 5. und 6. Klasse!"
+  titlep3: "Es ist beabsichtigt, dass Sie das Material nach <strong>zwei Wochen</strong> wieder in die Bibliothek zurückbringen!"
+  subtitle1: "Ursprung"
+  subtitle1p1: "Im Jahr 2017 kamen während der Jury-Präsentationen der Kandidatinnen für Young ICT Lady of the Year drei der Kandidatinnen miteinander ins Gespräch. Es wurde schnell klar, dass der Grund für die Teilnahme an SheGoesICT derselbe war: ihre eigene Leidenschaft zu teilen, indem sie Schüler für STEM begeisterten. An diesem Tag beschlossen die drei, gemeinsam eine Aktivität zu starten. Ein erster Testworkshop, der inhaltlich bereits von Dwengo vzw zusammengestellt wurde, fand an einem Genter Gymnasium am Internationalen Frauentag statt."
+  subtitle1p2: "Dieser Testworkshop sah vielversprechend aus, und wir beschlossen, daraus eine große Initiative zu machen, mit dem ersten Fokus: Tausenden Kindern diesen Workshop in der Schule während der EU Code Week im Oktober anzubieten. Um dies zu realisieren, bündelten wir das didaktische Wissen und die Erfahrung von Dwengo mit der Begeisterung und dem Netzwerk der SheGoesICT-Kandidatinnen. Gemeinsam haben wir 300 Freiwillige ausgebildet, die gerne zu dritt einen Tag lang vor der Klasse stehen wollten, um einen Roboter-Workshop zu veranstalten. Das erforderliche Material brachten wir zu den Schulen und holten es dort wieder ab. Mit Hilfe von Subventionen und Sponsoring aus der Industrie konnten wir auf diese Weise etwa 4000 Kinder erreichen."
+  subtitle2: "Professionalisierung"
+  subtitle2p1: "Die Organisation von WeGoSTEM machte viel Freude, es wurde schnell klar, dass wir daraus eine jährliche Initiative machen wollten. Das erforderte eine Professionalisierung des Ansatzes. Ab 2018 setzten wir vor allem auf eine eigene Website, auf der sich Freiwillige und Schulen registrieren konnten. So konnten wir die Planung zum großen Teil automatisieren. Auch der WeGoSTEM-Bausatz erforderte eine Verbesserung. Wir lernten aus dem Feedback der Freiwilligen und passten das Material an."
+  subtitle2p2: "Wir konnten unseren Einfluss in der EU Code Week 2018 und 2019 weiter ausdehnen, mit jeweils über 5000 bzw. über 7000 Kindern wurde es ein großer Erfolg! Ab 2018 erweiterten wir neben Flandern und Brüssel auch nach Wallonien und sogar in Griechenland fand WeGoSTEM statt. Wie bereits 2017 konzentrierten wir uns verstärkt auf Schulen, an denen überdurchschnittlich viele Kinder mit einem sozial benachteiligten Hintergrund lernen. Auf diese Weise erreichten wir jedes Mal 30 % Kinder mit einem sozial benachteiligten Hintergrund. Wir behielten auch ein gutes Verhältnis zwischen Mädchen und Jungen im Blick und sind stolz darauf, dass die Freiwilligen zu 40 % weiblich sind!"
   subtitle3: "COVID"
-  subtitle3p1: "COVID verplichtte ons om na te denken over een geheel andere aanpak. Met vrijwilligers naar scholen gaan, lukte niet. Daarom besloten we in te zetten op een ‘teach-the-teacher’-principe. We ontwikkelden een online leerpad zodat de leerkrachten zichzelf konden voorbereiden en de workshop zelf konden geven in de klas. Het materiaal brachten we nog steeds naar de scholen. Elke leerkracht kreeg een online <em>buddy</em>, één van de meer ervaren vrijwilligers van de vorige jaren. In plaats van pure focus op EU Code Week spreidden we het initiatief in 2020 over het gehele schooljaar 2020-2021."
-  subtitle3p2: "We kregen positieve feedback van de leerkrachten, en de buddies lieten ons weten dat er amper vragen kwamen. De basis van het online leerpad zat goed, en werd nog verder verbeterd."
-  subtitle3p3: "Vanaf 2021 besloten we om de aanpak niet meer terug als voorheen te maken, maar om de aanpak verder te herdenken. We werken opnieuw met een (beperktere) versie van WeGoSTEM tijdens de EU Code Week, met een nog sterkere focus op kansarme kinderen. Tijdens de rest van het schooljaar kan nu élke school gebruikmaken van het ondersteunend didactisch materiaal, en bovendien het robotmateriaal gratis ontlenen in één van de bibliotheken waarmee we een samenwerking opzetten. Om het materiaal nog teoegankelijker te maken heeft Dwengo ondertussen een online simulator ontwikkeld die op elke computer of Chromebook kan gebruikt worden. Scholen kunnen nu met hun eigen laptops of Chromebooks werken."
-  title2: "Ontlenen"
+  subtitle3p1: "COVID zwang uns, über einen völlig anderen Ansatz nachzudenken. Mit Freiwilligen in Schulen zu gehen, war nicht möglich. Deshalb entschieden wir uns für das Prinzip des 'Teach-the-Teacher'. Wir entwickelten einen Online-Lernpfad, damit die Lehrer sich selbst vorbereiten und den Workshop selbst im Klassenzimmer durchführen konnten. Das Material brachten wir immer noch zu den Schulen. Jeder Lehrer erhielt einen Online-<em>Buddy</em>, einen der erfahreneren Freiwilligen aus den Vorjahren. Anstelle des reinen Fokus auf die EU Code Week verteilten wir die Initiative im Jahr 2020 über das gesamte Schuljahr 2020-2021."
+  subtitle3p2: "Wir erhielten positives Feedback von den Lehrern, und die Buddies ließen uns wissen, dass es kaum Fragen gab. Die Grundlage des Online-Lernpfads war gut und wurde weiter verbessert."
+  subtitle3p3: "Ab 2021 beschlossen wir, den Ansatz nicht mehr so wie früher zurückzubringen, sondern den Ansatz weiter zu überdenken. Wir arbeiten wieder mit einer (kleineren) Version von WeGoSTEM während der EU Code Week, mit einem noch stärkeren Fokus auf Kinder mit einem sozial benachteiligten Hintergrund. Während des restlichen Schuljahres kann nun jede Schule das unterstützende didaktische Material nutzen und das Robotermaterial außerdem kostenlos in einer der Bibliotheken ausleihen, mit denen wir zusammenarbeiten. Um das Material noch zugänglicher zu machen, hat Dwengo inzwischen einen Online-Simulator entwickelt, der auf jedem Computer oder Chromebook verwendet werden kann. Schulen können jetzt mit ihren eigenen Laptops oder Chromebooks arbeiten."
+  title2: "Ausleihen"
 
 project:
-  page_title: "Computationeel denken"
-  intro: "In onze steeds meer gedigitaliseerde wereld is het belangrijk dat iedereen naast rekenen, lezen en schrijven ook computationeel kan denken. Computationeel denken gaat over het vermogen om problemen op te lossen met behulp van een computer."
-  summary: "Wanneer je computationeel denkt, dan denk je na over de stappen die nodig zijn om tot een oplossing van een bepaald probleem te komen, waarna je met behulp van jouw technische kennis de computer aan het werk zet om het probleem op te lossen."
-  title1: "In de Klas"
-  title1_p: "We demonstreren hoe computationeel denken op een betekenisvolle wijze en vanuit praktische contexten in het curriculum kan geïntegreerd worden. Dit strekt zich uit tot vakken in technische en wetenschappelijke richtingen, maar evenzeer binnen taal- en humane wetenschappen. <br>Onze innovatieve leermaterialen zijn verweven met de bestaande leerlijn 'AI Op School', die computationeel denken aanpakt in de eerste, tweede en derde graad, elk binnen diverse contexten. Hierbij leggen we de focus op een multidisciplinaire aanpak met aandacht voor de impact van nieuwe technologieën op onze snel veranderende maatschappij."
-  t1_subtitle1: "Voor iedereen"
-  t1_p1: "Omdat computationeel denken sterk focust op probleemoplossende vaardigheden kan het aan bod komen in elk bestaand vak in het reguliere onderwijs. Het gaat dan om problemen waarvoor men de oplossing vaak gemakkelijker bekomt met behulp van een computer."
-  t1_subtitle2: "zonder en mét computer"
-  t1_p2: "Via programmeerlessen kan je heel wat concepten van computationeel denken in de praktijk omzetten. Toch kan men ook zonder computer heel wat leren over computationeel denken. Daarvoor zijn tal van interessante unplugged activiteiten mogelijk."
-  t1_subtitle3: "Nascholing"
-  t1_p3: "Met dit project helpen we lerarenopleiders en leerkrachten secundair onderwijs aan de slag via een flexibel, online leertraject met concrete lesmaterialen, geïntegreerd in STEM-projecten, en verschaffen we inzichten om computationeel denken te vertalen naar de eigen studierichting-specifieke context."
-  t1_subtitle4: "Optioneel"
-  t1_p4: "tekst"
-  title2: "Inhoudelijk"
-  title2_p: "De professionalisering van leerkrachten verdient de nodige aandacht, want ze zijn vaak onvoldoende opgeleid inzake de concepten van en mogelijke manieren van aanpak, didactiek en evaluatie voor computationeel denken. Een overzicht van al de leerpaden vind je terug op het einde van het leerpad <em>'Belang van computationeel denken'</em>"
-  t2_subtitle1: "nieuwe terminologie"
-  t2_p1: "Het is belangrijk om leerkrachten vertrouwd te maken met de terminologie zodat ze aspecten van computationeel denken in hun eigen lesmateriaal kunnen herkennen, en hun zelfvertrouwen om les te geven over computationeel denken groeit. Daartoe is er o.a. nood aan een ruim aanbod van kwalitatief lesmateriaal waaraan wij proberen tegemoet te komen."
-  t2_subtitle2: "wetenschappelijk onderzoek"
-  t2_p2: "Men is nog volop bezig met het onderzoeken hoe computationeel denken het beste aan bod komt in het onderwijs. Hier proberen we je alvast een houvast te geven om ermee aan de slag te gaan, terwijl wij de bevindingen opvolgen."
-  t2_subtitle3: "leerpaden"
-  t2_p3: "Hieronder vind je een breed gamma van leerpaden terug. De onderwerpen variëren van <em>'Definitie en aandachtspunten'</em> tot <em>'historiek'</em> en zelfs <em>'Eindtermen en minimumdoelen'</em>."
-  t2_subtitle4: "Optioneel"
-  t2_p4: "tekst"
-  title3: "Hoe begin je eraan?"
-  title3_p: "Tekst"
-  t3_subtitle1: "Optioneel"
-  t3_p1: "tekst"
-  t3_subtitle2: "Optioneel"
-  t3_p2: "tekst"
-  t3_subtitle3: "Optioneel"
-  t3_p3: "tekst"
-  t3_subtitle4: "Optioneel"
-  t3_p4: "tekst"
+  page_title: "Computational Thinking"
+  intro: "In unserer zunehmend digitalisierten Welt ist es wichtig, dass jeder neben Rechnen, Lesen und Schreiben auch computationell denken kann. Computational Thinking bezieht sich auf die Fähigkeit, Probleme mithilfe eines Computers zu lösen."
+  summary: "Wenn Sie computational denken, überlegen Sie die Schritte, die erforderlich sind, um eine Lösung für ein bestimmtes Problem zu finden, und setzen dann mit Hilfe Ihres technischen Wissens den Computer ein, um das Problem zu lösen."
+  title1: "Im Unterricht"
+  title1_p: "Wir zeigen, wie Computational Thinking auf sinnvolle Weise und aus praktischen Kontexten in den Lehrplan integriert werden kann. Dies erstreckt sich auf Fächer in technischen und wissenschaftlichen Richtungen, aber auch in Sprach- und Geisteswissenschaften. Unsere innovativen Lehrmaterialien sind in die bestehende Lernlinie 'AI Op School' eingebunden, die sich in der ersten, zweiten und dritten Klasse mit Computational Thinking befasst, jeweils in verschiedenen Kontexten. Dabei liegt der Schwerpunkt auf einem multidisziplinären Ansatz mit besonderem Augenmerk auf den Auswirkungen neuer Technologien auf unsere sich schnell verändernde Gesellschaft."
+  t1_subtitle1: "Für jeden"
+  t1_p1: "Da Computational Thinking stark auf problemlösende Fähigkeiten ausgerichtet ist, kann es in jedem bestehenden Fach im regulären Unterricht behandelt werden. Es geht dabei um Probleme, für die man oft mit Hilfe eines Computers leichter eine Lösung findet."
+  t1_subtitle2: "ohne und mit Computer"
+  t1_p2: "Über Programmierkurse können Sie viele Konzepte des Computational Thinking in die Praxis umsetzen. Dennoch kann man auch ohne Computer viel über Computational Thinking lernen. Dafür sind zahlreiche interessante Aktivitäten ohne Computer möglich."
+  t1_subtitle3: "Fortbildung"
+  t1_p3: "Mit diesem Projekt unterstützen wir Lehrerausbilder und Lehrer der Sekundarstufe dabei, mithilfe eines flexiblen, Online-Lernpfads mit konkreten Unterrichtsmaterialien, integriert in STEM-Projekte, Computational Thinking in den eigenen fachspezifischen Kontext zu übersetzen."
+  t1_subtitle4: "Optional"
+  t1_p4: "Text"
+  title2: "Inhaltlich"
+  title2_p: "Die Professionalisierung von Lehrern verdient die notwendige Aufmerksamkeit, da sie oft unzureichend in Bezug auf die Konzepte von Computational Thinking und mögliche Herangehensweisen, Didaktik und Bewertung ausgebildet sind. Eine Übersicht aller Lernpfade finden Sie am Ende des Lernpfads <em>'Bedeutung von Computational Thinking'</em>."
+  t2_subtitle1: "neue Terminologie"
+  t2_p1: "Es ist wichtig, Lehrer mit der Terminologie vertraut zu machen, damit sie Aspekte des Computational Thinking in ihrem eigenen Unterrichtsmaterial erkennen können, und ihr Selbstvertrauen, über Computational Thinking zu unterrichten, wächst. Dafür ist unter anderem ein breites Angebot an qualitativ hochwertigem Unterrichtsmaterial erforderlich, dem wir gerecht zu werden versuchen."
+  t2_subtitle2: "wissenschaftliche Forschung"
+  t2_p2: "Es wird noch intensiv erforscht, wie Computational Thinking am besten im Unterricht behandelt werden kann. Hier versuchen wir Ihnen bereits einen Leitfaden zur Umsetzung zu geben, während wir die Erkenntnisse weiterverfolgen."
+  t2_subtitle3: "Lernpfade"
+  t2_p3: "Nachfolgend finden Sie eine breite Palette von Lernpfaden. Die Themen reichen von <em>'Definition und Schwerpunkte'</em> bis <em>'Historie'</em> und sogar <em>'Lehrpläne und Mindestziele'</em>."
+  t2_subtitle4: "Optional"
+  t2_p4: "Text"
+  title3: "Wie fängt man an?"
+  title3_p: "Text"
+  t3_subtitle1: "Optional"
+  t3_p1: "Text"
+  t3_subtitle2: "Optional"
+  t3_p2: "Text"
+  t3_subtitle3: "Optional"
+  t3_p3: "Text"
+  t3_subtitle4: "Optional"
+  t3_p4: "Text"
   
  
 computational_thinking:
-  disc: "Deze leerpaden zijn momenteel in ontwikkeling en worden geleidelijk aangevuld."
-  page_title: "Computationeel denken"
-  intro: "In onze steeds meer gedigitaliseerde wereld is het belangrijk dat iedereen naast rekenen, lezen en schrijven ook computationeel kan denken. Computationeel denken gaat over het vermogen om problemen op te lossen met behulp van een computer."
-  summary: "Wanneer je computationeel denkt, dan denk je na over de stappen die nodig zijn om tot een oplossing van een bepaald probleem te komen, waarna je met behulp van jouw technische kennis de computer aan het werk zet om het probleem op te lossen."
-  title1: "In de Klas"
-  title1_p: "We demonstreren hoe computationeel denken op een betekenisvolle wijze en vanuit praktische contexten in het curriculum kan geïntegreerd worden. Dit strekt zich uit tot vakken in technische en wetenschappelijke richtingen, maar evenzeer binnen taal- en humane wetenschappen. <br>Onze innovatieve leermaterialen zijn verweven met de bestaande leerlijn 'AI Op School', die computationeel denken aanpakt in de eerste, tweede en derde graad, elk binnen diverse contexten. Hierbij leggen we de focus op een multidisciplinaire aanpak met aandacht voor de impact van nieuwe technologieën op onze snel veranderende maatschappij."
-  t1_subtitle1: "Voor iedereen"
-  t1_p1: "Omdat computationeel denken sterk focust op probleemoplossende vaardigheden kan het aan bod komen in elk bestaand vak in het reguliere onderwijs. Het gaat dan om problemen waarvoor men de oplossing vaak gemakkelijker bekomt met behulp van een computer."
-  t1_subtitle2: "zonder en mét computer"
-  t1_p2: "Via programmeerlessen kan je heel wat concepten van computationeel denken in de praktijk omzetten. Toch kan men ook zonder computer heel wat leren over computationeel denken. Daarvoor zijn tal van interessante unplugged activiteiten mogelijk."
-  t1_subtitle3: "Nascholing"
-  t1_p3: "Met dit project helpen we lerarenopleiders en leerkrachten secundair onderwijs aan de slag via een flexibel, online leertraject met concrete lesmaterialen, geïntegreerd in STEM-projecten, en verschaffen we inzichten om computationeel denken te vertalen naar de eigen studierichting-specifieke context."
-  t1_subtitle4: "Optioneel"
-  t1_p4: "tekst"
-  title2: "Inhoudelijk"
-  title2_p: "De professionalisering van leerkrachten verdient de nodige aandacht, want ze zijn vaak onvoldoende opgeleid inzake de concepten van en mogelijke manieren van aanpak, didactiek en evaluatie voor computationeel denken. Een overzicht van al de leerpaden vind je terug op het einde van het leerpad <em>'Belang van computationeel denken'</em>"
-  t2_subtitle1: "nieuwe terminologie"
-  t2_p1: "Het is belangrijk om leerkrachten vertrouwd te maken met de terminologie zodat ze aspecten van computationeel denken in hun eigen lesmateriaal kunnen herkennen, en hun zelfvertrouwen om les te geven over computationeel denken groeit. Daartoe is er o.a. nood aan een ruim aanbod van kwalitatief lesmateriaal waaraan wij proberen tegemoet te komen."
-  t2_subtitle2: "wetenschappelijk onderzoek"
-  t2_p2: "Men is nog volop bezig met het onderzoeken hoe computationeel denken het beste aan bod komt in het onderwijs. Hier proberen we je alvast een houvast te geven om ermee aan de slag te gaan, terwijl wij de bevindingen opvolgen."
-  t2_subtitle3: "leerpaden"
-  t2_p3: "Hieronder vind je een breed gamma van leerpaden terug. De onderwerpen variëren van <em>'Definitie en aandachtspunten'</em> tot <em>'historiek'</em> en zelfs <em>'Eindtermen en minimumdoelen'</em>."
-  t2_subtitle4: "Optioneel"
-  t2_p4: "tekst"
-  title3: "Hoe begin je eraan?"
-  title3_p: "Tekst"
-  t3_subtitle1: "Optioneel"
-  t3_p1: "tekst"
-  t3_subtitle2: "Optioneel"
-  t3_p2: "tekst"
-  t3_subtitle3: "Optioneel"
-  t3_p3: "tekst"
-  t3_subtitle4: "Optioneel"
-  t3_p4: "tekst"
+  disc: "Diese Lernpfade befinden sich derzeit in Entwicklung und werden schrittweise ergänzt."
+  page_title: "Computational Thinking"
+  intro: "In unserer zunehmend digitalisierten Welt ist es wichtig, dass jeder neben Rechnen, Lesen und Schreiben auch computationell denken kann. Computational Thinking bezieht sich auf die Fähigkeit, Probleme mithilfe eines Computers zu lösen."
+  summary: "Wenn Sie computationell denken, überlegen Sie die Schritte, die erforderlich sind, um eine Lösung für ein bestimmtes Problem zu finden, und setzen dann mit Hilfe Ihres technischen Wissens den Computer ein, um das Problem zu lösen."
+  title1: "Im Unterricht"
+  title1_p: "Wir demonstrieren, wie Computational Thinking auf sinnvolle Weise und aus praktischen Kontexten in den Lehrplan integriert werden kann. Dies erstreckt sich auf Fächer in technischen und wissenschaftlichen Richtungen, aber auch in Sprach- und Geisteswissenschaften. <br>Unsere innovativen Lehrmaterialien sind in die bestehende Lernlinie 'AI Op School' eingebunden, die sich in der ersten, zweiten und dritten Klasse mit Computational Thinking befasst, jeweils in verschiedenen Kontexten. Dabei liegt der Schwerpunkt auf einem multidisziplinären Ansatz mit besonderem Augenmerk auf den Auswirkungen neuer Technologien auf unsere sich schnell verändernde Gesellschaft."
+  t1_subtitle1: "Für jeden"
+  t1_p1: "Da Computational Thinking stark auf problemlösende Fähigkeiten ausgerichtet ist, kann es in jedem bestehenden Fach im regulären Unterricht behandelt werden. Es geht dabei um Probleme, für die man oft mit Hilfe eines Computers leichter eine Lösung findet."
+  t1_subtitle2: "ohne und mit Computer"
+  t1_p2: "Über Programmierkurse können Sie viele Konzepte des Computational Thinking in die Praxis umsetzen. Dennoch kann man auch ohne Computer viel über Computational Thinking lernen. Dafür sind zahlreiche interessante Aktivitäten ohne Computer möglich."
+  t1_subtitle3: "Fortbildung"
+  t1_p3: "Mit diesem Projekt unterstützen wir Lerarenopleider und Lehrer der Sekundarstufe dabei, mithilfe eines flexiblen, Online-Lernpfads mit konkreten Unterrichtsmaterialien, integriert in STEM-Projekte, Computational Thinking in den eigenen fachspezifischen Kontext zu übersetzen."
+  t1_subtitle4: "Optional"
+  t1_p4: "Text"
+  title2: "Inhaltlich"
+  title2_p: "Die Professionalisierung von Lehrern verdient die notwendige Aufmerksamkeit, denn sie sind oft unzureichend in Bezug auf die Konzepte von und mögliche Herangehensweisen, Didaktik und Bewertung für Computational Thinking ausgebildet. Eine Übersicht aller Lernpfade finden Sie am Ende des Lernpfads <em>'Bedeutung von Computational Thinking'</em>."
+  t2_subtitle1: "neue Terminologie"
+  t2_p1: "Es ist wichtig, Lehrer mit der Terminologie vertraut zu machen, damit sie Aspekte des Computational Thinking in ihrem eigenen Unterrichtsmaterial erkennen können, und ihr Selbstvertrauen, über Computational Thinking zu unterrichten, wächst. Dafür ist unter anderem ein breites Angebot an qualitativ hochwertigem Unterrichtsmaterial erforderlich, dem wir gerecht zu werden versuchen."
+  t2_subtitle2: "wissenschaftliche Forschung"
+  t2_p2: "Man ist noch intensiv damit beschäftigt, zu erforschen, wie Computational Thinking am besten im Unterricht behandelt werden kann. Hier versuchen wir Ihnen bereits einen Leitfaden zur Umsetzung zu geben, während wir die Erkenntnisse weiterverfolgen."
+  t2_subtitle3: "Lernpfade"
+  t2_p3: "Nachfolgend finden Sie eine breite Palette von Lernpfaden. Die Themen reichen von <em>'Definition und Schwerpunkte'</em> bis <em>'historiek'</em> und sogar <em>'Eindtermen und minimumdoelen'</em>."
+  t2_subtitle4: "Optional"
+  t2_p4: "Text"
+  title3: "Wie fängt man an?"
+  title3_p: "Text"
+  t3_subtitle1: "Optional"
+  t3_p1: "Text"
+  t3_subtitle2: "Optional"
+  t3_p2: "Text"
+  t3_subtitle3: "Optional"
+  t3_p3: "Text"
+  t3_subtitle4: "Optional"
+  t3_p4: "Text"
 
 math_with_python:
-  intro_title: "Computationeel Denken"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  intro_title: "Computational Thinking"
+  paragraph1: "TODO: Alle Inhalte übersetzen"
+  paragraph2: "Die Beziehung zwischen den Stomata (Hautporen) von Pflanzen und dem Klimawandel bietet einen einzigartigen Rahmen, um sich mit tiefen neuronalen Netzwerken zu beschäftigen. Die Programmiersprache Python ist zudem ein sehr zugängliches Werkzeug, um die Grundlagen neuronaler Netzwerke zu studieren."
+  paragraph3: "Ein Vorteil des KIKS-Projekts ist die Zusammenarbeit zwischen Forschern und Lehrern. Das Lehrmaterial von KIKS wird parallel zu den Ergebnissen einer laufenden wissenschaftlichen Untersuchung an der UGent und dem Plantentuin Meise entwickelt."
 
 python_programming:
-  intro_title: "Programmeren in Python"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  intro_title: "Programmieren in Python"
+  paragraph1: "TODO: Alle Inhalte übersetzen"
+  paragraph2: "Die Beziehung zwischen den Stomata (Hautporen) von Pflanzen und dem Klimawandel bietet einen einzigartigen Rahmen, um sich mit tiefen neuronalen Netzwerken zu beschäftigen. Die Programmiersprache Python ist zudem ein sehr zugängliches Werkzeug, um die Grundlagen neuronaler Netzwerke zu studieren."
+  paragraph3: "Ein Vorteil des KIKS-Projekts ist die Zusammenarbeit zwischen Forschern und Lehrern. Das Lehrmaterial von KIKS wird parallel zu den Ergebnissen einer laufenden wissenschaftlichen Untersuchung an der UGent und dem Plantentuin Meise entwickelt."
 
 stem:
-  intro_title: "STEM"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  intro_title: "MINT"
+  paragraph1: "TODO: Alle Inhalte übersetzen"
+  paragraph2: "Die Beziehung zwischen den Stomata (Hautporen) von Pflanzen und dem Klimawandel bietet einen einzigartigen Rahmen, um sich mit tiefen neuronalen Netzwerken zu beschäftigen. Die Programmiersprache Python ist zudem ein sehr zugängliches Werkzeug, um die Grundlagen neuronaler Netzwerke zu studieren."
+  paragraph3: "Ein Vorteil des KIKS-Projekts ist die Zusammenarbeit zwischen Forschern und Lehrern. Das Lehrmaterial von KIKS wird parallel zu den Ergebnissen einer laufenden wissenschaftlichen Untersuchung an der UGent und dem Plantentuin Meise entwickelt."
 
 care:
-  intro_title: "AI in de zorg"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
-  title: "Het wetenschappelijk onderzoek"
-  subtitle1: "Toepassingen van artificiële intelligentie (AI) vinden steeds meer hun weg naar onze maatschappij, waaronder het ziekenhuis. Maar innovaties zijn er in de zorgsector niet alleen op de ziekenhuisvloer, maar ook in de huisartsenpraktijken, in het geneesmiddelenonderzoek en bij jou thuis. Onderzoekers ontwikkelen toepassingen van artificiële intelligentie voor de zorgsector. Dat gebeurt best door <strong>interdisciplinaire teams</strong> die anticiperen op mogelijk negatieve effecten en de <strong>patiënt centraal</strong> stellen.  Vooruitgang op vlak van hardware, bv. sensoren, en software, bv. taaltechnologie, leidt tot nieuwe mogelijkheden. Datagebaseerde en regelgebaseerde AI-modellen worden gecombineerd tot effectieve en meer <strong>transparante systemen</strong>.  Zo kunnen patiënten dankzij wearables al van op afstand worden opgevolgd, doet men via een smartphone-app onderzoek naar migraine, gebeuren anamnesegesprekken via een chatbot, en helpt AI radiologen bij het beoordelen van medische beelden.<br><br>Als deze nieuwe technologieën worden ontwikkeld, rekening houdend met alle gebruikers en mogelijke maatschappelijke effecten, dan hebben ze het potentieel om de werkdruk in de zorgsector te verlagen en te zorgen voor een betere gezondheidszorg."
+  intro_title: "KI im Gesundheitswesen"
+  paragraph1: "TODO: Alle Inhalte übersetzen"
+  paragraph2: "Die Beziehung zwischen den Stomata (Hautporen) von Pflanzen und dem Klimawandel bietet einen einzigartigen Rahmen, um sich mit tiefen neuronalen Netzwerken zu beschäftigen. Die Programmiersprache Python ist zudem ein sehr zugängliches Werkzeug, um die Grundlagen neuronaler Netzwerke zu studieren."
+  paragraph3: "Ein Vorteil des KIKS-Projekts ist die Zusammenarbeit zwischen Forschern und Lehrern. Das Lehrmaterial von KIKS wird parallel zu den Ergebnissen einer laufenden wissenschaftlichen Untersuchung an der UGent und dem Plantentuin Meise entwickelt."
+  title: "Die wissenschaftliche Forschung"
+  subtitle1: "Anwendungen der künstlichen Intelligenz (KI) finden zunehmend ihren Weg in unsere Gesellschaft, einschließlich des Krankenhauses. Innovationen gibt es jedoch nicht nur auf der Krankenhausfläche, sondern auch in Arztpraxen, in der Arzneimittelforschung und bei Ihnen zu Hause. Forscher entwickeln Anwendungen der künstlichen Intelligenz für den Gesundheitssektor. Dies geschieht am besten durch <strong>interdisziplinäre Teams</strong>, die mögliche negative Auswirkungen antizipieren und den <strong>Patienten in den Mittelpunkt</strong> stellen. Fortschritte bei der Hardware, z. B. Sensoren, und der Software, z. B. Sprachtechnologie, führen zu neuen Möglichkeiten. Datenbasierte und regelbasierte KI-Modelle werden zu effektiven und transparenteren Systemen kombiniert. Auf diese Weise können Patienten dank Wearables bereits aus der Ferne überwacht werden, es wird über eine Smartphone-App nach Migräne geforscht, Anamnesegespräche werden über einen Chatbot geführt, und KI hilft Radiologen bei der Beurteilung medizinischer Bilder.<br><br>Wenn diese neuen Technologien entwickelt werden, unter Berücksichtigung aller Benutzer und möglicher gesellschaftlicher Auswirkungen, haben sie das Potenzial, den Arbeitsdruck im Gesundheitswesen zu verringern und für eine bessere Gesundheitsversorgung zu sorgen."
 
 chatbot:
   intro_title: "Chatbot"
-  paragraph1: "<strong>Waar taal en technologie samenkomen, ontstaat het domein van Natural Language Processing (NLP). Met technieken uit machine learning, zoals het trainen van modellen om tekst, afbeeldingen of geluidsfrequenties te herkennen, kunnen we computers op een intelligente manier laten werken met taal. Bekende NLP-toepassingen van machine learning zijn bijvoorbeeld vertaalprogramma's, spraakbesturingssystemen of virtual assistants zoals Siri, en chatrobots.</strong>"
-  paragraph2: "We buigen ons over vragen als <em>Hoe kunnen we automatisch teksten begrijpen, vertalen en zelfs schrijven?</em>, <em>Kan een computer emoties of ironie herkennen in een tekst?</em>, en vooral <em>Hoe belangrijk zijn data?</em>. Leerlingen van de tweede en de derde graad secundair onderwijs krijgen inzicht in het domein NLP en zetten hun eerste stappen in de wereld van het programmeren met Python."
-  title: "Het wetenschappelijk onderzoek"
-  titlep1: "In het domein van Natural Language Processing (NLP) doen onderzoekers een beroep op algoritmen om teksten onder de loep te nemen. Ze gebruiken daarvoor zowel <strong>kennisgebaseerde</strong> als <strong>datagebaseerde kunstmatige intelligentie</strong>. Zo kunnen ze via sentimentanalyse nagaan of mensen zich positief of negatief uitlaten over bepaalde producten, bedrijven of personen op sociale media. Aan de hand van de tekststijl proberen ze te achterhalen wie een bepaalde tekst schreef. Ze onderzoeken ook hoe ze <strong>persoonlijkheidstypes</strong> kunnen onderscheiden op basis van taal. Een goede kennis van taalkunde, computerwetenschappen en psychologie zijn daarbij onontbeerlijk; NLP is een <strong>interdisciplinair</strong> domein."
-  titlep2: "De ontwikkelingen in de taaltechnologie leveren <strong>nieuwe tools</strong> om fake nieuws op te sporen, criminaliteit te bestrijden en de gezondheidszorg efficiënter te maken; ook in de bedrijfswereld zijn er tal van toepassingen."
-  titlep3: "Dit verhaal roept ook <strong>ethische vragen</strong> op. Voor het onderzoek binnen taaltechnologie wordt gebruikgemaakt van data, bijvoorbeeld boodschappen op sociale media en chatberichten. Maar hoe zit het dan met privacy? Vinden we het toelaatbaar dat iemands persoonlijkheid wordt nagegaan op basis van de teksten die die schrijft? Vinden we het wenselijk hoe deze kennis vervolgens wordt aangewend? Ook de onderzoekers worstelen met deze vragen. Sommigen ontwikkelen daarom bijvoorbeeld algoritmes die teksten depersonaliseren."
-  subtitle1: "AI"
-  subtitle1p1: "Om natuurlijke taal te verwerken, wordt artificiële intelligentie gebruikt. De leerlingen exploreren de natural language processing systemen voor toepassingen zoals sentimentanalyse, cyberpestdetectie, en auteursherkenning. Deze systemen gaan niet om met ruwe data, maar de teksten worden eerst voorbereid voordat de computer ze analyseert. De leerlingen krijgen inzicht in de principes van computationeel denken, die hier duidelijk worden geïllustreerd, zoals decompositie, patroonherkenning, abstractie en algoritmen. Ze maken kennis met de mogelijkheden en beperkingen van kennisgebaseerde en datagebaseerde systemen."
+  paragraph1: "<strong>Wo Sprache und Technologie aufeinandertreffen, entsteht das Gebiet des Natural Language Processing (NLP). Mit Techniken aus dem maschinellen Lernen, wie dem Trainieren von Modellen zur Erkennung von Texten, Bildern oder Tonfrequenzen, können wir Computer intelligent mit Sprache arbeiten lassen. Bekannte NLP-Anwendungen des maschinellen Lernens sind beispielsweise Übersetzungsprogramme, Sprachsteuersysteme oder virtuelle Assistenten wie Siri und Chatbots.</strong>"
+  paragraph2: "Wir beschäftigen uns mit Fragen wie <em>Wie können wir Texte automatisch verstehen, übersetzen und sogar schreiben?</em>, <em>Kann ein Computer Emotionen oder Ironie in einem Text erkennen?</em> und besonders <em>Wie wichtig sind Daten?</em>. Schüler der zweiten und dritten Sekundarstufe erhalten Einblick in das NLP-Fachgebiet und machen ihre ersten Schritte in der Welt des Programmierens mit Python."
+  title: "Die wissenschaftliche Forschung"
+  titlep1: "Im Bereich des Natural Language Processing (NLP) setzen Forscher Algorithmen ein, um Texte zu analysieren. Sie verwenden sowohl <strong>wissensbasierte</strong> als auch <strong>datenbasierte künstliche Intelligenz</strong>. Auf diese Weise können sie durch Sentimentanalyse feststellen, ob Menschen sich positiv oder negativ über bestimmte Produkte, Unternehmen oder Personen in sozialen Medien äußern. Anhand des Schreibstils versuchen sie herauszufinden, wer einen bestimmten Text verfasst hat. Sie untersuchen auch, wie sie <strong>Persönlichkeitstypen</strong> anhand von Sprache unterscheiden können. Dabei sind gute Kenntnisse in Linguistik, Informatik und Psychologie unerlässlich; NLP ist ein <strong>interdisziplinäres</strong> Gebiet."
+  titlep2: "Die Entwicklungen in der Sprachtechnologie liefern <strong>neue Werkzeuge</strong>, um Falschnachrichten aufzuspüren, Kriminalität zu bekämpfen und das Gesundheitswesen effizienter zu gestalten; auch in der Geschäftswelt gibt es zahlreiche Anwendungen."
+  titlep3: "Diese Geschichte wirft auch <strong>ethische Fragen</strong> auf. Für die Forschung in der Sprachtechnologie werden Daten verwendet, beispielsweise Nachrichten in sozialen Medien und Chatnachrichten. Aber wie steht es dann um die Privatsphäre? Finden wir es akzeptabel, dass die Persönlichkeit einer Person aufgrund der von ihr verfassten Texte überprüft wird? Finden wir es wünschenswert, wie dieses Wissen anschließend angewendet wird? Auch die Forscher kämpfen mit diesen Fragen. Einige entwickeln beispielsweise Algorithmen, die Texte depersonalisieren."
+  subtitle1: "KI"
+  subtitle1p1: "Um natürliche Sprache zu verarbeiten, wird künstliche Intelligenz verwendet. Die Schüler erkunden die Natural Language Processing-Systeme für Anwendungen wie Sentimentanalyse, Erkennung von Cybermobbing und Erkennung des Autors. Diese Systeme arbeiten nicht mit Rohdaten, sondern die Texte werden vor der Analyse durch den Computer vorbereitet. Die Schüler bekommen Einblick in die Prinzipien des Computational Thinking, die hier deutlich illustriert werden, wie Dekomposition, Mustererkennung, Abstraktion und Algorithmen. Sie lernen die Möglichkeiten und Grenzen von wissensbasierten und datenbasierten Systemen kennen."
   subtitle2: "Chatbots"
-  subtitle2p1: "Steeds meer bedrijven en organisaties plaatsen een chatbot op hun website met het oog op een betere dienstverlening. Dankzij NLP en het in acht nemen van de verwachtingen van de gebruikers worden deze automatische gesprekspartners steeds aangenamer in gebruik. Chatbots worden ingezet voor de klantendienst, HR, het geven van informatie .... en in verschillende domeinen zoals de gezondheidszorg, ontspanning, de bedrijfswereld, de politiek en het onderwijs. De leerlingen ondervinden zelf de beperkingen van een regelgebaseerde chatbot, wat hen mediawijzer maakt, aangezien de meeste chatbots in commerciële toepassingen vandaag nog hoofdzakelijk regelgebaseerd werken."
+  subtitle2p1: "Immer mehr Unternehmen und Organisationen platzieren einen Chatbot auf ihrer Website, um einen besseren Service zu bieten. Dank NLP und der Berücksichtigung der Erwartungen der Benutzer werden diese automatischen Gesprächspartner immer angenehmer zu bedienen. Chatbots werden für den Kundenservice, HR, die Bereitstellung von Informationen usw. eingesetzt und in verschiedenen Bereichen wie Gesundheitswesen, Unterhaltung, Wirtschaft, Politik und Bildung. Die Schüler erfahren selbst die Einschränkungen eines regelbasierten Chatbots, was sie medienkompetenter macht, da die meisten Chatbots in kommerziellen Anwendungen heute noch hauptsächlich regelbasiert arbeiten."
   subtitle3: "Sentimentanalyse"
-  subtitle3p1: "De populariteit van het internet leidde niet alleen tot de opkomst van de sociale media, maar deed ook een nieuw onderzoeksdomein ontstaan: het detecteren van gevoelens en opinies in teksten. Sentimentanalyse heeft haar belang reeds bewezen voor de zakenwereld, de industrie en de maatschappij. Automatisch een sentimentscore toekennen aan online klantenreviews, tweets over politiek, of een chatbotgesprek, het gebeurt allemaal met artificiële intelligentie: NLP die zowel kennisgebaseerd (a.d.h.v. regels) als datagebaseerd (a.d.h.v. machine learning) wordt toegepast."
+  subtitle3p1: " "
 
 physical_computing:
-  intro_title: "Physical computing"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
-  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  intro_title: "Physikalisches Computing"
+  paragraph1: "TODO: Übersetze alle Inhalte"
+  paragraph2: "Die Beziehung zwischen den Spaltöffnungen (Stomata) von Pflanzen und dem Klimawandel bietet einen einzigartigen Rahmen, um mit tiefen neuronalen Netzwerken zu arbeiten. Die Programmiersprache Python ist zudem ein sehr zugängliches Werkzeug, um die Grundlagen neuronaler Netzwerke zu studieren."
+  paragraph3: "Ein Vorteil des KIKS-Projekts ist die Zusammenarbeit zwischen Forschern und Lehrern. Das Lehrmaterial von KIKS wird parallel zu den Ergebnissen einer laufenden wissenschaftlichen Untersuchung an der UGent und dem Plantentuin Meise entwickelt."
 
 learning_paths:
   title: Lernpfade
@@ -379,27 +379,27 @@ contact_page:
 
 # Translations for the projects page
 projects_page:
-  title: Projecten in de kijker
+  title: Projekte im Fokus
   project_1_title: WeGoSTEM
-  project_1_description: Met WeGoSTEM enthousiasmeren we leerlingen uit de derde graad van het basisonderwijs voor techniek en informaticawetenschappen. We dagen de kinderen uit om een creatieve kunst-robot die zelfstandig kan tekenen, te bouwen en te programmeren. Zo leren ze heel wat STEM-vaardigheden van techniek tot computationeel denken. De voorbije jaren bouwden al meer dan 20.000 kinderen in heel België hun eerste robot tijdens het WeGoSTEM-project. Ook jij kan met jouw school aan de slag dankzij het gratis lesmateriaal dat via bibliotheken in heel België verspreid wordt.
-  project_1_contact: "Vragen? Contacteer ons via wegostem@dwengo.org. Voor bibliotheken met logistieke vragen is er een apart adres: bib@dwengo.org. Pers kan contact opnemen met Peter Bertels via 0474 87 40 95 of peter@dwengo.org."
+  project_1_description: Mit WeGoSTEM begeistern wir Schülerinnen und Schüler der dritten Klasse der Grundschule für Technik und Informatikwissenschaften. Wir fordern die Kinder heraus, einen kreativen Kunstroboter zu bauen und zu programmieren, der selbstständig zeichnen kann. Auf diese Weise lernen sie viele STEM-Fähigkeiten von Technik bis zum rechnerischen Denken. In den letzten Jahren haben bereits mehr als 20.000 Kinder in ganz Belgien während des WeGoSTEM-Projekts ihren ersten Roboter gebaut. Auch du kannst mit deiner Schule anfangen, dank des kostenlosen Unterrichtsmaterials, das in Bibliotheken in ganz Belgien verteilt wird.
+  project_1_contact: "Fragen? Kontaktiere uns unter wegostem@dwengo.org. Für Bibliotheken mit logistischen Fragen gibt es eine separate Adresse: bib@dwengo.org. Die Presse kann sich an Peter Bertels unter 0474 87 40 95 oder peter@dwengo.org wenden."
   project_1_teaser: https://youtu.be/5zK8zEZL7rk
-  project_2_title: AI Op School
-  project_2_description: "Artificiële intelligentie (AI) komt volop aan bod in de media. Populaire thema’s zijn: chatbots, zelfrijdende auto’s, virtuele assistenten en het verlies aan jobs. AI-systemen dringen meer en meer onze wereld binnen. AI Op School is een project dat ontstaan is uit de bekommernis dat leerlingen kunstmatige (KI) of artificiële intelligentie moeten kunnen begrijpen en het besef dat er een hiaat is in het curriculum van het secundair onderwijs om hieraan tegemoet te komen. We maken lesmateriaal voor het secundair onderwijs rond AI gelinkt aan de eindtermen en de bestaande leerplandoelen. Al dit lesmateriaal is beschikbaar op onze website."
-  project_2_contact: Vragen? Contacteer ons via team@aiopschool.be. Pers kan contact opnemen met Francis wyffels via 0473 300 729 of Francis@dwengo.org
-  project_2_teaser: https://youtu.be/tqSnpAKLsu8 
-  project_3_title: Internationale projecten
-  project_3_description: Beschrijving internationaal project
-  project_3_contact: Interesse om een internationaal project te starten? Contacteer Francis wyffels via Francis@dwengo.org
-  project_3_teaser: https://www.youtube.com/watch?v=HP0ncKuV2-A 
+  project_2_title: KI an der Schule
+  project_2_description: "Künstliche Intelligenz (KI) ist in den Medien allgegenwärtig. Beliebte Themen sind Chatbots, selbstfahrende Autos, virtuelle Assistenten und der Verlust von Arbeitsplätzen. KI-Systeme dringen immer mehr in unsere Welt ein. KI an der Schule ist ein Projekt, das aus der Sorge entstanden ist, dass Schülerinnen und Schüler KI verstehen müssen, und der Erkenntnis, dass es eine Lücke im Lehrplan der Sekundarschule gibt, um dies zu erreichen. Wir erstellen Unterrichtsmaterial für die Sekundarschule zum Thema KI, das mit den Endzielen und den bestehenden Lehrplänen verknüpft ist. All dieses Unterrichtsmaterial ist auf unserer Website verfügbar."
+  project_2_contact: Fragen? Kontaktiere uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels unter 0473 300 729 oder Francis@dwengo.org wenden.
+  project_2_teaser: https://youtu.be/tqSnpAKLsu8
+  project_3_title: Internationale Projekte
+  project_3_description: Beschreibung internationales Projekt
+  project_3_contact: Interesse, ein internationales Projekt zu starten? Kontaktiere Francis Wyffels unter Francis@dwengo.org
+  project_3_teaser: https://www.youtube.com/watch?v=HP0ncKuV2-A
   project_4_title: Dwenguino
-  project_4_description: "Een robot bouwen met leerlingen of een andere toepassing van physical computing introduceren in de klas is niet zo eenvoudig. Om het voor leerkrachten zo laagdrempelig mogelijk te maken, ontwikkelde Dwengo een eiegen microcontrollerplatform, de Dwenguino, en een grafische programmeeromgeving, DwenguinoBlockly. Zelfs zonder fysiek materiaal kan je hiermee werken. De Dwenguino is een Arduino-gebaseerd microcontrollerplatform dat heel wat elementen bevat waarmee je snel je eigen apparaat kan bouwen, zoals een sociale robot, een weerstation, een muziekinstrument of een autonoom wagentje. De Dwenguino beschikt bijvoorbeeld over drukknoppen, een lcd-scherm, een zoemer, leds en connectoren om motoren aan te sluiten. De Dwenguino is open source. Het platform wordt momenteel reeds gebruikt voor leerlingen vanaf 10 jaar tot in het hoger onderwijs. Er kan een leerlijn mee opgebouwd worden van de eerste tot de derde graad van het secundair onderwijs, van grafisch tot tekstueel programmeren, en met een stijgende moeilijkheidsgraad in toepassingen."
-  project_4_contact: "Vragen? Contacteer ons via natacha@dwengo.org."
+  project_4_description: "Einen Roboter mit Schülerinnen und Schülern zu bauen oder eine andere Anwendung von Physical Computing im Unterricht einzuführen, ist nicht so einfach. Um es Lehrern so einfach wie möglich zu machen, hat Dwengo eine eigene Mikrocontroller-Plattform, den Dwenguino, und eine grafische Programmierumgebung, DwenguinoBlockly, entwickelt. Selbst ohne physisches Material können Sie damit arbeiten. Der Dwenguino ist eine auf Arduino basierende Mikrocontroller-Plattform, die viele Elemente enthält, mit denen Sie schnell Ihr eigenes Gerät bauen können, wie einen sozialen Roboter, eine Wetterstation, ein Musikinstrument oder ein autonomes Fahrzeug. Der Dwenguino verfügt beispielsweise über Druckknöpfe, ein LCD-Display, einen Summer, LEDs und Anschlüsse für Motoren. Der Dwenguino ist Open Source. Die Plattform wird derzeit bereits für Schülerinnen und Schüler ab 10 Jahren bis zur höheren Bildung verwendet. Es kann eine Lernlinie von der ersten bis zur dritten Klasse der Sekundarschule aufgebaut werden, vom grafischen bis zum textbasierten Programmieren und mit steigendem Schwierigkeitsgrad in den Anwendungen."
+  project_4_contact: "Fragen? Kontaktiere uns unter natacha@dwengo.org."
   project_4_teaser: https://www.youtube.com/embed/VpAXLlT_JP0
-  project_5_title: Computationeel denken
-  project_5_description: "Problemen zijn vaak gemakkelijker, nauwkeuriger en sneller op te lossen met behulp van een computer. Wanneer je computationeel denkt, dan denk je na over de stappen die nodig zijn om tot een oplossing van een bepaald probleem te komen, waarna je met je technische kennis de computer aan het werk zet om die stappen uit te voeren en het probleem op te lossen. Computationeel denken focust sterk op probleemoplossende vaardigheden en kan aan bod komen in elk vak in het reguliere onderwijs. Heel wat concepten van computationeel denken kan je praktisch benaderen in programmeerlessen. Toch kan je ook zonder computer heel wat leren over computationeel denken. Dwengo helpt leerkrachten aan plugged en unplugged activiteiten om hun leerlingen computationeel te leren denken, en wil leerkrachten vaardig maken in het herkennen van de concepten van computationeel denken in hun eigen lesmaterialen. De plugged activiteiten zetten in op physical computing (met grafisch en tekstueel programmeren) en STEM (met Python)."
-  project_5_contact: "Vragen? Contacteer ons via natacha@dwengo.org."
-  project_5_teaser: https://youtube.com/embed/Nifa0vooyKg    
+  project_5_title: Rechnerisches Denken
+  project_5_description: "Probleme lassen sich oft leichter, genauer und schneller mit einem Computer lösen. Wenn Sie rechnerisch denken, überlegen Sie die Schritte, die erforderlich sind, um eine Lösung für ein bestimmtes Problem zu finden, und setzen dann mit Ihrem technischen Wissen den Computer ein, um diese Schritte auszuführen und das Problem zu lösen. Rechnerisches Denken konzentriert sich stark auf problemlösende Fähigkeiten und kann in jedem Fach im regulären Unterricht behandelt werden. Viele Konzepte des rechnerischen Denkens können in Programmierkursen praktisch angegangen werden. Sie können jedoch auch ohne Computer viel über rechnerisches Denken lernen. Dwengo unterstützt Lehrer mit angeschlossenen und nicht angeschlossenen Aktivitäten, um ihre Schüler rechnerisches Denken beizubringen, und möchte Lehrer befähigen, die Konzepte des rechnerischen Denkens in ihren eigenen Unterrichtsmaterialien zu erkennen. Die angeschlossenen Aktivitäten konzentrieren sich auf Physical Computing (mit grafischer und textbasierter Programmierung) und STEM (mit Python)."
+  project_5_contact: "Fragen? Kontaktiere uns unter natacha@dwengo.org."
+  project_5_teaser: https://youtube.com/embed/Nifa0vooyKg 
 
 # Translations for the projects page
 curricula_page:
@@ -407,308 +407,308 @@ curricula_page:
   read_more: Lees meer
   curricula_files: Bestanden
   kiks: 
-    title: AI en klimaat
+    title: KI und Klima
     sub_title: KIKS
-    description: "Leerlingen uit de derde graad (SO) onderzoeken hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. Daarvoor tellen ze deze huidmondjes met artificiële intelligentie en beeldherkenning."
+    description: "Schülerinnen und Schüler der dritten Klasse (SO) erforschen, wie Pflanzen sich über ihre Spaltöffnungen an den Klimawandel anpassen. Dazu zählen sie diese Spaltöffnungen mit künstlicher Intelligenz und Bilderkennung."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
     curricula_files:
-      - file_title: "Projectfiche KIKS"
-        file_info: "Dit is een kort overzicht van het KIKS-project met projectstructuur- en kenmerken."
+      - file_title: "Projektblatt KIKS"
+        file_info: "Dies ist ein kurzer Überblick über das KIKS-Projekt mit Projektstruktur und -merkmalen."
         file_location: "/assets/files/kiks/projectfiche_kiks.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "De handleiding - ook verkrijgbaar in gedrukte versie"
-        file_info: "We willen de leerkrachten achtergrondkennis geven over de inhoud van dit project: de klimaatverandering, de biologie van de huidmondjes en de manier waarop planten zich via de huidmondjes aan die klimaatverandering aanpassen, het wetenschappelijk onderzoek van de UGent en de Plantentuin Meise dat aan de grondslag ligt van dit project, burgerwetenschap, wat is artificiële intelligentie (AI), de geschiedenis van AI, het gebruik ervan en de ethiek errond, de principes van digitale beelden, de wiskunde achter de algoritmen en de fundamenten van de momenteel meest gebruikte AI-technieken. We geven ook aan hoe wij met KIKS aan de slag gegaan zijn in de klas.​"
+      - file_title: "Die Anleitung - auch in gedruckter Version erhältlich"
+        file_info: "Wir möchten den Lehrern Hintergrundwissen über den Inhalt dieses Projekts vermitteln: den Klimawandel, die Biologie der Spaltöffnungen und die Art und Weise, wie Pflanzen sich über die Spaltöffnungen an den Klimawandel anpassen, die wissenschaftliche Forschung der UGent und des Plantentuin Meise, die Bürgerwissenschaft, was künstliche Intelligenz (KI) ist, die Geschichte von KI, ihre Anwendung und Ethik, die Prinzipien digitaler Bilder, die Mathematik hinter den Algorithmen und die Grundlagen der derzeit am häufigsten verwendeten KI-Techniken. Wir zeigen auch, wie wir mit KIKS im Unterricht gearbeitet haben."
         file_location: "/assets/files/kiks/KIKS_handleiding_eerstedruk.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Een leerlingencursus"
-        file_info: "Met de leerlingencursus geven we een voorbeeld van een mogelijk, uitgebreid traject dat een leerkracht met leerlingen kan doorlopen. Het traject omvat de klimaatverandering, de biologie van de huidmondjes met een microscopie-opdracht, de manier waarop planten zich via de huidmondjes aan die klimaatverandering aanpassen, het wetenschappelijk onderzoek van de UGent en de Plantentuin Meise, het verzamelen van de data om een neuraal netwerk te trainen, wat is artificiële intelligentie (AI), de geschiedenis van AI, het gebruik ervan en de ethiek errond, de principes van digitale beelden, het werken met convoluties, de wiskunde achter het Perceptron-algoritme, het lineaire en niet-lineaire classificeren van data, en de fundamenten van machinaal leren."
+      - file_title: "Ein Schülerkurs"
+        file_info: "Mit dem Schülerkurs geben wir ein Beispiel für einen möglichen, umfassenden Weg, den ein Lehrer mit den Schülern gehen kann. Der Weg umfasst den Klimawandel, die Biologie der Spaltöffnungen mit einer Mikroskopie-Aufgabe, die Art und Weise, wie Pflanzen sich über die Spaltöffnungen an den Klimawandel anpassen, die wissenschaftliche Forschung der UGent und des Plantentuin Meise, das Sammeln von Daten zur Schulung eines neuronalen Netzwerks, was künstliche Intelligenz (KI) ist, die Geschichte von KI, ihre Anwendung und Ethik, die Prinzipien digitaler Bilder, das Arbeiten mit Convolutional Neural Networks, die Mathematik hinter dem Perceptron-Algorithmus, das lineare und nicht-lineare Klassifizieren von Daten und die Grundlagen des maschinellen Lernens."
         file_location: "/assets/files/kiks/KIKS_leerlingencursus_eerstedruk.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "De leerplandoelen"
-        file_info: "Binnen het KIKS-project kunnen behoorlijk veel leerdoelen aan bod komen. De leerkracht bepaalt zelf welke leerdoelen in verband gebracht worden met het project. Bovendien biedt het project heel wat mogelijkheden om de leerlingen actief en zelfstandig te laten leren en om ICT-vaardigheden bij te brengen. KIKS kan ook gebruikt worden om een onderzoeksopdracht uit te werken.\n In de eindtermen en leerplannen van de verschillende koepels zijn heel wat leerdoelen te vinden die KIKS linken met biologie, aardrijkskunde en wiskunde."
+      - file_title: "Die Lehrziele"
+        file_info: "Im Rahmen des KIKS-Projekts können viele Lehrziele erreicht werden. Der Lehrer entscheidet selbst, welche Lehrziele mit dem Projekt in Verbindung gebracht werden. Darüber hinaus bietet das Projekt viele Möglichkeiten, die Schüler aktiv und selbstständig lernen zu lassen und ICT-Kenntnisse zu vermitteln. KIKS kann auch verwendet werden, um eine Forschungsaufgabe zu entwickeln. In den Endzielen und Lehrplänen der verschiedenen Verbände finden sich viele Lehrziele, die KIKS mit Biologie, Geografie und Mathematik verknüpfen."
         file_location: "/assets/files/kiks/Leerdoelen-KIKS.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Het maken van een nagellakafdruk van een deel van een blad"
-        file_info: "Om het aantal huidmondjes op een deel van een blad van een plant te kennen, bekijken we het bladoppervlak onder de microscoop. We kunnen daarvoor een stuk van de flinterdunne cuticula van het blad verwijderen, maar bij sommige planten lukt dat niet zo goed, bijvoorbeeld door de stugheid van het blad.\nDit kan echter opgevangen worden door dezelfde methode te gebruiken als de onderzoekers van de Plantentuin Meise, nl. een afdruk nemen van een deel van het bladoppervlak met doorzichtige nagellak.\nHet miscroscopische beeld kan met een smartphone gefotografeerd worden."
+      - file_title: "Das Erstellen eines Nagellaktabdrucks eines Blattteils"
+        file_info: "Um die Anzahl der Spaltöffnungen auf einem Teil eines Blattes einer Pflanze zu kennen, betrachten wir die Blattoberfläche unter dem Mikroskop. Wir können dazu einen Teil der dünnen Cuticula des Blattes entfernen, aber bei einigen Pflanzen gelingt das nicht so gut, zum Beispiel aufgrund der Steifheit des Blattes. Dies kann jedoch aufgefangen werden, indem die gleiche Methode verwendet wird wie die Forscher des Plantentuin Meise, nämlich einen Abdruck eines Teils der Blattoberfläche mit transparentem Nagellack zu machen. Das mikroskopische Bild kann mit einem Smartphone fotografiert werden."
         file_location: "https://vimeo.com/467062270"
         file_icon_name: "play_arrow"
-        link_name: "Kijk"
+        link_name: "Ansehen"
   socialrobot:
-    title: Sociale robot
-    sub_title: Robotica in de klas
-    description: "Terwijl leerlingen uit de eerste graad (SO) een sociale robot knutselen en programmeren, leren ze complexe problemen oplossen via computationeel denken. Spelenderwijs werken ze aan de nieuwe eindtermen rond digitale competenties."
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
+    title: Sozialer Roboter
+    sub_title: Robotik im Klassenzimmer
+    description: "Während Schülerinnen und Schüler der ersten Klasse (SO) einen sozialen Roboter basteln und programmieren, lernen sie komplexe Probleme durch computational thinking zu lösen. Auf spielerische Weise arbeiten sie an den neuen Endzielen für digitale Kompetenzen."
+    contact: Fragen? Kontaktieren Sie uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels wenden unter Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8
     curricula_files:
-      - file_title: "Projectfiche Sociale Robot"
-        file_info: "Dit is een kort overzicht van het 'Sociale Robot'-project met projectstructuur en -kenmerken."
+      - file_title: "Projektblatt Sozialer Roboter"
+        file_info: "Dies ist ein kurzer Überblick über das Projekt 'Sozialer Roboter' mit Projektstruktur und -merkmalen."
         file_location: "/assets/files/socialrobot/projectfiche_socialerobot.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Collage sociale robots"
-        file_info: "De robots op deze foto zijn realisaties van leerlingen van de eerste graad van het secundair onderwijs of zijn prototypes.​"
+      - file_title: "Collage sozialer Roboter"
+        file_info: "Die Roboter auf diesem Foto sind Arbeiten von Schülern der ersten Klasse der Sekundarstufe oder Prototypen."
         file_location: "/assets/files/socialrobot/collage.png"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Constructiekit voor 'Sociale Robot'-project"
-        file_info: "​Wil jij dat jouw leerlingen ook een sociale robot ontwerpen en bouwen? Dat kan via de constructiekit van Dwengovzw. Op de figuur ontdek je de huidige samenstelling van de constructiekit. Geïnteresseerd? Contacteer ons via e-mail of vind meer informatie op deze projectpagina."
+      - file_title: "Bausatz für das 'Sozialer Roboter'-Projekt"
+        file_info: "Möchten Sie, dass Ihre Schülerinnen und Schüler auch einen sozialen Roboter entwerfen und bauen? Das geht mit dem Bausatz von Dwengo vzw. Auf der Abbildung sehen Sie die aktuelle Zusammensetzung des Bausatzes. Interessiert? Kontaktieren Sie uns per E-Mail oder finden Sie weitere Informationen auf dieser Projektseite."
         file_location: "/assets/files/socialrobot/constructiekit_socialerobot.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Van project naar eindtermen"
-        file_info: "De eintermen waaraan gewerkt kan worden, worden gelinkt aan de verschillende fasen van het 'Sociale Robot'-project.​"
+      - file_title: "Vom Projekt zu den Endzielen"
+        file_info: "Die Endziele, an denen gearbeitet werden kann, werden mit den verschiedenen Phasen des Projekts 'Sozialer Roboter' verknüpft."
         file_location: "/assets/files/socialrobot/EindtermenAStroomSsocialeRobot.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Emotiemachine (onvolledig) - Computationeel denken (unplugged activiteit)"
-        file_info: "​Unplugged activiteit"
+      - file_title: "Emotionsmaschine (unvollständig) - Computational Thinking (unplugged Aktivität)"
+        file_info: "Unplugged Aktivität"
         file_location: "/assets/files/socialrobot/emotiemachine_gewoon_nl.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Emotiemachine (opdracht) - Computationeel denken (unplugged activiteit)"
-        file_info: "Unplugged activiteit​"
+      - file_title: "Emotionsmaschine (Aufgabe) - Computational Thinking (unplugged Aktivität)"
+        file_info: "Unplugged Aktivität"
         file_location: "/assets/files/socialrobot/emotiemachine_gids.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Emotiemachine (volledig) - Computationeel denken (unplugged activiteit)"
-        file_info: "Unplugged activiteit​"
+      - file_title: "Emotionsmaschine (vollständig) - Computational Thinking (unplugged Aktivität)"
+        file_info: "Unplugged Aktivität"
         file_location: "/assets/files/socialrobot/emotiemachine_ingevuld_nl.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Emotiemachine met led-matrix - Computationeel denken (unplugged activiteit)"
-        file_info: "unplugged activiteit​"
+      - file_title: "Emotionsmaschine mit LED-Matrix - Computational Thinking (unplugged Aktivität)"
+        file_info: "Unplugged Aktivität"
         file_location: "/assets/files/socialrobot/emotiemachine_matrices_nl.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Ficheboekje voor leerkrachten"
-        file_info: "De gebundelde fiches waarin het gebruik van de Dwenguino en van de sensoren en actuatoren uit de doeken wordt gedaan."
+      - file_title: "Lehrerhandbuch"
+        file_info: "Die gebündelten Handbücher, in denen die Verwendung des Dwenguino und der Sensoren und Aktuatoren erklärt wird."
         file_location: "/assets/files/socialrobot/ficheboekje_lkn.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Fiches voor de leerlingen"
-        file_info: "In deze fiches wordt het gebruik van de Dwenguino en van de sensoren en actuatoren uit de doeken gedaan.​"
+      - file_title: "Handbücher für Schülerinnen und Schüler"
+        file_info: "In diesen Handbüchern wird die Verwendung des Dwenguino und der Sensoren und Aktuatoren erklärt."
         file_location: "/assets/files/socialrobot/fichesSocialeRobot_lln.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Maak een gezicht - Computationeel denken (unplugged activiteit)"
-        file_info: "Unplugged activiteit​"
+      - file_title: "Erstelle ein Gesicht - Computational Thinking (unplugged Aktivität)"
+        file_info: "Unplugged Aktivität"
         file_location: "/assets/files/socialrobot/maakeengezicht_activiteit.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Opgaven van opdrachten in de MOOC"
-        file_info: "​Een overzicht van de programmeeroefeningen in de MOOC"
+      - file_title: "Aufgaben der Übungen im MOOC"
+        file_info: "Eine Übersicht über die Programmieraufgaben im MOOC."
         file_location: "/assets/files/socialrobot/Opgaven_MOOC.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Poster 'Sociale Robot'-project"
-        file_info: "De poster geeft de verschillende aspecten van het project weer.​"
+      - file_title: "Poster 'Sozialer Roboter'-Projekt"
+        file_info: "Das Poster zeigt die verschiedenen Aspekte des Projekts."
         file_location: "/assets/files/socialrobot/posterSocialeRobot_nl_Qo4ANmV.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Handleiding 'Hallo robot!'"
-        file_info: "Met dit lesboekje breng je je eigen sociale robot tot leven.​"
+      - file_title: "Handbuch 'Hallo Roboter!'"
+        file_info: "Mit diesem Lehrbuch bringen Sie Ihren eigenen sozialen Roboter zum Leben."
         file_location: "/assets/files/socialrobot/handleiding_hallo_robot.pdf"
         file_icon_name: "description"
-        link_name: "Download" 
+        link_name: "Download"
   chatbot:
-    title: Taaltechnologie op school
-    sub_title: Aan de slag met een chatbot
-    description: "Waar taal en technologie samenkomen, ontstaat het domein van Natural Language Processing. Kan een computer teksten begrijpen, vertalen of zelfs schrijven? Kan een computer emoties herkennen? Leerlingen uit de tweede en derde graad (SO) leren er alles over in dit pakket."
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
+    title: Sprachtechnologie in der Schule
+    sub_title: Mit einem Chatbot arbeiten
+    description: "Wo Sprache und Technologie aufeinandertreffen, entsteht das Gebiet des Natural Language Processing. Kann ein Computer Texte verstehen, übersetzen oder sogar schreiben? Kann ein Computer Emotionen erkennen? Schülerinnen und Schüler der zweiten und dritten Klasse (SO) lernen in diesem Paket alles darüber."
+    contact: Fragen? Kontaktieren Sie uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels wenden unter Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
     curricula_files:
-      - file_title: "Projectfiche Chatbot"
-        file_info: "Dit is een kort overzicht van Chatbot-project met projectstructuur- en kenmerken."
+      - file_title: "Projektblatt Chatbot"
+        file_info: "Dies ist ein kurzer Überblick über das Chatbot-Projekt mit Projektstruktur und -merkmalen."
         file_location: "/assets/files/chatbot/projectfiche_chatbot.pdf"
         file_icon_name: "description"
         link_name: "Download"
       - file_title: "BrAInfood Chatbots"
-        file_info: "In deze brAInfood - gericht naar jongeren - geeft het Kenniscentrum Data & Maatschappij meer informatie over chatbots. De brAInfood bevat een fictief verhaal over Lotte die praat met een chatbot, en vermoedelijk informatie over haar doorgeeft aan bedrijven. Verder worden enkele aandachtspunten met betrekking tot chatbots toegelicht, alsook enkele tips voor jongeren om hun (persoons)gegevens beter te beschermen. Op die manier willen we jongeren bewuster maken van de werking van chatbots en hen stimuleren te reflecteren over de gegevens die van hen worden verzameld.​"
+        file_info: "In diesem brAInfood - für Jugendliche konzipiert - gibt das Zentrum für Daten & Gesellschaft weitere Informationen zu Chatbots. Das brAInfood enthält eine fiktive Geschichte über Lotte, die mit einem Chatbot spricht und vermutlich Informationen über sie an Unternehmen weitergibt. Es werden auch einige Punkte zu Chatbots erläutert sowie einige Tipps für Jugendliche, um ihre (personenbezogenen) Daten besser zu schützen. Auf diese Weise möchten wir Jugendliche für die Funktionsweise von Chatbots sensibilisieren und sie dazu anregen, über die gesammelten Daten nachzudenken."
         file_location: "/assets/files/chatbot/Brainfood13_Chatbots_NL.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "BrAInfood Gepersonaliseerde nieuwsberichten"
-        file_info: "In deze brAInfood van het Kenniscentrum Data & Maatschappij worden tips gegeven over hoe je de controle houdt over je newsfeed.​"
+      - file_title: "BrAInfood Personalisierte Nachrichten"
+        file_info: "In diesem brAInfood des Zentrums für Daten & Gesellschaft werden Tipps gegeben, wie Sie die Kontrolle über Ihren Nachrichten-Feed behalten können."
         file_location: "/assets/files/chatbot/brainfoodaanbevelingnieuws.jpg"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Handleiding 'Chatbot' - Ook verkrijgbaar in gedrukte versie"
-        file_info: "​Leerkrachten verwerven via deze handleiding voldoende achtergrondinformatie om met (een deel van) het 'Chatbot'-project aan de slag te gaan in de klas. Het boek behandelt verschillende aspecten van taaltechnologie, zoals de geschiedenis van de artificiële intelligentie, de ethische aspecten ervan, sentimentanalyse en cyberpestdetectie, chatbots, sprekende digitale assistenten, en auteursherkenning. Er wordt ook ingegaan op de STEM-eindtermen en de eindtermen rond digitale competentie en mediawijsheid."
+      - file_title: "Handbuch 'Chatbot' - Auch in gedruckter Form erhältlich"
+        file_info: "Lehrkräfte erhalten über dieses Handbuch ausreichend Hintergrundinformationen, um mit (einem Teil des) Projekts 'Chatbot' im Klassenzimmer zu arbeiten. Das Buch behandelt verschiedene Aspekte der Sprachtechnologie, wie die Geschichte der künstlichen Intelligenz, ethische Aspekte, Sentimentanalyse und Cybermobbingerkennung, Chatbots, sprechende digitale Assistenten und Autorenerkennung. Es wird auch auf die STEM-Endziele sowie die Endziele zu digitaler Kompetenz und Medienkompetenz eingegangen."
         file_location: "/assets/files/chatbot/Chatbot_handleiding_eerstedruk.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Improbotics - Lesmap - Leerkrachtenversie"
-        file_info: "In de theatervoorstelling Improbotics improviseert een sociale robot mee in de scènes. In de lesmap vind je informatie over de gebruikte technologieën.​"
+      - file_title: "Improbotics - Lehrermappe - Lehrerfassung"
+        file_info: "In der Theateraufführung Improbotics improvisiert ein sozialer Roboter in den Szenen mit. In der Mappe für Lehrkräfte finden Sie Informationen zu den verwendeten Technologien."
         file_location: "/assets/files/chatbot/Improbotics_lesmap_Leerkracht.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Improbotics - Lesmap - Leerlingen"
-        file_info: "In de theatervoorstelling Improbotics improviseert een sociale robot mee in de scènes. In de lesmap vind je informatie over de gebruikte technologieën.​"
+      - file_title: "Improbotics - Lehrermappe - Schülerinnen und Schüler"
+        file_info: "In der Theateraufführung Improbotics improvisiert ein sozialer Roboter in den Szenen mit. In der Mappe finden Sie Informationen zu den verwendeten Technologien."
         file_location: "/assets/files/chatbot/Improbotics_lesmap_Leerling.pdf"
         file_icon_name: "description"
-        link_name: "Download"  
+        link_name: "Download"
   care: 
-    title: AI in de Zorg
-    sub_title: AI systemen die helpen in de zorg
-    description: "Ziekenhuizen maken vandaag al gebruik van artificiële intelligentie. Leerlingen uit de tweede en derde graad (SO) ontdekken welke systemen er bestaan en hoe ze dokters helpen om beslissingen te nemen. Zo leren leerlingen de principes van de beslissingsboom, een veelgebruikte techniek in machine learning."
+    title: KI im Gesundheitswesen
+    sub_title: KI-Systeme, die im Gesundheitswesen helfen
+    description: "Krankenhäuser machen bereits heute Gebrauch von künstlicher Intelligenz. Schülerinnen und Schüler der zweiten und dritten Klasse (SO) entdecken, welche Systeme existieren und wie sie Ärzte bei Entscheidungen unterstützen. Auf diese Weise lernen die Schülerinnen und Schüler die Prinzipien des Entscheidungsbaums, einer weit verbreiteten Technik im maschinellen Lernen."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
     curricula_files:
-      - file_title: "Projectfiche AI in de Zorg"
-        file_info: "Dit is een kort overzicht van project AI in de Zorg met projectstructuur- en kenmerken."
+      - file_title: "Projektblatt KI im Gesundheitswesen"
+        file_info: "Dies ist ein kurzer Überblick über das Projekt KI im Gesundheitswesen mit Projektstruktur und -merkmalen."
         file_location: "/assets/files/care/projectfiche_aiindezorg.pdf"
         file_icon_name: "description"
         link_name: "Download"
       - file_title: "Sprouts"
-        file_info: "Een spel ter inleiding op 'Grafen'.​"
+        file_info: "Ein Spiel zur Einführung in 'Graphen'."
         file_location: "/assets/files/care/Sprouts.mov"
         file_icon_name: "play_arrow"
         link_name: "Download"
-      - file_title: "Uitleg bij oefeningen grafen uit de leerlingencursus"
-        file_info: "Welke figuren stellen er dezelfde graaf voor? Een meer formele werkwijze.​"
+      - file_title: "Erklärung zu Übungen mit Graphen aus dem Schülerkurs"
+        file_info: "Welche Figuren repräsentieren denselben Graphen? Eine formalere Methode."
         file_location: "/assets/files/care/dezelfdegraafFormeel.mov"
         file_icon_name: "play_arrow"
         link_name: "Download"
-      - file_title: "Uitleg bij oefeningen grafen uit de leerlingencursus"
-        file_info: "Welke figuren stellen er dezelfde graaf voor? Een werkwijze met kleuren.​"
+      - file_title: "Erklärung zu Übungen mit Graphen aus dem Schülerkurs"
+        file_info: "Welche Figuren repräsentieren denselben Graphen? Eine Methode mit Farben."
         file_location: "/assets/files/care/dezelfdeGraaf.mov"
         file_icon_name: "play_arrow"
         link_name: "Download"
-      - file_title: "De leerlingencursus - Finaliteit Doorstroom"
-        file_info: "Leerlingencursus"
+      - file_title: "Der Schülerkurs - Ziel Durchfluss"
+        file_info: "Schülerkurs"
         file_location: "/assets/files/care/AIindeZorg_doorstroom_eerstedruk.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Kaartenset - Ook verkrijgbaar in gedrukte versie"
-        file_info: "Aan de hand van deze kaartenset kan je de leerlingen laten stilstaan bij de ethische aspecten van nieuwe technologieën. Hoe zit het met privacy? Komen de sociale contacten niet in het gedrang? Welke technologieën worden met open armen ontvangen? Wat is niet wenselijk? Zijn de nieuwe technologieën voor iedereen betaalbaar?"
+      - file_title: "Kartenset - Auch in gedruckter Form erhältlich"
+        file_info: "Mit diesem Kartenset können Lehrer die Schüler über ethische Aspekte neuer Technologien nachdenken lassen. Wie steht es um die Privatsphäre? Werden soziale Kontakte beeinträchtigt? Welche Technologien werden begeistert aufgenommen? Was ist nicht wünschenswert? Sind die neuen Technologien für alle erschwinglich?"
         file_location: "/assets/files/care/Kaartset_AIIndeZorg_AIOpSchool_Dwengo.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Handleiding kaartenset"
-        file_info: "Deze handleiding voorziet extra uitleg bij de kaartenset."
+      - file_title: "Anleitung für das Kartenset"
+        file_info: "Diese Anleitung bietet zusätzliche Erläuterungen zum Kartenset."
         file_location: "/assets/files/care/AIIndeZorgKaartenset_UitlegVoorLeerkracht.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Beslissingsboom 'mBrAIn'-project in niet-compacte vorm"
-        file_info: "In het onderzoeksproject 'mBrain', dat de ontwikkeling van een app die een migraineaanval voorspelt, als doel heeft, werd een beslissingsboom geconstrueerd. Met deze beslissingsboom wordt een probleem van binaire classificatie aangepakt: er zijn slechts twee klassen: ‘Migraine’ en ‘Geen migraine’. (Bronnen: Femke Ongenae. (2021), UGent; Van Hoecke, S., Ongenae, F., Paemeleire, K., & Vandenbussche, N. (2020). App moet hoofdpijn voorspellen. EOS Wetenschap Special, Technologie en gezondheid, 25.) Wij hebben de vorm van deze beslissingsboom omgevormd tot een binaire beslissingsboom om aan te tonen dat deze vorm niet altijd gebruiksvriendelijk is. Voor meer uitleg zie hoofdstuk 4 van de leerlingencursus van dit project.​"
+      - file_title: "Entscheidungsbaum 'mBrAIn'-Projekt in nicht kompakter Form"
+        file_info: "Im Forschungsprojekt 'mBrain', das die Entwicklung einer App zum Vorhersagen eines Migräneanfalls zum Ziel hat, wurde ein Entscheidungsbaum erstellt. Mit diesem Entscheidungsbaum wird ein Problem der binären Klassifikation angegangen: Es gibt nur zwei Klassen: 'Migräne' und 'Keine Migräne'. (Quellen: Femke Ongenae. (2021), UGent; Van Hoecke, S., Ongenae, F., Paemeleire, K., & Vandenbussche, N. (2020). App muss Kopfschmerzen vorhersagen. EOS Wissenschaftsspezial, Technologie und Gesundheit, 25.) Wir haben die Form dieses Entscheidungsbaums in einen binären Entscheidungsbaum umgewandelt, um zu zeigen, dass diese Form nicht immer benutzerfreundlich ist. Weitere Informationen finden Sie im vierten Kapitel des Schülerkurses dieses Projekts."
         file_location: "/assets/files/care/MBrainBeslissingsboom.png"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Zoektocht naar spraak - Computationeel denken (unplugged activiteit)"
-        file_info: "Het locked-in syndroom is een van de ergste medische aandoeningen. Je bent volledig verlamd, behalve dat je misschien nog kunt knipperen met een oog. Je intelligente geest zit opgesloten in een nutteloos lichaam: je kan alles voelen, maar niet communiceren. Het kan iedereen overkomen, uit het niets, als gevolg van een beroerte. Als je mensen met het locked-in syndroom zou willen helpen, word je dan best arts of verpleegkundige? Of kan je als computerwetenschapper ook helpen?​"
+      - file_title: "Suche nach Sprache - Computerdenken (unplugged Aktivität)"
+        file_info: "Das Locked-In-Syndrom ist eine der schlimmsten medizinischen Erkrankungen. Man ist vollständig gelähmt, außer dass man vielleicht noch mit einem Auge blinzeln kann. Der intelligente Geist ist in einem nutzlosen Körper eingesperrt: Man kann alles fühlen, aber nicht kommunizieren. Es kann jedem passieren, aus dem Nichts, als Folge eines Schlaganfalls. Wenn Sie Menschen mit dem Locked-In-Syndrom helfen möchten, ist es besser, Arzt oder Krankenschwester zu werden? Oder kann man als Informatiker auch helfen?"
         file_location: "/assets/files/care/ZoektochtNaarSpraak.pdf"
         file_icon_name: "description"
         link_name: "Download"
   stem:
-    title: Python in STEM
-    sub_title: Datavisualisaties met Python
-    description: "In dit pakket leer je complexe problemen eenvoudiger én sneller aanpakken met de programmeertaal Python. Programmeren kan immers een verbindende rol spelen tussen wetenschap, techniek, ontwerp en toegepaste wiskunde. Kortom, dankzij Python halen we het beste uit STEM."
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
+    title: Python in MINT
+    sub_title: Datavisualisierungen mit Python
+    description: "In diesem Paket lernen Sie, komplexe Probleme einfacher und schneller mit der Programmiersprache Python zu lösen. Programmieren kann nämlich eine verbindende Rolle zwischen Wissenschaft, Technik, Design und angewandter Mathematik spielen. Kurz gesagt, dank Python holen wir das Beste aus MINT heraus."
+    contact: Fragen? Kontaktieren Sie uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels unter Francis@dwengo.org wenden.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   agriculture:
-    title: AI in de Landbouw
-    sub_title: AI in de landbouw
-    description: "Rotte tomaten weghalen tijdens de oogst? Daar kan artificiële intelligentie bij helpen. Maar hoe? Leerlingen uit de tweede en derde graad (SO) gaan met AI aan de slag. Misschien kan een trillende lopende band het systeem nog beter maken?"
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
+    title: KI in der Landwirtschaft
+    sub_title: KI in der Landwirtschaft
+    description: "Verfaulte Tomaten während der Ernte entfernen? Künstliche Intelligenz kann dabei helfen. Aber wie? Schülerinnen und Schüler der zweiten und dritten Klasse (SO) setzen KI ein. Vielleicht kann ein vibrierendes Laufband das System noch verbessern?"
+    contact: Fragen? Kontaktieren Sie uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels unter Francis@dwengo.org wenden.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
     curricula_files:
-      - file_title: "Ontwerp"
-        file_info: "Ontwerp van de lopende band"
+      - file_title: "Design"
+        file_info: "Design des Laufbands"
         file_location: "/assets/files/art/Transportband_InnoVET_RCH.zip"
         file_icon_name: "description"
         link_name: "Download"
   art: 
-    title: AI in de Kunst
-    sub_title: Tekenrobots in de klas
-    description: "Kunnen we kunst maken met artificiële intelligentie? Leerlingen uit de tweede en derde graad (SO) leven zich creatief uit met AI en reflecteren over het resultaat. Is dit kunst? Ook ontdekken ze hoe AI ons cultureel erfgoed kan beschermen."
+    title: KI in der Kunst
+    sub_title: Zeichenroboter im Unterricht
+    description: "Können wir Kunst mit künstlicher Intelligenz schaffen? Schülerinnen und Schüler der zweiten und dritten Klasse (SO) setzen sich kreativ mit KI auseinander und reflektieren über das Ergebnis. Ist das Kunst? Sie entdecken auch, wie KI unser kulturelles Erbe schützen kann."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   wegostem:
     title: WeGoSTEM
-    sub_title: Tekenrobots in de klas
-    description: "We dagen kinderen van de derde graad (BO) uit om een kunstrobot die kan tekenen te programmeren. Spelenderwijs leren de kinderen heel wat STEM-vaardigheden, van techniek tot computationeel denken."
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
+    sub_title: Zeichenroboter im Unterricht
+    description: "Wir fordern Kinder der dritten Klasse (GS) heraus, einen zeichnenden Kunstroboter zu programmieren. Spielerisch lernen die Kinder viele MINT-Fähigkeiten, von Technik bis zum algorithmischen Denken."
+    contact: Fragen? Kontaktieren Sie uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels unter Francis@dwengo.org wenden.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   computational_thinking:
-    title: Computationeel denken
-    sub_title: Computationeel denken in de klas
-    description: "Hoe kunnen we complexe problemen oplossen met behulp van een computer? Dankzij computationeel denken! Dat kan je leren via allerlei activiteiten met óf zonder computer. Wij helpen je alvast op weg."
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
+    title: Algorithmisches Denken
+    sub_title: Algorithmisches Denken im Unterricht
+    description: "Wie können wir komplexe Probleme mithilfe eines Computers lösen? Dank algorithmischem Denken! Das können Sie durch verschiedene Aktivitäten mit oder ohne Computer lernen. Wir helfen Ihnen gerne auf dem Weg."
+    contact: Fragen? Kontaktieren Sie uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels unter Francis@dwengo.org wenden.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
     curricula_files:
-      - file_title: "Concepten en aanpak computationeel denken"
-        file_info: "poster​"
+      - file_title: "Konzepte und Ansätze des algorithmischen Denkens"
+        file_info: "Poster​"
         file_location: "/assets/files/computational_thinking/CDposterDwengo2.png"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Vier concepten van Computationeel denken uitgelegd"
-        file_info: "Presentatie over vier concepten van computationeel denken: decompositie, patroonherkenning, abstractie en algoritme. Je kan de pdf downloaden > openen > presenteren via CTRL-L  en navigeren met de pijltjestoetsen."
+      - file_title: "Erklärung der vier Konzepte des algorithmischen Denkens"
+        file_info: "Präsentation über die vier Konzepte des algorithmischen Denkens: Dekomposition, Mustererkennung, Abstraktion und Algorithmus. Sie können die PDF herunterladen > öffnen > präsentieren über CTRL-L  und mit den Pfeiltasten navigieren."
         file_location: "/assets/files/computational_thinking/CD4concepten_33V3gBg.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Concepten en principes"
-        file_info: "Overzicht​"
+      - file_title: "Konzepte und Prinzipien"
+        file_info: "Übersicht​"
         file_location: "/assets/files/computational_thinking/Icoontjes.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Unplugged activiteit - Emotiemachine (opdracht)"
-        file_info: "Hoe kan je emoties stimuleren bij een robot?​"
+      - file_title: "Unplugged-Aktivität - Emotionsmaschine (Aufgabe)"
+        file_info: "Wie können Sie Emotionen bei einem Roboter fördern?​"
         file_location: "/assets/files/computational_thinking/emotiemachine_gids.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Unplugged activiteit - Emotiemachine"
-        file_info: "Hoe kan je emoties stimuleren bij een robot?​"
+      - file_title: "Unplugged-Aktivität - Emotionsmaschine"
+        file_info: "Wie können Sie Emotionen bei einem Roboter fördern?​"
         file_location: "/assets/files/computational_thinking/emotiemachine_gewoon_nl.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Unplugged activiteit - Kleuren op nummer"
-        file_info: "​Afbeeldingen kunnen op veel manieren worden gerepresenteerd. In deze kleuren op nummer puzzel moet je een afbeelding reconstrueren, gebruikmakend van de gegeven lijst van nummers; deze lijst vertelt je in welke kleur je elk vierkant (‘pixel’) inkleurt."
+      - file_title: "Unplugged-Aktivität - Farben nach Zahlen"
+        file_info: "​Bilder können auf verschiedene Weisen dargestellt werden. Bei diesem Farben-nach-Zahlen-Rätsel müssen Sie ein Bild rekonstruieren, indem Sie die gegebene Liste von Zahlen verwenden. Diese Liste sagt Ihnen, welche Farbe Sie jedem Quadrat ('Pixel') zuordnen."
         file_location: "/assets/files/computational_thinking/kleurenopnummer1.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Unplugged activiteit - Een menselijk computernetwerk"
-        file_info: "In deze activiteit maken de leerlingen kennis met hoe overdracht van gegevens over het internet werkt. Computers, smartphones en andere toestellen die met elkaar verbonden zijn via het internet, kunnen met elkaar communiceren. Om elkaar te kunnen begrijpen, dient die communicatie volgens bepaalde afspraken te verlopen. We noemen deze afspraken een protocol.​"
+      - file_title: "Unplugged-Aktivität - Ein menschliches Computernetzwerk"
+        file_info: "In dieser Aktivität lernen die Schülerinnen und Schüler, wie die Datenübertragung im Internet funktioniert. Computer, Smartphones und andere Geräte, die über das Internet miteinander verbunden sind, können kommunizieren. Um sich gegenseitig zu verstehen, muss diese Kommunikation nach bestimmten Regeln erfolgen. Diese Regeln nennen wir Protokoll.​"
         file_location: "/assets/files/computational_thinking/menselijkComputernetwerk.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Unplugged activiteit - Comprimeren"
-        file_info: "Om afbeeldingen te verzenden over netwerken, willen we de informatie met zo weinig mogelijk data representeren. Daar komt compressie aan te pas. Met behulp van algoritmes worden afbeeldingen met zo weinig mogelijk getallen gerepresenteerd, maar wel op zo’n manier dat je de oorspronkelijke figuur nog kunt terugkrijgen. Andere algoritmes herstellen de oorspronkelijke afbeelding als de informatie de bestemming bereikt heeft.​"
+      - file_title: "Unplugged-Aktivität - Komprimierung"
+        file_info: "Um Bilder über Netzwerke zu senden, möchten wir die Informationen mit möglichst wenig Daten darstellen. Hier kommt die Komprimierung ins Spiel. Mit Hilfe von Algorithmen werden Bilder mit möglichst wenigen Zahlen dargestellt, aber so, dass Sie das ursprüngliche Bild immer noch wiederherstellen können. Andere Algorithmen stellen das ursprüngliche Bild wieder her, wenn die Informationen ihr Ziel erreicht haben.​"
         file_location: "/assets/files/computational_thinking/puzzel-gecomprimeerdepixel11.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Unplugged activiteit - Programmeer eens een mens"
-        file_info: "Computers kunnen niet interpreteren en voeren dus letterlijk iedere instructie uit die je ze geeft. De uitdaging van de programmeur bestaat erin problemen op te lossen door ze op te delen in kleine stappen die uitvoerbaar zijn door de computer, en de instructies op de juiste manier aan de computer te geven.​"
+      - file_title: "Unplugged-Aktivität - Programmieren Sie einmal einen Menschen"
+        file_info: "Computer können nicht interpretieren und führen daher buchstäblich jede Anweisung aus, die Sie ihnen geben. Die Herausforderung für den Programmierer besteht darin, Probleme in kleine, vom Computer ausführbare Schritte zu zerlegen und dem Computer die Anweisungen auf die richtige Weise zu geben.​"
         file_location: "/assets/files/computational_thinking/programmeerEensEenMens.pdf"
         file_icon_name: "description"
         link_name: "Download"
-      - file_title: "Unplugged activiteit - Zoektocht naar spraak"
-        file_info: "Het locked-in syndroom is een van de ergste medische aandoeningen. Je bent volledig verlamd, behalve dat je misschien nog kunt knipperen met een oog. Je intelligente geest zit opgesloten in een nutteloos lichaam: je kan alles voelen, maar niet communiceren. Het kan iedereen overkomen, uit het niets, als gevolg van een beroerte. Als je mensen met het locked-in syndroom zou willen helpen, word je dan best arts of verpleegkundige? Of kan je als computerwetenschapper ook helpen?​"
+      - file_title: "Unplugged-Aktivität - Suche nach Sprache"
+        file_info: "Das Locked-In-Syndrom ist eine der schlimmsten medizinischen Erkrankungen. Sie sind vollständig gelähmt, außer dass Sie vielleicht noch mit einem Auge blinzeln können. Ihr intelligenter Geist ist in einem nutzlosen Körper gefangen: Sie können alles fühlen, aber nicht kommunizieren. Es kann jedem passieren, aus dem Nichts, als Folge eines Schlaganfalls. Wenn Sie Menschen mit dem Locked-In-Syndrom helfen möchten, werden Sie am besten Arzt oder Krankenschwester? Oder kann Ihnen auch ein Informatiker helfen?​"
         file_location: "/assets/files/computational_thinking/ZoektochtNaarSpraak.pdf"
         file_icon_name: "description"
         link_name: "Download"  
   math_with_python: 
-    title: Python in de Wiskundeles
-    sub_title: Python in wiskunde
-    description: "De programmeertaal Python biedt toffe mogelijkheden om de wiskundeles te verrijken. Van de stelling van Pythagoras tot de opmaak van eigen grafieken, digitale beeldverwerking en lineaire regressie, alles wordt duidelijker met Python."
+    title: Python im Mathematikunterricht
+    sub_title: Python in der Mathematik
+    description: "Die Programmiersprache Python bietet interessante Möglichkeiten, den Mathematikunterricht zu bereichern. Von der Pythagoras-Theorie bis zur Erstellung eigener Grafiken, digitalen Bildverarbeitung und linearer Regression wird alles mit Python klarer."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
   python_programming:
-    title: Programmeren met Python
-    sub_title: Basis programmeren in Python
-    description: "De basisprincipes van programmeren aanleren? Dat kan perfect via dit pakket. We gaan aan de slag met Python en leren alles over sequenties, herhalingsstructuur en keuzestructuur. Dat is precies wat er in de eindtermen staat. En meer!"
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
-    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+      title: Programmieren mit Python
+      sub_title: Grundlagen des Programmierens in Python
+      description: "Die Grundprinzipien des Programmierens erlernen? Das ist perfekt möglich mit diesem Paket. Wir verwenden Python und lernen alles über Sequenzen, Wiederholungsstrukturen und Auswahlstrukturen. Genau das steht in den Endzielen. Und noch mehr!"
+      contact: Fragen? Kontaktieren Sie uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels unter Francis@dwengo.org wenden.
+      teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
   physical_computing:
-    title: Physical computing
-    sub_title: Programmeer robots in de klas
-    description: "Een muziekinstrument, auto of weerstation bouwen? Dat kan met Dwenguino, een microcontrollerplatform met een eigen programmeeromgeving. Leerlingen uit zowel basis- als secundair onderwijs kunnen er meteen mee aan de slag. In het echt of in onze simulator, blokgebaseerd of tekstueel. "
-    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
-    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+      title: Physical Computing
+      sub_title: Programmieren von Robotern im Unterricht
+      description: "Ein Musikinstrument, Auto oder Wetterstation bauen? Das geht mit Dwenguino, einer Mikrocontroller-Plattform mit einer eigenen Programmierumgebung. Schülerinnen und Schüler der Grundschule und der Sekundarstufe können sofort damit arbeiten. Echt oder in unserem Simulator, blockbasiert oder textuell."
+      contact: Fragen? Kontaktieren Sie uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels unter Francis@dwengo.org wenden.
+      teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
  
 
 # Translations for the learning-path page
