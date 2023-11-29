@@ -1,6 +1,7 @@
 <style>
     #cookie-notice {padding: 0.5rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: rgba(0,0,0,0.7); color: rgba(255,255,255,0.8); height: 50vh;}
     #cookie-notice a {display: inline-block; cursor: pointer; margin-left: 0.5rem;}
+    #cookie-notice-hide {font-size: x-large; color: gray; position: absolute; right: 10px; cursor: pointer}
     @media (max-width: 767px) {
         #cookie-notice span {display: block; padding-top: 3px; margin-bottom: 1rem;}
         #cookie-notice a {position: relative; bottom: 4px;}
@@ -11,7 +12,7 @@
 {% else %}
     {% assign url_with_lang = '/' | append: site.lang | append: '/' | append: "privacy" %}
 {% endif %}
-<div id="cookie-notice"><span>{% t privacy.notice %}</span><a id="cookie-notice-accept" class="btn btn-primary btn-sm">{% t privacy.accept %}</a><a href="{{ url_with_lang }}" class="btn btn-primary btn-sm">{% t privacy.info %}</a></div>
+<div id="cookie-notice"><span>{% t privacy.notice %}</span><a id="cookie-notice-accept" class="btn btn-primary btn-sm">{% t privacy.accept %}</a><a href="{{ url_with_lang }}" class="btn btn-primary btn-sm">{% t privacy.info %}</a><span id="cookie-notice-hide">▼</span></span></div>
 <script>
     function createCookie(name,value,days) {
         var expires = "";
@@ -46,5 +47,10 @@
         document.getElementById('cookie-notice').style.display = 'none';
         location.reload();
     });
+
+    document.getElementById("cookie-notice-hide").addEventListener("click", function(){
+        document.getElementById('cookie-notice').style.height = 'auto';
+        document.getElementById('cookie-notice-hide').style.display = 'none';
+    })
 
 </script>
