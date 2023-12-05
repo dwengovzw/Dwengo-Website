@@ -204,6 +204,11 @@ function loadObjectContent(hruid, language, version) {
                     console.log("Prism highlight complete")
                 })
             }
+            if (LearningpathInteraction){
+                LearningpathInteraction.formatLearningObject(document.getElementById("lo_content"), () => {
+                    console.log("Learningobject interaction setup complete");
+                })
+            }
         }
     };
     xhttp.open("GET", `${api_base_path}/api/learningObject/getRaw?hruid=${hruid}&version=${version}&language=${language}`, true);
