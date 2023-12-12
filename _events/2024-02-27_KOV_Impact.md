@@ -11,18 +11,18 @@ registration_link: "https://nascholing.be/2023-2024/index.aspx?modID=4056689"
 Bij dit nieuwe minimumdoel komt heel wat kijken. Leerlingen hebben de basisconcepten van computationeel denken leren kennen in de eerste graad en moeten deze nu in een nieuwe context 
 gaan toepassen om de werking van een digitaal systeem te begrijpen en zo goed te kunnen inschatten welke impact zo’n systeem op de maatschappij kan hebben.
 
-**Doelgroep:**<br>
+**Doelgroep:**
 Leerkrachten 2de graad (alle finaliteiten).<br>
 Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor en educatieve master).
 
-**Wanneer:** <br>
-- 27 februari 2024 in Gent
+**Wanneer:** 
+- 27 februari 2024 in Gent<br>
 
 **Volg deze sessie ook op een ander moment:**
 - 4 maart 2024 in Mechelen
-- 5 maart 2024 online
+- 5 maart 2024 online<br>
 
-**Locatie:** Gent<br>
+**Locatie:** Gent
 **Organisatie:** Katholiek Onderwijs Vlaanderen
 
 [Meer info en inschrijven](https://nascholing.be/2023-2024/index.aspx?modID=4056689)
