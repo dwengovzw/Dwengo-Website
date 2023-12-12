@@ -4,7 +4,7 @@ date: 2024-03-04T13:30:00
 end_date: 2024-03-04T16:30:00
 item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
 location: "Mechelen"
-location_link: ""
+location_link: "https://www.google.be/maps?f=d&source=s_d&saddr&daddr=Frederik+de+Merodestraat+18+Mechelen+2800&hl=nl"
 language: "nl"
 registration_link: "https://nascholing.be/2023-2024/index.aspx?modID=4056689"
 ---
