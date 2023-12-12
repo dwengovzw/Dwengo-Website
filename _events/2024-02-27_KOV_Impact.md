@@ -23,7 +23,5 @@ Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor e
 - 5 maart 2024 online<br>
 <br>
 
-**Locatie:** Gent
+**Locatie:** Gent<br>
 **Organisatie:** Katholiek Onderwijs Vlaanderen
-
-[Meer info en inschrijven](https://nascholing.be/2023-2024/index.aspx?modID=4056689)

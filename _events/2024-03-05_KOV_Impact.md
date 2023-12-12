@@ -21,7 +21,7 @@ Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor e
 
 **Volg deze sessie ook op een ander moment:**
 - 27 februari 2024 in Gent
-- 4 maart 2024 in Mechelen
+- 4 maart 2024 in Mechelen<br>
 <br>
 
 **Locatie:** Online <br>
