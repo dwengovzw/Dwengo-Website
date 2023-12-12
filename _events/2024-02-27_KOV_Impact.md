@@ -15,8 +15,7 @@ gaan toepassen om de werking van een digitaal systeem te begrijpen en zo goed te
 Leerkrachten 2de graad (alle finaliteiten).<br>
 Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor en educatieve master).
 
-**Wanneer:** 
-27 februari 2024 in Gent
+**Wanneer:**  27 februari 2024
 
 **Volg deze sessie ook op een ander moment:**
 - 4 maart 2024 in Mechelen
