@@ -1,7 +1,7 @@
 ---
 title: "Minimumdoel - De impact van digitale systemen op de maatschappij"
 date: 2024-02-27T13:30:00
-end_date: 2024-03-15T16:30:00
+end_date: 2024-02-27T16:30:00
 item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
 location: "Gent"
 location_link: ""
@@ -17,10 +17,12 @@ Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor e
 
 **Wanneer:** <br>
 - 27 februari 2024 in Gent
+
+**Volg deze sessie ook op een ander moment:**
 - 4 maart 2024 in Mechelen
 - 5 maart 2024 online
 
-**Locatie:** Gent of Mechelen of online <br>
+**Locatie:** Gent<br>
 **Organisatie:** Katholiek Onderwijs Vlaanderen
 
 [Meer info en inschrijven](https://nascholing.be/2023-2024/index.aspx?modID=4056689)
