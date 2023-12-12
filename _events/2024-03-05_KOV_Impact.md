@@ -16,13 +16,13 @@ Leerkrachten 2de graad (alle finaliteiten).<br>
 Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor en educatieve master).
 
 **Wanneer:**
-- 5 maart 2024 online
+5 maart 2024 online
 
 
 **Volg deze sessie ook op een ander moment:**
 - 27 februari 2024 in Gent
 - 4 maart 2024 in Mechelen
-
+<br>
 
 **Locatie:** Online <br>
 **Organisatie:** Katholiek Onderwijs Vlaanderen
