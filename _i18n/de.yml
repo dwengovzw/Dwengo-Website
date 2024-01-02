@@ -32,6 +32,10 @@ strengths:
 partners:
   partners: Partner
 
+algorithms:
+  intro_title: "Algorithmen"
+  paragraph1: "Algorithmen sind überall. Sie bilden die Grundlage der digitalen Welt."
+
 kiks:
   intro_title: "KIKS"
   paragraph1: "KIKS ist ein MINT-Projekt zu künstlicher Intelligenz (KI) für die dritte Sekundarschulstufe. Schülerinnen und Schüler lernen KI zu verstehen, mit Möglichkeiten und Grenzen; sie lernen, wie sie darauf Einfluss nehmen können."
@@ -791,6 +795,7 @@ theme_selection_filter_translation:
   tec: "Technologie"
   bio: "Biologie"
   mech: "Elektrizität und Mechanik"
+  algo: "Algorithmisches Denken"
   
 theme_selection_age_group_translation:
   p: Grundschule

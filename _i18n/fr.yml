@@ -31,6 +31,10 @@ strengths:
 partners:
   partners: Partners
 
+algorithms:
+  intro_title: "Algorithmes"
+  paragraph1: "Les algorithmes sont partout. Ils constituent la base du monde numérique."
+
 kiks:
   intro_title: "KIKS"
   paragraph1: "KIKS est un projet vocal sur l'intelligence artificielle (IA) pour l'enseignement secondaire du troisième degré. Les élèves apprennent à comprendre l'IA, avec des possibilités et des limites; ils apprennent à avoir un impact à ce sujet."
@@ -805,6 +809,7 @@ theme_selection_filter_translation:
   tec: "Technologie"
   bio: "La biologie"
   mech: "Electricité et mécanique"
+  algo: "Algorithmes"
   
 theme_selection_age_group_translation:
   p: École primaire

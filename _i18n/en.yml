@@ -31,6 +31,10 @@ strengths:
 partners:
   partners: Partners
 
+algorithms:
+  intro_title: "Algorithms"
+  paragraph1: "Algorithms are everywhere. They are the foundation of the digital world."
+
 kiks:
   intro_title: "KIKS"
   paragraph1: "KIKS is a STEM project on artificial intelligence (AI) for the third grade of secondary education. Students learn to understand AI, its possibilities, and limitations; they learn how to have an impact on it."
@@ -797,6 +801,7 @@ theme_selection_filter_translation:
   tec: "Technology"
   bio: "Biology"
   mech: "Electricity and mechanics"
+  algo: "Algorithms"
   
 theme_selection_age_group_translation:
   p: primary school
