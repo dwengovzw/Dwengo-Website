@@ -406,6 +406,12 @@ curricula_page:
   title: Unsere Unterrichtsthemen
   read_more: Lees meer
   curricula_files: Bestanden
+  algorithms:
+    title: Algorithmen
+    sub_title: Algorithmen
+    description: "Schüler der zweiten Klasse (Sekundarstufe) lernen, wie sie Algorithmen verwenden können, um Probleme zu lösen. Sie lernen, wie sie Algorithmen entwerfen und die Effizienz von Algorithmen analysieren können. Sie lernen auch, wie sie Algorithmen zur Problemlösung einsetzen können."
+    contact: ""
+    teaser: https://www.youtube.com/embed/2B6gZ9HdQ1Y
   kiks: 
     title: KI und Klima
     sub_title: KIKS

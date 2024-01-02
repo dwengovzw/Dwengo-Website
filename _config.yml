@@ -42,7 +42,7 @@ languages: ["nl", "en", "fr", "de"]
 exclude_from_localizations: ["js", "images", "css"]
 #default_locale_in_subfolder: true
 
-theme_selection_filters: ["lang_art", "mech", "clim", "agro", "soc", "math", "tec"]
+theme_selection_filters: ["lang_art", "mech", "clim", "agro", "soc", "math", "tec", "algo"]
 
 theme_age_groups: ["p" ,"s1" ,"s2" ,"s3" ,"h"]
 
@@ -53,12 +53,13 @@ theme_tags:
   art: ["all", "lang_art"]
   wegostem: ["all", "lang_art", "tec", "mech"]
   computational_thinking: ["all", "tec"]
-  math_with_python: ["all", "math"]
-  python_programming: ["all", "math"]
-  stem: ["all", "math", "tec", "mech"]
+  math_with_python: ["all", "math", "algo"]
+  python_programming: ["all", "math", "algo"]
+  stem: ["all", "math", "tec", "mech", "algo"]
   care: ["all", "soc", "math"]
   chatbot: ["all", "lang_art", "soc"]
   physical_computing: ["all", "tec", "mech"]
+  algorithms: ["all", "algo"]
 
 age_tags:
   kiks: ["all", "s2" ,"s3" ,"h"]
@@ -73,6 +74,7 @@ age_tags:
   care: ["all", "s3" ,"s2"]
   chatbot: ["all", "s2" ,"s3"]
   physical_computing: ["all", "p" ,"s1"]
+  algorithms: ["all", "s2" ,"s3", "h"]
 
 
 # Build settings

@@ -411,6 +411,12 @@ curricula_page:
   title: Our teaching topics
   read_more: Read more
   curricula_files: Files
+  algorithms:
+    title: Algorithms
+    sub_title: Algorithms
+    description: "Students in the second grade (secondary education) learn how to use algorithms to solve problems. They learn how to design algorithms and analyze the efficiency of algorithms. They also learn how to use algorithms to solve problems."
+    contact: ""
+    teaser: https://www.youtube.com/embed/2B6gZ9HdQ1Y
   kiks: 
     title: AI and Climate
     sub_title: KIKS

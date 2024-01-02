@@ -247,6 +247,13 @@ curricula_page:
   read_more: Lees meer
   curricula_files: Bestanden
 
+  algorithms:
+    title: Algoritmes
+    sub_title: Algoritmes
+    description: "Leerlingen uit de tweede graad (SO) leren hoe ze algoritmes kunnen gebruiken om problemen op te lossen. Ze leren hoe ze algoritmes kunnen ontwerpen en hoe ze de efficiëntie van algoritmes kunnen analyseren. Ze leren ook hoe ze algoritmes kunnen gebruiken om problemen op te lossen."
+    contact: ""
+    teaser: https://www.youtube.com/embed/2B6gZ9HdQ1Y
+    
   kiks:
     title: AI en klimaat
     sub_title: KIKS

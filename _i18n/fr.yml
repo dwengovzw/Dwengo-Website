@@ -410,6 +410,12 @@ curricula_page:
   title: Notre sujets d'enseignement
   read_more: "Lees meer"
   curricula_files: "Bestanden"
+  algorithms:
+    title: Algorithmes
+    sub_title: Algorithmes
+    description: "Les élèves de la deuxième année (enseignement secondaire) apprennent comment utiliser des algorithmes pour résoudre des problèmes. Ils apprennent à concevoir des algorithmes et à analyser l'efficacité de ces derniers. Ils apprennent également à utiliser des algorithmes pour résoudre des problèmes."
+    contact: ""
+    teaser: https://www.youtube.com/embed/2B6gZ9HdQ1Y
   kiks:
     title: "IA et changement climatique"
     sub_title: "KIKS"
