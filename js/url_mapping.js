@@ -295,22 +295,22 @@ let urlToHruidMapping = {
         default_language: "nl"
     },
     lift: {
-        hruid: "un_elevator_riddle",
+        hruid: "anm3",
         languages: ["nl"],
         default_language: "nl"
     },
     lift_web: {
-        hruid: "un_elevator_riddle",
+        hruid: "anm3",
         languages: ["nl"],
         default_language: "nl"
     },
     lift_fb: {
-        hruid: "un_elevator_riddle",
+        hruid: "anm3",
         languages: ["nl"],
         default_language: "nl"
     },
     lift_x: {
-        hruid: "un_elevator_riddle",
+        hruid: "anm3",
         languages: ["nl"],
         default_language: "nl"
     },
