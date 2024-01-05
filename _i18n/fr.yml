@@ -34,6 +34,9 @@ partners:
 algorithms:
   intro_title: "Algorithmes"
   paragraph1: "Les algorithmes sont partout. Ils constituent la base du monde numérique."
+  paragraph2: "Dans un monde où le big data joue un rôle croissant, les algorithmes sont la clé pour accéder aux informations cachées dans les données.
+Les algorithmes sont l'épine dorsale de la technologie moderne. Qu'il s'agisse de personnaliser les recommandations, d'améliorer l'analyse des soins de santé ou d'optimiser les processus commerciaux, les algorithmes sont le moteur de l'innovation. Les méthodes numériques permettent de résoudre les problèmes mathématiques, ce qui nous permet d'effectuer des simulations précises et d'obtenir des informations utiles
+"
 
 kiks:
   intro_title: "KIKS"
