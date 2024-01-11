@@ -9,11 +9,12 @@ global:
   donate: Doneer
   shop: Shop
   social_media_tagline: Uniek lesmateriaal en nascholingen over AI en STEM
+  learning_path_explain_video_url: https://www.youtube.com/embed/XPbozIs9NcE?si=d8HizoNFyAJttdEt
 
 
 # Translations for the home page split into the strengths section and learning paths section ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 strengths:
-  title: Ga aan de slag met uniek lesmateriaal over AI en STEM!
+  title: Verrijk je lessen met AI en robotica!
   innovative: Innovatief
   research_based: Onderzoeksgedreven
   inclusive: Inclusief
@@ -36,6 +37,32 @@ algorithms:
   intro_title: "Algoritmes"
   paragraph1: "Algoritmes zijn overal. Ze zijn de basis van de digitale wereld."
   paragraph2: "In een wereld waar big data een steeds grotere rol speelt, vormen algoritmes de sleutel om toegang te krijgen tot informatie die in data verschuild is. Algoritmes vormen de ruggengraat van moderne technologie. Of het nu gaat om het personaliseren van aanbevelingen, het verbeteren van gezondheidszorganalyses of het optimaliseren van bedrijfsprocessen, algoritmes zijn de drijvende kracht achter innovatie. Numerieke methodes geven manieren om daarbij wiskundige vraagstukken op te lossen, waardoor we in staat zijn om nauwkeurige simulaties uit te voeren en betekenisvolle inzichten te verkrijgen."
+
+
+kiks_test:
+  title1: "Starten met KIKS"
+  title1p1: "Hieronder vind je kant en klaar lesmateriaal en tools om met KIKS aan de slag te gaan. Het materiaal is opgedeeld in leerpaden die alle aspecten van het project stap voor stap toelichten. Bekijk deze video om te weten te komen hoe je aan de slag gaat met onze leerpaden."
+  intro_title: "KIKS"
+  paragraph1: "KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben."
+  paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
+  paragraph3: "Een troef van het KIKS-project is de samenwerking tussen onderzoekers en leerkrachten. Het lesmateriaal van KIKS wordt immers ontwikkeld, parallel met de resultaten van een lopend wetenschappelijk onderzoek aan de UGent en de Plantentuin Meise."
+  form_text: "We willen graag dat zoveel mogelijk leerkrachten en leerlingen kennismaken met 'KIKS' en ermee aan de slag gaan in de klas. U kan uw interesse laten blijken via ons formulier."
+  form_button_text: "INTERESSE?"
+  title1p2: "Het tellen en meten van stomata is echter een heel tijdrovende bezigheid. Om dit te <strong>automatiseren</strong>, heeft een computerwetenschapper van de UGent <strong>een neuraal netwerk getraind</strong>. Om zo'n netwerk te trainen zijn veel voorbeelden nodig: foto's van stomata en foto's van bladeren zonder stomata."
+  title2: "In de klas"
+  title2p1: "Het KIKS-project heeft als doel de leerlingen de <strong>fundamenten van AI</strong> te leren kennen en hen bij te brengen hoe ze vat kunnen hebben op AI-systemen die ze tegenkomen in hun dagelijks leven. <br>
+We willen daarom leerkrachten aanmoedigen om met KIKS en AI aan de slag te gaan in de klas, met of zonder programmeren.<br>
+We hebben geprobeerd het project zo laagdrempelig mogelijk te houden door het materiaal online aan te bieden, door ervoor te zorgen dat er geen extra software geïnstalleerd moet worden en door in de nodige achtergrondinformatie te voorzien via een handleiding.<br>
+We hopen dat er tijdens de projectlessen ook tijd wordt vrijgemaakt om stil te staan bij de <strong>ethische kwesties</strong> die opduiken door de aanwezigheid van AI en deep learning-systemen in het dagelijks leven."
+  title2p2: "Het lesmateriaal kan ook op een andere manier worden ingezet. Men kan bv. enkele notebooks uitkiezen om de leerlingen te leren programmeren in Python of men kan er opdrachten uit halen om te werken aan onderzoekscompetenties in de lessen biologie, aardrijkskunde of wiskunde. Men kan de leerlingen aan de hand van enkele notebooks vertrouwd maken met de principes van digitale beeldverwerking of de leerkracht Nederlands of godsdienst kan in dit project inspiratie halen voor een les over de maatschappelijke aspecten van AI."
+  subtitle1: "Klimaat"
+  subtitle1p1: "Sinds het begin van de industriële revolutie (1750) is de concentratie van broeikasgassen in onze atmosfeer sterk toegenomen. Dit versterkt het natuurlijk broeikaseffect. De laag met broeikasgassen in de atmosfeer fungeert als een soort deken, dat dikker wordt naarmate de hoeveelheid broeikasgassen toeneemt. Bijgevolg wordt het onder het deken warmer omdat de warmte steeds moeilijker van onder het deken kan ontsnappen naar de ruimte. De verhoogde concentratie van broeikasgassen in de atmosfeer resulteert in een verhoging van de gemiddelde temperatuur en een globale klimaatverandering."
+  subtitle2: "Stomata"
+  subtitle2p1: "Planten zijn in staat om zelf de energierijke koolstofverbindingen op te bouwen die ze nodig hebben om te leven, te groeien en zich te kunnen reproduceren. Ze doen dit via fotosynthese. Hiervoor moet de plant CO2 opnemen. Om die opname mogelijk te maken, zijn er microscopisch kleine poortjes in de opperhuid van het blad, de huidmondjes (stomata). De huidmondjes staan ook in voor afkoeling van de plant en het onderhouden van de sapstroom van wortel tot hoog in de plant."
+  subtitle2p2: "Uit de paleoklimatologie blijkt dat de stomatale grootte en dichtheid beïnvloed worden door de atmosferische CO<sub>2</sub>-concentratie."
+  subtitle3: "AI"
+  subtitle3p1: "Diepe neurale netwerken zijn een vorm van machinaal leren, en behoren dus tot het domein van de artificiële intelligentie. Convolutionele neurale netwerken zijn uitermate geschikt om huidmondjes op microfoto's te herkennen."
+  subtitle3p2: "Aan d"
 
 # Old project pages ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 kiks:

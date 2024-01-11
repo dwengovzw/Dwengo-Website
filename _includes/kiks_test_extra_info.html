@@ -1,0 +1,35 @@
+<h3 class="fp_subtitle">{% t kiks_test.title1 %}</h3>
+<div class="container kiks-research cover-width">
+    <div class="q-px-xl q-pb-xl">
+       <div class="row q-col-gutter-xl items-center justify-between">
+         <div class="col-12 col-md-4 text-center">
+            <section id="lp_section" class="section cover-width">
+               <input type="hidden" class="form-control" id="filter_input" data-load-idlist="true"
+                           placeholder="{% t learning_paths.filter_placeholder %}" value='{{ include.filter_object }}'>
+               <input type="hidden" class="form-control" id="language_select">
+               <div id="lp_loading_message" class="row mt-2 mb-2">
+                   <div class="col-12">
+                       <p class="text-center">{% t learning_paths.loading_message %}</p>
+                   </div>
+               </div>
+               <div id="lp_error_message" class="row d-none">
+                   <p class="text-danger col-12 py-4 ">{% t learning_paths.error_message %}
+                   </p>
+               </div>
+               <div id="learning_paths" class="row">
+               </div>
+           </section>
+         </div> 
+         <div class="col-12 col-md-8 col-lg-7">
+             <div class="marked">
+                <p>{% t kiks_test.title1p1 %}</p>
+             </div>
+             <div class="marked">
+               <div class="iframe-container iframe-16-9">
+                  <iframe width="560" height="315" src="{% t global.learning_path_explain_video_url %}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              </div>
+             </div>
+          </div>
+       </div>
+    </div>
+ </div>

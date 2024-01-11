@@ -9,6 +9,7 @@ global:
   donate: Faire un don
   shop: Magasin
   social_media_tagline: Contenu pédagogique unique et formations sur l'IA et les STEM.
+  learning_path_explain_video_url: https://www.youtube.com/embed/XPbozIs9NcE?si=d8HizoNFyAJttdEt
 
 # Translations for the home page split into the strengths section and learning paths section
 strengths:
@@ -37,6 +38,32 @@ algorithms:
   paragraph2: "Dans un monde où le big data joue un rôle croissant, les algorithmes sont la clé pour accéder aux informations cachées dans les données.
 Les algorithmes sont l'épine dorsale de la technologie moderne. Qu'il s'agisse de personnaliser les recommandations, d'améliorer l'analyse des soins de santé ou d'optimiser les processus commerciaux, les algorithmes sont le moteur de l'innovation. Les méthodes numériques permettent de résoudre les problèmes mathématiques, ce qui nous permet d'effectuer des simulations précises et d'obtenir des informations utiles
 "
+
+kiks_test:
+  intro_title: "KIKS"
+  paragraph1: "KIKS est un projet vocal sur l'intelligence artificielle (IA) pour l'enseignement secondaire du troisième degré. Les élèves apprennent à comprendre l'IA, avec des possibilités et des limites; ils apprennent à avoir un impact à ce sujet."
+  paragraph2: "La relation entre les estomacs (stomates) des plantes et le changement climatique offre un cadre unique pour travailler avec des réseaux de neurones profonds. Le langage de programmation Python est également très accessible comme outil pour étudier les fondements des réseaux de neurones."
+  paragraph3: "Un actif du projet Kiks est la collaboration entre les chercheurs et les enseignants. Après tout, le matériel pédagogique de Kiks est en cours de développement, parallèle aux résultats d'une recherche scientifique en cours à Ugent et au Botuin Garden Meise."
+  form_text: "Nous voulons que autant d'enseignants et d'élèves possibles pour connaître les« Kiks »et se mettre au travail en classe. Vous pouvez montrer votre intérêt via notre formulaire."
+  form_button_text: "INTÉRÊT?"
+  title1: "Recherche scientifique"
+  title1p1: "Les scientifiques du jardin botanique Meise et Ugent étudient <strong> comment les arbres de la forêt tropicale tropicale s'adaptent au changement climatique </strong>. Les stomates de leurs feuilles fournissent des informations sur la concentration de CO <bus 2 </bin> dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la CO <bin> 2 </bin> dans la concentration dans la atmosphère au moment de la croissance des plantes. Les chercheurs <strong> comptent </strong> le nombre de stomates sur les feuilles et ils <strong> mesurent </strong> leur taille. Ensuite, ils comparent les résultats du matériel récent avec celui du matériel il y a cent ans. "
+  title1p2: "Cependant, le comptage et la mesure des stomates est une activité consommatrice de temps. Pour <strong> automatiser ce </strong>, un informaticien d'Ugent <strong> a formé un réseau neuronal </strong> à une telle formation de réseau est nécessaire De nombreux exemples: Photos de stomates et photos de feuilles sans stomates. "
+  title2: "In de klas"
+  title2p1: "Het KIKS-project heeft als doel de leerlingen de fundamenten van AI te leren kennen en hen bij te brengen hoe ze vat kunnen hebben op AI-systemen die ze tegenkomen in hun dagelijks leven. <br>
+We willen daarom leerkrachten aanmoedigen om met KIKS en AI aan de slag te gaan in de klas (zie figuur), met of zonder programmeren.<br>
+We hebben geprobeerd het project zo laagdrempelig mogelijk te houden door het materiaal online aan te bieden, door ervoor te zorgen dat er geen extra software geïnstalleerd moet worden en door in de nodige achtergrondinformatie te voorzien via een handleiding.<br>
+We hopen dat er tijdens de projectlessen ook tijd wordt vrijgemaakt om stil te staan bij de ethische kwesties die opduiken door de aanwezigheid van AI en deep learning-systemen in het dagelijks leven."
+  title2p2: "Het lesmateriaal kan ook op een andere manier worden ingezet. Men kan bv. enkele notebooks uitkiezen om de leerlingen te leren programmeren in Python of men kan er opdrachten uit halen om te werken aan onderzoekscompetenties in de lessen biologie, aardrijkskunde of wiskunde. Men kan de leerlingen aan de hand van enkele notebooks vertrouwd maken met de principes van digitale beeldverwerking of de leerkracht Nederlands of godsdienst kan in dit project inspiratie halen voor een les over de maatschappelijke aspecten van AI."
+  subtitle1: "climat"
+  subtitle1p1: "Depuis le début de la révolution industrielle (1750), la concentration des gaz à effet de serre dans notre atmosphère a fortement augmenté. Cela renforce l'effet naturel en serre. La couche avec des gaz à effet de serre dans l'atmosphère agit comme une sorte de couverture que la quantité de serre en serre Les gaz augmentent. Par conséquent, il devient plus chaud sous la couverture car la chaleur est de plus en plus difficile à échapper sous la couverture. La concentration accrue de gaz à effet de serre dans l'atmosphère entraîne une augmentation de la température moyenne et un changement climatique mondial. "
+  subtitle2: "Stomata"
+  subtitle2p1: "Les plantes sont capables de construire les composés de carbone riches en énergie dont ils ont besoin pour vivre, se développer et se reproduire. Ils le font par la photosynthèse. La plante doit absorber le CO2 pour cela. Pour rendre cet enregistrement possible, y a-t-il des portes microscopiquement petites dans L'épiderme de la feuille, l'estomac (stomates). Les stomates sont également responsables du refroidissement de la plante et du maintien du ruisseau de jus de la racine à la haute dans la plante."
+  subtitle2p2: "La climatologie paléo montre que la taille et la densité stomatales sont influencées par la concentration atmosphérique Co <sb> 2 </bin>."
+  subtitle3: "IA"
+  subtitle3p1: "Les réseaux de neurones profonds sont une forme d'apprentissage mécanique, et appartiennent donc au domaine de l'intelligence artificielle. Les réseaux de neurones convolutionnels sont extrêmement adaptés pour reconnaître les stomges de microvotos."
+  subtitle3p2: "Sur la base des cahiers Python, nous explorons ce merveilleux monde étape par étape. Les étudiants ont un aperçu des fondements de l'intelligence artificielle. Mais il y a aussi des questions pratiques, comme la collecte et la préparation de l'ensemble de données."
+
 
 kiks:
   intro_title: "KIKS"

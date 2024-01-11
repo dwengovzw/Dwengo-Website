@@ -9,6 +9,7 @@ global:
   donate: spenden
   shop: Shop
   social_media_tagline: Einzigartige Lehrinhalte und Trainings rund um KI und MINT.
+  learning_path_explain_video_url: https://www.youtube.com/embed/XPbozIs9NcE?si=d8HizoNFyAJttdEt
 
 # Translations for the home page split into the strengths section and learning paths section
 strengths:
@@ -38,6 +39,32 @@ algorithms:
   paragraph2: "Algorithmen sind überall. Sie sind das Herzstück der digitalen Welt.
 In einer Welt, in der Big Data eine immer wichtigere Rolle spielt, sind Algorithmen der Schlüssel zum Zugriff auf die in den Daten verborgenen Informationen.
 Algorithmen sind das Rückgrat der modernen Technologie. Ob bei der Personalisierung von Empfehlungen, der Verbesserung von Gesundheitsanalysen oder der Optimierung von Geschäftsprozessen, Algorithmen sind der Motor der Innovation. Numerische Methoden bieten Möglichkeiten, mathematische Probleme im Prozess zu lösen, die es uns ermöglichen, genaue Simulationen durchzuführen und aussagekräftige Erkenntnisse zu gewinnen."
+
+kiks_test:
+  intro_title: "KIKS"
+  paragraph1: "KIKS ist ein MINT-Projekt zu künstlicher Intelligenz (KI) für die dritte Sekundarschulstufe. Schülerinnen und Schüler lernen KI zu verstehen, mit Möglichkeiten und Grenzen; sie lernen, wie sie darauf Einfluss nehmen können."
+  paragraph2: "Die Beziehung zwischen den Spaltöffnungen (Stomata) von Pflanzen und dem Klimawandel bietet einen einzigartigen Rahmen, um mit tiefen neuronalen Netzwerken zu arbeiten. Die Programmiersprache Python ist außerdem sehr zugänglich als Werkzeug, um die Grundlagen neuronaler Netzwerke zu studieren."
+  paragraph3: "Ein Pluspunkt des KIKS-Projekts ist die Zusammenarbeit zwischen Forschern und Lehrern. Das Unterrichtsmaterial von KIKS wird parallel zu den Ergebnissen laufender wissenschaftlicher Untersuchungen an der UGent und dem Pflanzengarten Meise entwickelt."
+  form_text: "Wir möchten, dass so viele Lehrerinnen und Lehrer sowie Schülerinnen und Schüler 'KIKS' kennenlernen und damit im Unterricht arbeiten. Sie können Ihr Interesse über unser Formular bekunden."
+  form_button_text: "INTERESSE?"
+  title1: "Wissenschaftliche Forschung"
+  title1p1: "Wissenschaftler des Pflanzengartens Meise und der UGent erforschen <strong>, wie Bäume im tropischen Regenwald sich an den Klimawandel anpassen</strong>. Die Stomata auf ihren Blättern liefern Informationen über die CO<sub>2</sub>-Konzentration in der Atmosphäre während des Pflanzenwachstums. Die Forscher <strong>zählen</strong> die Anzahl der Stomata auf den Blättern und <strong>messen</strong> ihre Größe. Dann vergleichen sie die Ergebnisse aktueller Materialien mit denen von vor hundert Jahren."
+  title1p2: "Das Zählen und Messen von Stomata ist jedoch sehr zeitaufwendig. Um dies zu <strong>automatisieren</strong>, hat ein Informatiker der UGent <strong>ein neuronales Netzwerk trainiert</strong>. Um ein solches Netzwerk zu trainieren, sind viele Beispiele erforderlich: Fotos von Stomata und Fotos von Blättern ohne Stomata."
+  title2: "Im Klassenzimmer"
+  title2p1: "Das Ziel des KIKS-Projekts ist es, den Schülerinnen und Schülern die Grundlagen der KI beizubringen und ihnen beizubringen, wie sie Einfluss auf KI-Systeme nehmen können, die sie im täglichen Leben begegnen. <br>
+Wir möchten Lehrer ermutigen, mit KIKS und KI im Unterricht zu arbeiten (siehe Abbildung), mit oder ohne Programmierung.<br>
+Wir haben versucht, das Projekt so zugänglich wie möglich zu gestalten, indem wir das Material online anbieten, sicherstellen, dass keine zusätzliche Software installiert werden muss, und Hintergrundinformationen über ein Handbuch bereitstellen.<br>
+Wir hoffen, dass während der Projektstunden auch Zeit dafür eingeräumt wird, ethische Fragen zu diskutieren, die durch die Präsenz von KI- und Deep-Learning-Systemen im täglichen Leben entstehen."
+  title2p2: "Das Unterrichtsmaterial kann auch auf andere Weise genutzt werden. Man kann zum Beispiel einige Notebooks auswählen, um den Schülerinnen und Schülern das Programmieren in Python beizubringen, oder man kann Aufgaben daraus entnehmen, um an Forschungskompetenzen in den Fächern Biologie, Geografie oder Mathematik zu arbeiten. Die Schülerinnen und Schüler können anhand einiger Notebooks mit den Prinzipien der digitalen Bildverarbeitung vertraut gemacht werden, oder der Lehrer für Deutsch oder Religion kann in diesem Projekt Inspiration für eine Unterrichtsstunde zu den gesellschaftlichen Aspekten von KI finden."
+  subtitle1: "Klima"
+  subtitle1p1: "Seit Beginn der industriellen Revolution (1750) hat sich die Konzentration von Treibhausgasen in unserer Atmosphäre stark erhöht. Dies verstärkt den natürlichen Treibhauseffekt. Die Schicht von Treibhausgasen in der Atmosphäre fungiert wie eine Art Decke, die dicker wird, je mehr Treibhausgase vorhanden sind. Infolgedessen wird es unter der Decke wärmer, da die Wärme immer schwerer von unter der Decke in den Weltraum entweichen kann. Die erhöhte Konzentration von Treibhausgasen in der Atmosphäre führt zu einer Erhöhung der Durchschnittstemperatur und zu einem globalen Klimawandel."
+  subtitle2: "Stomata"
+  subtitle2p1: "Pflanzen sind in der Lage, die energiereichen Kohlenstoffverbindungen aufzubauen, die sie zum Leben, Wachsen und zur Fortpflanzung benötigen. Dies geschieht durch Photosynthese. Dafür muss die Pflanze CO2 aufnehmen. Um diese Aufnahme zu ermöglichen, gibt es mikroskopisch kleine Pforten in der Oberhaut des Blattes, die Stomata. Die Stomata sind auch für die Kühlung der Pflanze und die Aufrechterhaltung des Saftflusses von der Wurzel bis in die Pflanze verantwortlich."
+  subtitle2p2: "Die paläoklimatologische Forschung zeigt, dass Größe und Dichte der Stomata von der atmosphärischen CO<sub>2</sub>-Konzentration beeinflusst werden."
+  subtitle3: "KI"
+  subtitle3p1: "Tiefe neuronale Netzwerke sind eine Form des maschinellen Lernens und gehören daher zum Bereich der künstlichen Intelligenz. Faltende neuronale Netzwerke eignen sich besonders gut, um Stomata auf Mikrofotos zu erkennen."
+  subtitle3p2: "Mit Python-Notebooks erkunden wir diese faszinierende Welt Schritt für Schritt. Schülerinnen und Schüler erhalten Einblick in die Grundlagen der künstlichen Intelligenz. Aber es gibt auch praktische Aspekte, wie das Sammeln und Vorbereiten des Datensatzes."
+
 
 kiks:
   intro_title: "KIKS"

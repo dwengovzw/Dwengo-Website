@@ -9,6 +9,7 @@ global:
   donate: Donate
   shop: Shop
   social_media_tagline: Unique teaching content and trainings about AI and STEM.
+  learning_path_explain_video_url: https://www.youtube.com/embed/XPbozIs9NcE?si=d8HizoNFyAJttdEt
 
 # Translations for the home page split into the strengths section and learning paths section
 strengths:
@@ -36,6 +37,29 @@ algorithms:
   paragraph1: "Algorithms are everywhere. They are the foundation of the digital world."
   paragraph2: "In a world where big data plays an increasing role, algorithms are the key to accessing information hidden in data.
 Algorithms are the backbone of modern technology. Whether personalising recommendations, improving healthcare analytics or optimising business processes, algorithms drive innovation. Numerical methods provide ways to solve mathematical problems in the process, enabling us to perform accurate simulations and gain meaningful insights."
+
+kiks_test:
+  intro_title: "KIKS"
+  paragraph1: "KIKS is a STEM project on artificial intelligence (AI) for the third grade of secondary education. Students learn to understand AI, its possibilities, and limitations; they learn how to have an impact on it."
+  paragraph2: "The relationship between plant stomata and climate change provides a unique framework for working with deep neural networks. The programming language Python is also very accessible as a tool to study the fundamentals of neural networks."
+  paragraph3: "A strength of the KIKS project is the collaboration between researchers and teachers. The teaching material for KIKS is developed in parallel with the ongoing scientific research at UGent and the Plantentuin Meise."
+  form_text: "We would like as many teachers and students as possible to become acquainted with 'KIKS' and to use it in the classroom. You can express your interest through our form."
+  form_button_text: "INTERESTED?"
+  title1: "Scientific Research"
+  title1p1: "Scientists from the Plantentuin Meise and UGent are researching <strong>how trees in the tropical rainforest adapt to climate change</strong>. The stomata on their leaves provide information about the CO<sub>2</sub> concentration in the atmosphere during plant growth. Researchers <strong>count</strong> the number of stomata on the leaves and <strong>measure</strong> their size. They then compare the results of recent material with material from a hundred years ago."
+  title1p2: "Counting and measuring stomata, however, is a very time-consuming activity. To <strong>automate</strong> this process, a computer scientist from UGent has <strong>trained a neural network</strong>. Training such a network requires many examples: photos of stomata and photos of leaves without stomata."
+  title2: "In the Classroom"
+  title2p1: "The goal of the KIKS project is to introduce students to the fundamentals of AI and teach them how to understand AI systems they encounter in their daily lives. <br>We encourage teachers to use KIKS and AI in the classroom (see figure), with or without programming.<br>We have tried to make the project as accessible as possible by offering the material online, ensuring that no additional software needs to be installed, and providing the necessary background information through a manual.<br>During the project lessons, we hope that time will be set aside to consider the ethical issues that arise due to the presence of AI and deep learning systems in daily life."
+  title2p2: "The teaching material can also be used in other ways. For example, one can choose some notebooks to teach students programming in Python, or extract assignments to work on research competencies in biology, geography, or mathematics classes. Students can become familiar with the principles of digital image processing through some notebooks, or the Dutch or religion teacher can find inspiration for a lesson on the societal aspects of AI in this project."
+  subtitle1: "Climate"
+  subtitle1p1: "Since the beginning of the industrial revolution (1750), the concentration of greenhouse gases in our atmosphere has increased significantly. This reinforces the natural greenhouse effect. The layer of greenhouse gases in the atmosphere acts like a blanket, which thickens as the amount of greenhouse gases increases. Consequently, it becomes warmer under the blanket because heat has more difficulty escaping from under the blanket into space. The increased concentration of greenhouse gases in the atmosphere results in an increase in average temperature and global climate change."
+  subtitle2: "Stomata"
+  subtitle2p1: "Plants are capable of building the energy-rich carbon compounds they need to live, grow, and reproduce. They do this through photosynthesis. For this, the plant must absorb CO2. To enable this absorption, there are microscopic gateways in the leaf epidermis, the stomata. Stomata also contribute to the cooling of the plant and maintain the flow of sap from the roots to high in the plant."
+  subtitle2p2: "Paleoclimatology indicates that stomatal size and density are influenced by atmospheric CO<sub>2</sub> concentration."
+  subtitle3: "AI"
+  subtitle3p1: "Deep neural networks are a form of machine learning, and therefore fall within the domain of artificial intelligence. Convolutional neural networks are exceptionally well-suited for recognizing stomata in microphotos."
+  subtitle3p2: "Through Python notebooks, we explore step by step this fascinating world. Students gain insight into the fundamentals of artificial intelligence. However, practical aspects such as collecting and preparing the dataset are also involved."
+
 
 kiks:
   intro_title: "KIKS"
