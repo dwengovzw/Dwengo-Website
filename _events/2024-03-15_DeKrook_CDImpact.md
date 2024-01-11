@@ -14,7 +14,7 @@ In de derde graad van het secundair onderwijs is er een nieuw specifiek minimumd
 
 In deze nascholing worden enkele numerieke methodes uit de doeken gedaan die aansluiten bij de leerstof wiskunde van de derde graad.
 
-Je gaat zelf aan de slag met het kant-en-klare lesmateriaal dat we ontwikkeld hebben om met de leerlingen te gebruiken. Breng dus een opgeladen laptop mee.
+Je gaat zelf aan de slag met het kant-en-klare lesmateriaal dat we ontwikkeld hebben om met de leerlingen te gebruiken. **Breng dus een opgeladen laptop mee**.
 
 Uitgebreide info, alsook leerpaden voor leerkrachten en leerlingen vind je op [www.dwengo.org/algoritmes](www.dwengo.org/algoritmes).
 
