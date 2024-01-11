@@ -41,7 +41,7 @@ algorithms:
 
 kiks_test:
   title1: "Starten met KIKS"
-  title1p1: "Hieronder vind je kant en klaar lesmateriaal en tools om met KIKS aan de slag te gaan. Het materiaal is opgedeeld in leerpaden die alle aspecten van het project stap voor stap toelichten. Bekijk deze video om te weten te komen hoe je aan de slag gaat met onze leerpaden."
+  title1p1: "Hieronder vind je kant en klaar lesmateriaal en tools om met KIKS aan de slag te gaan. Het materiaal is opgedeeld in <em>leerpaden</em> die alle aspecten van het project stap voor stap toelichten. Bekijk deze video om te weten te komen hoe je aan de slag gaat met onze <em>leerpaden</em>."
   intro_title: "KIKS"
   paragraph1: "KIKS is een STEM-project rond artificiële intelligentie (AI) voor de derde graad secundair onderwijs. Leerlingen leren AI begrijpen, met mogelijkheden en beperkingen; ze leren hoe ze er een impact kunnen op hebben."
   paragraph2: "De relatie tussen huidmondjes (stomata) van planten en de klimaatverandering biedt een uniek kader om met diepe neurale netwerken aan de slag te gaan. De programmeertaal Python is bovendien zeer toegankelijk als tool om de fundamenten van neurale netwerken te bestuderen."
