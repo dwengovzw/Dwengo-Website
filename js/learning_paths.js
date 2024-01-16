@@ -851,6 +851,17 @@ function setupAgeSlider() {
 
 function setAnalyticsTracker() {
     _paq = window._paq = window._paq || [];
+    // get session identifier from localstorage
+    let session_identifier = localStorage.getItem("dwengo_session_identifier");
+    if (session_identifier){
+        _paq.push(['setCustomDimension', 1, session_identifier]);
+    }
+    // Check if url contains the word staging, if so, set the custom dimension to staging
+    if (window.location.href.includes("staging")){
+        _paq.push(['setCustomDimension', 2, 'staging']);
+    } else {
+        _paq.push(['setCustomDimension', 2, 'production']);
+    }
     // tracker methods like "setCustomDimension" should be called before "trackPageView" 
     _paq.push(['trackPageView']);
     _paq.push(['enableLinkTracking']);
@@ -860,6 +871,7 @@ function setAnalyticsTracker() {
         _paq.push(['setSiteId', '1']);
         var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
         g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+        
     })();
 }
 // if the element learning_paths is present it means the user has loaded the front page
@@ -917,4 +929,12 @@ if (document.getElementById("learning_paths")) {
     showLanguageSelection();
 }
 
+if (document.getElementById("dwengo_logo_footer")){
+    // Detect double click on dwengo logo in footer and redirect to home page
+    document.getElementById("dwengo_logo_footer").addEventListener("dblclick", (event) => {
+        // show confirm dialog and save the input value to localstorage with the key "dwengo_session_identifier"
+        session_identifier = prompt("Please enter your session identifier", "");
+        localStorage.setItem("dwengo_session_identifier", session_identifier);
+    })
+}
 
