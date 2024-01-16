@@ -854,7 +854,7 @@ function setAnalyticsTracker() {
     // get session identifier from localstorage
     let session_identifier = localStorage.getItem("dwengo_session_identifier");
     if (session_identifier){
-        _paq.push(['setCustomDimension', 1, session_identifier]);
+        _paq.push(['setUserId', session_identifier]);
     }
     // Check if url contains the word staging, if so, set the custom dimension to staging
     if (window.location.href.includes("staging.dwengo.org")){
