@@ -857,7 +857,7 @@ function setAnalyticsTracker() {
         _paq.push(['setCustomDimension', 1, session_identifier]);
     }
     // Check if url contains the word staging, if so, set the custom dimension to staging
-    if (window.location.href.includes("staging")){
+    if (window.location.href.includes("staging.dwengo.org")){
         _paq.push(['setCustomDimension', 2, 'staging']);
     } else {
         _paq.push(['setCustomDimension', 2, 'production']);
