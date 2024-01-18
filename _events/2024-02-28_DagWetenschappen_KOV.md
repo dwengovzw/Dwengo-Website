@@ -1,6 +1,6 @@
 ---
 title: "AI Op School op Dag van de wetenschappen"
-date: 2024-02-28T09:90:00
+date: 2024-02-28T09:00:00
 end_date: 2024-02-28T15:00:00
 item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
 location: "Gent"
