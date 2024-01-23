@@ -2,7 +2,7 @@
 title: "iSTEM-nocturne AI"
 date: 2024-03-07T20:00:00
 end_date: 2024-03-07T21:30:00
-item_theme_logo_url: "/images/curricula/logo_chatbot.png"
+item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
 location: "online"
 language: "nl"
 registration_link: "https://docs.google.com/forms/d/e/1FAIpQLSfT2S_pmYy-h8dDEPjBvko8YovDUzIqkNA6-n1VOz2hFv7a_A/viewform"
@@ -22,9 +22,7 @@ Er is voor elk wat wils. We zorgen door laagdrempeligheid door activiteiten met 
 Neem alvast een kijkje op [AI Op School](https://dwengo.org/aiopschool). 
 
 **Doelgroep:** <br>
-Leerkrachten secundair onderwijs 2de en 3de graad (doorstroom en dubbele finaliteit) - zowel taalleerkrachten, informaticaleerkrachten, 
-leerkrachten STEM of in een STEM-discipline, leerkrachten economie, geïnteresseerde leerkrachten van andere vakken.<br>
-Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor en EduMa).
+Leerkrachten. Lerarenopleiders. Alle andere geïnteresseerden. 
 
 **Locatie:** online<br>
 **Organisatie:** iSTEM
