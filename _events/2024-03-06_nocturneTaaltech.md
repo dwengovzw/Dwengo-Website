@@ -1,7 +1,7 @@
 ---
 title: "iSTEM-nocturne Taaltechnologie"
-date: 2024-04-26T09:30:00
-end_date: 2024-06-15T12:30:00
+date: 2024-03-06T20:00:00
+end_date: 2024-03-06T21:30:00
 item_theme_logo_url: "/images/curricula/logo_chatbot.png"
 location: "online"
 language: "nl"
