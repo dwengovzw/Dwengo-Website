@@ -12,7 +12,7 @@ In de iSTEM-nocturnes licht een coach van de cel iSTEM inkleuren elke woensdagav
 [Programma](https://www.istem.be/agenda/istem-nocturnes/)<br>
 Deze nocturnes vinden plaats van 31/1/2024 t.e.m. 29/5/2024
 
-**Onze sessie over artificiele intelligentie**: donderdag 7 maart 2024, 20u-21u30
+**Onze sessie over artificiële intelligentie**: donderdag 7 maart 2024, 20u-21u30
 
 **Inhoud:** In deze nocturne word je geïntroduceerd in ons lesmateriaal 'AI Op School'. <br>
 Met de prijswinnende leerlijn AI Op School streven we er naar om leerlingen te laten begrijpen wat de achterliggende principes van artificieel intelligente systemen zijn. 
