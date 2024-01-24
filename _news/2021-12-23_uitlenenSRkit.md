@@ -15,4 +15,4 @@ Er zijn in totaal 6 bouwkits beschikbaar.
 
 Reserveer via +32 9 267 74 75 of onderwijs.en.vorming@oost-vlaanderen.be. Haal de bouwkits op in het Provinciaal Administratief Centrum Het Zuid, Woodrow Wilsonplein 2 in Gent.
 
-[Lees meer >](https://oost-vlaanderen.be/leren/educatief-materiaal/de-sociale-robot.html?utm_source=flexmail&utm_medium=e-mail&utm_campaign=nbflankerend202111&utm_content=gtgt+reserveer+een+sociale+robot+bouwkit)
+[Lees meer >](https://oost-vlaanderen.be/leren/materialen-activiteiten-scholen/educatief-materiaal/stem/secundair-onderwijs/de-sociale-robot.html)
