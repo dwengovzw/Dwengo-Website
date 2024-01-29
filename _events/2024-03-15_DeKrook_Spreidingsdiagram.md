@@ -8,15 +8,12 @@ location_link: "https://www.google.be/maps/place/De+Krook/@51.0486039,3.7264986,
 language: "nl"
 registration_link: "https://www.eventbrite.com/e/tickets-spreidingsdiagram-en-trendlijn-met-python-731758117227"
 ---
-Aan de hand van interactieve Python notebooks stel je gegevens in een csv-bestand voor in een spreidingsdiagram en leer je hoe je een trendlijn vindt die bij deze data past en deze ook visualiseert. Na deze nascholing kan je zelfstandig aan de slag gaan met andere kant-en-klare notebooks waarin STEM-inhouden worden behandeld. Je kan alvast een kijkje nemen op dwengo.org/wiskunde in de leerpaden Spreidingsdiagram, Lineaire Regressie en Regressie.
+Aan de hand van interactieve Python notebooks stel je gegevens in een csv-bestand voor in een spreidingsdiagram en leer je hoe je een trendlijn vindt die bij deze data past en deze ook visualiseert. Na deze nascholing kan je zelfstandig aan de slag gaan met andere kant-en-klare notebooks waarin STEM-inhouden worden behandeld. Je kan alvast een kijkje nemen op [www.dwengo.org/wiskunde](https://www.dwengo.org/wiskunde "Python in de wiskundeles") in de leerpaden [Spreidingsdiagram](https://www.dwengo.org/learning-path.html?hruid=maths_spreidingsdiagrammen&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_inleiding_spreidingsdiagram;nl;3), [Lineaire Regressie](https://www.dwengo.org/learning-path.html?hruid=maths_lineaireregressie&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_inleiding_lineaireregressie;nl;3) en [Regressie](https://www.dwengo.org/learning-path.html?hruid=pn_regressie&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_voorkennis_regressielijnen;nl;3) voor leerkrachten en leerlingen.
 
 **Programma**<br>
 In deze hands-on workshop maak je kennis met de interactieve notebooks die je nadien in de klas met je leerlingen gebruikt. A.d.h.v. de programmeertaal Python teken je spreidingsdiagrammen van (echte) data. Je gaat ook aan de slag met een notebook met een STEM-context.
 
-Het lesmateriaal staat gratis ter beschikking op dwengo.org/wiskunde en dwengo.org/stem
-
-
-Uitgebreide info alsook leerpaden voor leerkrachten en leerlingen vind je op [www.dwengo.org/wiskunde](https://www.dwengo.org/wiskunde "Python in de wiskundeles").
+Het lesmateriaal staat gratis ter beschikking op [www.dwengo.org/wiskunde](https://www.dwengo.org/wiskunde "Python in de wiskundeles") en [dwengo.org/stem](https://www.dwengo.org/stem/).
 
 **Doelgroep:**<br>
 Leerkrachten wiskunde, wetenschappen en STEM.<br>
