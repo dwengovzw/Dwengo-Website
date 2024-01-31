@@ -646,13 +646,13 @@ function loadLearningPathFromUrl(url, include_teacher_exclusive_objects=false){
  * @returns The filtered array
  */
 function filterOutTeacherExclusiveContent(path){
-    for (node of path){
+    for (let node of path){
         if (node.teacher_exclusive){ // If this is the case, the node has to be removed
             if (node.transitions.length > 0 && node.start_node){ // if this node is the start node, move the start node label to the next node.
                 let next = node.transitions[0].next
                 setNodeAsStartNode(next.hruid, next.language, next.version, path);
             }
-            for (othernode of path){
+            for (let othernode of path){
                 if (othernode != node){
                     if (doesSourceNodeHaveTransitionsToDestinationNode(othernode, node)){
                         // replace transition to node in keptnode by the transitions of keptnode.
@@ -677,7 +677,7 @@ function filterOutTeacherExclusiveContent(path){
  * @param {*} nodesOfPath 
  */
 function setNodeAsStartNode(hruid, language, version, nodesOfPath){
-    for (node of nodesOfPath){
+    for (let node of nodesOfPath){
         if (node.learningobject_hruid === hruid && node.language === language && node.version === version){
             node.start_node = true;
         }
@@ -685,7 +685,7 @@ function setNodeAsStartNode(hruid, language, version, nodesOfPath){
 }
 
 function doesSourceNodeHaveTransitionsToDestinationNode(sourcenode, destinationnode){
-    for (transition of sourcenode.transitions){
+    for (let transition of sourcenode.transitions){
         if (transition.next && transition.next.hruid === destinationnode.learningobject_hruid
             && transition.next.language === destinationnode.language
             && transition.next.version === destinationnode.version){
