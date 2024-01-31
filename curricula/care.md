@@ -14,6 +14,7 @@ redirect_from:
   - /AIindezorg/
   - /aizorg/
   - /aiindezorg/
+  - /aiopschool/zorg
 banner_image: "/images/curricula/banner_care.png"
 logo_image: "/images/curricula/logo_care.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg']

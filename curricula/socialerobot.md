@@ -8,6 +8,7 @@ permalink: /socialrobot/
 redirect_from: 
   - /socialerobot/
   - /sociale_robot/
+  - /aiopschool/socialerobot/
 banner_image: "/images/curricula/banner_socialrobot.png"
 logo_image: "/images/curricula/logo_socialrobot.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/vlaio.png', '/images/partners/hogent.svg', '/images/partners/sap_logo.png']
