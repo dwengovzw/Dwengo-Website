@@ -680,6 +680,8 @@ function setNodeAsStartNode(hruid, language, version, nodesOfPath){
     for (let node of nodesOfPath){
         if (node.learningobject_hruid === hruid && node.language === language && node.version === version){
             node.start_node = true;
+            // Replace url anchor with new start node
+            window.location.hash = `${hruid};${language};${version}`;
         }
     }
 }
