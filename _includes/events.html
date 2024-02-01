@@ -120,7 +120,13 @@
     let calendar_items = document.getElementsByClassName("event-list-item");
     let past_events = false;
     Array.from(calendar_items).forEach((element) => {
-        if (Date.parse(element.getAttribute("data-event-date").replace(/-/g, " ")) < new Date().valueOf()){
+        // Weird string manipulation to make it work in safari
+        let event_date_string = element.getAttribute("data-event-date");
+        // Replace first space with T to make it a valid date string
+        event_date_string = event_date_string.replace(" ", "T");
+        // Remove second space
+        event_date_string = event_date_string.replace(" ", "");
+        if (Date.parse(event_date_string) < new Date().valueOf()){
             element.style.display = "none";
             past_events = true;
         }
@@ -138,7 +144,12 @@
         if (target.getAttribute("id") == "event-show-past-events"){
             let old_calendar_items = document.getElementsByClassName("event-list-item-old");
             Array.from(old_calendar_items).forEach((element) => {
-                if (Date.parse(element.getAttribute("data-event-date").replace(/-/g, " ")) < new Date().valueOf()){
+                let old_event_date_string = element.getAttribute("data-event-date");
+                // Replace first space with T to make it a valid date string
+                old_event_date_string = old_event_date_string.replace(" ", "T");
+                // Remove second space
+                old_event_date_string = old_event_date_string.replace(" ", "");
+                if (Date.parse(old_event_date_string) < new Date().valueOf()){
                     element.style.display = "flex";
                 }
             });
