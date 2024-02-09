@@ -9,7 +9,7 @@ redirect_from:
     - /physicalcomputing/
 banner_image: "/images/curricula/banner_physical_computing.png"
 logo_image: "/images/curricula/logo_physical_computing.png"
-partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png']
+partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', "/images/partners/innovet.jpg"]
 learning_paths: ['pc_starttodwenguino', 'pc_theremin', 'pc_rijdenderobot', 'pc_leerlijn_introductie', 'pc_leerlijn_invoer_verwerking_uitvoer', 'pc_leerlijn_basisprincipes_digitale_elektronica', 'pc_leerlijn_grafisch_naar_tekstueel', 'pc_leerlijn_basis_programmeren', 'pc_leerlijn_fiches_dwenguino', 'pc_leerlijn_fiches_arduino', 'pc_leerlijn_project_lijnvolger', 'pc_leerlijn_project_bluetooth', 'pc_microcontroller', 'pc_leerlijn_hddclock']
 ---
 
