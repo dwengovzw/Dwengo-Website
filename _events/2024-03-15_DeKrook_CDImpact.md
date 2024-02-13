@@ -1,5 +1,5 @@
 ---
-title: "Minimumdoel - Numerieke methodes"
+title: "Datum te bepalen - Minimumdoel - Numerieke methodes"
 date: 2024-03-15T13:30:00
 end_date: 2024-03-15T16:30:00
 item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
@@ -25,7 +25,7 @@ Leerkrachten 3de graad (informatica, wiskunde, wetenschappen).<br>
 Lerarenopleiders.<br>
 Pedagogische begeleiding.
 
-**Wanneer:** 15 maart 2024 van 13u30-16u30<br>
+**Wanneer: Datum te bepalen**<br>
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>
 
 **Organisatie:** Dwengo vzw
