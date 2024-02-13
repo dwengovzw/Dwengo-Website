@@ -1,5 +1,5 @@
 ---
-title: "Spreidingsdiagram en trendlijn met Python"
+title: "Datum te bepalen - Spreidingsdiagram en trendlijn met Python"
 date: 2024-03-15T09:30:00
 end_date: 2024-03-15T12:30:00
 item_theme_logo_url: "/images/curricula/logo_math_with_python.png"
@@ -19,6 +19,6 @@ Het lesmateriaal staat gratis ter beschikking op [www.dwengo.org/wiskunde](https
 Leerkrachten wiskunde, wetenschappen en STEM.<br>
 Lerarenopleiders wiskunde, wetenschappen en STEM voor leerkrachten secundair onderwijs (professionele bachelor en EduMa).
 
-**Wanneer:** 15 maart 2024 van 9u30-12u30<br>
+**Wanneer: Datum te bepalen**<br>
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>
 **Organisatie:** Dwengo vzw
