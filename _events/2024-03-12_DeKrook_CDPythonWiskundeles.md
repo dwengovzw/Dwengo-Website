@@ -1,5 +1,5 @@
 ---
-title: "Computationeel denken en Python in de wiskundeles"
+title: "Datum te bepalen - Computationeel denken en Python in de wiskundeles"
 date: 2024-03-12T09:30:00
 end_date: 2024-03-12T12:30:00
 item_theme_logo_url: "/images/curricula/logo_math_with_python.png"
@@ -28,7 +28,7 @@ Lerarenopleiders wiskunde, wetenschappen en STEM voor leerkrachten secundair ond
 
 **Voorkennis:** Er is geen voorkennis nodig voor het programmeren.
 
-**Wanneer:** 12 maart 2024 van 9u30-12u30<br>
+**Wanneer: Datum te bepalen**<br>
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent
 
 **Organisatie:** Dwengo vzw
