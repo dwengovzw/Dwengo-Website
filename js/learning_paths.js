@@ -937,7 +937,7 @@ console.log(window.location.hostname)
 let updateNotificationSeen = localStorage.getItem("update_notification_seen");
 if ((window.location.href == "https://dwengo.org/" || window.location.href == "https://www.dwengo.org/" )&& !updateNotificationSeen){
     let updateNotification = document.createElement("div");
-    updateNotification.innerHTML = "Tussen 12/02 en 18/02 voeren wij updates uit aan onze Python notebook servers. Hierdoor kan het zijn dat de notebooks tijdelijk niet beschikbaar zijn. Onze excuses voor het ongemak."
+    updateNotification.innerHTML = "Tussen 12/02 en 25/02 voeren wij updates uit aan onze Python notebook servers. Hierdoor kan het zijn dat de notebooks tijdelijk niet beschikbaar zijn. Onze excuses voor het ongemak."
     updateNotification.className = "update-notification";
     // add notification style
     updateNotification.style.position = "fixed";
