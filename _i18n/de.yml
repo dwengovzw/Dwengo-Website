@@ -113,8 +113,8 @@ socialrobot:
   t2_p2: "Computational Thinking zeigt sich nicht nur in der Programmierung des Roboters, sondern wird auch deutlich bei den Problemen, die die Lernenden beim Entwerfen und Bauen ihres sozialen Roboters lösen müssen. Auf diese Weise entwickeln die Lernenden nicht nur Programmierfähigkeiten, sondern auch wichtige kognitive Fähigkeiten, die in verschiedenen Disziplinen relevant sind."
   t2_subtitle3: "Technische Fähigkeiten"
   t2_p3: "Der Bau ihres eigenen sozialen Roboters gibt den Lernenden die Möglichkeit, mit verschiedenen elektronischen Komponenten und recycelten Materialien zu arbeiten. Durch Anpassen und Verbessern dieser Komponenten und Materialien lernen sie nicht nur, wie sie den Roboter bauen können, sondern auch, wie sie ihn optimieren können."
-  t2_subtitle4: "Kongress"
-  t2_p4: 'Im Jahr 2023 haben wir eine Konferenz zum Thema Computational Thinking organisiert. <a href="https://drive.google.com/drive/folders/1yq-NJbZTqiVhdBukFetQmavDwVCjcfiZ?usp=sharing" style="color: black; text-decoration: underline">Hier</a> finden Sie die Präsentationen zurück.'
+  t2_subtitle4: "Optional"
+  t2_p4: ''
   title3: "Wie fängt man an?"
   title3_p: "Mit diesem Projekt können Sie leicht beginnen. Im Folgenden finden Sie die 4 Module, in die das Projekt unterteilt ist. Alle praktischen Informationen, die Sie benötigen, um loszulegen, finden Sie im Modul 0.<br><br>Unten auf dieser Seite finden Sie eine Übersicht über alle herunterladbaren Materialien, die Sie in den Lernpfaden finden."
   t3_subtitle1: "Titel"
@@ -297,8 +297,8 @@ computational_thinking:
   t2_p2: "Man ist noch intensiv damit beschäftigt, zu erforschen, wie Computational Thinking am besten im Unterricht behandelt werden kann. Hier versuchen wir Ihnen bereits einen Leitfaden zur Umsetzung zu geben, während wir die Erkenntnisse weiterverfolgen."
   t2_subtitle3: "Lernpfade"
   t2_p3: "Nachfolgend finden Sie eine breite Palette von Lernpfaden. Die Themen reichen von <em>'Definition und Schwerpunkte'</em> bis <em>'historiek'</em> und sogar <em>'Eindtermen und minimumdoelen'</em>."
-  t2_subtitle4: "Optional"
-  t2_p4: "Text"
+  t2_subtitle4: "Kongress"
+  t2_p4: 'Im Jahr 2023 haben wir eine Konferenz zum Thema Computational Thinking organisiert. <a href="https://drive.google.com/drive/folders/1yq-NJbZTqiVhdBukFetQmavDwVCjcfiZ?usp=sharing" style="color: black; text-decoration: underline">Hier</a> finden Sie die Präsentationen zurück.'
   title3: "Wie fängt man an?"
   title3_p: "Text"
   t3_subtitle1: "Optional"

@@ -104,8 +104,8 @@ socialrobot:
   t2_p2: "Computational thinking is not only found in programming the robot but also in the problems that students must solve during the design and construction of their social robot. This allows students to develop programming skills and important cognitive skills relevant in various disciplines."
   t2_subtitle3: "Technical Skills"
   t2_p3: "Building their own social robot gives students the opportunity to work with different electronic components and recycled materials. By modifying and improving these components and materials, they learn not only how to build the robot but also how to optimize it."
-  t2_subtitle4: "Congres"
-  t2_p4: 'In 2023 we organized a conference on computational thinking. <a href="https://drive.google.com/drive/folders/1yq-NJbZTqiVhdBukFetQmavDwVCjcfiZ?usp=sharing" style="color: black; text-decoration: underline">Here</a> you will find the presentations back.'
+  t2_subtitle4: "Optional"
+  t2_p4: ''
   title3: "How to Get Started?"
   title3_p: "With this project, you can easily get started. Below are the 4 modules in which the project is divided. All the practical information you need to get started can be found in module 0.<br><br>At the bottom of this page, you will find an overview of all the downloadable materials that you will encounter in the learning paths."
   t3_subtitle1: "Title"
@@ -296,8 +296,8 @@ computational_thinking:
   t2_p2: "Research is still ongoing on how computational thinking is best addressed in education. Here we try to give you a guide to get started, while we follow up on the findings."
   t2_subtitle3: "Learning Paths"
   t2_p3: "Below you will find a wide range of learning paths. Topics range from <em>'Definition and Focus Points'</em> to <em>'History'</em> and even <em>'End Goals and Minimum Objectives'</em>"
-  t2_subtitle4: "Optional"
-  t2_p4: "text"
+  t2_subtitle4: "Congres"
+  t2_p4: 'In 2023 we organized a conference on computational thinking. <a href="https://drive.google.com/drive/folders/1yq-NJbZTqiVhdBukFetQmavDwVCjcfiZ?usp=sharing" style="color: black; text-decoration: underline">Here</a> you will find the presentations back.'
   title3: "How to Start?"
   title3_p: "Text"
   t3_subtitle1: "Optional"
