@@ -36,7 +36,6 @@ header_pages:
   - about.markdown
   - events.md
   - news.md
-  - congres2023.md
 
 languages: ["nl", "en", "fr", "de"]
 exclude_from_localizations: ["js", "images", "css"]
