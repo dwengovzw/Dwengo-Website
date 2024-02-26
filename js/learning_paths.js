@@ -931,53 +931,51 @@ if (document.getElementById("learning_paths")) {
     showLanguageSelection();
 }
 
-// If on the homepage (dwengo.org or www.dwengo.org) show a notification on the right side of the page to inform the user that our servers are being updated.	
-console.log(window.location.hostname)
-// Load from localstorage if the user has seen the notification
-let updateNotificationSeen = localStorage.getItem("update_notification_seen");
-if ((window.location.href == "https://dwengo.org/" || window.location.href == "https://www.dwengo.org/" )&& !updateNotificationSeen){
-    let updateNotification = document.createElement("div");
-    updateNotification.innerHTML = "Tussen 12/02 en 25/02 voeren wij updates uit aan onze Python notebook servers. Hierdoor kan het zijn dat de notebooks tijdelijk niet beschikbaar zijn. Onze excuses voor het ongemak."
-    updateNotification.className = "update-notification";
-    // add notification style
-    updateNotification.style.position = "fixed";
-    updateNotification.style.width = "100vw";
-    updateNotification.style.left = "0";
-    updateNotification.style.bottom = "0";
-    updateNotification.style.padding = "10px";
-    updateNotification.style.backgroundColor = "#f8d7da";
-    updateNotification.style.color = "#721c24";
-    updateNotification.style.border = "1px solid #f5c6cb";
-    updateNotification.style.borderRadius = "5px";
-    updateNotification.style.zIndex = "1000";
+// // If on the homepage (dwengo.org or www.dwengo.org) show a notification on the right side of the page to inform the user that our servers are being updated.	
+// console.log(window.location.hostname)
+// // Load from localstorage if the user has seen the notification
+// let updateNotificationSeen = localStorage.getItem("update_notification_seen");
+// if ((window.location.href == "https://dwengo.org/" || window.location.href == "https://www.dwengo.org/" )&& !updateNotificationSeen){
+//     let updateNotification = document.createElement("div");
+//     updateNotification.innerHTML = "Tussen 12/02 en 25/02 voeren wij updates uit aan onze Python notebook servers. Hierdoor kan het zijn dat de notebooks tijdelijk niet beschikbaar zijn. Onze excuses voor het ongemak."
+//     updateNotification.className = "update-notification";
+//     // add notification style
+//     updateNotification.style.position = "fixed";
+//     updateNotification.style.width = "100vw";
+//     updateNotification.style.left = "0";
+//     updateNotification.style.bottom = "0";
+//     updateNotification.style.padding = "10px";
+//     updateNotification.style.backgroundColor = "#f8d7da";
+//     updateNotification.style.color = "#721c24";
+//     updateNotification.style.border = "1px solid #f5c6cb";
+//     updateNotification.style.borderRadius = "5px";
+//     updateNotification.style.zIndex = "1000";
 
-    document.body.appendChild(updateNotification);
+//     document.body.appendChild(updateNotification);
 
-    // Add a button to close the notification
-    let closeButton = document.createElement("button");
-    closeButton.innerHTML = "X";
-    closeButton.style.position = "absolute";
-    closeButton.style.top = "0";
-    closeButton.style.right = "0";
-    closeButton.style.padding = "5px";
-    closeButton.style.border = "none";
-    closeButton.style.margin = "0 30px 0 0";
-    closeButton.style.backgroundColor = "transparent";
-    closeButton.style.cursor = "pointer";
-    closeButton.style.fontSize = "1.5em";
-    closeButton.style.color = "#721c24";
-    closeButton.onclick = function(){
-        updateNotification.style.display = "none";
-        // Save to localstorage that the user has seen the notification
-        //localStorage.setItem("update_notification_seen", true);
-    }
+//     // Add a button to close the notification
+//     let closeButton = document.createElement("button");
+//     closeButton.innerHTML = "X";
+//     closeButton.style.position = "absolute";
+//     closeButton.style.top = "0";
+//     closeButton.style.right = "0";
+//     closeButton.style.padding = "5px";
+//     closeButton.style.border = "none";
+//     closeButton.style.margin = "0 30px 0 0";
+//     closeButton.style.backgroundColor = "transparent";
+//     closeButton.style.cursor = "pointer";
+//     closeButton.style.fontSize = "1.5em";
+//     closeButton.style.color = "#721c24";
+//     closeButton.onclick = function(){
+//         updateNotification.style.display = "none";
+//         // Save to localstorage that the user has seen the notification
+//         //localStorage.setItem("update_notification_seen", true);
+//     }
 
-    // Add the close button to the notification
-    updateNotification.appendChild(closeButton);
+//     // Add the close button to the notification
+//     updateNotification.appendChild(closeButton);
 
-    
-
-}
+// }
 
 if (document.getElementById("dwengo_logo_footer")){
     // Detect double click on dwengo logo in footer and redirect to home page
