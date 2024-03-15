@@ -405,6 +405,8 @@ content_page:
 # Translations for the contact page
 contact_page:
   title: Contact
+  introduction1: Souhaitez-vous rester informé de nos supports pédagogiques et des formations associées ? Inscrivez-vous alors à notre newsletter!
+  news: <a href="https://docs.google.com/forms/d/e/1FAIpQLScNFgv6xV0JeSMo1QR2QDPAcdUvc_2Mu0GnIdfqBpWSn-MgTw/viewform"><strong>Inscrire pour newsletter</strong></a>
   introduction: Vous voulez savoir plus comment utiliser les matériaux Dwengo à votre école? Ou vous avez crée un projet intéressant avec vos élèves que vous souhaitez partager avec nous? Contactez-nous!
   you_can_contact_dwengo: "Vous pouvez contacter Dwengo:"
   email: Par email sur info@dwengo.org
