@@ -409,7 +409,7 @@ contact_page:
   news: '<a href="https://docs.google.com/forms/d/e/1FAIpQLScNFgv6xV0JeSMo1QR2QDPAcdUvc_2Mu0GnIdfqBpWSn-MgTw/viewform"><strong>Inscrire pour newsletter</strong></a>'
   introduction: Vous voulez savoir plus comment utiliser les matériaux Dwengo à votre école? Ou vous avez crée un projet intéressant avec vos élèves que vous souhaitez partager avec nous? Contactez-nous!
   you_can_contact_dwengo: "Vous pouvez contacter Dwengo:"
-  email: Par email sur info@dwengo.org
+  email: Par email sur <strong>info@dwengo.org</strong>
   mail: "Par la poste:"
   address_line_1: Dwengo asbl
   address_line_2: Avenue Marcel Thiry 194

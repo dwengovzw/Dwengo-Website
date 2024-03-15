@@ -405,7 +405,7 @@ contact_page:
   news: '<a href="https://docs.google.com/forms/d/e/1FAIpQLScNFgv6xV0JeSMo1QR2QDPAcdUvc_2Mu0GnIdfqBpWSn-MgTw/viewform"><strong>Anmelden für Newsletter</strong></a>'
   introduction: Möchten Sie mehr darüber erfahren, wie Sie Dwengo-Lernmaterialien in Ihrer Schule einsetzen können? Oder hast du gerade ein richtig cooles Projekt mit deinen Schülern entwickelt und möchtest es teilen? Dann lass es uns wissen!
   you_can_contact_dwengo: "Sie können Dwengo vzw kontaktieren::"
-  email: Per E-Mail an info@dwengo.org
+  email: Per E-Mail an <strong>info@dwengo.org<strong>
   mail: "Oder per Post::"
   address_line_1: Dwengo vzw
   address_line_2: Marcel Thirylaan 194

@@ -703,7 +703,7 @@ contact_page:
   news: '<a href="https://docs.google.com/forms/d/e/1FAIpQLScNFgv6xV0JeSMo1QR2QDPAcdUvc_2Mu0GnIdfqBpWSn-MgTw/viewform"><strong>Inschrijven nieuwsbrief</strong></a>'
   introduction: Wil je meer weten over hoe je met het lesmateriaal van Dwengo aan de slag kan op school? Of heb je net een keicool project uitgewerkt met je leerlingen en wil je dat delen? Laat dan zeker iets weten!
   you_can_contact_dwengo: "Je kan Dwengo vzw contacteren:"
-  email: Via e-mail op info@dwengo.org
+  email: Via e-mail op <strong>info@dwengo.org</strong>
   mail: "Per post:"
   address_line_1: Dwengo vzw
   address_line_2: Marcel Thirylaan 194
