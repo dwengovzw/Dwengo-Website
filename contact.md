@@ -20,7 +20,7 @@ permalink: /contact/
 
 {% t contact_page.introduction1 %}
 
-{% t contact_page_news %}
+{% t contact_page.news %}
 
 {% t contact_page.introduction %}
 
