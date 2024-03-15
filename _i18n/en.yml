@@ -403,7 +403,7 @@ content_page:
 contact_page:
   title: Contact
   introduction1: Do you want to stay informed about our teaching materials and related further education? Be sure to subscribe to our newsletter!
-  news: <a href="https://docs.google.com/forms/d/e/1FAIpQLScNFgv6xV0JeSMo1QR2QDPAcdUvc_2Mu0GnIdfqBpWSn-MgTw/viewform"><strong>Subscribe to newsletter</strong></a>
+  news: '<a href="https://docs.google.com/forms/d/e/1FAIpQLScNFgv6xV0JeSMo1QR2QDPAcdUvc_2Mu0GnIdfqBpWSn-MgTw/viewform"><strong>Subscribe to newsletter</strong></a>'
   introduction: Do you want to know more about how you can use Dwengo learning materials in your school? Or did you create an interesting project with your class that you want to share with us? Let us know!
   you_can_contact_dwengo: "You can reach Dwengo:"
   email: By email on info@dwengo.org
