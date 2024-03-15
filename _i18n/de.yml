@@ -419,23 +419,23 @@ projects_page:
   project_1_title: WeGoSTEM
   project_1_description: Mit WeGoSTEM begeistern wir Schülerinnen und Schüler der dritten Klasse der Grundschule für Technik und Informatikwissenschaften. Wir fordern die Kinder heraus, einen kreativen Kunstroboter zu bauen und zu programmieren, der selbstständig zeichnen kann. Auf diese Weise lernen sie viele STEM-Fähigkeiten von Technik bis zum rechnerischen Denken. In den letzten Jahren haben bereits mehr als 20.000 Kinder in ganz Belgien während des WeGoSTEM-Projekts ihren ersten Roboter gebaut. Auch du kannst mit deiner Schule anfangen, dank des kostenlosen Unterrichtsmaterials, das in Bibliotheken in ganz Belgien verteilt wird.
   project_1_contact: "Fragen? Kontaktiere uns unter wegostem@dwengo.org. Für Bibliotheken mit logistischen Fragen gibt es eine separate Adresse: bib@dwengo.org. Die Presse kann sich an Peter Bertels unter 0474 87 40 95 oder peter@dwengo.org wenden."
-  project_1_teaser: https://youtu.be/5zK8zEZL7rk
+  project_1_teaser: "https://www.youtube.com/embed/5zK8zEZL7rk"
   project_2_title: KI an der Schule
   project_2_description: "Künstliche Intelligenz (KI) ist in den Medien allgegenwärtig. Beliebte Themen sind Chatbots, selbstfahrende Autos, virtuelle Assistenten und der Verlust von Arbeitsplätzen. KI-Systeme dringen immer mehr in unsere Welt ein. KI an der Schule ist ein Projekt, das aus der Sorge entstanden ist, dass Schülerinnen und Schüler KI verstehen müssen, und der Erkenntnis, dass es eine Lücke im Lehrplan der Sekundarschule gibt, um dies zu erreichen. Wir erstellen Unterrichtsmaterial für die Sekundarschule zum Thema KI, das mit den Endzielen und den bestehenden Lehrplänen verknüpft ist. All dieses Unterrichtsmaterial ist auf unserer Website verfügbar."
   project_2_contact: Fragen? Kontaktiere uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels unter 0473 300 729 oder Francis@dwengo.org wenden.
-  project_2_teaser: https://youtu.be/tqSnpAKLsu8
+  project_2_teaser: "https://www.youtube.com/embed/tqSnpAKLsu8"
   project_3_title: Internationale Projekte
   project_3_description: Beschreibung internationales Projekt
   project_3_contact: Interesse, ein internationales Projekt zu starten? Kontaktiere Francis Wyffels unter Francis@dwengo.org
-  project_3_teaser: https://www.youtube.com/watch?v=HP0ncKuV2-A
+  project_3_teaser: "https://www.youtube.com/embed/HP0ncKuV2-A"
   project_4_title: Dwenguino
   project_4_description: "Einen Roboter mit Schülerinnen und Schülern zu bauen oder eine andere Anwendung von Physical Computing im Unterricht einzuführen, ist nicht so einfach. Um es Lehrern so einfach wie möglich zu machen, hat Dwengo eine eigene Mikrocontroller-Plattform, den Dwenguino, und eine grafische Programmierumgebung, DwenguinoBlockly, entwickelt. Selbst ohne physisches Material können Sie damit arbeiten. Der Dwenguino ist eine auf Arduino basierende Mikrocontroller-Plattform, die viele Elemente enthält, mit denen Sie schnell Ihr eigenes Gerät bauen können, wie einen sozialen Roboter, eine Wetterstation, ein Musikinstrument oder ein autonomes Fahrzeug. Der Dwenguino verfügt beispielsweise über Druckknöpfe, ein LCD-Display, einen Summer, LEDs und Anschlüsse für Motoren. Der Dwenguino ist Open Source. Die Plattform wird derzeit bereits für Schülerinnen und Schüler ab 10 Jahren bis zur höheren Bildung verwendet. Es kann eine Lernlinie von der ersten bis zur dritten Klasse der Sekundarschule aufgebaut werden, vom grafischen bis zum textbasierten Programmieren und mit steigendem Schwierigkeitsgrad in den Anwendungen."
   project_4_contact: "Fragen? Kontaktiere uns unter natacha@dwengo.org."
-  project_4_teaser: https://www.youtube.com/embed/VpAXLlT_JP0
+  project_4_teaser: "https://www.youtube.com/embed/VpAXLlT_JP0"
   project_5_title: Rechnerisches Denken
   project_5_description: "Probleme lassen sich oft leichter, genauer und schneller mit einem Computer lösen. Wenn Sie rechnerisch denken, überlegen Sie die Schritte, die erforderlich sind, um eine Lösung für ein bestimmtes Problem zu finden, und setzen dann mit Ihrem technischen Wissen den Computer ein, um diese Schritte auszuführen und das Problem zu lösen. Rechnerisches Denken konzentriert sich stark auf problemlösende Fähigkeiten und kann in jedem Fach im regulären Unterricht behandelt werden. Viele Konzepte des rechnerischen Denkens können in Programmierkursen praktisch angegangen werden. Sie können jedoch auch ohne Computer viel über rechnerisches Denken lernen. Dwengo unterstützt Lehrer mit angeschlossenen und nicht angeschlossenen Aktivitäten, um ihre Schüler rechnerisches Denken beizubringen, und möchte Lehrer befähigen, die Konzepte des rechnerischen Denkens in ihren eigenen Unterrichtsmaterialien zu erkennen. Die angeschlossenen Aktivitäten konzentrieren sich auf Physical Computing (mit grafischer und textbasierter Programmierung) und STEM (mit Python)."
   project_5_contact: "Fragen? Kontaktiere uns unter natacha@dwengo.org."
-  project_5_teaser: https://youtube.com/embed/Nifa0vooyKg 
+  project_5_teaser: "https://youtube.com/embed/Nifa0vooyKg"
 
 # Translations for the projects page
 curricula_page:
