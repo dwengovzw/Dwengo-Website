@@ -18,6 +18,10 @@ permalink: /contact/
 
 ## {% t contact_page.title %}
 
+{% t contact_page.introduction1 %}
+
+{% t contact_page.news %}
+
 {% t contact_page.introduction %}
 
 {% t contact_page.you_can_contact_dwengo %}

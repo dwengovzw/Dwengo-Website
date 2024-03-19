@@ -402,9 +402,11 @@ content_page:
 # Translations for the contact page
 contact_page:
   title: Contact
+  introduction1: Do you want to stay informed about our teaching materials and related further education? Be sure to subscribe to our newsletter!
+  news: '<a href="https://docs.google.com/forms/d/e/1FAIpQLScNFgv6xV0JeSMo1QR2QDPAcdUvc_2Mu0GnIdfqBpWSn-MgTw/viewform"><strong>Subscribe to newsletter</strong></a>'
   introduction: Do you want to know more about how you can use Dwengo learning materials in your school? Or did you create an interesting project with your class that you want to share with us? Let us know!
   you_can_contact_dwengo: "You can reach Dwengo:"
-  email: By email on info@dwengo.org
+  email: By email on <strong>info@dwengo.org</strong>
   mail: "By mail:"
   address_line_1: Dwengo vzw
   address_line_2: Marcel Thirylaan 194
@@ -418,23 +420,23 @@ projects_page:
   project_1_title: WeGoSTEM
   project_1_description: With WeGoSTEM, we inspire students in the third grade of primary education for technology and computer science. We challenge the children to build and program a creative art robot that can draw independently. In this way, they learn various STEM skills from technology to computational thinking. Over the past years, more than 20,000 children across Belgium have built their first robot during the WeGoSTEM project. You can also get involved with your school thanks to the free educational material distributed through libraries across Belgium.
   project_1_contact: "Questions? Contact us at wegostem@dwengo.org. For libraries with logistical questions, there is a separate address: bib@dwengo.org. Press can contact Peter Bertels at 0474 87 40 95 or peter@dwengo.org."
-  project_1_teaser: https://youtu.be/5zK8zEZL7rk
+  project_1_teaser: "https://www.youtube.com/embed/5zK8zEZL7rk"
   project_2_title: AI in School
   project_2_description: "Artificial intelligence (AI) is a prominent topic in the media. Popular themes include chatbots, self-driving cars, virtual assistants, and job loss. AI systems are increasingly penetrating our world. AI in School is a project that originated from the concern that students should understand artificial intelligence (AI) and the realization that there is a gap in the curriculum of secondary education to address this. We create educational material for secondary education related to AI, linked to the final objectives and existing curriculum goals. All this educational material is available on our website."
   project_2_contact: Questions? Contact us at team@aiopschool.be. Press can contact Francis Wyffels at 0473 300 729 or Francis@dwengo.org.
-  project_2_teaser: https://youtu.be/tqSnpAKLsu8 
+  project_2_teaser: "https://www.youtube.com/embed/tqSnpAKLsu8" 
   project_3_title: International Projects
   project_3_description: Description of international project
   project_3_contact: Interested in starting an international project? Contact Francis Wyffels at Francis@dwengo.org
-  project_3_teaser: https://www.youtube.com/watch?v=HP0ncKuV2-A 
+  project_3_teaser: "https://www.youtube.com/embed/HP0ncKuV2-A" 
   project_4_title: Dwenguino
   project_4_description: "Building a robot with students or introducing another application of physical computing in the classroom is not so simple. To make it as accessible as possible for teachers, Dwengo developed its own microcontroller platform, Dwenguino, and a graphical programming environment, DwenguinoBlockly. Even without physical material, you can work with it. Dwenguino is an Arduino-based microcontroller platform that contains many elements for quickly building your own device, such as a social robot, weather station, musical instrument, or autonomous car. Dwenguino has buttons, an LCD screen, a buzzer, LEDs, and connectors to connect motors. Dwenguino is open source. The platform is currently used for students from 10 years old to higher education. A curriculum can be built from the first to the third grade of secondary education, from graphical to textual programming, and with an increasing level of difficulty in applications."
   project_4_contact: "Questions? Contact us at natacha@dwengo.org."
-  project_4_teaser: https://www.youtube.com/embed/VpAXLlT_JP0
+  project_4_teaser: "https://www.youtube.com/embed/VpAXLlT_JP0"
   project_5_title: Computational Thinking
   project_5_description: "Problems are often easier, more accurate, and faster to solve with the help of a computer. When you think computationally, you think about the steps needed to solve a particular problem, then use your technical knowledge to set the computer to work through those steps and solve the problem. Computational thinking strongly focuses on problem-solving skills and can be addressed in any subject in regular education. Many concepts of computational thinking can be practically approached in programming lessons. However, you can also learn a lot about computational thinking without a computer. Dwengo helps teachers with plugged and unplugged activities to teach their students computational thinking and aims to make teachers proficient in recognizing the concepts of computational thinking in their own teaching materials. Plugged activities focus on physical computing (with graphical and textual programming) and STEM (with Python)."
   project_5_contact: "Questions? Contact us at natacha@dwengo.org."
-  project_5_teaser: https://youtube.com/embed/Nifa0vooyKg  
+  project_5_teaser: "https://youtube.com/embed/Nifa0vooyKg"
 
 # Translations for the projects page
 curricula_page:
