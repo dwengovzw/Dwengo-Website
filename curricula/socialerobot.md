@@ -15,6 +15,7 @@ partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/
 learning_paths: ['sr0_lkr', 'sr0_lln', 'sr1', 'sr2', 'sr3', 'sr4']
 ---
 
+
 {% capture page_title %} {{ site.translations[site.lang].socialrobot.page_title }} {% endcapture %}
 {% capture intro %} {{ site.translations[site.lang].socialrobot.intro }} {% endcapture %}
 {% capture summary %} {{ site.translations[site.lang].socialrobot.summary }} {% endcapture %}
