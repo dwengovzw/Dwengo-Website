@@ -6,6 +6,7 @@
     align-items: stretch;
     justify-content: flex-start;
     gap: 30px 0;
+    margin: 2rem 0;
 }
 
 .lp_card_container {
@@ -40,24 +41,48 @@
             }
         }
     }
+    .age_group_label {
+        position: absolute;
+        top: 0.5em;
+        right: 0.5em;
+        width: 55px;
+        height: 55px;
+        display: grid;
+        place-content: center;
+        place-items: center;
+        background-color: white;
+        border: solid #e87b66 6px;
+        color: #e87b66;
+        font-weight: bold;
+        font-size: 0.7em;
+        border-radius: 0.25rem;
+      }
+      
+      .age_range_text {
+        padding-bottom: 0.25rem;
+      }
+      
+      .age_range_icon {
+        padding: 0.25rem 0.5rem 0 0.5rem;
+        color: #e87b66;
+        fill: #e87b66;
+      }
 }
 
+
+
 @media (min-width: 1200px){
-    .trajectory_content {
-        .item_learning_paths {
-            .lp_card_container {
-                max-width: 25%;
-            }
+    .item_learning_paths {
+        .lp_card_container {
+            max-width: 25%;
         }
     }
 }
 
 @media (min-width: 768px) and (max-width: 1200px){
-    .trajectory_content {
-        .item_learning_paths {
-            .lp_card_container {
-                max-width: 33%;
-            }
+    .item_learning_paths {
+        .lp_card_container {
+            max-width: 33%;
         }
     }
 }

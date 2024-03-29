@@ -7,97 +7,6 @@ let backToLearningPathsButtonDisplayStyle = "none";
 let _paq = null
 
 /**
- * visualises all learning paths (on home screen), currently alphabetically ordered by title
- * @param {array} paths array of learning-paths
- */
-function visualizeLearningPaths(paths, sort=true) {
-    hideLoadingMessage();
-    let dwengoColors = ["#0f5faa", "#0f5d6d", "#115b4e", "#115933", "#3c8227", "#73b51e", "#f4a72c", "#e87b66"];
-    let col = 0;
-    document.getElementById("learning_paths").innerHTML = "";
-
-    if (paths.length == 0) {
-        document.getElementById("lp_error_message").className = "row d-block";
-    } else {
-        document.getElementById("lp_error_message").className = "row d-none";
-
-        if (sort){
-            sortResults(paths, 'title', true);
-        }
-        paths.forEach(path => {
-            let div = document.createElement("div");
-            div.className = "col-lg-3 col-md-4 col-sm-6 col-xs-12 py-3";
-            let a = document.createElement("a");
-            // TODO add language to url
-            let langPrefix = ""
-            if (path.language !== "nl" && siteLanguages.includes(path.language)){
-                langPrefix = "/" + path.language
-            }
-            const pageTitle = document.getElementsByClassName("curriculum_title")[0].innerHTML || "Home"
-            a.href = `${langPrefix}/learning-path.html?hruid=${path.hruid}&language=${path.language}&te=true&source_page=${encodeURIComponent(window.location.pathname)}&source_title=${pageTitle}`
-            a.style.textDecoration = "none"
-
-            let card = document.createElement("div");
-            card.className = "card h-100 position-relative";
-
-            let img = document.createElement("img");
-            img.className = "card-img-top"
-            img.src = "data:image/jpeg;base64, " + path.image;
-            img.style.filter = "grayscale(100%)";
-            img.width = "500";
-            img.height = "500";
-
-            let cardBodyContainer = document.createElement("div");
-            cardBodyContainer.className = "card-body-container"
-
-            let info = document.createElement("div");
-            info.className = "card-body"
-            info.style.backgroundColor = dwengoColors[col];
-            info.style.color = "white";
-
-            let age_range_container = document.createElement("span");
-            age_range_container.className = "age_group_label"
-            let age_range = document.createElement("span");
-            let icon = document.createElement("img");
-            icon.className = "age_range_icon"
-            icon.width = "100"
-            icon.height = "75"
-            icon.setAttribute("src", "/images/logos/age_logo.svg");
-
-            let agerange = `${path.min_age} - ${path.max_age}`
-            age_range.innerHTML = agerange;
-            age_range.className = "age_range_text";
-            age_range_container.append(icon);
-            age_range_container.append(age_range)
-            
-            cardBodyContainer.appendChild(info)
-
-            let title = document.createElement("h5");
-            title.innerHTML = path.title;
-            title.className = "card-title"
-            let desc = document.createElement("p");
-            desc.innerHTML = path.description;
-            desc.className = "card-text"
-
-            info.appendChild(title);
-            info.appendChild(desc);
-
-            
-
-            card.appendChild(img);
-            card.appendChild(cardBodyContainer);
-            card.appendChild(age_range_container);
-
-            a.appendChild(card);
-            div.appendChild(a)
-            document.getElementById("learning_paths").appendChild(div);
-
-            col = (col + 1) % dwengoColors.length;
-        });
-    }
-}
-
-/**
  * Gets metadata of a learning object
  * @param {*} hruid 
  * @param {*} language 
@@ -119,16 +28,7 @@ function getObjectMetadata(hruid, language, version, success, failure){
     xhttp.send();
 }
 
-function sortResults(my_array, prop, asc) {
-    my_array.sort(function(a, b) {
-        if (asc) {
-            return (a[prop] > b[prop]) ? 1 : ((a[prop] < b[prop]) ? -1 : 0);
-        } else {
-            return (b[prop] > a[prop]) ? 1 : ((b[prop] < a[prop]) ? -1 : 0);
-        }
-    });
-    return my_array;
-}
+
 
 /**
  * requests all learning-paths based on filter and language from backend
@@ -136,27 +36,19 @@ function sortResults(my_array, prop, asc) {
  * @param {string} lang language
  */
 function loadLearningPaths(filter = "", lang = "", min_age = 0, max_age = 25) {
-    let url =  api_base_path + "/api/learningPath/search?all=" + filter + "&language=" + lang + "&min_age=" + min_age + "&max_age=" + max_age;
-    requestLearningPathsAndVisualize(url)
+    let container = document.querySelector("#learning_paths");
+    const pageTitle = document.getElementsByClassName("curriculum_title")[0].innerHTML || "Home"
+    searchAndLoadLearningPathsIntoContainer(filter, lang, container, pageTitle, min_age, max_age);
 }
 
 
 function loadLearningPathsInList(learningPathIdLanguageList, lang){
-    let url = api_base_path + "/api/learningPath/getPathsFromIdList?pathIdList=" + JSON.stringify(learningPathIdLanguageList) + "&language=" + lang;
-    requestLearningPathsAndVisualize(url, false);
+    //let url = api_base_path + "/api/learningPath/getPathsFromIdList?pathIdList=" + JSON.stringify(learningPathIdLanguageList) + "&language=" + lang;
+    let container = document.querySelector("#learning_paths");
+    const pageTitle = document.getElementsByClassName("curriculum_title")[0].innerHTML || "Home"
+    loadLearningPathListInContainer(learningPathIdLanguageList.hruids, lang, container, pageTitle)
 }
 
-function requestLearningPathsAndVisualize(url, sort=true){
-    var xhttp = new XMLHttpRequest();
-    xhttp.onreadystatechange = function () {
-        if (this.readyState == 4 && this.status == 200) {
-            let learning_paths = JSON.parse(this.response);
-            visualizeLearningPaths(learning_paths, sort);
-        }
-    };
-    xhttp.open("GET", url, true);
-    xhttp.send();
-}
 
 function setLearningObjectLinkOnClickHandler(hruid, language, version){
     /**
@@ -774,23 +666,15 @@ function loadFilters() {
     xhttp.send();
 
     filter_input.onchange = (ev) => {
-        showLoadingMessage();
         loadLearningPaths(ev.target.value, lang_select.value)
     }
 
     lang_select.onchange = (ev) => {
-        showLoadingMessage();
         loadLearningPaths(filter_input.value, ev.target.value)
     }
 }
 
-function showLoadingMessage(){
-    document.getElementById("lp_loading_message").style.display = "inline-block";
-}
 
-function hideLoadingMessage(){
-    document.getElementById("lp_loading_message").style.display = "none";
-}
 
 function setKeywordActions(){
     $(".keyword").on('click', function(){

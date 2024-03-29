@@ -4,8 +4,10 @@ let api_base_path = "http://localhost:8085"   // For debug
 let visualizeLearningPathsInContainer = (learningPaths, container, pageTitle, sort=true) => {
     let dwengoColors = ["#0f5faa", "#0f5d6d", "#115b4e", "#115933", "#3c8227", "#73b51e", "#f4a72c", "#e87b66"];
     let currentColorIndex = 0;
-    let learningPathsContainer = container
-    learningPathsContainer.innerHTML = "";
+    let learningPathsContainer = container;
+    
+    // add class to container
+    learningPathsContainer.classList.add("item_learning_paths");
     learningPaths.forEach(path => {
         let div = document.createElement("div");
         div.className = "lp_card_container";
@@ -77,19 +79,47 @@ let visualizeLearningPathsInContainer = (learningPaths, container, pageTitle, so
     });
 }
 
-let loadLearningPathsInContainer = (paths, lang, container, pageTitle) => {
+let searchAndLoadLearningPathsIntoContainer = (filter, lang, container, pageTitle, min_age = 0, max_age = 25) => {
+    let url =  api_base_path + "/api/learningPath/search?all=" + filter + "&language=" + lang + "&min_age=" + min_age + "&max_age=" + max_age;
+    loadAndVisualizeLearningPaths(url, container, pageTitle, true);
+}
+
+let loadLearningPathListInContainer = (paths, lang, container, pageTitle) => {
     //let basepath = window.location.origin + "/backend";
     let payload = {
         hruids: paths,
     }
     let url = api_base_path + "/api/learningPath/getPathsFromIdList?pathIdList=" + JSON.stringify(payload) + "&language=" + lang;
+    loadAndVisualizeLearningPaths(url, container, pageTitle, false);
+}
+
+let loadAndVisualizeLearningPaths = (url, container, pageTitle, sort) => {
+    container.innerHTML = "";
+    // Add loading spinner
+    let loadingSpinner = document.createElement("div");
+    loadingSpinner.className = "loading_spinner";
+    loadingSpinner.role = "status";
+    container.appendChild(loadingSpinner);
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             let learning_paths = JSON.parse(this.response);
-            visualizeLearningPathsInContainer(learning_paths, container, pageTitle, false);
+            visualizeLearningPathsInContainer(learning_paths, container, pageTitle, sort);
+            container.removeChild(loadingSpinner);
         }
     };
     xhttp.open("GET", url, true);
     xhttp.send();
+}
+
+
+let sortResults = (my_array, prop, asc) => {
+    my_array.sort(function(a, b) {
+        if (asc) {
+            return (a[prop] > b[prop]) ? 1 : ((a[prop] < b[prop]) ? -1 : 0);
+        } else {
+            return (b[prop] > a[prop]) ? 1 : ((b[prop] < a[prop]) ? -1 : 0);
+        }
+    });
+    return my_array;
 }

@@ -444,10 +444,8 @@ a.footer:hover{
   text-justify: inter-word;
 }
 
-#single_lp #learning_paths{
-  
-}
 
+/*
 #learning_paths .card-title {
   height: 20%;
   box-sizing: border-box;
@@ -483,34 +481,9 @@ a.footer:hover{
 #learning_paths .card-img-top {
   position: relative;
   top: 0;
-}
+}*/
 
-.age_group_label {
-  position: absolute;
-  top: 0.5em;
-  right: 0.5em;
-  width: 55px;
-  height: 55px;
-  display: grid;
-  place-content: center;
-  place-items: center;
-  background-color: white;
-  border: solid #e87b66 6px;
-  color: #e87b66;
-  font-weight: bold;
-  font-size: 0.7em;
-  border-radius: 0.25rem;
-}
 
-.age_range_text {
-  padding-bottom: 0.25rem;
-}
-
-.age_range_icon {
-  padding: 0.25rem 0.5rem 0 0.5rem;
-  color: #e87b66;
-  fill: #e87b66;
-}
 
 .blocklyDiv {
   width: 100%;
@@ -576,15 +549,15 @@ img {
   max-width: 150px;
 }
 
-.card-body-container{
-  border-bottom-left-radius: 0.25rem;
-  border-bottom-right-radius: 0.25rem;
-}
+// .card-body-container{
+//   border-bottom-left-radius: 0.25rem;
+//   border-bottom-right-radius: 0.25rem;
+// }
 
-.card-img-top{
-  border-top-left-radius: 0.25rem;
-  border-top-right-radius: 0.25rem;
-}
+// .card-img-top{
+//   border-top-left-radius: 0.25rem;
+//   border-top-right-radius: 0.25rem;
+// }
 
 
 // Styles for AI Op School banner
@@ -870,3 +843,20 @@ footer {
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+.loading_spinner {
+  border: 16px solid #f3f3f3; /* Light grey */
+  border-top: 16px solid $brand-primary;
+  border-bottom: 16px solid #F6FAF2;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+  position: absolute;
+  left: calc(50% - 60px);
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

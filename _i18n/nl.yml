@@ -917,6 +917,22 @@ learning_trajectories:
     kiks:
       title: "AI en Klimaat"
       description: "In het KIKS project ga je met de leerlingen aan de slag met AI in de context van klimaatverandering."
+    chatbot:
+      title: "Chatbot"
+      description: "In deze leerlijn ontdekken leerlingen hoe chatbots werken en hoe ze zelf een chatbot kunnen maken."
+    wegostem:
+      title: "WeGoSTEM"
+      description: "In deze leerlijn ontdekken leerlingen hoe ze een robot kunnen bouwen en programmeren."
+    intro_dwenguino:
+      title: "Introductie tot de Dwenguino"
+      description: "In deze leerlijn ontdekken leerlingen hoe ze een robot kunnen bouwen en programmeren."
+    leerlijn_microcontrollers:
+      title: "Leerlijn µC"
+      description: "In deze leerlijn ontdekken leerlingen hoe ze een microcontrollertoepassing kunnen bouwen en programmeren."
+    geavanceerde_microcontroller:
+      title: "Geavanceerde µC"
+      description: "In deze leerlijn ontdekken leerlingen hoe ze een geavanceerde microcontrollertoepassing kunnen bouwen en programmeren."
+    
       
 learning_trajectory:
   title: Jouw persoonlijke leerlijn

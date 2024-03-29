@@ -3,17 +3,13 @@
     <input type="hidden" class="form-control" id="filter_input" data-load-idlist="true"
                 placeholder="{% t learning_paths.filter_placeholder %}" value={{ include.filter_object }}>
     <input type="hidden" class="form-control" id="language_select">
-    <div id="lp_loading_message" class="row mt-2 mb-2">
-        <div class="col-12">
-            <p class="text-center">{% t learning_paths.loading_message %}</p>
-        </div>
-    </div>
+    
     <div id="lp_error_message" class="row d-none">
         <p class="text-danger col-12 py-4 ">{% t learning_paths.error_message %}
         </p>
     </div>
 
-    <div id="learning_paths" class="row">
+    <div id="learning_paths">
 
     </div>
 </section>

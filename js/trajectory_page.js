@@ -71,7 +71,7 @@
 
                 
                 let pageTitle ="{% t learning_trajectories.my_personal_trajectory %}"
-                loadLearningPathsInContainer(item.paths, lang, itemLearningPaths, pageTitle)
+                loadLearningPathListInContainer(item.paths, lang, itemLearningPaths, pageTitle)
 
                 itemContainer.appendChild(itemTitle);
                 itemContainer.appendChild(itemLearningPaths);
