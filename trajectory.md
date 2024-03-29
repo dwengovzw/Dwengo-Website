@@ -4,7 +4,7 @@
 
 layout: trajectory_page
 title: trajectory
-permalink: /trajectory
+permalink: /trajectory/
 frontend-url: site.frontend-url
 ---
 
