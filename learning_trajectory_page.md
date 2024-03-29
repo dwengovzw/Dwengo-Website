@@ -4,8 +4,8 @@
 
 layout: default
 redirect_from: 
-    - leerlijn-samenstellen
-permalink: trajectories
+    - /leerlijn-samenstellen/
+permalink: /trajectories/
 ---
 
 {%- include learning_trajectories.html -%}
