@@ -1,5 +1,5 @@
-//let api_base_path = window.location.origin + "/backend" // For deploy
-let api_base_path = "http://localhost:8085"   // For debug
+let api_base_path = window.location.origin + "/backend" // For deploy
+//let api_base_path = "http://localhost:8085"   // For debug
 
 let visualizeLearningPathsInContainer = (learningPaths, container, pageTitle, sort=true) => {
     let dwengoColors = ["#0f5faa", "#0f5d6d", "#115b4e", "#115933", "#3c8227", "#73b51e", "#f4a72c", "#e87b66"];
