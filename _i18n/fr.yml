@@ -917,6 +917,39 @@ shop:
       price: "30 € hors TVA 6%"
       price_extra_info: ""
 
+
+learning_trajectories:
+  title: Parcours d'apprentissage
+  grade1: 1e graad
+  grade2: 2e graad
+  grade3: 3e graad
+  choose_alternative: Choisissez 
+  ai: IA
+  physical_computing: Physical computing
+  my_personal_trajectory: Mon parcours d'apprentissage
+  dialog:
+    title: "Choisissez une alternative"
+  items:
+    ai_in_art:
+      title: "AI in de kunst"
+      description: "In deze leerlijn ontdekken leerlingen hoe AI gebruikt wordt in de kunst. Ze leren hoe AI kan helpen bij het maken van muziek, schilderijen en poëzie. Ze leren ook hoe AI kan helpen bij het maken van kunstwerken die reageren op hun omgeving."
+    socialrobot:
+      title: "Sociale robot"
+      description: "Info over lesmateriaal sociale robot."
+    theremin:
+      title: "Theremin"
+      description: "Info over lesmateriaal theremin."
+    microcontroller:
+      title: "De microcontroller"
+      description: "Lesmateriaal over het gebruik en de werking van de microcontroller."
+    kiks:
+      title: "AI en Klimaat"
+      description: "In het KIKS project ga je met de leerlingen aan de slag met AI in de context van klimaatverandering."
+     
+
+learning_trajectory:
+  title: Votre parcours d'apprentissage
+
 # Translations for the menu items
 about: À propos
 contact: Contact
@@ -927,3 +960,4 @@ content: Sujets
 congres2023: "<strong>Congres</strong>"
 news: "Actualités"
 test: test fr
+lang: fr

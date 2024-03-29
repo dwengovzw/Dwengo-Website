@@ -905,6 +905,36 @@ shop:
       price: "€30 excl. 6% VAT"
       price_extra_info: ""
 
+learning_trajectories:
+  title: Learning trajectories
+  grade1: 1e graad
+  grade2: 2e graad
+  grade3: 3e graad
+  ai: AI
+  physical_computing: Physical computing
+  choose_alternative: Choose an alternative
+  my_personal_trajectory: My personal learning trajectory
+  dialog:
+    title: "Choose an alternative"
+  items:
+    ai_in_art:
+      title: "AI in Art"
+      description: "In deze leerlijn ontdekken leerlingen hoe AI gebruikt wordt in de kunst. Ze leren hoe AI kan helpen bij het maken van muziek, schilderijen en poëzie. Ze leren ook hoe AI kan helpen bij het maken van kunstwerken die reageren op hun omgeving."
+    socialrobot:
+      title: "Sociale robot"
+      description: "Info over lesmateriaal sociale robot."
+    theremin:
+      title: "Theremin"
+      description: "Info over lesmateriaal theremin."
+    microcontroller:
+      title: "De microcontroller"
+      description: "Lesmateriaal over het gebruik en de werking van de microcontroller."
+    kiks:
+      title: "AI en Klimaat"
+      description: "In het KIKS project ga je met de leerlingen aan de slag met AI in de context van klimaatverandering."
+
+learning_trajectory:
+  title: Your personal learning trajectory
 
 # Translations for the menu items
 about: About
@@ -916,3 +946,4 @@ content: Teaching topics
 congres2023: "<strong>Congres 2023</strong>"
 news: "News"
 test: test en
+lang: en

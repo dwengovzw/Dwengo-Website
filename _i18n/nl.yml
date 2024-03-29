@@ -890,6 +890,37 @@ shop:
       price_extra_info: ""
 
 
+learning_trajectories:
+  title: Onze leerlijnnen
+  grade1: 1<sup>e</sup> graad
+  grade2: 2<sup>e</sup> graad
+  grade3: 3<sup>e</sup> graad
+  choose_alternative: Kies een alternatief
+  ai: AI
+  physical_computing: Physical computing
+  my_personal_trajectory: Jouw persoonlijke leerlijn bekijken
+  dialog:
+    title: "Kies een alternatief"
+  items:
+    ai_in_art:
+      title: "AI in de kunst"
+      description: "In deze leerlijn ontdekken leerlingen hoe AI gebruikt wordt in de kunst. Ze leren hoe AI kan helpen bij het maken van muziek, schilderijen en poëzie. Ze leren ook hoe AI kan helpen bij het maken van kunstwerken die reageren op hun omgeving."
+    socialrobot:
+      title: "Sociale robot"
+      description: "Info over lesmateriaal sociale robot."
+    theremin:
+      title: "Theremin"
+      description: "Info over lesmateriaal theremin."
+    microcontroller:
+      title: "De microcontroller"
+      description: "Lesmateriaal over het gebruik en de werking van de microcontroller."
+    kiks:
+      title: "AI en Klimaat"
+      description: "In het KIKS project ga je met de leerlingen aan de slag met AI in de context van klimaatverandering."
+      
+learning_trajectory:
+  title: Jouw persoonlijke leerlijn
+
 # Translations for the menu items ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 about: Over
 contact: Contact
@@ -900,4 +931,5 @@ calendar: Nascholingen
 test: test nl
 congres2023: "<strong>Congres</strong>"
 news: "Nieuws"
+lang: nl
 

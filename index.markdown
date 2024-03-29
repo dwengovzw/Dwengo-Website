@@ -39,6 +39,8 @@ paragraph3=paragraph3
 additional_classname="frontpage_frontpage_banner"
 -%}
 
+{%- include learning_trajectories.html -%}
+
 {%- include project_highlights.html -%}
 
 {%- include curricula.html curricula_pages=page.curricula -%}

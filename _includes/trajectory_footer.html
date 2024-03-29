@@ -82,23 +82,20 @@
     integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
     crossorigin="anonymous"></script>
 
+{% if site.lang == "en" %}
+    {% capture page_link_location %}{{ site.baseurl_root }}/en{% endcapture %}
+{% elsif site.lang == "nl" %}
+    {% capture page_link_location %}{{ site.baseurl_root }}{% endcapture %}
+{% elsif site.lang == "de" %}
+    {% capture page_link_location %}{{ site.baseurl_root }}/de{% endcapture %}
+{% elsif site.lang == "fr" %}
+    {% capture page_link_location %}{{ site.baseurl_root }}/fr{% endcapture %}
+{% endif %}
 
-<script src={{ "/js/jquery-range.js" | relative_url }}></script>
-<script src={{ "/js/url_mapping.js" | relative_url }}></script>
 <script src={{ "/js/learning_paths_api.js" | relative_url }}></script>
-<script src={{ "/js/learning_paths.js" | relative_url }}></script>
 <script src={{ "/js/set_analytics_tracker.js" | relative_url }}></script>
+<script src={{ page_link_location | append: "/js/trajectory_page.js" }}></script>
 
-<script src="{{ "/js/prism/prism.js" | relative_url }}"></script>
-<script>
-    Prism.plugins.NormalizeWhitespace.setDefaults({
-        'remove-trailing': true,
-        'remove-indent': true,
-        'left-trim': true,
-        'right-trim': true,
-        'tabs-to-spaces': 4
-    })
-</script>
 {% include cookie-consent.html %}
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

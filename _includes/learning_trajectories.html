@@ -1,0 +1,95 @@
+{% if site.lang == "en" %}
+    {% capture page_link_location %}{{ site.baseurl_root }}/en{% endcapture %}
+{% elsif site.lang == "nl" %}
+    {% capture page_link_location %}{{ site.baseurl_root }}{% endcapture %}
+{% elsif site.lang == "de" %}
+    {% capture page_link_location %}{{ site.baseurl_root }}/de{% endcapture %}
+{% elsif site.lang == "fr" %}
+    {% capture page_link_location %}{{ site.baseurl_root }}/fr{% endcapture %}
+{% endif %}
+
+
+<h2 class="fp_subtitle">{% t learning_trajectories.title %}</h2>
+
+<div class="learning_trajectories">
+    <div class="tr_container">
+        <div class="pc_triangle">
+            <span class="pc_logo">Physical Computing</span>
+        </div>
+        <div class="ai_triangle">
+            <img class="ai_logo" src="/images/aiopschool/logo_white.svg">
+        </div>
+        <div class="lines">
+            <div class="lines_content">
+                <div class="pc_line"></div>
+                <div class="ai_line"></div>
+                <div class="grades">
+                    <div class="first_grade grade">
+                        <div class="title">
+                            <span class="grade_title">{% t learning_trajectories.grade1 %}</span>
+                        </div>
+                        <div class="one_pc grade1 pc_line_item line_item">
+                            <div class="title"></div>
+                            <img class="image" src="/images/logos/dwengo-groen-zwart.svg" width="124" height="50" alt="">
+                            <div class="choose_alternative">{% t learning_trajectories.choose_alternative %}</div>
+                        </div>
+                        <div class="one_ai grade1 ai_line_item line_item">
+                            <div class="title"></div>
+                            <img class="image" src="/images/logos/dwengo-groen-zwart.svg" width="124" height="50" alt="">
+                            <div class="choose_alternative">{% t learning_trajectories.choose_alternative %}</div>
+                        </div>
+                    </div>
+                    <div class="second_grade grade">
+                        <div class="title">
+                            <span class="grade_title">{% t learning_trajectories.grade2 %}</span>
+                        </div>
+                        <div class="two_pc grade2 pc_line_item line_item">
+                            <div class="title"></div>
+                            <img class="image" src="/images/logos/dwengo-groen-zwart.svg" width="124" height="50" alt="">
+                            <div class="choose_alternative">{% t learning_trajectories.choose_alternative %}</div>
+                        </div>
+                        <div class="two_ai grade2 ai_line_item line_item">
+                            <div class="title"></div>
+                            <img class="image" src="/images/logos/dwengo-groen-zwart.svg" width="124" height="50" alt="">
+                            <div class="choose_alternative">{% t learning_trajectories.choose_alternative %}</div>
+                        </div>
+                    </div>
+                    <div class="third_grade grade">
+                        <div class="title">
+                            <span class="grade_title">{% t learning_trajectories.grade3 %}</span>
+                        </div>  
+                        <div class="three_pc grade3 pc_line_item line_item">
+                            <div class="title"></div>
+                            <img class="image" src="/images/logos/dwengo-groen-zwart.svg" width="124" height="50" alt="">
+                            <div class="choose_alternative">{% t learning_trajectories.choose_alternative %}</div>
+                        </div>
+                        <div class="three_ai grade3 ai_line_item line_item">
+                            <div class="title"></div>
+                            <img class="image" src="/images/logos/dwengo-groen-zwart.svg" width="124" height="50" alt="">
+                            <div class="choose_alternative">{% t learning_trajectories.choose_alternative %}</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="my_personal_trajectory">
+            {% t learning_trajectories.my_personal_trajectory %}
+        </div>
+    </div>
+    <dialog id="customize_selection_dialog"> 
+        <h1 class="dialog_title">{% t learning_trajectories.dialog.title %}</h1>
+        <div class="alternatives"></div>
+    </dialog>
+</div>
+
+{% if site.lang == "en" %}
+    {% capture page_link_location %}{{ site.baseurl_root }}/en{% endcapture %}
+{% elsif site.lang == "nl" %}
+    {% capture page_link_location %}{{ site.baseurl_root }}{% endcapture %}
+{% elsif site.lang == "de" %}
+    {% capture page_link_location %}{{ site.baseurl_root }}/de{% endcapture %}
+{% elsif site.lang == "fr" %}
+    {% capture page_link_location %}{{ site.baseurl_root }}/fr{% endcapture %}
+{% endif %}
+
+<script src='{{ page_link_location | append: "/js/learning_trajectories.js" }}'></script>
