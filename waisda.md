@@ -23,6 +23,8 @@ paragraph2=paragraph2
 
 {%- include page_wide_info_banner.html text=banner_info button_text="kiks.form_button_text" -%}
 
+{%- include curricula.html curricula_pages=page.curricula -%}
+
 {%- include partners.html images=page.partner_images -%}
 
 <br/>
