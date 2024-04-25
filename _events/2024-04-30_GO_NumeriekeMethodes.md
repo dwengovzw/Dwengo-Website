@@ -7,6 +7,7 @@ location: "Online"
 location_link: ""
 language: "nl"
 registration_link: "https://pro.g-o.be/kalender/detail/7700/14636"
+anchor: "num-methodes-30-04-24"
 ---
 Voor bepaalde studierichtingen in de derde graad is er een minimumdoel waarbij numerieke methodes behandeld moeten worden. 
 Dwengo vzw ontwikkelde hiervoor kant-en-klaar lesmateriaal dat aansluit bij de leerstof wiskunde. Je kan het materiaal alvast [hier](https://dwengo.org/algoritmes) bekijken.
