@@ -32,12 +32,6 @@ paragraph2=paragraph2
 
 {%- include partners.html images=page.partner_images -%}
 
-<br/>
-<br/>
-<br/>
-<h1>Dit project is net gestart, bijgevolg is er nog geen lesmateriaal beschikbaar.</h1>
-
-<h4>Indien je op zoek bent naar lesmateriaal over AI kan je altijd terecht op <a href="https://www.dwengo.org/aiopschool">dwengo.org/aiopschool</a></h4>
 
 
 
