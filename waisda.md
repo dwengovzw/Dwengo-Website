@@ -23,7 +23,12 @@ paragraph2=paragraph2
 
 {%- include page_wide_info_banner.html text=banner_info button_text="kiks.form_button_text" -%}
 
-{%- include curricula.html curricula_pages=page.curricula -%}
+{% assign begin = '{"hruids": ' %}
+{% assign end = '}' %}
+{% assign full = "'" | append: begin | append: page.learning_paths | append: end | append: "'" %}
+{% capture lp_filter %} {{ full }} {% endcapture %}
+
+{%- include learning_paths.html filter_object=lp_filter -%}
 
 {%- include partners.html images=page.partner_images -%}
 
