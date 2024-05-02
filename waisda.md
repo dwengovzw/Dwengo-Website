@@ -5,7 +5,7 @@ permalink: /waisda/
 banner_image: "/images/aiopschool/banner_wide.jpg"
 logo_image: "/images/curricula/logo_aiopschool_rond.png"
 partner_images: ['/images/partners/dwengo.png', '/images/partners/logo_bekina.png', '/images/partners/gluon_education_logo.svg', '/images/partners/vlaio.png', '/images/partners/logo_SMCLEDE.png', '/images/partners/ugent.svg', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/logo_hoogbloeier.png']
-learning_paths: ["org-dwengo-waisda-taal-murder-mistery", "art1", "org-dwengo-waisda-beelden-emoties-herkennen", "org-dwengo-waisda-beelden-unplugged-fax"]
+learning_paths: ["org-dwengo-waisda-taal-murder-mistery", "art1", "org-dwengo-waisda-beelden-emoties-herkennen", "org-dwengo-waisda-beelden-unplugged-fax-lp"]
 curricula: []
 ---
 
