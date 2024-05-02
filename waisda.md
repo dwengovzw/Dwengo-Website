@@ -9,6 +9,7 @@ learning_paths: ["org-dwengo-waisda-taal-murder-mistery", "art1", "org-dwengo-wa
 curricula: []
 ---
 
+
 {% capture intro_title %} {{ site.translations[site.lang].waisda.intro_title }} {% endcapture %}
 {% capture paragraph1 %} {{ site.translations[site.lang].waisda.paragraph1 }} {% endcapture %}
 {% capture paragraph2 %} {{ site.translations[site.lang].waisda.paragraph2 }} {% endcapture %}
