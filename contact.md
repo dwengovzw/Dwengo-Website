@@ -36,3 +36,5 @@ permalink: /contact/
 {% t contact_page.country %}
 
 {% t contact_page.vat_number %}
+
+{% t contact_page.designer_info %}

@@ -413,6 +413,7 @@ contact_page:
   address_line_3: 1200 Brussels
   country: Belgium
   vat_number: Dwengo vzw is registered in Belgium under VAT number BE 0811.397.278.
+  designer_info: 'All the drawings on our website were made by Margot De Saegher. She is a talented illustrator and graphic designer. Would you like to see more of her work? Then be sure to visit her website: <a href="https://margotds.com/">margotds.com</a>.'
 
 # Translations for the projects page
 projects_page:
