@@ -1,6 +1,6 @@
 ---
 layout: my_redirect
-title: soc_robot_vuilnisbak
+title: soc_robot_techniek
 redirect_from:
   - /socialerobot/techniek/
 permalink: /my_redirects/techniek/
