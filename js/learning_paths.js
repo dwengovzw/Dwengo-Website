@@ -167,9 +167,10 @@ async function printDiv(path, mywindow) {
     mywindow.document.write(`<html><head><title>${path.title}</title>`);
     // TODO: link learning path print css here!
     mywindow.document.write(`<link rel="stylesheet" href="https://staging.dwengo.org/backend/static/css/public/dwengo_learning_path_styles.css">`)
+    //mywindow.document.write(`<link rel="stylesheet" href="http://localhost:8085/css/public/dwengo_learning_path_styles.css">`)
     mywindow.document.write(`<link rel="stylesheet" href="/assets/main.css">`);
+    mywindow.document.write(`<link rel="stylesheet" href="/assets/css/prism/prism.css"></link>`);
     mywindow.document.write(`<link rel="shortcut icon" type="image/png" href="/images/favicon.ico"></link>`);
-    mywindow.document.write(`<link rel="stylesheet" href="/css/bootstrap/bootstrap.min.css"">`);
     mywindow.document.write('</head><body>');
 
     // Include MathJax in the new window
@@ -205,13 +206,36 @@ async function printDiv(path, mywindow) {
     stub_wrapper.append(containerdiv);
     mywindow.document.write(stub_wrapper.html());
 
+   
+
+    mywindow.document.write('<script src="/js/learningobject_interaction.js"></script>');
+
+    mywindow.document.write(`
+        <script>
+            window.setTimeout(() => {
+                window.requestAnimationFrame(() => {
+                    window.requestAnimationFrame(() => {
+                        if (Prism){
+                            Prism.highlightAllUnder(newContent, true, () => {
+                                console.log("Prism highlight complete")
+                            })
+                        }
+                    })
+                })
+            }, 100);
+        </script>
+    `)
+
+    mywindow.document.write('<script src="/js/prism/prism.js"></script>');
+
     mywindow.document.write('</body></html>');
   
   
     mywindow.document.close(); // necessary for IE >= 10
     mywindow.focus(); // necessary for IE >= 10*/
+
+
   
-    mywindow.print();
     //mywindow.close();
   
     return true;
@@ -269,7 +293,7 @@ function visualizeLearningPath(path) {
      */
     let entirePath = Object.assign(path);
     document.getElementById("print_lp").onclick = (ev) => {
-        let mywindow = window.open('', 'PRINT', 'height=650,width=900,top=100,left=150');
+        let mywindow = window.open('', '_blank');
         printDiv(entirePath, mywindow);
     }
 

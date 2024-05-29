@@ -57,104 +57,15 @@ $on-laptop:        800px !default;
 /* Allow for print-friendly version of learning object page */
 @media print {
   body {
-    background-image: none;
-    overflow-x: hidden;
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
   }
-
-  body footer {
-    display: none;
-  }
-
-  body header {
-    display: none;
-  }
-
-  #btn_previous_lo, #btn_next_lo, #btn_to_lp, #print_lp, .button_lp {
-    display: none;
-  }
-
-  main::before {
-    content: "CC-BY-SA dwengo.org";
-    display: block;
-    text-align: center;
-  }
-
- 
-
-  .wrapper {
-    margin-right: 1.5cm;
-    margin-left: 1.5cm;
-    margin-top: 2cm;
-    margin-bottom: 2cm;
-    padding-right: 0px;
-    padding-left: 0px;
-  }
-
-  .list-group-item {
-    padding:0cm!important;
-  }
-
-
+  // Set page break after each section
   section.lp-section {
     page-break-after: always!important;
   }
-
-  section:last-child:before {
-    page-break-after: avoid!important;
-  }
-
-  .lp-section p, ul, img, iframe {
-    break-inside: avoid;
-
-  }
-
-  .lp-section h1, h2, h3, h4, h5, strong {
-    page-break-after: avoid!important;
-  }
-
-  // Responsive iframe
-  .iframe-container {
-    overflow: hidden;
-    position: relative;
-  }
-
-  .iframe-16-9 {
-    /* 16:9 aspect ratio */
-    padding-top: 56.25%;
-  }
-
-  .iframe-1-1 {
-    padding-top: 100%;
-  }
-
-  .iframe-1-2 {
-    padding-top: 200%;
-  }
-
-  .iframe-container iframe {
-    border: 0;
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
-  }
-
-  .button_lp:hover {
-    cursor: pointer;
-  }
-
-  .button_lp {
-    border: 1px solid transparent;
-    background-color: $lo-color;
-    text-align: left;
-    text-decoration: underline;
-    font-style: italic;
-    padding-left: 0px!important;
-    font-size: smaller;
-  }
-
 }
+
 
 html { 
   overflow-x: hidden; 
