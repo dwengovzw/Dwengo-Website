@@ -64,6 +64,29 @@ $on-laptop:        800px !default;
   section.lp-section {
     page-break-after: always!important;
   }
+
+  @page {
+    size: A4;
+    margin: 1.5cm;
+  }
+
+  .title-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40%;
+    page-break-after: always;
+  }
+
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .author {
+    font-size: 18px;
+    margin-top: 10px;
+  }
 }
 
 

@@ -163,7 +163,7 @@ function objectButtonClicked(hruid, language, version, path) {
 /**
  * Thanks to https://stackoverflow.com/a/50200383/13057688
  */
-async function printDiv(path, mywindow) {  
+async function printDiv(path, mywindow, title="Dwengo content") {  
     mywindow.document.write(`<html><head><title>${path.title}</title>`);
     // TODO: link learning path print css here!
     mywindow.document.write(`<link rel="stylesheet" href="https://staging.dwengo.org/backend/static/css/public/dwengo_learning_path_styles.css">`)
@@ -172,6 +172,14 @@ async function printDiv(path, mywindow) {
     mywindow.document.write(`<link rel="stylesheet" href="/assets/css/prism/prism.css"></link>`);
     mywindow.document.write(`<link rel="shortcut icon" type="image/png" href="/images/favicon.ico"></link>`);
     mywindow.document.write('</head><body>');
+
+    mywindow.document.write(` <!-- Title Page -->
+    <div class="title-page">
+      <h1 class="title">${title}</h1>
+      <p class="author">© Dwengo vzw</p>
+      <p class="date">${(new Date()).toLocaleDateString("nl-BE", { year: 'numeric', month: 'long', day: 'numeric' })}</p>
+      <img id="dwengo_logo" src="/images/logos/dwengo-groen-zwart.svg" alt="Dwengo Logo" title="Dwengo">
+    </div>`);
 
     // Include MathJax in the new window
     var mathjaxScript = document.createElement("script");
@@ -193,7 +201,7 @@ async function printDiv(path, mywindow) {
     </a>
   </nav>`)
 
-    containerdiv.append(nav);
+    //containerdiv.append(nav);
 
     let nodes = path.nodes.slice();
     for (const node of nodes){
@@ -209,6 +217,7 @@ async function printDiv(path, mywindow) {
    
 
     mywindow.document.write('<script src="/js/learningobject_interaction.js"></script>');
+    mywindow.document.write('<script src="https://cdn.jsdelivr.net/gh/englishextra/qrjs2@0.1.8/js/qrjs2.min.js"></script>');
 
     mywindow.document.write(`
         <script>
@@ -216,8 +225,10 @@ async function printDiv(path, mywindow) {
                 window.requestAnimationFrame(() => {
                     window.requestAnimationFrame(() => {
                         if (Prism){
+                            let newContent = document.querySelector(".wrapper");
                             Prism.highlightAllUnder(newContent, true, () => {
                                 console.log("Prism highlight complete")
+                                console.log(newContent)
                             })
                         }
                     })
@@ -226,7 +237,56 @@ async function printDiv(path, mywindow) {
         </script>
     `)
 
+    // Replace iframes with their src URL
+    mywindow.document.write(`<script>
+    document.addEventListener("DOMContentLoaded", function() {
+      // Select all iframes in the body
+      const iframes = document.querySelectorAll('body iframe');
+      
+      iframes.forEach(iframe => {
+        // Check if the name attribute starts with "blockly_iframe"
+        if (iframe.name.startsWith("blockly_iframe")) {
+            
+        } else {
+            // Get the src attribute
+            const src = iframe.src;
+
+            // Create a container for the URL and QR code
+            const container = document.createElement('div');
+            container.className = 'qr-container';
+
+            // Create a text node with the src URL
+            const textNode = document.createTextNode(src);
+            
+
+            
+            let qrSvg = QRCode.generateSVG(src, {
+                ecclevel: "M",
+                fillcolor: "#FFFFFF",
+                textcolor: "#373737",
+                margin: 4,
+                modulesize: 8
+            });
+
+            // Append the QR code and url text to the container
+            container.appendChild(qrSvg);
+            container.appendChild(textNode);
+
+
+            // Insert the text node before the iframe
+            iframe.parentNode.insertBefore(container, iframe);
+
+            // Remove the iframe
+            iframe.remove();
+        }
+
+        
+      });
+    });
+  </script>`);
+
     mywindow.document.write('<script src="/js/prism/prism.js"></script>');
+    mywindow.document.write('<script src="/js/html2canvas/html2canvas.min.js"></script>');
 
     mywindow.document.write('</body></html>');
   
@@ -294,7 +354,7 @@ function visualizeLearningPath(path) {
     let entirePath = Object.assign(path);
     document.getElementById("print_lp").onclick = (ev) => {
         let mywindow = window.open('', '_blank');
-        printDiv(entirePath, mywindow);
+        printDiv(entirePath, mywindow, path.title);
     }
 
     /**
