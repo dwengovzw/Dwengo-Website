@@ -14,7 +14,6 @@ learning_paths: ['pc_starttodwenguino', 'pc_rijdenderobot', 'pc_theremin', 'pc_l
 ---
 
 
-
 {% capture intro_title %} {{ site.translations[site.lang].physical_computing.intro_title }} {% endcapture %}
 {% capture paragraph1 %} {{ site.translations[site.lang].physical_computing.paragraph1 }} {% endcapture %}
 {% capture paragraph2 %} {{ site.translations[site.lang].physical_computing.paragraph2 }} {% endcapture %}
