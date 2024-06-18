@@ -9,10 +9,10 @@ permalink: /donate/
 
 ## {% t donate.title %}
 
-{% t donate.info1 %}<br><br>
+<!--{% t donate.info1 %}<br><br>-->
 {% t donate.info2 %}<br>
 {% t donate.account_nr %}<br>
-{% t donate.info3 %}
+<!--{% t donate.info3 %}
 {% t donate.info4 %}<br>
 {% t donate.info5 %}<br>
 
@@ -21,4 +21,4 @@ permalink: /donate/
 
 <br>
 {% t donate.proof %}<br>
-<a href="{% t donate.proof_link_link %}" target="_blank">{% t donate.proof_link %}</a>
+<a href="{% t donate.proof_link_link %}" target="_blank">{% t donate.proof_link %}</a>-->

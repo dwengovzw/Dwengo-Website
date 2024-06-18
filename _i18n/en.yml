@@ -845,7 +845,7 @@ theme_selection:
   filters: Filters
 
 donate:
-  title: Donate and get a tax deduction!
+  title: Donate!
   info1: Dwengo is officially recognized as a charity. With a donation of at least €40 you will receive a tax certificate from us. Based on that certificate, you can get a tax reduction of 45% of the deposited amount.
   info2: "You can transfer an amount of your choice to the account number:"
   account_nr: "BE74 0015 8122 6807"

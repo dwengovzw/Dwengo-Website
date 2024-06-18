@@ -843,7 +843,7 @@ theme_selection:
   filters: Filter
 
 donate:
-  title: Spenden Sie und erhalten Sie eine Steuerzertifikat!
+  title: Spenden Sie
   info1: Dwengo wird offiziell als Wohltätigkeitsorganisation anerkannt. Mit einer Spende von mindestens 40 € erhalten Sie eine Steuerzertifikat von uns. Auf der Grundlage dieses Zertifikats erhalten Sie eine Steuersenkung von 45% des gezahlten Betrags.
   info2: "Sie können einen Betrag Ihrer Wahl in die Kontonummer überweisen:"
   account_nr: "BE74 0015 8122 6807"
