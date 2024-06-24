@@ -59,6 +59,7 @@ $on-laptop:        800px !default;
   body {
     print-color-adjust: exact;
     -webkit-print-color-adjust: exact;
+    font-size: 14pt !important;
   }
   // Set page break after each section
   section.lp-section {
