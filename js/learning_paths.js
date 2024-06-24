@@ -353,7 +353,7 @@ function visualizeLearningPath(path) {
      */
     let entirePath = Object.assign(path);
     document.getElementById("print_lp").onclick = (ev) => {
-        let mywindow = window.open('', '_blank');
+        let mywindow = window.open(' ', '_blank');
         printDiv(entirePath, mywindow, path.title);
     }
 
