@@ -41,6 +41,8 @@ additional_classname="frontpage_frontpage_banner"
 
 {%- include project_highlights.html -%}
 
+{%- include usage_website.html -%}
+
 {%- include curricula.html curricula_pages=page.curricula -%}
 
 {%- include learning_paths_search.html keyword="none" -%}

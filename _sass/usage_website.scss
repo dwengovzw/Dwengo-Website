@@ -1,0 +1,19 @@
+.usage_website {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    align-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+    .usage_website_info {
+        width: 580px;
+        padding: 0 10px;
+        text-align: justify;
+    }
+    .usage_website_video {
+        max-width: 580px;
+        padding: 0 10px;
+        min-width: 250px;
+        width: 100%;
+    }
+}

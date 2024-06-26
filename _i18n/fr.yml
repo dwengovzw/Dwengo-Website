@@ -39,6 +39,12 @@ algorithms:
 Les algorithmes sont l'épine dorsale de la technologie moderne. Qu'il s'agisse de personnaliser les recommandations, d'améliorer l'analyse des soins de santé ou d'optimiser les processus commerciaux, les algorithmes sont le moteur de l'innovation. Les méthodes numériques permettent de résoudre les problèmes mathématiques, ce qui nous permet d'effectuer des simulations précises et d'obtenir des informations utiles
 "
 
+usage_website:
+  title: Explorez nos supports pédagogiques
+  paragraph1: "Nos supports pédagogiques sont gratuits et accessibles à tous. Pour garder une vue d'ensemble, nous divisons le matériel en deux niveaux. Le premier niveau est nos <strong>thèmes de leçon</strong>. Ces thèmes de leçon peuvent être consultés via la page d'accueil ou via la barre de navigation en haut. Par thème, les supports pédagogiques sont divisés en <strong>parcours d'apprentissage</strong>. Un parcours d'apprentissage peut être considéré comme une formation en ligne sur un sujet spécifique. Il contient à la fois des supports pédagogiques (les blocs blancs) et des informations supplémentaires pour l'enseignant (blocs verts). En parcourant le parcours d'apprentissage, vous pouvez utiliser les matériaux en classe en toute confiance."
+  video_url: https://www.youtube.com/embed/GiuGuD2lj0w?si=aTdRmmSLwY29V9Q4
+
+
 kiks_test:
   intro_title: "KIKS"
   paragraph1: "KIKS est un projet vocal sur l'intelligence artificielle (IA) pour l'enseignement secondaire du troisième degré. Les élèves apprennent à comprendre l'IA, avec des possibilités et des limites; ils apprennent à avoir un impact à ce sujet."

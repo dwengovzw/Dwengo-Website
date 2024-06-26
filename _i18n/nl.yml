@@ -39,6 +39,11 @@ algorithms:
   paragraph2: "In een wereld waar big data een steeds grotere rol speelt, vormen algoritmes de sleutel om toegang te krijgen tot informatie die in data verschuild is. Algoritmes vormen de ruggengraat van moderne technologie. Of het nu gaat om het personaliseren van aanbevelingen, het verbeteren van gezondheidszorganalyses of het optimaliseren van bedrijfsprocessen, algoritmes zijn de drijvende kracht achter innovatie. Numerieke methodes geven manieren om daarbij wiskundige vraagstukken op te lossen, waardoor we in staat zijn om nauwkeurige simulaties uit te voeren en betekenisvolle inzichten te verkrijgen."
 
 
+usage_website:
+  title: Verken ons lesmateriaal!
+  paragraph1: "Ons lesmateriaal is gratis en voor iedereen toegankelijk. Om het overzicht te bewaren, delen we het materiaal op in twee niveau's. Het eerste niveau zijn onze <strong>lesthema's</strong>. Deze lesthema's kan je raadplegen via de homepagina of via de navigatiebalk bovenaan. Per thema is het lesmateriaal opgedeeld in <strong>leerpaden</strong>. Een leerpad kan je zien als een online nascholing over een specifiek onderwerp. Het bevat zowel lesmateriaal (de witte blokjes) als extra informatie voor de leerkacht (groene blokjes). Zo kan je, door het leerpad te doorlopen, op een zelfzekere manier met het materiaal aan de slag in de klas."
+  video_url: https://www.youtube.com/embed/GiuGuD2lj0w?si=aTdRmmSLwY29V9Q4
+
 kiks_test:
   title1: "Starten met KIKS"
   title1p1: "Hieronder vind je kant en klaar lesmateriaal en tools om met KIKS aan de slag te gaan. Het materiaal is opgedeeld in <em>leerpaden</em> die alle aspecten van het project stap voor stap toelichten. Bekijk deze video om te weten te komen hoe je aan de slag gaat met onze <em>leerpaden</em>."

@@ -40,6 +40,12 @@ algorithms:
 In einer Welt, in der Big Data eine immer wichtigere Rolle spielt, sind Algorithmen der Schlüssel zum Zugriff auf die in den Daten verborgenen Informationen.
 Algorithmen sind das Rückgrat der modernen Technologie. Ob bei der Personalisierung von Empfehlungen, der Verbesserung von Gesundheitsanalysen oder der Optimierung von Geschäftsprozessen, Algorithmen sind der Motor der Innovation. Numerische Methoden bieten Möglichkeiten, mathematische Probleme im Prozess zu lösen, die es uns ermöglichen, genaue Simulationen durchzuführen und aussagekräftige Erkenntnisse zu gewinnen."
 
+usage_website:
+  title: Erkunden Sie unsere Lehrmaterialien
+  paragraph1: "Unsere Lehrmaterialien sind kostenlos und für alle zugänglich. Um den Überblick zu behalten, teilen wir das Material in zwei Ebenen auf. Die erste Ebene sind unsere <strong>Lektionsthemen</strong>. Diese Lektionsthemen können über die Homepage oder über die Navigationsleiste oben abgerufen werden. Pro Thema sind die Lehrmaterialien in <strong>Lernpfade</strong> unterteilt. Ein Lernpfad kann als eine Online-Schulung zu einem bestimmten Thema betrachtet werden. Es enthält sowohl Lehrmaterialien (die weißen Blöcke) als auch zusätzliche Informationen für den Lehrer (grüne Blöcke). Durch das Durchlaufen des Lernpfads können Sie die Materialien selbstbewusst im Unterricht verwenden."
+  video_url: https://www.youtube.com/embed/GiuGuD2lj0w?si=aTdRmmSLwY29V9Q4
+
+
 kiks_test:
   intro_title: "KIKS"
   paragraph1: "KIKS ist ein MINT-Projekt zu künstlicher Intelligenz (KI) für die dritte Sekundarschulstufe. Schülerinnen und Schüler lernen KI zu verstehen, mit Möglichkeiten und Grenzen; sie lernen, wie sie darauf Einfluss nehmen können."
