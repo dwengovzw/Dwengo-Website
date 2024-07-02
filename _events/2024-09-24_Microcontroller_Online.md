@@ -7,7 +7,7 @@ location: "Online"
 location_link: ""
 language: "nl"
 registration_link: ""
-anchor: "num-methodes-24-09-24"
+anchor: "phys-computing-24-09-24"
 ---
 Voor bepaalde studierichtingen ...
 Dwengo vzw ontwikkelde hiervoor kant-en-klaar lesmateriaal ... Je kan het materiaal alvast [hier](https://dwengo.org/physicalcomputing) bekijken.
