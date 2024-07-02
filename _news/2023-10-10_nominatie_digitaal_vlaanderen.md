@@ -3,6 +3,7 @@ title: "Nominatie AI Op School voor Vlaanderen Digitaal Awards!"
 date: 2023-10-04T21:00:00
 item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
 language: "nl"
+anchor: "vlaanderen-digitaal-23-10-10"
 ---
 
 Het project AI Op School werd genomineerd voor de Vlaanderen Digitaal Awards in de categorie "meest inclusieve project". We zijn zeer blij met de erkenning die we krijgen van Digitaal Vlaanderen.

@@ -3,6 +3,7 @@ title: "Vlaanderen Digitaal Award voor AI Op School!"
 date: 2023-10-26T09:00:00
 item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
 language: "nl"
+anchor: "vlaanderen-digitaal-23-10-26"
 ---
 
 Op de nocturne van de Trefdag Vlaanderen Digitaal in Flanders Expo zijn de drie Vlaanderen Digitaal Awards uitgereikt. <br>

@@ -3,6 +3,7 @@ title: "Ook zin in Chips?"
 date: 2024-07-02T18:00:00
 item_theme_logo_url: "/images/curricula/logo_physical_computing.png"
 language: "nl"
+anchor: "chips-boek-24-07-02"
 ---
 ###### Ook zin in Chips?
 
