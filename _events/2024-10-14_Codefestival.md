@@ -7,6 +7,7 @@ location: "Hendrik Consciencegebouw, Koning Albert II-laan 15, Brussel"
 location_link: "https://www.google.be/maps/place/Koning%20Albert%20II-laan%2015,%201210%20Brussel"
 language: "nl"
 registration_link: ""
+anchor: "codefestival-14-10-24"
 ---
 
 Het Codefestival vindt plaats tijdens de EU Code Week. Deze EU-programmeerweek is een initiatief waarin creativiteit, 
