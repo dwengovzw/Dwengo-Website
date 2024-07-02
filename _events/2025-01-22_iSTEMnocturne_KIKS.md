@@ -6,6 +6,7 @@ item_theme_logo_url: "/images/curricula/logo_kiks.png"
 location: "online"
 language: "nl"
 registration_link: "https://www.istem.be/2024/06/06/istem-nocturnes-volgend-jaar/"
+anchor: "nocturne-kiks-25-01-22"
 ---
 In de iSTEM-nocturnes licht een coach van de cel iSTEM inkleuren elke woensdagavond tussen 20u-21u30 online een concreet STEM-project toe.
 
