@@ -782,8 +782,8 @@ learning_path_page:
   print_learning_path: Imprimer l'entier parcour d'apprentissage
   link_to_learning_path_students: Link naar leerpad voor leerlingen
   link_to_learning_object: Link naar dit leerobject
-  green_box_info: De groene stappen in het leerpad bevatten extra info exclusief voor de leerkracht
-  white_box_info: De witte stappen in het leerpad bevatten de leerinhouden die de leerling te zien zal krijgen.
+  green_box_info: Informations complémentaires pour l'enseignant
+  white_box_info: Contenu pour l'étudiant
 
 curricula_files:
   title: Fichiers
