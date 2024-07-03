@@ -1,5 +1,5 @@
 ---
-title: "Online lunchsessie - Alles onder (micro)controle"
+title: "Save the date - Online lunchsessie - Alles onder (micro)controle"
 date: 2024-09-24T12:30:00
 end_date: 2024-09-24T13:15:00
 item_theme_logo_url: "/images/curricula/logo_physical_computing.png"
@@ -21,3 +21,5 @@ Dwengo vzw ontwikkelde hiervoor kant-en-klaar lesmateriaal ... Je kan het materi
 **Locatie:** Online 
 
 **Organisatie:** Dwengo
+
+**De inschrijvingslink verschijnt weldra.**
