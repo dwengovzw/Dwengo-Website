@@ -8,10 +8,10 @@ location_link: "https://www.google.be/maps/place/De+Krook/@51.0486039,3.7264986,
 language: "nl"
 ---
 
-Dwengo ontwikkelde samen met Campus de Vesten in Herentals en het erasmusatheneum in Deinze een leerlijn over microcontrollers. In deze leerlijn kom je alles te weten over hoe je aan de slag kan met physical computing in je klas. Je zal kennis maken met de Dwenguino, een Arduino-gebaseerd microcontrollerplatform. En leert alles alles wat je nodig hebt om op een zelfzekere manier met digitale elektronica aan de slag te gaan. Daarnaast krijg je bovendien de mogelijkheid om een van de aangeboden kant en klare projecten te verkennen! 
+Dwengo ontwikkelde samen met Campus de Vesten in Herentals en het Erasmusatheneum in Deinze een leerlijn over microcontrollers. In deze leerlijn kom je alles te weten over hoe je aan de slag kan met physical computing in je klas. Je zal kennis maken met de Dwenguino, een Arduino-gebaseerd microcontrollerplatform. En leert alles alles wat je nodig hebt om op een zelfzekere manier met digitale elektronica aan de slag te gaan. Daarnaast krijg je bovendien de mogelijkheid om een van de aangeboden kant en klare projecten te verkennen! 
 
 
-De nascholing heeft een laag instapniveau maar gaat toch diep in op de verschillende manieren waarop je physical computing kan integreren in je klaspraktijk. Het materiaal is boverndien onmiddellijk toepasbaar in diverse klascontexten. 
+De nascholing heeft een laag instapniveau maar gaat toch diep in op de verschillende manieren waarop je physical computing kan integreren in je klaspraktijk. Het materiaal is bovendien onmiddellijk toepasbaar in diverse klascontexten. 
 
 Uitgebreide info alsook verschillende leerpaden voor de leerkracht kan je vinden op [https://dwengo.org/physical_computing/](https://dwengo.org/physical_computing "Physical computing").
 
