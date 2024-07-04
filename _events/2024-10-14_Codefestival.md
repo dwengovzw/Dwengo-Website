@@ -8,6 +8,7 @@ location_link: "https://www.google.be/maps/place/Koning%20Albert%20II-laan%2015,
 language: "nl"
 registration_link: ""
 anchor: "codefestival-14-10-24"
+registration_link: "https://data-onderwijs.vlaanderen.be/inschrijvingen/onderwijsevent.aspx?id=367#P_form"
 ---
 
 Het Codefestival vindt plaats tijdens de EU Code Week. Deze EU-programmeerweek is een initiatief waarin creativiteit, 
