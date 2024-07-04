@@ -15,8 +15,11 @@ Vind je het materiaal interessant? Dan kan je ervoor kiezen om je in te schrijve
 
 
 **Doelgroep:** Leerkrachten van wetenschappelijke en STEM richtingen de tweede en derde graad. Zowel TSO als ASO.
+
 **Wanneer:** 24 september 2024 van 12u30-13u15
+
 **Locatie:** Online 
+
 **Organisatie:** Dwengo
 
 **De inschrijvingslink verschijnt weldra.**

@@ -18,6 +18,9 @@ Uitgebreide info alsook verschillende leerpaden voor de leerkracht kan je vinden
 **Inschrijvingslink volgt binnenkort!**
 
 **Doelgroep:** Leerkrachten van wetenschappelijke en STEM richtingen de tweede en derde graad. Zowel TSO als ASO.
+
 **Wanneer:** 8 en 17 oktober 2024 van 9u-12u30 en 5 november van 13u-17u<br>
+
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>
+
 **Organisatie:** Dwengo vzw
