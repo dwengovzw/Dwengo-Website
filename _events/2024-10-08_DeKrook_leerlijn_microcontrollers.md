@@ -1,5 +1,5 @@
 ---
-title: "Nascholing alles onder (µ)controle"
+title: "Alles onder (µ)controle"
 date: 2024-10-08T09:00:00
 end_date: 2024-10-08T12:30:00
 item_theme_logo_url: "/images/curricula/logo_physical_computing.png"
