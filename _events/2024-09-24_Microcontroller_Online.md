@@ -1,5 +1,5 @@
 ---
-title: "Save the date - Online lunchsessie - Alles onder (micro)controle"
+title: "Online lunchsessie - Alles onder (micro)controle"
 date: 2024-09-24T12:30:00
 end_date: 2024-09-24T13:15:00
 item_theme_logo_url: "/images/curricula/logo_physical_computing.png"
@@ -14,11 +14,13 @@ Dwengo ontwikkelde samen met Campus de Vesten in Herentals en het Erasmusatheneu
 Vind je het materiaal interessant? Dan kan je ervoor kiezen om je in te schrijven voor onze nascholingsreeks over het materiaal. Daarin ga je hands-on aan de slag met het materiaal.
 
 
-**Doelgroep:** Leerkrachten van wetenschappelijke en STEM richtingen de tweede en derde graad. Zowel TSO als ASO.
+**Doelgroep:** Leerkrachten van wetenschappelijke en STEM-richtingen de tweede en derde graad, zowel tso als aso.
 
 **Wanneer:** 24 september 2024 van 12u30-13u15
 
 **Locatie:** Online 
+
+**Prijs:** Gratis
 
 **Organisatie:** Dwengo
 
