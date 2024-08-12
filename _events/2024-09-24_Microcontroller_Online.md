@@ -9,7 +9,7 @@ language: "nl"
 anchor: "phys-computing-24-09-24"
 registration_link: "https://forms.gle/Savs43KzwNWbe2ZKA"
 ---
-Dwengo ontwikkelde samen met Campus de Vesten in Herentals en het Erasmusatheneum in Deinze een leerlijn over microcontrollers. In deze leerlijn kom je alles te weten over hoe je aan de slag kan met physical computing in je klas. In deze online sessie krijgen jullie een overzicht van de verschillende manieren waarop je physical computing kan integreren in de klas. Daarnaast krijg je een overzicht van de leerlijn en de daaraan gekoppelde online leerpaden. Deze leerpaden kan je alvast bekijken op [dwengo.org/physicalcomputing](https://dwengo.org/physicalcomputing).
+In het kader van InnoVET ontwikkelde Dwengo samen met Campus de Vesten in Herentals en het Erasmusatheneum in Deinze een leerlijn over microcontrollers. In deze leerlijn kom je alles te weten over hoe je aan de slag kan met physical computing in je klas. In deze online sessie krijgen jullie een overzicht van de verschillende manieren waarop je physical computing kan integreren in de klas. Daarnaast krijg je een overzicht van de leerlijn en de daaraan gekoppelde online leerpaden. Deze leerpaden kan je alvast bekijken op [dwengo.org/physicalcomputing](https://dwengo.org/physicalcomputing).
 
 Vind je het materiaal interessant? Dan kan je ervoor kiezen om je in te schrijven voor onze nascholingsreeks over het materiaal. Daarin ga je hands-on aan de slag met het materiaal.
 
