@@ -1,5 +1,5 @@
 ---
-title: "SAVE THE DATE - Python in de Wiskundeles"
+title: "SAVE THE DATE - Kennismakingssessie Python in de Wiskundeles"
 date: 2024-10-02T13:30:00
 end_date: 2024-10-02T16:00:00
 item_theme_logo_url: "/images/curricula/logo_math_with_python.png"
@@ -16,6 +16,8 @@ en leerlingen op een andere manier over de wiskundeinhouden doen nadenken. Zo ku
 In deze online sessie maak je kennis met de mogelijkheden van het omvangrijke lesmateriaal dat je vindt op de [Dwengo-website](https://dwengo.org/wiskunde), bijvoorbeeld
 over de stelling van Pythagoras, het teknen van een rechte of spreidingsdiagram, lineaire regressie, en logica.
 Je kan dit lesmateriaal vrij gebruiken in jouw lessen. 
+
+Je kan nadien eventueel inschrijven voor een fysieke nascholing over het lesmateriaal. 
 
 **Doelgroep:** Leerkrachten wiskunde en wetenschappen 2de en 3de graad
 
