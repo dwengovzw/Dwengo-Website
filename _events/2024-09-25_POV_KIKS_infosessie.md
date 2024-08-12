@@ -7,6 +7,7 @@ location: "online"
 location_link: ""
 language: "nl"
 registration_link: ""
+anchor: "KIKS-info-25-09-24"
 ---
 
 Artificiële intelligentie (AI) is in opmars. AI-geletterdheid is een must om gefundeerde beslissingen te kunnen nemen. 
