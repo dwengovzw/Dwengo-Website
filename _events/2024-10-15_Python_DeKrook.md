@@ -27,7 +27,7 @@ Na deze nascholing:<br>
 
 **Doelgroep**<br>
 - Leerkrachten wiskunde, wetenschappen, STEM, en taaltechnologie 2de en 3de graad secundair onderwijs.<br>
-- Lerarenopleiders wiskunde, wetenschappen,STEM en taaltechnologie voor leerkrachten secundair onderwijs (professionele bachelor en educatieve master).<br>
+- Lerarenopleiders wiskunde, wetenschappen, STEM en taaltechnologie voor leerkrachten secundair onderwijs (professionele bachelor en educatieve master).<br>
 
 **Wanneer:** 15 oktober 2024 van 9u30-16u30<br>
 **Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>
