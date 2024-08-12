@@ -1,5 +1,5 @@
 ---
-title: "Dwengo-sessies op de studiedag 'AI in onderwijs: uitdaging of kans?'"
+title: "Studiedag 'AI in onderwijs: uitdaging of kans?'"
 date: 2024-11-18T09:00:00
 end_date: 2024-11-18T17:00:00
 item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
@@ -13,7 +13,7 @@ anchor: "studiedag-Digisprong-2024"
 Tijdens deze gratis studiedag delen experts, organisaties en enkele bedrijven inzichten over hoe AI kan bijdragen aan het verbeteren van het leerproces en 
 hoe scholen AI verantwoord kunnen integreren in hun werking.<br>
 
-Onze sessies:<br>
+Onze Dwengo-sessies:<br>
 - **De werking van een AI-systeem eenvoudig toegelicht**
   Wat mag je van deze sessie verwachten? Alle leerlingen verdienen het om inzicht te krijgen in de werking van artificieel intelligente systemen. In deze sessie maak je kennis met manieren om leerlingen inzichten bij te brengen in AI-systemen zoals beslissingsbomen en chatbots, zonder technisch te worden. Je maakt kennis met lesmateriaal dat onmiddellijk in de
 les kan ingezet worden, bijvoorbeeld de toepassing ‘Moet ik naar de dokter?” en een activiteit over de werking van datagebaseerde chatbots. Meer [info](https://dwengo.org/aiopschool/).
