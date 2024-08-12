@@ -59,7 +59,7 @@ Je kan dat zelfstandig doen a.d.h.v. de leerpaden 'Datatypes', 'Operatorem', 'St
 of je kan de Python nascholing volgen van 15 oktober.**
 
 **Wanneer:** 12 november 2024 van 9u30-16u30<br>
-**Locatie:** De Krook, Miriam Makebaplein 1, 9000 Gent<br>
+**Locatie:** De Krook, zaal de Verwondering, Miriam Makebaplein 1, 9000 Gent<br>
 **Organisatie:** Dwengo vzw
 
 **Inschrijven is mogelijk t.e.m. 22 oktober.**
