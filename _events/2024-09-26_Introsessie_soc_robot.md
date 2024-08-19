@@ -14,7 +14,7 @@ Met financiering van het Excellentiefonds organiseert Dwengo in het schooljaar 2
 
 De wedstrijd wil graag de **samenwerking tussen sociale en technisch-wetenschappelijke richtingen** aanmoedigen. Daarom worden niet enkel de technische eigenschappen van de robot meegenomen in de eindevaluatie maar leggen we ook de nadruk op het maatschappelijk probleem dat de leerlingen met hun robot proberen op te lossen. 
 
-Ook leerkrachten laten we niet in de kou staan. Om je leerlingen succesvol te begeleiden tijdens hun deelname aan de wedstrijd, organiseren we met Dwengo verschillende nascholingen waaraan je kan deelnemen om zo kennis te maken met de robotkit. Daarnaast is een waaier aan gratis lesmateriaal beschikbaar op [dwengo.org/socialerobot](https://dwengo.org/physicalcomputing).
+Ook leerkrachten laten we niet in de kou staan. Om je leerlingen succesvol te begeleiden tijdens hun deelname aan de wedstrijd, organiseren we met Dwengo verschillende nascholingen waaraan je kan deelnemen om zo kennis te maken met de robotkit. Daarnaast is een waaier aan gratis lesmateriaal beschikbaar op [dwengo.org/socialerobot](https://dwengo.org/socialerobot).
 
 Wil je alles te weten komen over de wedstrijd? Schrijf je dan in voor deze online introductiesessie waarin wij de details van de wedstrijd toelichten.
 
