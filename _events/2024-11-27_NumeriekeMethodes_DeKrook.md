@@ -1,12 +1,12 @@
 ---
-title: "Save the date - Numerieke methodes"
+title: "Numerieke methodes"
 date: 2024-11-27T09:30:00
 end_date: 2024-11-27T16:30:00
 item_theme_logo_url: "/images/curricula/logo_algorithms.png"
 location: "De Krook, Miriam Makebaplein 1, 9000 Gent"
 location_link: "https://www.google.be/maps/place/De+Krook/@51.0486039,3.7264986,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3714effffffff:0x9b1a2c7f1cb8c825!8m2!3d51.0486039!4d3.7286873!16s%2Fg%2F1hc0gcm5l"
 language: "nl"
-registration_link: ""
+registration_link: "https://www.eventbrite.be/e/tickets-numerieke-methodes-731763252587?aff=oddtdtcreator"
 anchor: "numeriekemethodes-27-11-24"
 ---
 
@@ -31,5 +31,3 @@ Je wordt ingewijd in het werken met de notebooks in de klas.
 **Organisatie:** Dwengo vzw
 
 **Inschrijven is mogelijk t.e.m. 6 november.**
-
-**De inschrijvingslink verschijnt weldra.**
