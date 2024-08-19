@@ -6,7 +6,7 @@ item_theme_logo_url: "/images/curricula/logo_kiks.png"
 location: "Leuven en Antwerpen"
 location_link: ""
 language: "nl"
-registration_link: ""
+registration_link: "https://forms.gle/AtD1PqmKDcXN4jpdA"
 anchor: "KIKS-20-11-24"
 ---
 
