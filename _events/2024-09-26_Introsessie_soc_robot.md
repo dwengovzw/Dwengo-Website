@@ -10,9 +10,9 @@ anchor: "phys-wedstrijd-24-09-26"
 registration_link: "https://forms.gle/ZoGoZHRtsEqKG3Ya9"
 ---
 
-Met financiering van het Excellentiefonds organiseert Dwengo in het schooljaar 2024-2025 een "sociale robot"-wedstrijd voor leerlingen van de eerste en tweede graad van het secundair onderwijs. De wedstrijd is gratis en staat open voor alle leerlingen uit zowel ASO, TSO als BSO richtingen. Ook het robotpakket wordt via de respectievelijke onderwijskoepel gratis ter beschikking gesteld van de school. 
+Met financiering van het Excellentiefonds organiseert Dwengo in het schooljaar 2024-2025 een **"sociale robot"-wedstrijd** voor leerlingen van de **eerste en tweede graad van het secundair onderwijs**. De wedstrijd is gratis en staat **open voor alle leerlingen** uit zowel ASO, TSO als BSO richtingen. Ook het robotpakket wordt via de respectievelijke onderwijskoepel gratis ter beschikking gesteld van de school. 
 
-De wedstrijd wil graag de samenwerking tussen sociale en technisch-wetenschappelijke richtingen aanmoedigen. Daarom worden niet enkel de technische eigenschappen van de robot meegenomen in de eindevaluatie maar leggen we ook de nadruk op het maatschappelijk probleem dat de leerlingen met hun robot proberen op te lossen. 
+De wedstrijd wil graag de **samenwerking tussen sociaal- en technisch-wetenschappelijke richtingen** aanmoedigen. Daarom worden niet enkel de technische eigenschappen van de robot meegenomen in de eindevaluatie maar leggen we ook de nadruk op het maatschappelijk probleem dat de leerlingen met hun robot proberen op te lossen. 
 
 Ook leerkrachten laten we niet in de kou staan. Om je leerlingen succesvol te begeleiden tijdens hun deelname aan de wedstrijd, organiseren we met Dwengo verschillende nascholingen waaraan je kan deelnemen om zo kennis te maken met de robotkit. Daarnaast is een waaier aan gratis lesmateriaal beschikbaar op [dwengo.org/socialerobot](https://dwengo.org/physicalcomputing).
 
