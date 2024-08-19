@@ -17,7 +17,7 @@ Alle materiaal is toegankelijk via de browser, bijkomende software installeren i
 
 **Doelgroep:** Leerkrachten informatica 3de graad
 
-**Wanneer:** 6 november 2024 van 9 tot 12 uur
+**Wanneer:** 6 november 2024 van 13u30 tot 16u30
 
 **Locatie:** Online 
 
