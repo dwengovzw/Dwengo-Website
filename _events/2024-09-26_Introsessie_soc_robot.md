@@ -21,7 +21,7 @@ Wil je alles te weten komen over de wedstrijd? Schrijf je dan in voor deze onlin
 
 **Doelgroep:** De wedstrijd is toegankelijk voor alle leerlingen van de eerste en tweede graad van het secundair onderwijs. Zowel ASO, TSO als BSO leerlingen kunnen deelnemen. We moedigen een samenwerking aan tussen leerlingen uit meer sociale richtingen met leerlingen uit eerder technisch wetenschappelijke richtingen.
 
-**Wanneer:** 26 september 2024 van 12u30-13u00
+**Wanneer:** 26 september 2024 van 12u30-13u00 (herhaling op 4 oktober 2024)
 
 **Locatie:** Online 
 
