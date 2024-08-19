@@ -7,9 +7,9 @@ location: "Gent"
 location_link: ""
 language: "nl"
 registration_link: ""
-anchor: "Theremin-01-10-24"
+anchor: "Theremin-03-10-24"
 ---
-
+Een theremin is het eerste elektronisch muziekinstrument. Het is uitgevonden door de Russische wetenschapper Leon Theremin in 1919. Wat hem speciaal maakt, is dat de theremin wordt bespeeld zonder hem aan te raken.<br>
 In deze nascholing leer je wat een theremin is en hoe je de microcontroller kan inzetten om zelf zo'n elektronisch muziekinstrument te maken.
 Na deze sessie ben je klaar om dit STEM-project met elementen uit de muziek, elektronica, computationeel denken en wiskunde in de klas te brengen.
 Het lesmateriaal kan je alvast bekijken in 
