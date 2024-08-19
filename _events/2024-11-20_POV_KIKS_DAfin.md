@@ -1,5 +1,5 @@
 ---
-title: "SAVE THE DATE - Kunstmatige Intelligentie, Klimaatverandering, Stomata: KIKS"
+title: "SAVE THE DATE - STEM - Kunstmatige Intelligentie, Klimaatverandering, Stomata: KIKS"
 date: 2024-11-20T13:00:00
 end_date: 2024-11-28T16:00:00
 item_theme_logo_url: "/images/curricula/logo_kiks.png"
