@@ -1,5 +1,5 @@
 ---
-title: "Save the date - Inleiding tot Python"
+title: "Inleiding tot Python"
 date: 2024-10-15T09:30:00
 end_date: 2024-10-15T16:30:00
 item_theme_logo_url: "/images/curricula/logo_python_programming.png"
@@ -34,5 +34,3 @@ Na deze nascholing:<br>
 **Organisatie:** Dwengo vzw
 
 **Inschrijven is mogelijk t.e.m. 23 september.**
-
-**De inschrijvingslink verschijnt weldra.**
