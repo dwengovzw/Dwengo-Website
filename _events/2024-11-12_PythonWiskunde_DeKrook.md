@@ -20,7 +20,7 @@ Als je bepaalde zaken wilt gaan automatiseren m.b.v. een computer, dan zal je co
 Zoals met de minimumdoelen wordt bedoeld, zal je in deze nascholing niet programmeren om te programmeren, maar gebruik je **Python als tool**.  
 
 Computationeel denken en programmeren is echter niet hetzelfde. Concreet leer je in deze nascholing a.d.h.v. concrete voorbeelden hoe je de basisconcepten van computationeel denken 
-integreert in bestaande wiskundeinhouden. Dit gebeurt a.d.h.v. enkele opdrachten zonder computer, maar je gaat ook zelf met de **interactieve Python notebooks** aan de slag. 
+integreert in bestaande wiskundeinhouden. Dit gebeurt a.d.h.v. enkele opdrachten zonder computer, maar je gaat ook zelf met de **interactieve Python notebooks** aan de slag. **Breng een opgeladen laptop mee.**
 
 Je doet voldoende kennis op van Python om er op een zinvolle manier mee te kunnen werken in de wiskundeles. De notebooks met onderwerpen uit de wiskundeles zijn daarbij een handig hulpmiddel, 
 bv. **de stelling van Pythagoras, het oplossen van een vierkantsvergelijking, het opstellen van waarheidstabellen, het tekenen van een rechte of parabool, 
