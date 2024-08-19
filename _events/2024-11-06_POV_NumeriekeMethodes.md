@@ -6,7 +6,7 @@ item_theme_logo_url: "/images/curricula/logo_algorithms.png"
 location: "Online"
 location_link: ""
 language: "nl"
-registration_link: ""
+registration_link: "https://forms.gle/cHy8L9K58ofjuGnG6"
 anchor: "num-methodes-06-11-24"
 ---
 Voor bepaalde studierichtingen in de derde graad is er een minimumdoel waarbij numerieke methodes behandeld moeten worden. 
