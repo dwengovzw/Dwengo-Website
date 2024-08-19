@@ -13,7 +13,7 @@ anchor: "pyth0n-inleiding-15-10-24"
 In deze nascholing word je ingeleid in het programmeren in Python, om daarna Python als tool te kunnen gebruiken in lessen wiskunde, wetenschappen, STEM, statistiek of taaltechnologie.
 We zullen dus niet ingaan op alle details en finesses, maar voldoende begrijpen van Python om er daarna in toepassingen mee aan de slag te kunnen gaan.   
 
-In deze nascholing zal je aan de slag gaan kant-en-klare Python notebooks.
+In deze nascholing zal je aan de slag gaan kant-en-klare Python notebooks. **Breng een opgeladen laptop mee.**
 Om deze notebooks te kunnen gebruiken is enkel een browser nodig, er moet geen andere software worden geïnstalleerd.
 
 **Het lesmateriaal, dat je ook met je leerlingen kan gebruiken, staat gratis ter beschikking** op [Programmeren in Python](https://dwengo.org/python).
