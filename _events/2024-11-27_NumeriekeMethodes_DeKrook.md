@@ -26,7 +26,7 @@ Je wordt ingewijd in het werken met de notebooks in de klas.
 - Leerkrachten wiskunde, wetenschappen, STEM 3de graad secundair onderwijs.<br>
 - Lerarenopleiders wiskunde, wetenschappen, STEM voor leerkrachten secundair onderwijs (EDUMA).<br>
 
-**Wanneer:** 27 november 2024 van 9u30-16u30<br>
+**Wanneer:** 27 november 2024 van 9u30-16u30; broodjeslunch en koffie inbegrepen<br>
 **Locatie:** De Krook, zaal de Laatkomer, Miriam Makebaplein 1, 9000 Gent<br>
 **Organisatie:** Dwengo vzw
 
