@@ -6,7 +6,7 @@ item_theme_logo_url: "/images/curricula/logo_math_with_python.png"
 location: "Online"
 location_link: ""
 language: "nl"
-registration_link: ""
+registration_link: "https://forms.gle/agcrdk2oiHUgqH516"
 anchor: "PythonWiskunde-02-10-24"
 ---
 Python biedt heel wat mogelijkheden om er op een zinvolle manier gebruik van te maken in de wiskundeles. 
