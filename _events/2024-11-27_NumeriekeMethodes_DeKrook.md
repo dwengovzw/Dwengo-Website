@@ -13,7 +13,7 @@ anchor: "numeriekemethodes-27-11-24"
 Voor bepaalde studierichtingen in de derde graad is er een minimumdoel waarbij numerieke methodes behandeld moeten worden. 
 Dwengo vzw ontwikkelde hiervoor kant-en-klaar lesmateriaal dat aansluit bij de leerstof wiskunde. Je kan het materiaal alvast [hier](https://dwengo.org/algoritmes) hier bekijken.
 
-Voor het programmeergedeelte werd gekozen voor Python als taal en Jupyter Notebook als omgeving. Alle materiaal is toegankelijk via de browser, bijkomende software installeren is niet nodig.
+Voor het programmeergedeelte werd gekozen voor Python als taal en Jupyter Notebook als omgeving. Alle materiaal is toegankelijk via de browser, bijkomende software installeren is niet nodig. **Breng een opgeladen laptop mee.**
 
 **Het lesmateriaal, dat je ook met je leerlingen kan gebruiken, staat gratis ter beschikking**.
 
