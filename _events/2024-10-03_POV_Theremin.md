@@ -1,5 +1,5 @@
 ---
-title: "SAVE THE DATE - STEM-project - Theremin"
+title: "STEM-project - Theremin"
 date: 2024-10-03T09:00:00
 end_date: 2024-10-03T16:00:00
 item_theme_logo_url: "/images/curricula/logo_stem.png"
