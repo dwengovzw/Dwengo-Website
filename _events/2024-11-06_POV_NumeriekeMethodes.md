@@ -1,5 +1,5 @@
 ---
-title: "SAVE THE DATE - Minimumdoel - Informaticawetenschappen: numerieke methodes"
+title: "Minimumdoel - Informaticawetenschappen: numerieke methodes"
 date: 2024-11-06T13:30:00
 end_date: 2024-11-06T16:30:00
 item_theme_logo_url: "/images/curricula/logo_algorithms.png"
