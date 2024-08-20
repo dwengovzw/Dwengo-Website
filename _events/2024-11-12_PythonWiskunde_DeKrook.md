@@ -1,12 +1,12 @@
 ---
-title: "Save the date - Python voor wiskunde, wetenschappen en STEM"
+title: "Python voor wiskunde, wetenschappen en STEM"
 date: 2024-11-12T09:30:00
 end_date: 2024-11-12T16:30:00
 item_theme_logo_url: "/images/curricula/logo_math_with_python.png"
 location: "De Krook, Miriam Makebaplein 1, 9000 Gent"
 location_link: "https://www.google.be/maps/place/De+Krook/@51.0486039,3.7264986,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3714effffffff:0x9b1a2c7f1cb8c825!8m2!3d51.0486039!4d3.7286873!16s%2Fg%2F1hc0gcm5l"
 language: "nl"
-registration_link: ""
+registration_link: "https://www.eventbrite.be/e/python-voor-wiskunde-wetenschappen-en-stem-tickets-998627460617"
 anchor: "pyth-wiskunde-12-11-24"
 ---
 
@@ -20,7 +20,7 @@ Als je bepaalde zaken wilt gaan automatiseren m.b.v. een computer, dan zal je co
 Zoals met de minimumdoelen wordt bedoeld, zal je in deze nascholing niet programmeren om te programmeren, maar gebruik je **Python als tool**.  
 
 Computationeel denken en programmeren is echter niet hetzelfde. Concreet leer je in deze nascholing a.d.h.v. concrete voorbeelden hoe je de basisconcepten van computationeel denken 
-integreert in bestaande wiskundeinhouden. Dit gebeurt a.d.h.v. enkele opdrachten zonder computer, maar je gaat ook zelf met de **interactieve Python notebooks** aan de slag. 
+integreert in bestaande wiskundeinhouden. Dit gebeurt a.d.h.v. enkele opdrachten zonder computer, maar je gaat ook zelf met de **interactieve Python notebooks** aan de slag. **Breng een opgeladen laptop mee.**
 
 Je doet voldoende kennis op van Python om er op een zinvolle manier mee te kunnen werken in de wiskundeles. De notebooks met onderwerpen uit de wiskundeles zijn daarbij een handig hulpmiddel, 
 bv. **de stelling van Pythagoras, het oplossen van een vierkantsvergelijking, het opstellen van waarheidstabellen, het tekenen van een rechte of parabool, 
@@ -63,5 +63,3 @@ of je kan de Python nascholing volgen van 15 oktober.**
 **Organisatie:** Dwengo vzw
 
 **Inschrijven is mogelijk t.e.m. 22 oktober.**
-
-**De inschrijvingslink verschijnt weldra.**

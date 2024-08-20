@@ -10,16 +10,16 @@ anchor: "phys-wedstrijd-24-10-04"
 registration_link: "https://forms.gle/ZoGoZHRtsEqKG3Ya9"
 ---
 
-Met financiering van het Excellentiefonds organiseert Dwengo in het schooljaar 2024-2025 een "sociale robot"-wedstrijd voor leerlingen van de eerste en tweede graad van het secundair onderwijs. De wedstrijd is gratis en staat open voor alle leerlingen uit zowel ASO, TSO als BSO richtingen. Ook het robotpakket wordt via de respectievelijke onderwijskoepel gratis ter beschikking gesteld van de school. 
+Met financiering van het Excellentiefonds organiseert Dwengo in het schooljaar 2024-2025 een 'Sociale robot'-wedstrijd voor leerlingen van de eerste en tweede graad van het secundair onderwijs. De wedstrijd is gratis en staat open voor alle leerlingen uit A- en B-stroom en uit alle aso-, tso- en bso-richtingen. Ook het robotpakket wordt via de respectievelijke onderwijskoepel gratis ter beschikking gesteld van de school. 
 
 De wedstrijd wil graag de samenwerking tussen sociale en technisch-wetenschappelijke richtingen aanmoedigen. Daarom worden niet enkel de technische eigenschappen van de robot meegenomen in de eindevaluatie maar leggen we ook de nadruk op het maatschappelijk probleem dat de leerlingen met hun robot proberen op te lossen. 
 
-Ook leerkrachten laten we niet in de kou staan. Om je leerlingen succesvol te begeleiden tijdens hun deelname aan de wedstrijd, organiseren we met Dwengo verschillende nascholingen waaraan je kan deelnemen om zo kennis te maken met de robotkit. Daarnaast is een waaier aan gratis lesmateriaal beschikbaar op [dwengo.org/socialerobot](https://dwengo.org/physicalcomputing).
+Ook leerkrachten laten we niet in de kou staan. Om je leerlingen succesvol te begeleiden tijdens hun deelname aan de wedstrijd, organiseren we met Dwengo verschillende nascholingen waaraan je kan deelnemen om zo kennis te maken met de robotkit. Daarnaast is een waaier aan gratis lesmateriaal beschikbaar op [dwengo.org/socialerobot](https://dwengo.org/socialerobot).
 
 Wil je alles te weten komen over de wedstrijd? Schrijf je dan in voor deze online introductiesessie waarin wij de details van de wedstrijd toelichten.
 
 
-**Doelgroep:** De wedstrijd is toegankelijk voor alle leerlingen van de eerste en tweede graad van het secundair onderwijs. Zowel ASO, TSO als BSO leerlingen kunnen deelnemen. We moedigen een samenwerking aan tussen leerlingen uit meer sociale richtingen met leerlingen uit eerder technisch wetenschappelijke richtingen.
+**Doelgroep:** De wedstrijd is toegankelijk voor alle leerlingen van de eerste en tweede graad van het secundair onderwijs. Leerlingen uit A-stroom, B-stroom, aso, tso en bso kunnen deelnemen. We moedigen een samenwerking aan tussen leerlingen uit meer sociale richtingen met leerlingen uit eerder technisch-wetenschappelijke richtingen.
 
 **Wanneer:** 4 oktober 2024 van 12u30-13u00
 

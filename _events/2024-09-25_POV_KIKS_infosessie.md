@@ -1,12 +1,12 @@
 ---
-title: "SAVE THE DATE - Infosessie Kunstmatige Intelligentie, Klimaatverandering, Stomata: KIKS"
+title: "STEM - Infosessie Kunstmatige Intelligentie, Klimaatverandering, Stomata: KIKS"
 date: 2024-09-25T13:30:00
 end_date: 2024-09-25T15:30:00
 item_theme_logo_url: "/images/curricula/logo_kiks.png"
 location: "online"
 location_link: ""
 language: "nl"
-registration_link: ""
+registration_link: "https://forms.gle/eRcTmaLmA6JjDbQJ9"
 anchor: "KIKS-info-25-09-24"
 ---
 

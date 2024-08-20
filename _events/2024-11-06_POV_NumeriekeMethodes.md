@@ -1,12 +1,12 @@
 ---
-title: "SAVE THE DATE - Minimumdoel - Informaticawetenschappen: numerieke methodes"
+title: "Minimumdoel - Informaticawetenschappen: numerieke methodes"
 date: 2024-11-06T13:30:00
 end_date: 2024-11-06T16:30:00
 item_theme_logo_url: "/images/curricula/logo_algorithms.png"
 location: "Online"
 location_link: ""
 language: "nl"
-registration_link: ""
+registration_link: "https://forms.gle/cHy8L9K58ofjuGnG6"
 anchor: "num-methodes-06-11-24"
 ---
 Voor bepaalde studierichtingen in de derde graad is er een minimumdoel waarbij numerieke methodes behandeld moeten worden. 
