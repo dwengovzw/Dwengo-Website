@@ -4,6 +4,7 @@ date: 2025-02-05T20:00:00
 end_date: 2025-02-05T21:30:00
 item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
 location: "Online"
+location_link: ""
 language: "nl"
 anchor: "nocturne-bias-25-02-05"
 registration_link: "https://www.istem.be/inschrijven/?title=Bias+in+AI&id=22610&soort=iSTEM+Nocturne"
