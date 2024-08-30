@@ -1,5 +1,5 @@
 ---
-title: "SAVE THE DATE - STEM-inspiratiedag"
+title: "STEM-inspiratiedag"
 date: 2024-10-19T09:00:00
 end_date: 2024-10-19T13:00:00
 item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"

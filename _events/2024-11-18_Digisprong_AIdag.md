@@ -9,7 +9,7 @@ language: "nl"
 registration_link: "https://www.vlaanderen.be/kenniscentrum-digisprong/ai-in-onderwijs-uitdaging-of-kans/18-11-2024"
 anchor: "studiedag-Digisprong-2024"
 ---
-#### Studiedag. AI in onderwijs: uitdaging of kans?
+
 Tijdens deze gratis studiedag delen experts, organisaties en enkele bedrijven inzichten over hoe AI kan bijdragen aan het verbeteren van het leerproces en 
 hoe scholen AI verantwoord kunnen integreren in hun werking.<br>
 

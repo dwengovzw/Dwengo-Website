@@ -1,5 +1,5 @@
 ---
-title: "Dwengo-sessies"
+title: "SAVE THE DATE - Dwengo-sessies"
 date: 2024-12-04T09:00:00
 end_date: 2024-12-04T17:00:00
 item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
