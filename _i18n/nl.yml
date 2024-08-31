@@ -291,7 +291,7 @@ curricula_page:
     teaser: "https://www.youtube.com/embed/2B6gZ9HdQ1Y"
 
   kiks:
-    title: AI en klimaat
+    title: AI en Klimaat
     sub_title: KIKS
     description: "Leerlingen uit de derde graad (SO) onderzoeken hoe planten zich via hun huidmondjes aanpassen aan de klimaatverandering. Daarvoor tellen ze deze huidmondjes met artificiële intelligentie en beeldherkenning."
     contact: ""
@@ -910,7 +910,7 @@ shop:
 
 
 learning_trajectories:
-  title: Onze leerlijnnen
+  title: Onze leerlijnen
   grade1: 1<sup>e</sup> graad
   grade2: 2<sup>e</sup> graad
   grade3: 3<sup>e</sup> graad
@@ -935,7 +935,7 @@ learning_trajectories:
       description: "Lesmateriaal over het gebruik en de werking van de microcontroller."
     kiks:
       title: "AI en Klimaat"
-      description: "In het KIKS project ga je met de leerlingen aan de slag met AI in de context van klimaatverandering."
+      description: "In het KIKS-project ga je met de leerlingen aan de slag met AI in de context van klimaatverandering."
     chatbot:
       title: "Chatbot"
       description: "In deze leerlijn ontdekken leerlingen hoe chatbots werken en hoe ze zelf een chatbot kunnen maken."
@@ -959,9 +959,9 @@ learning_trajectory:
 wedstrijd_sr:
   page_title: Wedstrijd 'sociale robot'
   intro: "In het dagelijkse leven kom je steeds vaker in contact met robots in allerlei vormen en maten. Toch verloopt de communicatie met deze robots vaak behoorlijk stroef! Wij hebben jou nodig om daar verandering in te brengen!"
-  summary: "Ga je de uitdaging aan? Schrijf je dan in voor onze 'sociale robot'-wedstrijd! Ontwerp, bouw en programmeer in een team van maximaal vier personen een sociale robot die kan dienen als oplossing voor een maatschappelijk probleem."
+  summary: "Ga je de uitdaging aan? Schrijf je dan in voor onze 'Sociale robot'-wedstrijd! Ontwerp, bouw en programmeer in een team van maximaal vier personen een sociale robot die een oplossing biedt voor een maatschappelijk probleem."
   title1: De wedstrijd
-  t1p1: "Dit schooljaar organiseert Dwengo de eerste editie van haar ‘sociale robot’-wedstrijd. Voor deze wedstrijd ontwerp en bouw jij, in groepjes van maximaal vier personen, een sociale robot die een oplossing biedt voor een maatschappelijk probleem.<br>Om deel te nemen stuur je voor 1 december 2024 een eerste keer een technische fiche naar Dwengo. Nadien maak je een filmpje waarin je jouw robot voorstelt en uitlegt welk maatschappelijk probleem deze oplost. Dit stuur je, samen met een gefinaliseerde technische fiche van je robot, door naar Dwengo voor …... De twintig beste inzendingen worden uitgenodigd voor de finale op 7 mei 2025. Daar zal je jouw robot moeten voorstellen aan een professionele jury die de beste 3 robots selecteert.<br>Het is de bedoeling om met beperkte middelen het gekozen maatschappelijk probleem zo goed mogelijk aan te pakken. Om hun beoordeling te maken zal de jury zowel met het gekozen maatschappelijk probleem, de oplossing ervan en de technische uitwerking rekening houden."
+  t1p1: "Dit schooljaar organiseert Dwengo de eerste editie van haar ‘Sociale robot’-wedstrijd. Voor deze wedstrijd ontwerp en bouw jij, in groepjes van maximaal vier personen, een sociale robot die een oplossing biedt voor een maatschappelijk probleem.<br>Om deel te nemen vule je een technische fiche van je robot in, die je herwerkt tijdens het verloop van de wedstrijd. Verder maak je een filmpje waarin je jouw robot voorstelt en uitlegt welk maatschappelijk probleem deze oplost. Dit stuur je door naar Dwengo, samen met een gefinaliseerde technische fiche van je robot, ten laatste op 31 maart 2025. De 15 beste inzendingen worden uitgenodigd voor de finale op 7 mei 2025. Daar zal je jouw robot moeten voorstellen aan een professionele jury die de beste 3 robots selecteert.<br>Het is de bedoeling om met beperkte middelen het gekozen maatschappelijk probleem zo goed mogelijk aan te pakken. Om hun beoordeling te maken zal de jury zowel met het gekozen maatschappelijk probleem, de oplossing ervan en de technische uitwerking rekening houden. Tijdens deze eerste editie wordt er naast een prijs voor de beste drie robots ook een prijs uitgedeeld voor de beste ‘beweegrobot’. Deze robot moet mensen aanzetten om meer te bewegen."
   title2: Doelgroep
   t2p1: "De wedstrijd richt zich op leerlingen van de eerste en tweede graad van het secundair onderwijs. Zij kunnen in groepjes van maximaal vier leerlingen deelnemen aan de wedstrijd. Zowel het sociale als het technische aspect van je robot worden opgenomen in de eindbeoordeling. Het kan dus nuttig zijn om deel te nemen met een team van leerlingen uit verschillende studierichtingen (weliswaar van dezelfde graad). Zo kunnen jullie elkaars competenties versterken!<br>De inschrijving voor de wedstrijd verloopt via de school. Heb je interesse om deel te nemen? Stel een team samen en overtuig jullie leerkracht om jullie team in te schrijven!"
   title3: Waarom moet ik meedoen?
