@@ -760,7 +760,7 @@ curricula_page:
       teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
       curricula_files:
         - file_title: "Bouw jouw eigen robot"
-          file_info: "Bouw je eigen rijdende robot."
+          file_info: "Baue deinen eigenen fahrenden Roboter."
           file_location: "/assets/files/physical_computing/bouwjouweigenrobot.pdf"
           file_icon_name: "description"
           link_name: "Download"
