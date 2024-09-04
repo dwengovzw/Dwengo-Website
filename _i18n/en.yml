@@ -760,7 +760,13 @@ curricula_page:
     description: "Build a musical instrument, car, or weather station? You can do that with Dwenguino, a microcontroller platform with its own programming environment. Students from both primary and secondary education can get started with it right away. In real life or in our simulator, block-based or textual."
     contact: Questions? Contact us at team@aiopschool.be. The press can contact Francis Wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8
-
+    curricula_files:
+      - file_title: "Bouw jouw eigen robot"
+        file_info: "Build your own driving robot."
+        file_location: "/assets/files/physical_computing/bouwjouweigenrobot.pdf"
+        file_icon_name: "link"
+        link_name: "Download"
+        
   wedstrijd_sr:
     curricula_files:
       - file_title: "Inschrijvingsformulier"
