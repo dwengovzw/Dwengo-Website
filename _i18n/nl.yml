@@ -623,6 +623,11 @@ curricula_page:
         file_location: "/assets/files/wedstrijd_sr/Minimumdoelen.pdf"
         file_icon_name: "description"
         link_name: "Download"
+      - file_title: "Wedstrijdreglement"
+        file_info: "Neem het reglement goed door! Het is bindend."
+        file_location: ""
+        file_icon_name: "link"
+        link_name: "Weldra hier"
 
 
 # Projects, varia & temp ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
