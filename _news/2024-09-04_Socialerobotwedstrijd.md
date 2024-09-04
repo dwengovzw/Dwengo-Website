@@ -14,7 +14,7 @@ Niet zomaar een robot. Nee, een sociale robot die een maatschappelijk probleem a
 Leerlingen van de **eerste of tweede graad van het secundair onderwijs** kunnen deelnemen.<br>
 Zet alvast de finaledag van 7 mei 2025 in je agenda.
 
-Wil jij als leerkracht deze wedstrijd begeleiden? Dan kan je een beroep doen op uitgebreid [lesmateriaal](https://dwengo.org/socialerobot). Bovendien kan je gratis de nodige **hardware ontlenen** 
+Wil jij als leerkracht deze wedstrijd begeleiden? Dan kan je een beroep doen op uitgebreid [lesmateriaal](https://dwengo.org/socialerobot). Bovendien kan je gratis de nodige **elektronica ontlenen** 
 via je **onderwijskoepel** of via de uitleendiensten van de [cel iSTEM](https://www.istem.be/2023/09/29/dwengos-uitproberen-2/) inkleuren en de [Provincie Oost-Vlaanderen](https://oost-vlaanderen.be/leren/materialen-activiteiten-scholen/educatief-materiaal/stem/secundair-onderwijs/de-sociale-robot.html).<br>
 Zit je nog met vragen? [Mail](mailto:robotwedstrijd@dwengo.org), volg een van de online [infosessies](https://dwengo.org/agenda/), of neem deel aan een van de face to face [nascholingen](https://dwengo.org/agenda/) die Dwengo organiseert.
 
