@@ -604,7 +604,13 @@ curricula_page:
     description: "Een muziekinstrument, auto of weerstation bouwen? Dat kan met Dwenguino, een microcontrollerplatform met een eigen programmeeromgeving. Leerlingen uit zowel basis- als secundair onderwijs kunnen er meteen mee aan de slag. In het echt of in onze simulator, blokgebaseerd of tekstueel. "
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8
-
+    curricula_files:
+      - file_title: "Bouw jouw eigen robot"
+        file_info: "Bouw je eigen rijdende robot."
+        file_location: "/assets/files/physical_computing/bouwjouweigenrobot.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+        
   wedstrijd_sr:
     curricula_files:
       - file_title: "Inschrijvingsformulier"
@@ -957,7 +963,7 @@ learning_trajectory:
   title: Jouw persoonlijke leerlijn
 
 wedstrijd_sr:
-  page_title: Wedstrijd 'sociale robot'
+  page_title: Wedstrijd 'Sociale robot'
   intro: "In het dagelijkse leven kom je steeds vaker in contact met robots in allerlei vormen en maten. Toch verloopt de communicatie met deze robots vaak behoorlijk stroef! Wij hebben jou nodig om daar verandering in te brengen!"
   summary: "Ga je de uitdaging aan? Schrijf je dan in voor onze 'Sociale robot'-wedstrijd! Ontwerp, bouw en programmeer in een team van maximaal vier personen een sociale robot die een oplossing biedt voor een maatschappelijk probleem."
   title1: De wedstrijd
