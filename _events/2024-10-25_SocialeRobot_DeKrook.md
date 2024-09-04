@@ -1,5 +1,5 @@
 ---
-title: "Wedstrijd en Project Sociale robot"
+title: "Save the date - Wedstrijd en Project Sociale robot"
 date: 2024-10-25T09:00:00
 end_date: 2024-10-25T15:30:00
 item_theme_logo_url: "/images/curricula/logo_socialrobot.png"
