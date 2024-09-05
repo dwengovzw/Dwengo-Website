@@ -19,7 +19,7 @@ via je **onderwijskoepel** of via de uitleendiensten van de [cel iSTEM](https://
 Zit je nog met vragen? [Mail](mailto:robotwedstrijd@dwengo.org), volg een van de online [infosessies](https://dwengo.org/agenda/), of neem deel aan een van de face to face [nascholingen](https://dwengo.org/agenda/) die Dwengo organiseert.
 
 
-Met dank aan de steun van het Excellentiefonds van de Vlaamse Overheid. 
+Met dank aan de steun van het **Excellentiefonds 2024-2025** van de Vlaamse Overheid. 
 
 [Lees meer](https://dwengo.org/socialerobotwedstrijd/)
 
