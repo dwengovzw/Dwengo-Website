@@ -20,3 +20,5 @@ Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor e
 **Locatie:** De Krook, zaal de Laatkomer, Miriam Makebaplein 1, 9000 Gent<br>
 
 **Organisatie:** Dwengo vzw
+
+**Inschrijven mogelijk t.e.m. 9 december 2024.**
