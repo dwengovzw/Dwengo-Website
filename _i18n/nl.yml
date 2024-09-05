@@ -612,6 +612,7 @@ curricula_page:
         link_name: "Download"
         
   wedstrijd_sr:
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8
     curricula_files:
       - file_title: "Inschrijvingsformulier"
         file_info: "Laat jullie leerkracht jullie team inschrijven via het volgende formulier!"
