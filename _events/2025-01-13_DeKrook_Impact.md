@@ -1,6 +1,6 @@
 ---
 title: "Minimumdoel - De impact van digitale systemen op de maatschappij vanuit principes van computationeel denken"
-date: 2025-01-213T13:30:00
+date: 2025-01-13T13:30:00
 end_date: 2025-01-13T16:30:00
 item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
 location: "De Krook, Miriam Makebaplein 1, 9000 Gent"
