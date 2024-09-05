@@ -23,6 +23,6 @@ Met dank aan de steun van het **Excellentiefonds 2024-2025** van de Vlaamse Over
 
 [Lees meer >](https://dwengo.org/socialerobotwedstrijd/)
 
-[Bekijk >](https://www.youtube.com/watch?v=3z2lbx8P5kA](https://youtu.be/k6lOACXTaCQ )
+[Bekijk >](https://youtu.be/k6lOACXTaCQ)
 
 ![srdwengohighfive](https://github.com/user-attachments/assets/85e1297c-00d4-4ac9-aeba-e8bace81a883)
