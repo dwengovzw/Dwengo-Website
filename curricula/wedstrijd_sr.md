@@ -26,25 +26,7 @@ intro=intro
 summary=summary
 -%}
 
-# {% t wedstrijd_sr.title1 %}
-
-{% t wedstrijd_sr.t1p1 %}
-
-# {% t wedstrijd_sr.title2 %}
-
-{% t wedstrijd_sr.t2p1 %}
-
-# {% t wedstrijd_sr.title3 %}
-
-{% t wedstrijd_sr.t3p1 %}
-
-
-# {% t wedstrijd_sr.title4 %}
-
-{% t wedstrijd_sr.t4p1 %}
-
-<br>
-
+{%- include wedstrijd_sr_extra_info.html -%}
 
 
 {%- include curricula_files.html page_translation_key="wedstrijd_sr" -%}
