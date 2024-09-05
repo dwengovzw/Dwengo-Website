@@ -21,6 +21,8 @@ Zit je nog met vragen? [Mail](mailto:robotwedstrijd@dwengo.org), volg een van de
 
 Met dank aan de steun van het **Excellentiefonds 2024-2025** van de Vlaamse Overheid. 
 
-[Lees meer](https://dwengo.org/socialerobotwedstrijd/)
+[Lees meer >](https://dwengo.org/socialerobotwedstrijd/)
+
+[Bekijk >](https://www.youtube.com/watch?v=3z2lbx8P5kA](https://youtu.be/k6lOACXTaCQ )
 
 ![srdwengohighfive](https://github.com/user-attachments/assets/85e1297c-00d4-4ac9-aeba-e8bace81a883)
