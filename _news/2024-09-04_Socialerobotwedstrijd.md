@@ -12,7 +12,7 @@ In teams van maximaal vier gaan leerlingen de uitdaging aan om een robot te ontw
 Niet zomaar een robot. Nee, een sociale robot die een maatschappelijk probleem aanpakt. 
 
 Leerlingen van de **eerste of tweede graad van het secundair onderwijs** kunnen deelnemen.<br>
-Zet alvast de finaledag van 7 mei 2025 in je agenda.
+Zet alvast de finaledag van *7 mei 2025* in je agenda.
 
 Wil jij als leerkracht deze wedstrijd begeleiden? Dan kan je een beroep doen op uitgebreid [lesmateriaal](https://dwengo.org/socialerobot). Bovendien kan je gratis de nodige **elektronica ontlenen** 
 via je **onderwijskoepel** of via de uitleendiensten van de [cel iSTEM](https://www.istem.be/2023/09/29/dwengos-uitproberen-2/) inkleuren en de [Provincie Oost-Vlaanderen](https://oost-vlaanderen.be/leren/materialen-activiteiten-scholen/educatief-materiaal/stem/secundair-onderwijs/de-sociale-robot.html).<br>
