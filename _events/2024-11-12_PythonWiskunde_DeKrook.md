@@ -19,14 +19,14 @@ Ondertussen werk je aan de vakspecifieke lesdoelen, en komt er tijd vrij om meer
 Als je bepaalde zaken wilt gaan automatiseren m.b.v. een computer, dan zal je computationeel gaan denken, en ook programmeren. 
 Zoals met de minimumdoelen wordt bedoeld, zal je in deze nascholing niet programmeren om te programmeren, maar gebruik je **Python als tool**.  
 
-Computationeel denken en programmeren is echter niet hetzelfde. Concreet leer je in deze nascholing a.d.h.v. concrete voorbeelden hoe je de basisconcepten van computationeel denken 
-integreert in bestaande wiskundeinhouden. Dit gebeurt a.d.h.v. enkele opdrachten zonder computer, maar je gaat ook zelf met de **interactieve Python notebooks** aan de slag. **Breng een opgeladen laptop mee.**
+Computationeel denken en programmeren is echter niet hetzelfde. **Concreet leer je in deze nascholing a.d.h.v. concrete voorbeelden hoe je de basisconcepten van computationeel denken 
+integreert in bestaande lesinhouden.** Dit gebeurt a.d.h.v. enkele opdrachten zonder computer, maar je gaat ook zelf met de **interactieve Python notebooks** aan de slag. **Breng een opgeladen laptop mee.**
 
 Je doet voldoende kennis op van Python om er op een zinvolle manier mee te kunnen werken in de wiskundeles. De notebooks met onderwerpen uit de wiskundeles zijn daarbij een handig hulpmiddel, 
 bv. **de stelling van Pythagoras, het oplossen van een vierkantsvergelijking, het opstellen van waarheidstabellen, het tekenen van een rechte of parabool, 
 het voorstellen van gegevens in een csv-bestand in een spreidingsdiagram, en wat beschrijvende statistiek**.
 
-Na deze nascholing kan je zelfstandig aan de slag gaan met andere kant-en-klare notebooks waarin STEM-inhouden worden behandeld.
+Na deze nascholing kan je zelfstandig aan de slag gaan met andere kant-en-klare notebooks waarin **STEM-inhouden** worden behandeld.
 
 Hiervoor is enkel een browser nodig, er moet geen andere software worden geïnstalleerd.
 
@@ -55,7 +55,7 @@ Na deze nascholing:<br>
 - Lerarenopleiders wiskunde, wetenschappen en STEM voor leerkrachten secundair onderwijs (professionele bachelor en educatieve master).<br>
 
 **Strikt genomen is er geen voorkennis nodig voor het programmeren. Sommige leerkrachten bereiden zich daar toch graag op voor. 
-Je kan dat zelfstandig doen a.d.h.v. de leerpaden 'Datatypes', 'Operatorem', 'Structuren', en 'Functies' op [Programmeren in Python](https://dwengo.org/python_programming/) 
+Je kan dat zelfstandig doen a.d.h.v. de leerpaden 'Datatypes', 'Operatoren', 'Structuren', en 'Functies' op [Programmeren in Python](https://dwengo.org/python_programming/) 
 of je kan de Python nascholing volgen van 15 oktober.**
 
 **Wanneer:** 12 november 2024 van 9u30-16u30<br>
