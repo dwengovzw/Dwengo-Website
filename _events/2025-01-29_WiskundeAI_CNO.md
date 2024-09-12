@@ -7,7 +7,7 @@ location: "Universiteit Antwerpen, Boogkeers 5, 2000 Antwerpen"
 location_link: "https://www.google.com/maps/place/CNO/@51.2141398,4.4021687,17z/data=!3m1!4b1!4m5!3m4!1s0x47c3f6ff172ceed5:0xb3b8225c72873810!8m2!3d51.2141398!4d4.4043574"
 language: "nl"
 registration_link: "https://cno.uantwerpen.be/nl/opleiding/wiskunde-uit-het-secundair-onderwijs-in-ai-80480?filter="
-anchor: "cno_wiskunde_25_01_29"
+anchor: "cno_wiskunde_29_01_25"
 ---
 
 Bij de ontwikkeling van artificieel intelligente systemen komt heel wat wiskunde kijken. Zelfs de wiskunde uit het secundair onderwijs komt hier
