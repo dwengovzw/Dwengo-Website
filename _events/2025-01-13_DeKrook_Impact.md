@@ -6,6 +6,7 @@ item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
 location: "De Krook, Miriam Makebaplein 1, 9000 Gent"
 location_link: "https://www.google.be/maps/place/De+Krook/@51.0486039,3.7264986,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3714effffffff:0x9b1a2c7f1cb8c825!8m2!3d51.0486039!4d3.7286873!16s%2Fg%2F1hc0gcm5l"
 language: "nl"
+anchor: "ct-impact-25-01-13"
 registration_link: "https://www.eventbrite.be/e/tickets-impact-van-digitale-systemen-vanuit-computationeel-denken-1009269471157?aff=oddtdtcreator"
 ---
 Bij dit nieuwe minimumdoel komt heel wat kijken. Leerlingen hebben de basisconcepten van computationeel denken leren kennen in de eerste graad en moeten deze nu in een nieuwe context 
