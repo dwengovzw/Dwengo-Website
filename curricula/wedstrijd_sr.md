@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: sociale robot
+title: socialerobotwedstrijd
 permalink: /socialerobotwedstrijd/
 redirect_from: 
   - /wedstrijd/

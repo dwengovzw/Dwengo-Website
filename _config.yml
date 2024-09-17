@@ -36,6 +36,7 @@ header_pages:
   - about.markdown
   - events.md
   - news.md
+  - curricula/wedstrijd_sr.md
 
 languages: ["nl", "en", "fr", "de"]
 exclude_from_localizations: ["js", "images", "css"]
