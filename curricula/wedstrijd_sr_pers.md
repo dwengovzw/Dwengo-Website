@@ -27,13 +27,13 @@ Na het indienen van hun technische fiche en video met de presentatie van hun soc
 
 ## Inschrijven en meer informatie
 Scholen kunnen zich inschrijven voor de wedstrijd via het formulier op de website van Dwengo. De inschrijving is open voor alle scholen uit de eerste en tweede graad van het secundair onderwijs, ongeacht hun voorkennis of ervaring met robotica. Daarnaast organiseert Dwengo online infosessies op 26 september en 4 oktober om geïnteresseerde leerkrachten en scholen meer uitleg te geven over de wedstrijd en het gebruik van de lesmaterialen.
-Voor meer informatie over de wedstrijd, inschrijvingen en ondersteuning, bezoek de website van Dwengo: [https://www.dwengo.org/socialerobotwedstrijd](www.dwengo.org/socialerobotwedstrijd).
+Voor meer informatie over de wedstrijd, inschrijvingen en ondersteuning, bezoek de website van Dwengo: [www.dwengo.org/socialerobotwedstrijd](https://www.dwengo.org/socialerobotwedstrijd).
 
 
 Contactinformatie <br>
 Dwengo vzw <br>
-E-mail: [robotwedstrijd@dwengo.org](robotwedstrijd@dwengo.org) <br>
-Web: [https://www.dwengo.org](www.dwengo.org) <br>
+E-mail: [robotwedstrijd@dwengo.org](mailto:robotwedstrijd@dwengo.org) <br>
+Web: [www.dwengo.org](https://www.dwengo.org) <br>
 
 <br>
 
