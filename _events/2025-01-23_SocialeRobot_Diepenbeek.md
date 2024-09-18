@@ -1,12 +1,12 @@
 ---
 title: "Wedstrijd Sociale robot - Nascholing voor begeleidende leerkrachten"
-date: 2025-01-21T09:00:00
-end_date: 2025-01-21T15:30:00
+date: 2025-01-23T09:00:00
+end_date: 2025-01-23T15:30:00
 item_theme_logo_url: "/images/curricula/logo_socialrobot.png"
-location: "De Krook"
-location_link: "https://www.google.be/maps/place/De+Krook/@51.0486039,3.7264986,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3714effffffff:0x9b1a2c7f1cb8c825!8m2!3d51.0486039!4d3.7286873!16s%2Fg%2F1hc0gcm5l"
+location: "Diepenbeek"
+location_link: ""
 language: "nl"
-anchor: "phys-wedstrijd-25-01-21"
+anchor: "phys-wedstrijd-25-01-23"
 registration_link: "https://forms.gle/wS9UkL4EtSMXxRYP8"
 ---
 
@@ -29,5 +29,3 @@ Ook leerkrachten laten we niet in de kou staan. Om je leerlingen succesvol te be
 
 **Organisatie:** Dwengo
 
-<br>
-***Deze nascholing wordt ook gegeven op 23 januari in Hasselt***
