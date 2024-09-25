@@ -32,5 +32,3 @@ Na deze nascholing:<br>
 **Wanneer:** 15 oktober 2024 van 9u30-16u30<br>
 **Locatie:** De Krook, zaal Vos, Miriam Makebaplein 1, 9000 Gent<br>
 **Organisatie:** Dwengo vzw
-
-**Inschrijven is mogelijk t.e.m. 23 september.**
