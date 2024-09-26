@@ -23,7 +23,7 @@ Ook leerkrachten laten we niet in de kou staan. Om je leerlingen succesvol te be
 
 **Wanneer:** 21 oktober 2024 van 9u-15u30
 
-**Locatie:** Campus UCLL, Diepenbeek
+**Locatie:** Campus UCLL, Diepenbeek, R-blok, lokaal R1.32
 
 **Prijs:** Gratis voor deelnemers aan de wedstrijd.
 
