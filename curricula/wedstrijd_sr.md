@@ -11,7 +11,7 @@ redirect_from:
   - /socialerobot/wedstrijd2024/
 banner_image: "/images/curricula/banner_socialrobot.png"
 logo_image: "/images/curricula/logo_socialrobot.png"
-partner_images: ['/images/partners/dwengo.png','/images/partners/ugent.svg', '/images/partners/onderwijsvlaanderen.png', '/images/partners/comon.png', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg',  '/images/partners/pov.jpg', '/images/partners/GO!.png', '/images/partners/kov.png', '/images/partners/ovsg.png', '/images/partners/voop.webp', '/images/partners/uccl_aot_logo.png']
+partner_images: ['/images/partners/dwengo.png','/images/partners/ugent.svg', '/images/partners/onderwijsvlaanderen.png', '/images/partners/comon.png', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg',  '/images/partners/pov.jpg', '/images/partners/GO!.png', '/images/partners/kov.png', '/images/partners/ovsg.png', '/images/partners/voop.webp', '/images/partners/uccl_aot_logo.png', '/images/partners/rtc_west_vlaanderen.png']
 learning_paths: ['sr0_lkr', 'sr0_lln', 'sr1', 'sr2', 'sr3', 'sr4']
 ---
 
