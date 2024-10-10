@@ -638,6 +638,11 @@ curricula_page:
         file_location: "/assets/files/wedstrijd_sr/Wedstrijdreglement.pdf"
         file_icon_name: "link"
         link_name: "Download"
+      - file_title: "Infosessie voor leerkrachten"
+        file_info: "In deze presentatie vind je alle informatie over de wedstrijd terug."
+        file_location: "https://www.youtube.com/watch?v=voQyQ85oUr8"
+        file_icon_name: "play_arrow"
+        link_name: "Bekijk"
 
 
 # Projects, varia & temp ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
