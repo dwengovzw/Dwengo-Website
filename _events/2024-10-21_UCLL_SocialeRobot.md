@@ -1,5 +1,5 @@
 ---
-title: "Wedstrijd Sociale robot - Nascholing voor begeleidende leerkrachten"
+title: "AFGELAST Wedstrijd Sociale robot - Nascholing voor begeleidende leerkrachten"
 date: 2024-10-21T09:00:00
 end_date: 2024-10-21T15:30:00
 item_theme_logo_url: "/images/curricula/logo_socialrobot.png"
@@ -9,6 +9,8 @@ language: "nl"
 anchor: "phys-wedstrijd-24-10-21"
 registration_link: "https://forms.gle/wS9UkL4EtSMXxRYP8"
 ---
+
+## Wegens te weinig inschrijvingen wordt deze sessie afgelast. Heb je interesse om deze sessie te volgen? Schrijf je dan in voor de sessie in januari!
 
 Met financiering van het Excellentiefonds organiseert Dwengo in het schooljaar 2024-2025 een ['Sociale robot'-wedstrijd](https://dwengo.org/socialerobotwedstrijd/) voor leerlingen van de eerste en tweede graad van het secundair onderwijs. De wedstrijd is gratis en staat open voor alle leerlingen uit A- en B-stroom en uit alle aso-, tso- en bso-richtingen. Ook het robotpakket wordt via de respectievelijke onderwijskoepel gratis ter beschikking gesteld van de school. 
 
