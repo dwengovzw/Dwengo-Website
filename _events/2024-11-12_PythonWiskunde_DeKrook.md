@@ -3,8 +3,8 @@ title: "Python voor wiskunde, wetenschappen en STEM"
 date: 2024-11-12T09:30:00
 end_date: 2024-11-12T16:30:00
 item_theme_logo_url: "/images/curricula/logo_math_with_python.png"
-location: "De Krook, Miriam Makebaplein 1, 9000 Gent"
-location_link: "https://www.google.be/maps/place/De+Krook/@51.0486039,3.7264986,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3714effffffff:0x9b1a2c7f1cb8c825!8m2!3d51.0486039!4d3.7286873!16s%2Fg%2F1hc0gcm5l"
+location: "HomeLab, Technologiepark-Zwijnaarde 108, 9052 Gent"
+location_link: "https://www.google.be/maps/place/Technologiepark-Zwijnaarde+108,+9052+Gent/@51.0120393,3.7110817,17z/data=!3m1!4b1!4m6!3m5!1s0x47c373943f0e262b:0x8afb6f7f2b8e6a4d!8m2!3d51.0120393!4d3.7136566!16s%2Fg%2F11hfm_p_rq?hl=nl&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D"
 language: "nl"
 registration_link: "https://www.eventbrite.be/e/python-voor-wiskunde-wetenschappen-en-stem-tickets-998627460617"
 anchor: "pyth-wiskunde-12-11-24"
@@ -59,7 +59,7 @@ Je kan dat zelfstandig doen a.d.h.v. de leerpaden 'Datatypes', 'Operatoren', 'St
 of je kan de Python nascholing volgen van 15 oktober.**
 
 **Wanneer:** 12 november 2024 van 9u30-16u30<br>
-**Locatie:** De Krook, zaal de Verwondering, Miriam Makebaplein 1, 9000 Gent<br>
+**Locatie:** HomeLab, Technologiepark-Zwijnaarde 108, 9052 Gent<br>
 **Organisatie:** Dwengo vzw
 
-**Inschrijven is mogelijk t.e.m. 22 oktober.**
+**Inschrijven is mogelijk t.e.m. 9 november.**
