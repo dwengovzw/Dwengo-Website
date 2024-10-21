@@ -810,6 +810,7 @@ calendar_page:
   no_past_events: Aucun événement passé en français
   online: en ligne
   register: S'inscrire
+  boek_ons: "Réservez-nous pour une formation continue !"
 
 news_page:
   no_news: aucune nouvelle
@@ -898,6 +899,11 @@ shop:
   products_title: Nos produits
   price: Prix
   products:
+    - title: "Demandez-nous une formation continue !"
+      desc: "Vous recherchez une formation continue pour votre groupe scolaire sur l'IA, le Physical Computing ou la pensée computationnelle ? Nous sommes heureux de vous aider ! Consultez notre <a href='/assets/files/shop/Nascholingen_Dwengo.pdf'>aperçu des formations</a> et contactez-nous pour un devis personnalisé."
+      image: "/assets/images/shop/nascholing.jpg"
+      price: "Sur demande (tarif standard : 500 € par demi-journée hors TVA de 21%)"
+      price_extra_info: ""
     - title: "Kit de robot social"
       desc: "Avec ce kit, vous pouvez commencer avec des robots sociaux dans votre classe. Pour cela, vous pouvez compter sur notre matériel pédagogique gratuit sur <a href='/fr/socialrobot'>dwengo.org/fr/socialrobot</a>"
       image: "/assets/images/shop/sociale_robot_kit_afbeeldingen.webp"

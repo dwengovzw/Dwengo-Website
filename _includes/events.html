@@ -6,6 +6,11 @@
 <div class="calendar">
     
     <h2 class="event-list-heading">{% t calendar %}</h2>
+
+    <div class="book_us">
+        <h3><a href="/shop">{% t calendar_page.boek_ons %}</a></h3>
+    </div>
+
     {% assign sorted_events = include.events | sort: 'date' | where: "language", site.lang %}
     {% assign sorted_events_reverse = include.events | sort: 'date' | reverse | where: "language", site.lang %}
     {%- if sorted_events.size > 0 -%}

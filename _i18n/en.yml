@@ -800,6 +800,7 @@ calendar_page:
   no_past_events: No past events
   online: online
   register: Register
+  boek_ons: "Book us for a training!"
 
 news_page:
   no_news: No news
@@ -886,6 +887,11 @@ shop:
   products_title: Our products
   price: Price
   products:
+    - title: "Ask us for a training!"
+      desc: "Is your school group looking for training on AI, Physical Computing, or computational thinking? We are happy to help! Take a look at our <a href='/assets/files/shop/Nascholingen_Dwengo.pdf'>training overview</a> and contact us for a personalized offer."
+      image: "/assets/images/shop/nascholing.jpg"
+      price: "On request (standard rate: €500 per half day excluding 21% VAT)"
+      price_extra_info: ""
     - title: "Social robot kit"
       desc: "With this kit you can get started with social robots in your classroom. For this you can base yourself on our <strong>free teaching material</strong> at <a href='/socialrobot'>dwengo.org/socialrobot</a>"
       image: "/assets/images/shop/sociale_robot_kit_afbeeldingen.webp"

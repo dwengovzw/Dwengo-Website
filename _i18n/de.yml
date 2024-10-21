@@ -803,6 +803,7 @@ calendar_page:
   no_past_events: Keine vergangenen Ereignisse auf Deutsch
   online: online
   register: Registrieren
+  boek_ons: "Buchen Sie uns für eine Weiterbildung!"
 
 news_page:
   no_news: Keine nachrichten
@@ -889,6 +890,11 @@ shop:
   products_title: Unsere Produkte
   price: Preis
   products:
+    - title: "Fragen Sie uns nach einer Weiterbildung!"
+      desc: "Suchen Sie mit Ihrer Schulgruppe nach einer Weiterbildung zu KI, Physical Computing oder rechnerischem Denken? Wir helfen Ihnen gerne weiter! Werfen Sie einen Blick in unser <a href='/assets/files/shop/Nascholingen_Dwengo.pdf'>Weiterbildungsangebot</a> und kontaktieren Sie uns für ein maßgeschneidertes Angebot."
+      image: "/assets/images/shop/nascholing.jpg"
+      price: "Auf Anfrage (Standardtarif: 500 € pro halber Tag zzgl. 21% MwSt.)"
+      price_extra_info: ""
     - title: "Bausatz für soziale Roboter"
       desc: "Mit diesem Kit können Sie mit sozialen Robotern in Ihrem Klassenzimmer beginnen. Dazu können Sie sich auf unser <strong>kostenloses Lehrmaterial</strong> unter <a href='/socialrobot'>dwengo.org/socialrobot</a> stützen"
       image: "/assets/images/shop/sociale_robot_kit_afbeeldingen.webp"

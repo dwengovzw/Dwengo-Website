@@ -772,6 +772,14 @@ footer {
   padding: 24px 48px;
 }
 
+/* Style this div to fill its container, have a yellow background and border.*/
+.book_us{
+  margin-top: 3rem;
+  background-color: #ffecb3;
+  color: black;
+  padding: 24px 48px;
+}
+
 // Import partials.
 @import
   "minima/base",

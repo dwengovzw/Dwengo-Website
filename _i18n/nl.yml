@@ -811,6 +811,7 @@ calendar_page:
   no_past_events: Geen eerdere activiteiten
   online: online
   register: Schrijf je in!
+  boek_ons: "Boek ons voor een nascholing!"
 
 news_page:
   no_news: Geen nieuws 
@@ -900,6 +901,11 @@ shop:
   products_title: Onze producten
   price: Prijs
   products:
+    - title: "Vraag ons voor een nascholing!"
+      desc: "Zoek je met jou scholengroep naar een nascholing over AI, Physical Computing of computationeel denken? Wij helpen je graag verder! Neem een kijkje in ons <a href='/assets/files/shop/Nascholingen_Dwengo.pdf'>nascholingsoverzicht</a> en contacteer ons voor een offerte op maat."
+      image: "/assets/images/shop/nascholing.jpg"
+      price: "Op aanvraag (standaard tarief: €500 per halve dag excl. 21% BTW)"
+      price_extra_info: ""
     - title: "Sociale robot kit"
       desc: "Met deze kit kan je aan de slag met sociale robots in je klas. Hiervoor kan je je baseren op ons <strong>gratis lesmateriaal</strong> op <a href='/socialrobot'>dwengo.org/socialrobot</a>"
       image: "/assets/images/shop/sociale_robot_kit_afbeeldingen.webp"
