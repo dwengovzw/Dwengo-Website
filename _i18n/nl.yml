@@ -417,6 +417,11 @@ curricula_page:
         file_location: "/assets/files/art/Transportband_InnoVET_RCH.zip"
         file_icon_name: "description"
         link_name: "Download"
+      - file_title: "De lopende band"
+        file_info: "Video van de detectie van tomaten"
+        file_location: "https://www.youtube.com/watch?v=6TSqY4ECMU04"
+        file_icon_name: "play_arrow"
+        link_name: "Kijk"
 
   art:
     title: AI in de Kunst
@@ -439,6 +444,11 @@ curricula_page:
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8
     curricula_files:
+      - file_title: "Computationeel denken en programmeren in een STEM context
+        file_info: "Informatievideo over het project"
+        file_location: "https://www.youtube.com/watch?v=Nifa0vooyKg"
+        file_icon_name: "play_arrow"
+        link_name: "Kijk"
       - file_title: "Concepten en aanpak computationeel denken"
         file_info: "Poster​"
         file_location: "/assets/files/computational_thinking/CDposterDwengo2.png"
