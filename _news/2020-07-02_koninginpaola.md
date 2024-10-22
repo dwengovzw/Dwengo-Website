@@ -3,6 +3,7 @@ title: "Laureaten Koningin Paolaprijs voor het Onderwijs 2019-2020"
 date: 2020-07-02T21:00:00
 item_theme_logo_url: "/images/curricula/logo_kiks.png"
 language: "nl"
+anchor: "Paolaprijs-2020"
 ---
 ###### Stichting Koningin Paola
 In een uniek samenwerkingsverband tussen de Sint-Bavohumaniora, de UGent, de Plantentuin Meise
