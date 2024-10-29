@@ -20,6 +20,9 @@ learning_paths: ['pn_werking', 'un_artificiele_intelligentie', 'pn_klimaatverand
 {% capture paragraph2 %} {{ site.translations[site.lang].kiks.paragraph2 }} {% endcapture %}
 {% capture paragraph3 %} {{ site.translations[site.lang].kiks.paragraph3 }} {% endcapture %}
 
+{% capture teaser_title %} {{ site.translations[site.lang].kiks.teaser.title }} {% endcapture %}
+{% capture teaser_file %} {{ site.translations[site.lang].kiks.teaser.file }} {% endcapture %}
+
 
 {%- include frontpage_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
 intro_title=intro_title
@@ -27,6 +30,8 @@ paragraph1=paragraph1
 paragraph2=paragraph2
 paragraph3=paragraph3
 -%}
+
+{%- include teaser_template.html teaser_title=teaser_title teaser_file=teaser_file -%}
 
 {%- include highlightbox.html text="kiks.form_text" button_text="kiks.form_button_text" -%}
 

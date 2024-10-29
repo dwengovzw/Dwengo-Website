@@ -88,6 +88,9 @@ kiks:
   subtitle3: "AI"
   subtitle3p1: "Diepe neurale netwerken zijn een vorm van machinaal leren, en behoren dus tot het domein van de artificiële intelligentie. Convolutionele neurale netwerken zijn uitermate geschikt om huidmondjes op microfoto's te herkennen."
   subtitle3p2: "Aan de hand van Python notebooks verkennen we stap voor stap deze wondere wereld. Leerlingen krijgen inzicht in de fundamenten van artificiële intelligentie. Maar er komen ook praktische zaken bij kijken, zoals het verzamelen en voorbereiden van de dataset."
+  teaser:
+      title: "Uitproberen?"
+      file: "/assets/files/teasers/Opdracht_KIKS_Start2STEM_lesgever_vTechnopolis.pdf"
 
 agriculture:
   intro_title: "AI in de Landbouw"
@@ -96,6 +99,9 @@ agriculture:
 art:
   intro_title: "Kunst"
   paragraph1: "<strong>In opbouw - reeds beschikbare leerpaden te vinden onderaan de pagina.</strong>"
+  teaser:
+      title: "Uitproberen?"
+      file: "/assets/files/teasers/Opdracht_Jommeke_Start2STEM_lesgever_vTechnopolis.pdf"
 
 wegostem:
   intro_title: "WeGoSTEM"
@@ -156,12 +162,19 @@ chatbot:
   subtitle2p1: "Steeds meer bedrijven en organisaties plaatsen een chatbot op hun website met het oog op een betere dienstverlening. Dankzij NLP en het in acht nemen van de verwachtingen van de gebruikers worden deze automatische gesprekspartners steeds aangenamer in gebruik. Chatbots worden ingezet voor de klantendienst, HR, het geven van informatie .... en in verschillende domeinen zoals de gezondheidszorg, ontspanning, de bedrijfswereld, de politiek en het onderwijs. De leerlingen ondervinden zelf de beperkingen van een regelgebaseerde chatbot, wat hen mediawijzer maakt, aangezien de meeste chatbots in commerciële toepassingen vandaag nog hoofdzakelijk regelgebaseerd werken."
   subtitle3: "Sentimentanalyse"
   subtitle3p1: "De populariteit van het internet leidde niet alleen tot de opkomst van de sociale media, maar deed ook een nieuw onderzoeksdomein ontstaan: het detecteren van gevoelens en opinies in teksten. Sentimentanalyse heeft haar belang reeds bewezen voor de zakenwereld, de industrie en de maatschappij. Automatisch een sentimentscore toekennen aan online klantenreviews, tweets over politiek, of een chatbotgesprek, het gebeurt allemaal met artificiële intelligentie: NLP die zowel kennisgebaseerd (a.d.h.v. regels) als datagebaseerd (a.d.h.v. machine learning) wordt toegepast."
+  teaser:
+      title: "Uitproberen?"
+      file: "/assets/files/teasers/Opdracht_SentimentanalyseUnplugged_Start2STEM_lesgever_vTechnopolis.pdf"
 
 physical_computing:
   intro_title: "Physical computing"
   paragraph1: "Een robot bouwen met leerlingen of een andere toepassing van physical computing introduceren in de klas is niet zo eenvoudig. Om het voor leerkrachten zo laagdrempelig mogelijk te maken, ontwikkelde Dwengo een eigen microcontrollerplatform, de Dwenguino, en een grafische programmeeromgeving, DwenguinoBlockly. Zelfs zonder fysiek materiaal kan je hiermee werken."
   paragraph2: "De Dwenguino is een Arduino-gebaseerd microcontrollerplatform dat heel wat elementen bevat waarmee je snel een eigen apparaat kan bouwen."
   paragraph3: "De Dwenguino beschikt bijvoorbeeld over drukknoppen, een lcd-scherm, een zoemer, leds en connectoren om motoren aan te sluiten. De Dwenguino is open source. Het platform wordt momenteel reeds gebruikt voor leerlingen vanaf 10 jaar tot in het hoger onderwijs. Er kan een leerlijn mee opgebouwd worden van de eerste tot de derde graad van het secundair onderwijs, van grafisch tot tekstueel programmeren, en met een stijgende moeilijkheidsgraad in toepassingen."
+
+  teaser:
+      title: "Uitproberen?"
+      file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_lesgever_vTechnopolis.pdf"
 
 
 # New project pages ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -198,6 +211,9 @@ socialrobot:
   t3_p3: ""
   t3_subtitle4: "Titel"
   t3_p4: ""  
+  teaser:
+    title: "Uitproberen?"
+    file: "/assets/files/teasers/Opdracht_SocialeRobot_Start2STEM_lesgever_vTechnopolis.pdf"
 
 project:
   page_title: "Computationeel denken"
@@ -904,13 +920,13 @@ shop:
     - title: "Vraag ons voor een nascholing!"
       desc: "Zoek je met jou scholengroep naar een nascholing over AI, Physical Computing of computationeel denken? Wij helpen je graag verder! Neem een kijkje in ons <a href='/assets/files/shop/Nascholingen_Dwengo.pdf'>nascholingsoverzicht</a> en contacteer ons voor een offerte op maat."
       image: "/assets/images/shop/nascholing.jpg"
-      price: "Op aanvraag (standaard tarief: €500 per halve dag excl. 21% BTW)"
+      price: "Op aanvraag (standaard tarief: €500 per halve dag excl. 21% btw)"
       price_extra_info: ""
     - title: "Sociale robot kit"
       desc: "Met deze kit kan je aan de slag met sociale robots in je klas. Hiervoor kan je je baseren op ons <strong>gratis lesmateriaal</strong> op <a href='/socialrobot'>dwengo.org/socialrobot</a>"
       image: "/assets/images/shop/sociale_robot_kit_afbeeldingen.webp"
       content: "Deze kit bevat:"
-      price: "€1000 excl. 21% BTW voor <strong>vijf kits</strong> (exclusief korting voor scholen)"
+      price: "€1000 excl. 21% btw voor <strong>vijf kits</strong> (exclusief korting voor scholen)"
       price_extra_info: "Aangezien scholen de voornaamste doelgroep zijn voor de aankoop van deze kit wordt deze enkel per vijf verkocht. <br>Als <strong>bedrijf of organisatie</strong> is het mogelijk om deze robotkit te <strong>sponsoren</strong>. Afhankelijk van het aantal gesponsorde sets wordt er op de doos branding van de sponsor voorzien. In samenspraak met de sponsor gaan we dan op zoek naar scholen die de sets het meest kunnen gebruiken. Voor meer info over sponsoring neem contact op met <a href='mailto:sales@dwengo.org'>sales@dwengo.org</a>.<br><br>We bieden de kit ook aan als deel van een nascholingstraject. Ben je als school op zoek naar materiaal over physical computing? Neem dan contact op via info@dwengo.org. Zo bekijken we hoe we nascholingen kunnen combineren met de aankoop van materiaal."
       items:
         - "Het dwenguino microcontrollerplatform."

@@ -88,6 +88,9 @@ kiks:
   subtitle3: "AI"
   subtitle3p1: "Deep neural networks are a form of machine learning, and therefore fall within the domain of artificial intelligence. Convolutional neural networks are exceptionally well-suited for recognizing stomata in microphotos."
   subtitle3p2: "Through Python notebooks, we explore step by step this fascinating world. Students gain insight into the fundamentals of artificial intelligence. However, practical aspects such as collecting and preparing the dataset are also involved."
+  teaser:
+    title: "Want to try it out?"
+    file: "/assets/files/teasers/Opdracht_KIKS_Start2STEM_lesgever_vTechnopolis.pdf"
 
 socialrobot:
   page_title: "Social Robot"
@@ -122,6 +125,9 @@ socialrobot:
   t3_p3: ""
   t3_subtitle4: "Title"
   t3_p4: ""
+  teaser:
+    title: "Want to try it out?"
+    file: "/assets/files/teasers/Opdracht_SocialeRobot_Start2STEM_lesgever_vTechnopolis.pdf"
 
 #  socialrobot:
 #  intro_title: "Sociale robot"
@@ -155,22 +161,13 @@ congres:
   paragraph1: "
   Morning: Computational thinking and integrated STEM concrete in the classroom <br> 
   Afternoon: Artificial intelligence and its social aspects in the classroom"
-  paragraph2: "You will be able to register for a half day or for the whole day.<br><br>
-  <a href='https://www.eventbrite.com/e/computationeel-denken-stem-en-artificiele-intelligentie-in-de-klas-tickets-599666999137'>Program and registration</a><br><br>
-  Keynotes by a.o. Kris Coolsaet, Gregorio Robles, and Hannes Cools.<br>
-  Workshops on how to implement computational thinking in the classroom, how to evaluate STEM projects, AI in Agriculture and ChatGPT.<br><br>
-  <strong>Date</strong>: June 7, 2023<br><strong>Location:</strong> De Krook, Miriam Makebaplein 1, 9000 Gent<br><br>
-  With the support of the Flemish government, Department of Education and Training, the Digital Belgium Skils Fund and the Erasmus+ program of the EU"
+  paragraph2: "You will be able to register for a half day or for the whole day.<br><br> <a href='https://www.eventbrite.com/e/computationeel-denken-stem-en-artificiele-intelligentie-in-de-klas-tickets-599666999137'>Program and registration</a><br><br> Keynotes by a.o. Kris Coolsaet, Gregorio Robles, and Hannes Cools.<br> Workshops on how to implement computational thinking in the classroom, how to evaluate STEM projects, AI in Agriculture and ChatGPT.<br><br> <strong>Date</strong>: June 7, 2023<br><strong>Location:</strong> De Krook, Miriam Makebaplein 1, 9000 Gent<br><br> With the support of the Flemish government, Department of Education and Training, the Digital Belgium Skils Fund and the Erasmus+ program of the EU"
   paragraph3: "tekst"
 
 
 
 privacy: 
-  detail: "At Dwengo, transparency is important to us. We want our users to know what data we collect and why we collect it. We use an analytics tool called Matomo, which is hosted on our server in Belgium. This means we own the data and don't share it with others. Also, the data is anonymous and doesn't contain any personal information.
-We track which pages you visit on our website and how long you stay on them. This helps us understand what content you find interesting, so we can improve our website. We also track how you found our website and which links you click on, to see which sources are most effective in bringing visitors to our site.
-Additionally, we track which operating system, device, and browser you use to access our website. This helps us optimize our website for different devices and identify any technical issues.
-We also track which country you're accessing our website from, so we can optimize our website for different regions.
-We only use this data for internal analysis to improve our website, and we never share it with third parties. Your privacy is important to us. If you have any questions about our privacy policy, please contact us at dpo@dwengo.org."
+  detail: "At Dwengo, transparency is important to us. We want our users to know what data we collect and why we collect it. We use an analytics tool called Matomo, which is hosted on our server in Belgium. This means we own the data and don't share it with others. Also, the data is anonymous and doesn't contain any personal information. We track which pages you visit on our website and how long you stay on them. This helps us understand what content you find interesting, so we can improve our website. We also track how you found our website and which links you click on, to see which sources are most effective in bringing visitors to our site. Additionally, we track which operating system, device, and browser you use to access our website. This helps us optimize our website for different devices and identify any technical issues. We also track which country you're accessing our website from, so we can optimize our website for different regions. We only use this data for internal analysis to improve our website, and we never share it with third parties. Your privacy is important to us. If you have any questions about our privacy policy, please contact us at dpo@dwengo.org."
   notice: We use fuctional and analytics cookies to collect data about how our website is used.
   accept: Approve
   info: More information
@@ -178,18 +175,9 @@ We only use this data for internal analysis to improve our website, and we never
 
 aiopschool:
   intro_title: "AI at School"
-  paragraph1: "
-  Artificial intelligence (AI) is extensively covered in the media. 
-  Popular topics include chatbots, self-driving cars, virtual assistants, and job displacement. 
-  AI systems are increasingly permeating our world.
-  "
-  paragraph2: "
-  AI at School is a project that originated from the concern that students should understand artificial intelligence (AI) and the realization that there is a gap in the secondary education curriculum to address this. We create teaching materials for secondary education related to AI, aligned with the end goals and existing curriculum objectives.
-  "
-  banner_info: "
-  AI at School is a project by dwengo vzw. 
-  Within the project, we developed both the teaching materials and the necessary tools to work with machine learning and artificial intelligence in the classroom.
-  All content that was available on aiopschool.be (<a href='/content/'>and much more</a>) is now available on dwengo.org."
+  paragraph1: "Artificial intelligence (AI) is extensively covered in the media. Popular topics include chatbots, self-driving cars, virtual assistants, and job displacement. AI systems are increasingly permeating our world."
+  paragraph2: "AI at School is a project that originated from the concern that students should understand artificial intelligence (AI) and the realization that there is a gap in the secondary education curriculum to address this. We create teaching materials for secondary education related to AI, aligned with the end goals and existing curriculum objectives."
+  banner_info: "AI at School is a project by dwengo vzw. Within the project, we developed both the teaching materials and the necessary tools to work with machine learning and artificial intelligence in the classroom.  All content that was available on aiopschool.be (<a href='/content/'>and much more</a>) is now available on dwengo.org."
   subtitle1: "AI"
   subtitle1p1: "AI is a branch within computer science. Providing a definition for AI, something used in so many different domains, is not an easy task. Within AI, knowledge-based and data-based systems are distinguished. The chatbot Eliza and the chess computer Deep Blue are examples of knowledge-based systems. The rules the computer follows are carefully programmed. Facial recognition is an example of a data-based system. This system has learned: based on the given data, it has adjusted the parameters in the programmed algorithm. This is also referred to as machine learning."
   subtitle2p2: "A distinction is made between general AI and narrow AI. General AI refers to computer systems with the same capabilities as a human being. Currently, we do not have the knowledge to design such systems. For now, AI is still at the level of narrow AI: AI systems that perform specific tasks for which they were designed."
@@ -198,13 +186,9 @@ aiopschool:
   
 waisda:
   intro_title: "wAIsda?"
-  paragraph1: "
-  Artificial intelligence (AI) is extensively covered in the media. Popular topics include chatbots, self-driving cars, virtual assistants, and job displacement. AI systems are increasingly permeating our world."
-  paragraph2: "
-  This project covers various AI concepts such as classification, bias, neural networks, training, validation, and test data, as well as under- and overfitting, all within a socially relevant context such as climate change or healthcare. We are developing ten extracurricular workshops, each lasting half a day. To facilitate growth, these workshops are categorized by difficulty."
-  banner_info: "
-  wAIsda? is a project by dwengo vzw. 
-  In this project, we are developing an educational journey to familiarize talented youth with the fundamentals of artificial intelligence. Participants gain insight into the techniques behind well-known AI-based applications like DALL·E, ChatGPT, and Siri. Various AI concepts are addressed, including classification, bias, neural networks, training, validation, and test data, as well as under- and overfitting, all within a socially relevant context such as climate change or healthcare."
+  paragraph1: "Artificial intelligence (AI) is extensively covered in the media. Popular topics include chatbots, self-driving cars, virtual assistants, and job displacement. AI systems are increasingly permeating our world."
+  paragraph2: "This project covers various AI concepts such as classification, bias, neural networks, training, validation, and test data, as well as under- and overfitting, all within a socially relevant context such as climate change or healthcare. We are developing ten extracurricular workshops, each lasting half a day. To facilitate growth, these workshops are categorized by difficulty."
+  banner_info: "wAIsda? is a project by dwengo vzw. In this project, we are developing an educational journey to familiarize talented youth with the fundamentals of artificial intelligence. Participants gain insight into the techniques behind well-known AI-based applications like DALL·E, ChatGPT, and Siri. Various AI concepts are addressed, including classification, bias, neural networks, training, validation, and test data, as well as under- and overfitting, all within a socially relevant context such as climate change or healthcare."
   subtitle1: "AI"
   subtitle1p1: "AI is a branch of computer science. Providing a definition for AI, which is used in so many different domains, is not a straightforward task. Within AI, one distinguishes knowledge-based and data-based systems. The chatbot Eliza and the chess computer Deep Blue are examples of knowledge-based systems. The rules the computer follows are carefully programmed. Facial recognition is an example of a data-based system. This system has learned: based on the given data, it has adjusted the parameters in the programmed algorithm. This is also referred to as machine learning."
   subtitle2p2: "A distinction is made between general AI and narrow AI. General AI refers to computer systems with the same capabilities as a human being. Currently, we do not have the knowledge to design such systems. For now, AI is still at the level of narrow AI: AI systems that perform specific tasks for which they were designed."
@@ -222,6 +206,9 @@ art:
   paragraph1: "TODO: translate all content"
   paragraph2: "The relationship between plant stomata and climate change provides a unique framework for working with deep neural networks. The programming language Python is also very accessible as a tool to study the fundamentals of neural networks."
   paragraph3: "A strength of the KIKS project is the collaboration between researchers and teachers. The teaching material of KIKS is developed in parallel with the results of ongoing scientific research at UGent and the Plantentuin Meise."
+  teaser:
+    title: "Want to try it out?"
+    file: "/assets/files/teasers/Opdracht_Jommeke_Start2STEM_lesgever_vTechnopolis.pdf"
 
 wegostem:
   intro_title: "WeGoSTEM"
@@ -348,6 +335,9 @@ physical_computing:
   paragraph3: "A strength of the KIKS project is the collaboration between researchers and teachers. The teaching material of KIKS is developed in parallel with the results of ongoing scientific research at UGent and the Plantentuin Meise."
   title: "Scientific Research"
   subtitle1: "Available Soon"
+  teaser:
+    title: "Want to try it out?"
+    file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_lesgever_vTechnopolis.pdf"
 
 chatbot:
   intro_title: "Chatbot"
@@ -364,6 +354,9 @@ chatbot:
   subtitle2p1: "More and more companies and organizations place a chatbot on their website with a view to better service. Thanks to NLP and considering user expectations, these automatic conversation partners are becoming increasingly pleasant to use. Chatbots are used for customer service, HR, providing information, and in various domains such as healthcare, entertainment, the business world, politics, and education. Students experience the limitations of a rule-based chatbot themselves, making them more media-savvy, as most chatbots in commercial applications today still primarily operate on a rule-based basis."
   subtitle3: "Sentiment Analysis"
   subtitle3p1: "The popularity of the internet not only led to the rise of social media but also gave rise to a new research domain: detecting feelings and opinions in texts. Sentiment analysis has already proven its importance for the business world, industry, and society. Automatically assigning a sentiment score to online customer reviews, tweets about politics, or a chatbot conversation, it all happens with artificial intelligence: NLP applied in both a knowledge-based (using rules) and data-based (using machine learning) manner."
+  teaser:
+    title: "Want to try it out?"
+    file: "/assets/files/teasers/Opdracht_SentimentanalyseUnplugged_Start2STEM_lesgever_vTechnopolis.pdf"
 
 learning_paths:
   title: Learning paths

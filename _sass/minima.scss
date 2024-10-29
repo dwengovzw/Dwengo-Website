@@ -803,3 +803,38 @@ footer {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
+
+.teaser_container {
+  // Centering text and positioning the container as a circle
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffdd04ff;
+  border-radius: 50%;
+  width: 200px;   // Adjust this value for the circle's size
+  height: 200px;  // Width and height are the same for a perfect circle
+  text-align: center;
+  margin: auto;
+  box-shadow: 9px 20px 4px 0px rgba(0, 0, 0, 0.3);  // Adds a soft circular shadow
+
+  // Responsive positioning
+  @media (min-width: 1200px) {
+    position: absolute;
+    top: 377px;      // Adjust the position as desired
+    right: calc(50% - 440px);
+  }
+  @media (max-width: 1199px) {
+    position: relative;
+    margin: 10px auto 60px auto;  // Centers the circle on smaller screens
+  }
+
+  h2 {
+    margin: 0;
+    font-size: 1.5em;
+    
+    a {
+      text-decoration: none;
+      color: inherit; // This makes the link color the same as the parent container’s color
+    }
+  }
+}

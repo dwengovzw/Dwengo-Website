@@ -36,9 +36,7 @@ partners:
 algorithms:
   intro_title: "Algorithmen"
   paragraph1: "Algorithmen sind überall. Sie bilden die Grundlage der digitalen Welt."
-  paragraph2: "Algorithmen sind überall. Sie sind das Herzstück der digitalen Welt.
-In einer Welt, in der Big Data eine immer wichtigere Rolle spielt, sind Algorithmen der Schlüssel zum Zugriff auf die in den Daten verborgenen Informationen.
-Algorithmen sind das Rückgrat der modernen Technologie. Ob bei der Personalisierung von Empfehlungen, der Verbesserung von Gesundheitsanalysen oder der Optimierung von Geschäftsprozessen, Algorithmen sind der Motor der Innovation. Numerische Methoden bieten Möglichkeiten, mathematische Probleme im Prozess zu lösen, die es uns ermöglichen, genaue Simulationen durchzuführen und aussagekräftige Erkenntnisse zu gewinnen."
+  paragraph2: "Algorithmen sind überall. Sie sind das Herzstück der digitalen Welt. In einer Welt, in der Big Data eine immer wichtigere Rolle spielt, sind Algorithmen der Schlüssel zum Zugriff auf die in den Daten verborgenen Informationen. Algorithmen sind das Rückgrat der modernen Technologie. Ob bei der Personalisierung von Empfehlungen, der Verbesserung von Gesundheitsanalysen oder der Optimierung von Geschäftsprozessen, Algorithmen sind der Motor der Innovation. Numerische Methoden bieten Möglichkeiten, mathematische Probleme im Prozess zu lösen, die es uns ermöglichen, genaue Simulationen durchzuführen und aussagekräftige Erkenntnisse zu gewinnen."
 
 usage_website:
   title: Erkunden Sie unsere Lehrmaterialien
@@ -57,10 +55,7 @@ kiks_test:
   title1p1: "Wissenschaftler des Pflanzengartens Meise und der UGent erforschen <strong>, wie Bäume im tropischen Regenwald sich an den Klimawandel anpassen</strong>. Die Stomata auf ihren Blättern liefern Informationen über die CO<sub>2</sub>-Konzentration in der Atmosphäre während des Pflanzenwachstums. Die Forscher <strong>zählen</strong> die Anzahl der Stomata auf den Blättern und <strong>messen</strong> ihre Größe. Dann vergleichen sie die Ergebnisse aktueller Materialien mit denen von vor hundert Jahren."
   title1p2: "Das Zählen und Messen von Stomata ist jedoch sehr zeitaufwendig. Um dies zu <strong>automatisieren</strong>, hat ein Informatiker der UGent <strong>ein neuronales Netzwerk trainiert</strong>. Um ein solches Netzwerk zu trainieren, sind viele Beispiele erforderlich: Fotos von Stomata und Fotos von Blättern ohne Stomata."
   title2: "Im Klassenzimmer"
-  title2p1: "Das Ziel des KIKS-Projekts ist es, den Schülerinnen und Schülern die Grundlagen der KI beizubringen und ihnen beizubringen, wie sie Einfluss auf KI-Systeme nehmen können, die sie im täglichen Leben begegnen. <br>
-Wir möchten Lehrer ermutigen, mit KIKS und KI im Unterricht zu arbeiten (siehe Abbildung), mit oder ohne Programmierung.<br>
-Wir haben versucht, das Projekt so zugänglich wie möglich zu gestalten, indem wir das Material online anbieten, sicherstellen, dass keine zusätzliche Software installiert werden muss, und Hintergrundinformationen über ein Handbuch bereitstellen.<br>
-Wir hoffen, dass während der Projektstunden auch Zeit dafür eingeräumt wird, ethische Fragen zu diskutieren, die durch die Präsenz von KI- und Deep-Learning-Systemen im täglichen Leben entstehen."
+  title2p1: "Das Ziel des KIKS-Projekts ist es, den Schülerinnen und Schülern die Grundlagen der KI beizubringen und ihnen beizubringen, wie sie Einfluss auf KI-Systeme nehmen können, die sie im täglichen Leben begegnen. <br> Wir möchten Lehrer ermutigen, mit KIKS und KI im Unterricht zu arbeiten (siehe Abbildung), mit oder ohne Programmierung.<br> Wir haben versucht, das Projekt so zugänglich wie möglich zu gestalten, indem wir das Material online anbieten, sicherstellen, dass keine zusätzliche Software installiert werden muss, und Hintergrundinformationen über ein Handbuch bereitstellen.<br> Wir hoffen, dass während der Projektstunden auch Zeit dafür eingeräumt wird, ethische Fragen zu diskutieren, die durch die Präsenz von KI- und Deep-Learning-Systemen im täglichen Leben entstehen."
   title2p2: "Das Unterrichtsmaterial kann auch auf andere Weise genutzt werden. Man kann zum Beispiel einige Notebooks auswählen, um den Schülerinnen und Schülern das Programmieren in Python beizubringen, oder man kann Aufgaben daraus entnehmen, um an Forschungskompetenzen in den Fächern Biologie, Geografie oder Mathematik zu arbeiten. Die Schülerinnen und Schüler können anhand einiger Notebooks mit den Prinzipien der digitalen Bildverarbeitung vertraut gemacht werden, oder der Lehrer für Deutsch oder Religion kann in diesem Projekt Inspiration für eine Unterrichtsstunde zu den gesellschaftlichen Aspekten von KI finden."
   subtitle1: "Klima"
   subtitle1p1: "Seit Beginn der industriellen Revolution (1750) hat sich die Konzentration von Treibhausgasen in unserer Atmosphäre stark erhöht. Dies verstärkt den natürlichen Treibhauseffekt. Die Schicht von Treibhausgasen in der Atmosphäre fungiert wie eine Art Decke, die dicker wird, je mehr Treibhausgase vorhanden sind. Infolgedessen wird es unter der Decke wärmer, da die Wärme immer schwerer von unter der Decke in den Weltraum entweichen kann. Die erhöhte Konzentration von Treibhausgasen in der Atmosphäre führt zu einer Erhöhung der Durchschnittstemperatur und zu einem globalen Klimawandel."
@@ -83,10 +78,7 @@ kiks:
   title1p1: "Wissenschaftler des Pflanzengartens Meise und der UGent erforschen <strong>, wie Bäume im tropischen Regenwald sich an den Klimawandel anpassen</strong>. Die Stomata auf ihren Blättern liefern Informationen über die CO<sub>2</sub>-Konzentration in der Atmosphäre während des Pflanzenwachstums. Die Forscher <strong>zählen</strong> die Anzahl der Stomata auf den Blättern und <strong>messen</strong> ihre Größe. Dann vergleichen sie die Ergebnisse aktueller Materialien mit denen von vor hundert Jahren."
   title1p2: "Das Zählen und Messen von Stomata ist jedoch sehr zeitaufwendig. Um dies zu <strong>automatisieren</strong>, hat ein Informatiker der UGent <strong>ein neuronales Netzwerk trainiert</strong>. Um ein solches Netzwerk zu trainieren, sind viele Beispiele erforderlich: Fotos von Stomata und Fotos von Blättern ohne Stomata."
   title2: "Im Klassenzimmer"
-  title2p1: "Das Ziel des KIKS-Projekts ist es, den Schülerinnen und Schülern die Grundlagen der KI beizubringen und ihnen beizubringen, wie sie Einfluss auf KI-Systeme nehmen können, die sie im täglichen Leben begegnen. <br>
-Wir möchten Lehrer ermutigen, mit KIKS und KI im Unterricht zu arbeiten (siehe Abbildung), mit oder ohne Programmierung.<br>
-Wir haben versucht, das Projekt so zugänglich wie möglich zu gestalten, indem wir das Material online anbieten, sicherstellen, dass keine zusätzliche Software installiert werden muss, und Hintergrundinformationen über ein Handbuch bereitstellen.<br>
-Wir hoffen, dass während der Projektstunden auch Zeit dafür eingeräumt wird, ethische Fragen zu diskutieren, die durch die Präsenz von KI- und Deep-Learning-Systemen im täglichen Leben entstehen."
+  title2p1: "Das Ziel des KIKS-Projekts ist es, den Schülerinnen und Schülern die Grundlagen der KI beizubringen und ihnen beizubringen, wie sie Einfluss auf KI-Systeme nehmen können, die sie im täglichen Leben begegnen. <br> Wir möchten Lehrer ermutigen, mit KIKS und KI im Unterricht zu arbeiten (siehe Abbildung), mit oder ohne Programmierung.<br> Wir haben versucht, das Projekt so zugänglich wie möglich zu gestalten, indem wir das Material online anbieten, sicherstellen, dass keine zusätzliche Software installiert werden muss, und Hintergrundinformationen über ein Handbuch bereitstellen.<br> Wir hoffen, dass während der Projektstunden auch Zeit dafür eingeräumt wird, ethische Fragen zu diskutieren, die durch die Präsenz von KI- und Deep-Learning-Systemen im täglichen Leben entstehen."
   title2p2: "Das Unterrichtsmaterial kann auch auf andere Weise genutzt werden. Man kann zum Beispiel einige Notebooks auswählen, um den Schülerinnen und Schülern das Programmieren in Python beizubringen, oder man kann Aufgaben daraus entnehmen, um an Forschungskompetenzen in den Fächern Biologie, Geografie oder Mathematik zu arbeiten. Die Schülerinnen und Schüler können anhand einiger Notebooks mit den Prinzipien der digitalen Bildverarbeitung vertraut gemacht werden, oder der Lehrer für Deutsch oder Religion kann in diesem Projekt Inspiration für eine Unterrichtsstunde zu den gesellschaftlichen Aspekten von KI finden."
   subtitle1: "Klima"
   subtitle1p1: "Seit Beginn der industriellen Revolution (1750) hat sich die Konzentration von Treibhausgasen in unserer Atmosphäre stark erhöht. Dies verstärkt den natürlichen Treibhauseffekt. Die Schicht von Treibhausgasen in der Atmosphäre fungiert wie eine Art Decke, die dicker wird, je mehr Treibhausgase vorhanden sind. Infolgedessen wird es unter der Decke wärmer, da die Wärme immer schwerer von unter der Decke in den Weltraum entweichen kann. Die erhöhte Konzentration von Treibhausgasen in der Atmosphäre führt zu einer Erhöhung der Durchschnittstemperatur und zu einem globalen Klimawandel."
@@ -96,6 +88,9 @@ Wir hoffen, dass während der Projektstunden auch Zeit dafür eingeräumt wird, 
   subtitle3: "KI"
   subtitle3p1: "Tiefe neuronale Netzwerke sind eine Form des maschinellen Lernens und gehören daher zum Bereich der künstlichen Intelligenz. Faltende neuronale Netzwerke eignen sich besonders gut, um Stomata auf Mikrofotos zu erkennen."
   subtitle3p2: "Mit Python-Notebooks erkunden wir diese faszinierende Welt Schritt für Schritt. Schülerinnen und Schüler erhalten Einblick in die Grundlagen der künstlichen Intelligenz. Aber es gibt auch praktische Aspekte, wie das Sammeln und Vorbereiten des Datensatzes."
+  teaser:
+    title: "Probieren Sie dieses Lehrmaterial aus!"
+    file: "/assets/files/teasers/Opdracht_KIKS_Start2STEM_lesgever_vTechnopolis.pdf"
 
 
 socialrobot:
@@ -131,6 +126,9 @@ socialrobot:
   t3_p3: ""
   t3_subtitle4: "Titel"
   t3_p4: "" 
+  teaser:
+    title: "Probieren Sie dieses Lehrmaterial aus!"
+    file: "/assets/files/teasers/Opdracht_SocialeRobot_Start2STEM_lesgever_vTechnopolis.pdf"
 
 #  socialrobot:
 #  intro_title: "Sociale robot"
@@ -161,36 +159,20 @@ congres:
   intro_title: "Kongress Rechnerisches Denken, MINT und Künstliche Intelligenz im Klassenzimmer"
   paragraph1: "Vormittag: Rechnerisches Denken und integrierte MINT konkret im Klassenzimmer <br> 
   Nachmittags: Künstliche Intelligenz und ihre gesellschaftlichen Aspekte im Klassenzimmer"
-  paragraph2: "Sie haben die Möglichkeit, sich für einen halben oder ganzen Tag anzumelden.<br> 
-  <a href='https://www.eventbrite.com/e/computationeel-denken-stem-en-artificiele-intelligentie-in-de-klas-tickets-599666999137'>Programm und anmelden</a><br><br>
-  <strong>Wann</strong>: 7. juni 2023<br><strong>Ort:</strong> De Krook, Miriam Makebaplein 1, 9000 Gent<br><br>
-  Unterstützt von der flämischen Regierung, Departement Onderwijs en Vorming, Digital Belgium Skils Fund und dem Erasmus+ Programm der EU"
+  paragraph2: "Sie haben die Möglichkeit, sich für einen halben oder ganzen Tag anzumelden.<br> <a href='https://www.eventbrite.com/e/computationeel-denken-stem-en-artificiele-intelligentie-in-de-klas-tickets-599666999137'>Programm und anmelden</a><br><br>  <strong>Wann</strong>: 7. juni 2023<br><strong>Ort:</strong> De Krook, Miriam Makebaplein 1, 9000 Gent<br><br> Unterstützt von der flämischen Regierung, Departement Onderwijs en Vorming, Digital Belgium Skils Fund und dem Erasmus+ Programm der EU"
   paragraph3: "tekst"
 
 privacy:
-  detail: "Transparenz ist uns bei Dwengo wichtig. Wir möchten, dass unsere Benutzer wissen, welche Daten wir sammeln und warum wir sie sammeln. Wir verwenden ein Analysetool namens Matomo, das auf unserem Server in Belgien gehostet wird. Das bedeutet, dass wir die Daten besitzen und sie nicht mit anderen teilen. Außerdem sind die Daten anonym und enthalten keine persönlichen Informationen.
-Wir verfolgen, welche Seiten Sie auf unserer Website besuchen und wie lange Sie auf ihnen bleiben. Dies hilft uns zu verstehen, welche Inhalte Sie interessant finden, damit wir unsere Website verbessern können. Wir verfolgen auch, wie Sie auf unsere Website gelangt sind und auf welche Links Sie klicken, um zu sehen, welche Quellen am effektivsten sind, um Besucher auf unsere Seite zu bringen.
-Darüber hinaus verfolgen wir, welches Betriebssystem, Gerät und welchen Browser Sie verwenden, um auf unsere Website zuzugreifen. Dies hilft uns, unsere Website für verschiedene Geräte zu optimieren und technische Probleme zu identifizieren.
-Wir verfolgen auch, aus welchem Land Sie auf unsere Website zugreifen, damit wir unsere Website für verschiedene Regionen optimieren können.
-Wir verwenden diese Daten nur für interne Analysen, um unsere Website zu verbessern, und wir geben sie niemals an Dritte weiter. Ihre Privatsphäre ist uns wichtig. Wenn Sie Fragen zu unserer Datenschutzrichtlinie haben, kontaktieren Sie uns bitte unter dpo@dwengo.org."
+  detail: "Transparenz ist uns bei Dwengo wichtig. Wir möchten, dass unsere Benutzer wissen, welche Daten wir sammeln und warum wir sie sammeln. Wir verwenden ein Analysetool namens Matomo, das auf unserem Server in Belgien gehostet wird. Das bedeutet, dass wir die Daten besitzen und sie nicht mit anderen teilen. Außerdem sind die Daten anonym und enthalten keine persönlichen Informationen. Wir verfolgen, welche Seiten Sie auf unserer Website besuchen und wie lange Sie auf ihnen bleiben. Dies hilft uns zu verstehen, welche Inhalte Sie interessant finden, damit wir unsere Website verbessern können. Wir verfolgen auch, wie Sie auf unsere Website gelangt sind und auf welche Links Sie klicken, um zu sehen, welche Quellen am effektivsten sind, um Besucher auf unsere Seite zu bringen. Darüber hinaus verfolgen wir, welches Betriebssystem, Gerät und welchen Browser Sie verwenden, um auf unsere Website zuzugreifen. Dies hilft uns, unsere Website für verschiedene Geräte zu optimieren und technische Probleme zu identifizieren. Wir verfolgen auch, aus welchem Land Sie auf unsere Website zugreifen, damit wir unsere Website für verschiedene Regionen optimieren können. Wir verwenden diese Daten nur für interne Analysen, um unsere Website zu verbessern, und wir geben sie niemals an Dritte weiter. Ihre Privatsphäre ist uns wichtig. Wenn Sie Fragen zu unserer Datenschutzrichtlinie haben, kontaktieren Sie uns bitte unter dpo@dwengo.org."
   notice: Wir verwenden funktionale- und Analyse-Cookies, um Daten darüber zu sammeln, wie unsere Website genutzt wird.
   accept: Zustimmen
   info: Mehr Informationen
 
 aiopschool:
   intro_title: "KI in der Schule"
-  paragraph1: "
-  Künstliche Intelligenz (KI) kommt in den Medien immer wieder zur Sprache.
-  Beliebte Themen sind: Chatbots, selbstfahrende Autos, virtuelle Assistenten und der Verlust von Arbeitsplätzen.
-  KI-Systeme dringen immer mehr in unsere Welt ein.
-  "
-  paragraph2: "
-  KI in der Schule ist ein Projekt, das aus der Sorge entstanden ist, dass Schüler künstliche Intelligenz verstehen sollten, und der Erkenntnis, dass es eine Lücke im Lehrplan der Sekundarschule gibt, um diesem Bedürfnis gerecht zu werden. Wir erstellen Unterrichtsmaterialien für die Sekundarschule im Bereich KI, die mit den Endzielen und den bestehenden Lehrplanzielen verknüpft sind.
-  "
-  banner_info: "
-  KI in der Schule ist ein Projekt von Dwengo vzw.
-  Im Rahmen des Projekts haben wir sowohl das Unterrichtsmaterial als auch die erforderlichen Tools zur Arbeit mit maschinellem Lernen und künstlicher Intelligenz im Klassenzimmer entwickelt.
-  Alle verfügbaren Lerninhalte auf aiopschool.be (<a href='/content/'>und noch viel mehr</a>) sind jetzt auf dwengo.org verfügbar."
+  paragraph1: "Künstliche Intelligenz (KI) kommt in den Medien immer wieder zur Sprache. Beliebte Themen sind: Chatbots, selbstfahrende Autos, virtuelle Assistenten und der Verlust von Arbeitsplätzen. KI-Systeme dringen immer mehr in unsere Welt ein."
+  paragraph2: "KI in der Schule ist ein Projekt, das aus der Sorge entstanden ist, dass Schüler künstliche Intelligenz verstehen sollten, und der Erkenntnis, dass es eine Lücke im Lehrplan der Sekundarschule gibt, um diesem Bedürfnis gerecht zu werden. Wir erstellen Unterrichtsmaterialien für die Sekundarschule im Bereich KI, die mit den Endzielen und den bestehenden Lehrplanzielen verknüpft sind."
+  banner_info: "KI in der Schule ist ein Projekt von Dwengo vzw. Im Rahmen des Projekts haben wir sowohl das Unterrichtsmaterial als auch die erforderlichen Tools zur Arbeit mit maschinellem Lernen und künstlicher Intelligenz im Klassenzimmer entwickelt. Alle verfügbaren Lerninhalte auf aiopschool.be (<a href='/content/'>und noch viel mehr</a>) sind jetzt auf dwengo.org verfügbar."
   subtitle1: "KI"
   subtitle1p1: "KI ist ein Bereich der Informatik. Eine Definition für KI, die in so vielen verschiedenen Bereichen eingesetzt wird, ist keine einfache Aufgabe. In der KI unterscheidet man zwischen wissensbasierten und datenbasierten Systemen. Der Chatbot Eliza und der Schachcomputer Deep Blue sind Beispiele für wissensbasierte Systeme. Die Regeln, denen der Computer folgt, sind sorgfältig programmiert. Gesichtserkennung ist ein Beispiel für ein datenbasiertes System. Dieses System hat gelernt: basierend auf den bereitgestellten Daten hat es die Parameter im programmierten Algorithmus selbst angepasst. Man spricht auch von maschinellem Lernen."
   subtitle2p2: "Man unterscheidet zwischen generaler KI und enger KI. Bei genereller KI handelt es sich um Computersysteme mit den gleichen Fähigkeiten wie ein Mensch. Wir haben bisher nicht das Wissen, um solche Systeme zu entwerfen. Derzeit befindet sich KI noch auf der Ebene der engen KI: KI-Systeme, die die spezifischen Aufgaben erledigen, für die sie entworfen wurden."
@@ -199,13 +181,9 @@ aiopschool:
 
 waisda:
   intro_title: "wAIsda?"
-  paragraph1: "
-  Künstliche Intelligenz (KI) wird in den Medien intensiv behandelt. Beliebte Themen sind: Chatbots, selbstfahrende Autos, virtuelle Assistenten und der Verlust von Arbeitsplätzen. KI-Systeme dringen immer mehr in unsere Welt ein."
-  paragraph2: "
-  In diesem Projekt werden verschiedene KI-Konzepte behandelt, wie Klassifikation, Bias, neuronale Netzwerke, Trainings-, Validierungs- und Testdaten sowie Unter- und Überanpassung,... Dies geschieht immer in einem gesellschaftlich relevanten Kontext wie Klimawandel oder Gesundheitswesen. Wir entwickeln zehn außerschulische Workshops von einer halben Tagesdauer. Um Wachstum zu ermöglichen, werden diese nach Schwierigkeitsgrad eingeteilt."
-  banner_info: "
-  wAIsda? ist ein Projekt von dwengo vzw. 
-  In diesem Projekt entwickeln wir einen Bildungsweg, um talentierte Jugendliche mit den Grundprinzipien der künstlichen Intelligenz vertraut zu machen. Die Teilnehmer erhalten Einblick in die Techniken hinter bekannten KI-basierten Anwendungen wie DALL·E, ChatGPT und Siri. Verschiedene KI-Konzepte werden behandelt, wie Klassifikation, Bias, neuronale Netzwerke, Trainings-, Validierungs- und Testdaten sowie Unter- und Überanpassung … Dies geschieht immer in einem gesellschaftlich relevanten Kontext wie Klimawandel oder Gesundheitswesen."
+  paragraph1: "Künstliche Intelligenz (KI) wird in den Medien intensiv behandelt. Beliebte Themen sind: Chatbots, selbstfahrende Autos, virtuelle Assistenten und der Verlust von Arbeitsplätzen. KI-Systeme dringen immer mehr in unsere Welt ein."
+  paragraph2: "In diesem Projekt werden verschiedene KI-Konzepte behandelt, wie Klassifikation, Bias, neuronale Netzwerke, Trainings-, Validierungs- und Testdaten sowie Unter- und Überanpassung,... Dies geschieht immer in einem gesellschaftlich relevanten Kontext wie Klimawandel oder Gesundheitswesen. Wir entwickeln zehn außerschulische Workshops von einer halben Tagesdauer. Um Wachstum zu ermöglichen, werden diese nach Schwierigkeitsgrad eingeteilt."
+  banner_info: "wAIsda? ist ein Projekt von dwengo vzw. In diesem Projekt entwickeln wir einen Bildungsweg, um talentierte Jugendliche mit den Grundprinzipien der künstlichen Intelligenz vertraut zu machen. Die Teilnehmer erhalten Einblick in die Techniken hinter bekannten KI-basierten Anwendungen wie DALL·E, ChatGPT und Siri. Verschiedene KI-Konzepte werden behandelt, wie Klassifikation, Bias, neuronale Netzwerke, Trainings-, Validierungs- und Testdaten sowie Unter- und Überanpassung … Dies geschieht immer in einem gesellschaftlich relevanten Kontext wie Klimawandel oder Gesundheitswesen."
   subtitle1: "KI"
   subtitle1p1: "KI ist ein Zweig der Informatik. Eine Definition für KI zu geben, die in so vielen verschiedenen Bereichen eingesetzt wird, ist keine leichte Aufgabe. Innerhalb der KI unterscheidet man wissensbasierte und datenbasierte Systeme. Der Chatbot Eliza und der Schachcomputer Deep Blue sind Beispiele für wissensbasierte Systeme. Die Regeln, denen der Computer folgt, sind sorgfältig programmiert. Die Gesichtserkennung ist ein Beispiel für ein datenbasiertes System. Dieses System hat gelernt: basierend auf den gegebenen Daten hat es die Parameter im programmierten Algorithmus selbst angepasst. Man spricht auch von maschinellem Lernen."
   subtitle2p2: "Man unterscheidet zwischen allgemeiner KI und schmaler KI. Bei der allgemeinen KI handelt es sich um Computersysteme mit den gleichen Fähigkeiten wie ein Mensch. Wir haben derzeit nicht das Wissen, solche Systeme zu entwerfen. KI befindet sich derzeit noch auf der Ebene der schmalen KI: KI-Systeme, die spezifische Aufgaben erfüllen, für die sie entwickelt wurden."
@@ -223,6 +201,9 @@ art:
   paragraph1: "TODO: Übersetzen Sie alle Inhalte"
   paragraph2: "Die Beziehung zwischen den Spaltöffnungen (Stomata) von Pflanzen und dem Klimawandel bietet einen einzigartigen Rahmen, um mit tiefen neuronalen Netzwerken zu arbeiten. Die Programmiersprache Python ist zudem ein sehr zugängliches Werkzeug, um die Grundlagen neuronaler Netzwerke zu studieren."
   paragraph3: "Ein Vorteil des KIKS-Projekts ist die Zusammenarbeit zwischen Forschern und Lehrern. Das Lehrmaterial von KIKS wird parallel zu den Ergebnissen einer laufenden wissenschaftlichen Untersuchung an der UGent und dem Plantentuin Meise entwickelt."
+  teaser:
+      title: "Probieren Sie dieses Lehrmaterial aus!"
+      file: "/assets/files/teasers/Opdracht_Jommeke_Start2STEM_lesgever_vTechnopolis.pdf"
 
 wegostem:
   intro_title: "WeGoSTEM"
@@ -356,12 +337,18 @@ chatbot:
   subtitle2p1: "Immer mehr Unternehmen und Organisationen platzieren einen Chatbot auf ihrer Website, um einen besseren Service zu bieten. Dank NLP und der Berücksichtigung der Erwartungen der Benutzer werden diese automatischen Gesprächspartner immer angenehmer zu bedienen. Chatbots werden für den Kundenservice, HR, die Bereitstellung von Informationen usw. eingesetzt und in verschiedenen Bereichen wie Gesundheitswesen, Unterhaltung, Wirtschaft, Politik und Bildung. Die Schüler erfahren selbst die Einschränkungen eines regelbasierten Chatbots, was sie medienkompetenter macht, da die meisten Chatbots in kommerziellen Anwendungen heute noch hauptsächlich regelbasiert arbeiten."
   subtitle3: "Sentimentanalyse"
   subtitle3p1: " "
+  teaser:
+    title: "Probieren Sie dieses Lehrmaterial aus!"
+    file: "/assets/files/teasers/Opdracht_SentimentanalyseUnplugged_Start2STEM_lesgever_vTechnopolis.pdf"
 
 physical_computing:
   intro_title: "Physikalisches Computing"
   paragraph1: "TODO: Übersetze alle Inhalte"
   paragraph2: "Die Beziehung zwischen den Spaltöffnungen (Stomata) von Pflanzen und dem Klimawandel bietet einen einzigartigen Rahmen, um mit tiefen neuronalen Netzwerken zu arbeiten. Die Programmiersprache Python ist zudem ein sehr zugängliches Werkzeug, um die Grundlagen neuronaler Netzwerke zu studieren."
   paragraph3: "Ein Vorteil des KIKS-Projekts ist die Zusammenarbeit zwischen Forschern und Lehrern. Das Lehrmaterial von KIKS wird parallel zu den Ergebnissen einer laufenden wissenschaftlichen Untersuchung an der UGent und dem Plantentuin Meise entwickelt."
+  teaser:
+    title: "Probieren Sie dieses Lehrmaterial aus!"
+    file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_lesgever_vTechnopolis.pdf"
 
 learning_paths:
   title: Lernpfade

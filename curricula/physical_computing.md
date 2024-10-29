@@ -19,6 +19,9 @@ learning_paths: ['pc_starttodwenguino', 'pc_rijdenderobot', 'pc_theremin', 'pc_l
 {% capture paragraph2 %} {{ site.translations[site.lang].physical_computing.paragraph2 }} {% endcapture %}
 {% capture paragraph3 %} {{ site.translations[site.lang].physical_computing.paragraph3 }} {% endcapture %}
 
+{% capture teaser_title %} {{ site.translations[site.lang].physical_computing.teaser.title }} {% endcapture %}
+{% capture teaser_file %} {{ site.translations[site.lang].physical_computing.teaser.file }} {% endcapture %}
+
 
 {%- include frontpage_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
 intro_title=intro_title
@@ -26,6 +29,8 @@ paragraph1=paragraph1
 paragraph2=paragraph2
 paragraph3=paragraph3
 -%}
+
+{%- include teaser_template.html teaser_title=teaser_title teaser_file=teaser_file -%}
 
 
 {% assign begin = '{"hruids": ' %}

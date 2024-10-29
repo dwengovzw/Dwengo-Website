@@ -20,11 +20,16 @@ learning_paths: ['sr0_lkr', 'sr0_lln', 'sr1', 'sr2', 'sr3', 'sr4']
 {% capture intro %} {{ site.translations[site.lang].socialrobot.intro }} {% endcapture %}
 {% capture summary %} {{ site.translations[site.lang].socialrobot.summary }} {% endcapture %}
 
+{% capture teaser_title %} {{ site.translations[site.lang].socialrobot.teaser.title }} {% endcapture %}
+{% capture teaser_file %} {{ site.translations[site.lang].socialrobot.teaser.file }} {% endcapture %}
+
 {%- include project_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
 page_title=page_title
 intro=intro
 summary=summary
 -%}
+
+{%- include teaser_template.html teaser_title=teaser_title teaser_file=teaser_file -%}
 
 {%- include social_robot_extra_info.html -%}
 

@@ -17,6 +17,9 @@ learning_paths: ['pn_werking', 'un_artificiele_intelligentie', 'cb5_chatbotunplu
 {% capture paragraph1 %} {{ site.translations[site.lang].chatbot.paragraph1 }} {% endcapture %}
 {% capture paragraph2 %} {{ site.translations[site.lang].chatbot.paragraph2 }} {% endcapture %}
 
+{% capture teaser_title %} {{ site.translations[site.lang].chatbot.teaser.title }} {% endcapture %}
+{% capture teaser_file %} {{ site.translations[site.lang].chatbot.teaser.file }} {% endcapture %}
+
 
 
 {%- include frontpage_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
@@ -24,6 +27,8 @@ intro_title=intro_title
 paragraph1=paragraph1
 paragraph2=paragraph2
 -%}
+
+{%- include teaser_template.html teaser_title=teaser_title teaser_file=teaser_file -%}
 
 {%- include chatbot_extra_info.html -%}
 

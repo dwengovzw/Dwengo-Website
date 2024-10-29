@@ -35,9 +35,7 @@ partners:
 algorithms:
   intro_title: "Algorithmes"
   paragraph1: "Les algorithmes sont partout. Ils constituent la base du monde numérique."
-  paragraph2: "Dans un monde où le big data joue un rôle croissant, les algorithmes sont la clé pour accéder aux informations cachées dans les données.
-Les algorithmes sont l'épine dorsale de la technologie moderne. Qu'il s'agisse de personnaliser les recommandations, d'améliorer l'analyse des soins de santé ou d'optimiser les processus commerciaux, les algorithmes sont le moteur de l'innovation. Les méthodes numériques permettent de résoudre les problèmes mathématiques, ce qui nous permet d'effectuer des simulations précises et d'obtenir des informations utiles
-"
+  paragraph2: "Dans un monde où le big data joue un rôle croissant, les algorithmes sont la clé pour accéder aux informations cachées dans les données. Les algorithmes sont l'épine dorsale de la technologie moderne. Qu'il s'agisse de personnaliser les recommandations, d'améliorer l'analyse des soins de santé ou d'optimiser les processus commerciaux, les algorithmes sont le moteur de l'innovation. Les méthodes numériques permettent de résoudre les problèmes mathématiques, ce qui nous permet d'effectuer des simulations précises et d'obtenir des informations utiles"
 
 usage_website:
   title: Explorez nos supports pédagogiques
@@ -56,10 +54,7 @@ kiks_test:
   title1p1: "Les scientifiques du jardin botanique Meise et Ugent étudient <strong> comment les arbres de la forêt tropicale tropicale s'adaptent au changement climatique </strong>. Les stomates de leurs feuilles fournissent des informations sur la concentration de CO <bus 2 </bin> dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la CO <bin> 2 </bin> dans la concentration dans la atmosphère au moment de la croissance des plantes. Les chercheurs <strong> comptent </strong> le nombre de stomates sur les feuilles et ils <strong> mesurent </strong> leur taille. Ensuite, ils comparent les résultats du matériel récent avec celui du matériel il y a cent ans. "
   title1p2: "Cependant, le comptage et la mesure des stomates est une activité consommatrice de temps. Pour <strong> automatiser ce </strong>, un informaticien d'Ugent <strong> a formé un réseau neuronal </strong> à une telle formation de réseau est nécessaire De nombreux exemples: Photos de stomates et photos de feuilles sans stomates. "
   title2: "In de klas"
-  title2p1: "Het KIKS-project heeft als doel de leerlingen de fundamenten van AI te leren kennen en hen bij te brengen hoe ze vat kunnen hebben op AI-systemen die ze tegenkomen in hun dagelijks leven. <br>
-We willen daarom leerkrachten aanmoedigen om met KIKS en AI aan de slag te gaan in de klas (zie figuur), met of zonder programmeren.<br>
-We hebben geprobeerd het project zo laagdrempelig mogelijk te houden door het materiaal online aan te bieden, door ervoor te zorgen dat er geen extra software geïnstalleerd moet worden en door in de nodige achtergrondinformatie te voorzien via een handleiding.<br>
-We hopen dat er tijdens de projectlessen ook tijd wordt vrijgemaakt om stil te staan bij de ethische kwesties die opduiken door de aanwezigheid van AI en deep learning-systemen in het dagelijks leven."
+  title2p1: "Het KIKS-project heeft als doel de leerlingen de fundamenten van AI te leren kennen en hen bij te brengen hoe ze vat kunnen hebben op AI-systemen die ze tegenkomen in hun dagelijks leven. <br> We willen daarom leerkrachten aanmoedigen om met KIKS en AI aan de slag te gaan in de klas (zie figuur), met of zonder programmeren.<br> We hebben geprobeerd het project zo laagdrempelig mogelijk te houden door het materiaal online aan te bieden, door ervoor te zorgen dat er geen extra software geïnstalleerd moet worden en door in de nodige achtergrondinformatie te voorzien via een handleiding.<br> We hopen dat er tijdens de projectlessen ook tijd wordt vrijgemaakt om stil te staan bij de ethische kwesties die opduiken door de aanwezigheid van AI en deep learning-systemen in het dagelijks leven." 
   title2p2: "Het lesmateriaal kan ook op een andere manier worden ingezet. Men kan bv. enkele notebooks uitkiezen om de leerlingen te leren programmeren in Python of men kan er opdrachten uit halen om te werken aan onderzoekscompetenties in de lessen biologie, aardrijkskunde of wiskunde. Men kan de leerlingen aan de hand van enkele notebooks vertrouwd maken met de principes van digitale beeldverwerking of de leerkracht Nederlands of godsdienst kan in dit project inspiratie halen voor een les over de maatschappelijke aspecten van AI."
   subtitle1: "climat"
   subtitle1p1: "Depuis le début de la révolution industrielle (1750), la concentration des gaz à effet de serre dans notre atmosphère a fortement augmenté. Cela renforce l'effet naturel en serre. La couche avec des gaz à effet de serre dans l'atmosphère agit comme une sorte de couverture que la quantité de serre en serre Les gaz augmentent. Par conséquent, il devient plus chaud sous la couverture car la chaleur est de plus en plus difficile à échapper sous la couverture. La concentration accrue de gaz à effet de serre dans l'atmosphère entraîne une augmentation de la température moyenne et un changement climatique mondial. "
@@ -82,10 +77,7 @@ kiks:
   title1p1: "Les scientifiques du jardin botanique Meise et Ugent étudient <strong> comment les arbres de la forêt tropicale tropicale s'adaptent au changement climatique </strong>. Les stomates de leurs feuilles fournissent des informations sur la concentration de CO <bus 2 </bin> dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la CO <bin> 2 </bin> dans la concentration dans la atmosphère au moment de la croissance des plantes. Les chercheurs <strong> comptent </strong> le nombre de stomates sur les feuilles et ils <strong> mesurent </strong> leur taille. Ensuite, ils comparent les résultats du matériel récent avec celui du matériel il y a cent ans. "
   title1p2: "Cependant, le comptage et la mesure des stomates est une activité consommatrice de temps. Pour <strong> automatiser ce </strong>, un informaticien d'Ugent <strong> a formé un réseau neuronal </strong> à une telle formation de réseau est nécessaire De nombreux exemples: Photos de stomates et photos de feuilles sans stomates. "
   title2: "In de klas"
-  title2p1: "Het KIKS-project heeft als doel de leerlingen de fundamenten van AI te leren kennen en hen bij te brengen hoe ze vat kunnen hebben op AI-systemen die ze tegenkomen in hun dagelijks leven. <br>
-We willen daarom leerkrachten aanmoedigen om met KIKS en AI aan de slag te gaan in de klas (zie figuur), met of zonder programmeren.<br>
-We hebben geprobeerd het project zo laagdrempelig mogelijk te houden door het materiaal online aan te bieden, door ervoor te zorgen dat er geen extra software geïnstalleerd moet worden en door in de nodige achtergrondinformatie te voorzien via een handleiding.<br>
-We hopen dat er tijdens de projectlessen ook tijd wordt vrijgemaakt om stil te staan bij de ethische kwesties die opduiken door de aanwezigheid van AI en deep learning-systemen in het dagelijks leven."
+  title2p1: "Het KIKS-project heeft als doel de leerlingen de fundamenten van AI te leren kennen en hen bij te brengen hoe ze vat kunnen hebben op AI-systemen die ze tegenkomen in hun dagelijks leven. <br> We willen daarom leerkrachten aanmoedigen om met KIKS en AI aan de slag te gaan in de klas (zie figuur), met of zonder programmeren.<br> We hebben geprobeerd het project zo laagdrempelig mogelijk te houden door het materiaal online aan te bieden, door ervoor te zorgen dat er geen extra software geïnstalleerd moet worden en door in de nodige achtergrondinformatie te voorzien via een handleiding.<br>We hopen dat er tijdens de projectlessen ook tijd wordt vrijgemaakt om stil te staan bij de ethische kwesties die opduiken door de aanwezigheid van AI en deep learning-systemen in het dagelijks leven."
   title2p2: "Het lesmateriaal kan ook op een andere manier worden ingezet. Men kan bv. enkele notebooks uitkiezen om de leerlingen te leren programmeren in Python of men kan er opdrachten uit halen om te werken aan onderzoekscompetenties in de lessen biologie, aardrijkskunde of wiskunde. Men kan de leerlingen aan de hand van enkele notebooks vertrouwd maken met de principes van digitale beeldverwerking of de leerkracht Nederlands of godsdienst kan in dit project inspiratie halen voor een les over de maatschappelijke aspecten van AI."
   subtitle1: "climat"
   subtitle1p1: "Depuis le début de la révolution industrielle (1750), la concentration des gaz à effet de serre dans notre atmosphère a fortement augmenté. Cela renforce l'effet naturel en serre. La couche avec des gaz à effet de serre dans l'atmosphère agit comme une sorte de couverture que la quantité de serre en serre Les gaz augmentent. Par conséquent, il devient plus chaud sous la couverture car la chaleur est de plus en plus difficile à échapper sous la couverture. La concentration accrue de gaz à effet de serre dans l'atmosphère entraîne une augmentation de la température moyenne et un changement climatique mondial. "
@@ -95,6 +87,9 @@ We hopen dat er tijdens de projectlessen ook tijd wordt vrijgemaakt om stil te s
   subtitle3: "IA"
   subtitle3p1: "Les réseaux de neurones profonds sont une forme d'apprentissage mécanique, et appartiennent donc au domaine de l'intelligence artificielle. Les réseaux de neurones convolutionnels sont extrêmement adaptés pour reconnaître les stomges de microvotos."
   subtitle3p2: "Sur la base des cahiers Python, nous explorons ce merveilleux monde étape par étape. Les étudiants ont un aperçu des fondements de l'intelligence artificielle. Mais il y a aussi des questions pratiques, comme la collecte et la préparation de l'ensemble de données."
+  teaser:
+    title: "Essayez ce matériel?"
+    file: "/assets/files/teasers/Opdracht_KIKS_Start2STEM_lesgever_vTechnopolis.pdf"
 
 
 socialrobot:
@@ -130,6 +125,9 @@ socialrobot:
   t3_p3: ""
   t3_subtitle4: "Titre"
   t3_p4: ""
+  teaser:
+    title: "Essayez ce matériel!"
+    file: "/assets/files/teasers/Opdracht_SocialeRobot_Start2STEM_lesgever_vTechnopolis.pdf"
 
 
 #  socialrobot:
@@ -161,22 +159,12 @@ congres:
   intro_title: "Congrès Pensée computationnelle, STEM et l'intelligence artificielle en classe"
   paragraph1: "Matin: Pensée computationnelle et intégration des STEM concrète en classe<br> 
   Après-midi : L'intelligence artificielle et ses aspects sociétaux en classe"
-  paragraph2: "Vous pourrez vous inscrire pour une demi-journée ou pour la journée entière.<br><br> 
-  <a href='https://www.eventbrite.com/e/computationeel-denken-stem-en-artificiele-intelligentie-in-de-klas-tickets-599666999137'>Programme et inscrire</a><br><br>
-  <strong>Date</strong>: 7 juin 2023<br>
-  Keynotes: Kris Coolsaet, Gregorio Robles, Hannes Cools ... <br>
-  Ateliers sur la façon de mettre en œuvre la pensée computationnelle en classe, sur la façon d'évaluer les projets STEM, sur l'IA dans l'agriculture et sur le ChatGPT.<br><br>
-  <strong>Location:</strong> De Krook, Miriam Makebaplein 1, 9000 Gent<br><br>
-  Soutenu par le gouvernement flamand, Departement Onderwijs en Vorming, Digital Belgium Skils Fund et le programme Erasmus+ de l'Union européenne"
+  paragraph2: "Vous pourrez vous inscrire pour une demi-journée ou pour la journée entière.<br><br> <a href='https://www.eventbrite.com/e/computationeel-denken-stem-en-artificiele-intelligentie-in-de-klas-tickets-599666999137'>Programme et inscrire</a><br><br> <strong>Date</strong>: 7 juin 2023<br> Keynotes: Kris Coolsaet, Gregorio Robles, Hannes Cools ... <br> Ateliers sur la façon de mettre en œuvre la pensée computationnelle en classe, sur la façon d'évaluer les projets STEM, sur l'IA dans l'agriculture et sur le ChatGPT.<br><br> <strong>Location:</strong> De Krook, Miriam Makebaplein 1, 9000 Gent<br><br> Soutenu par le gouvernement flamand, Departement Onderwijs en Vorming, Digital Belgium Skils Fund et le programme Erasmus+ de l'Union européenne"
   paragraph3: "tekst"
 
 
 privacy:
-  detail: "Chez Dwengo, la transparence est importante pour nous. Nous voulons que nos utilisateurs sachent quelles données nous collectons et pourquoi nous les collectons. Nous utilisons un outil d'analyse appelé Matomo, hébergé sur notre serveur en Belgique. Cela signifie que nous possédons les données et ne les partageons pas avec d'autres. De plus, les données sont anonymes et ne contiennent aucune information personnelle.
-Nous suivons les pages que vous visitez sur notre site Web et pendant combien de temps. Cela nous aide à comprendre quel contenu vous trouvez intéressant, afin que nous puissions améliorer notre site Web. Nous suivons également comment vous avez trouvé notre site Web et sur quels liens vous avez cliqué, pour voir quelles sources sont les plus efficaces pour amener les visiteurs sur notre site.
-De plus, nous suivons le système d'exploitation, l'appareil et le navigateur que vous utilisez pour accéder à notre site Web. Cela nous aide à optimiser notre site Web pour différents appareils et à identifier tout problème technique.
-Nous suivons également le pays à partir duquel vous accédez à notre site Web, afin que nous puissions l'optimiser pour différentes régions.
-Nous n'utilisons ces données que pour une analyse interne visant à améliorer notre site Web et nous ne les partageons jamais avec des tiers. Votre vie privée est importante pour nous. Si vous avez des questions sur notre politique de confidentialité, veuillez nous contacter à l'adresse dpo@dwengo.org."
+  detail: "Chez Dwengo, la transparence est importante pour nous. Nous voulons que nos utilisateurs sachent quelles données nous collectons et pourquoi nous les collectons. Nous utilisons un outil d'analyse appelé Matomo, hébergé sur notre serveur en Belgique. Cela signifie que nous possédons les données et ne les partageons pas avec d'autres. De plus, les données sont anonymes et ne contiennent aucune information personnelle. Nous suivons les pages que vous visitez sur notre site Web et pendant combien de temps. Cela nous aide à comprendre quel contenu vous trouvez intéressant, afin que nous puissions améliorer notre site Web. Nous suivons également comment vous avez trouvé notre site Web et sur quels liens vous avez cliqué, pour voir quelles sources sont les plus efficaces pour amener les visiteurs sur notre site. De plus, nous suivons le système d'exploitation, l'appareil et le navigateur que vous utilisez pour accéder à notre site Web. Cela nous aide à optimiser notre site Web pour différents appareils et à identifier tout problème technique. Nous suivons également le pays à partir duquel vous accédez à notre site Web, afin que nous puissions l'optimiser pour différentes régions. Nous n'utilisons ces données que pour une analyse interne visant à améliorer notre site Web et nous ne les partageons jamais avec des tiers. Votre vie privée est importante pour nous. Si vous avez des questions sur notre politique de confidentialité, veuillez nous contacter à l'adresse dpo@dwengo.org."
   notice: Nous utilisons des cookies fonctionnels et d'analyse pour collecter des données sur la façon dont notre site Web est utilisé.
   accept: Accepter
   info: Plus d'informations
@@ -227,6 +215,9 @@ art:
   paragraph1: "TODO: traduire tout le contenu"
   paragraph2: "La relation entre les stomates des plantes et le changement climatique offre un cadre unique pour travailler avec des réseaux neuronaux profonds. Le langage de programmation Python est également très accessible en tant qu'outil pour étudier les fondements des réseaux neuronaux."
   paragraph3: "Un atout du projet KIKS est la collaboration entre les chercheurs et les enseignants. Le matériel pédagogique de KIKS est en effet développé en parallèle avec les résultats d'une recherche scientifique en cours à l'UGent et au Jardin botanique Meise."
+  teaser:
+    title: "Essayez ce matériel?"
+    file: "/assets/files/teasers/Opdracht_Jommeke_Start2STEM_lesgever_vTechnopolis.pdf"
 
 wegostem:
   intro_title: "WeGoSTEM"
@@ -361,12 +352,18 @@ chatbot:
   subtitle2p1: "De plus en plus d'entreprises et d'organisations placent un chatbot sur leur site web dans le but d'améliorer le service. Grâce au NLP et à la prise en compte des attentes des utilisateurs, ces partenaires de conversation automatiques deviennent de plus en plus agréables à utiliser. Les chatbots sont utilisés pour le service client, les ressources humaines, la fourniture d'informations... et dans différents domaines tels que la santé, les loisirs, le monde des affaires, la politique et l'éducation. Les élèves constatent eux-mêmes les limites d'un chatbot basé sur des règles, ce qui les rend plus avertis des médias, étant donné que la plupart des chatbots dans les applications commerciales fonctionnent encore principalement sur la base de règles."
   subtitle3: "Analyse de sentiment"
   subtitle3p1: "La popularité d'Internet a non seulement conduit à l'avènement des médias sociaux, mais a également donné naissance à un nouveau domaine de recherche : la détection des sentiments et des opinions dans les textes. L'analyse de sentiment a déjà prouvé son importance dans le monde des affaires, de l'industrie et de la société. Attribuer automatiquement une note de sentiment aux avis en ligne des clients, aux tweets sur la politique, ou à une conversation avec un chatbot, tout cela se fait avec de l'intelligence artificielle : le NLP appliqué à la fois basé sur la connaissance (par des règles) et basé sur les données (par l'apprentissage automatique)."
+  teaser:
+    title: "Essayez ce matériel?"
+    file: "/assets/files/teasers/Opdracht_SentimentanalyseUnplugged_Start2STEM_lesgever_vTechnopolis.pdf"
 
 physical_computing:
   intro_title: "Informatique physique"
   paragraph1: "TODO: traduire tout le contenu"
   paragraph2: "La relation entre les stomates des plantes et le changement climatique offre un cadre unique pour travailler avec des réseaux neuronaux profonds. De plus, le langage de programmation Python est très accessible en tant qu'outil pour étudier les fondements des réseaux neuronaux."
   paragraph3: "Un atout du projet KIKS est la collaboration entre les chercheurs et les enseignants. Le matériel pédagogique de KIKS est en effet développé en parallèle avec les résultats d'une recherche scientifique en cours à l'UGent et au Jardin botanique Meise."
+  teaser:
+    title: "Essayez ce matériel?"
+    file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_lesgever_vTechnopolis.pdf"
 
 learning_paths:
   title: Parcours d'apprentissage
