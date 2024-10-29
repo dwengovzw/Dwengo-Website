@@ -36,6 +36,9 @@ algorithms:
   intro_title: "Algorithmes"
   paragraph1: "Les algorithmes sont partout. Ils constituent la base du monde numérique."
   paragraph2: "Dans un monde où le big data joue un rôle croissant, les algorithmes sont la clé pour accéder aux informations cachées dans les données. Les algorithmes sont l'épine dorsale de la technologie moderne. Qu'il s'agisse de personnaliser les recommandations, d'améliorer l'analyse des soins de santé ou d'optimiser les processus commerciaux, les algorithmes sont le moteur de l'innovation. Les méthodes numériques permettent de résoudre les problèmes mathématiques, ce qui nous permet d'effectuer des simulations précises et d'obtenir des informations utiles"
+  teaser:
+      title: "Essayez ce matériel?"
+      file: "/assets/files/teasers/Opdracht_Perceptron_Start2STEM_lesgever_vTechnopolis.pdf"
 
 usage_website:
   title: Explorez nos supports pédagogiques
@@ -310,6 +313,9 @@ computational_thinking:
   t3_p3: "texte"
   t3_subtitle4: "Optionnel"
   t3_p4: "texte"
+  teaser:
+      title: "Essayez ce matériel?"
+      file: "/assets/files/teasers/Opdracht_Pixels_Start2STEM_lesgever_vTechnopolis.pdf"
 
 math_with_python:
   intro_title: "Pensée computationnelle"

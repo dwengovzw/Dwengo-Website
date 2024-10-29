@@ -22,11 +22,16 @@ learning_paths: ['ct1_concepten', 'ct2_concreet', 'ct3_voorbeelden', 'ct6_cases'
 {% capture intro %} {{ site.translations[site.lang].computational_thinking.intro }} {% endcapture %}
 {% capture summary %} {{ site.translations[site.lang].computational_thinking.summary }} {% endcapture %}
 
+{% capture teaser_title %} {{ site.translations[site.lang].computational_thinking.teaser.title }} {% endcapture %}
+{% capture teaser_file %} {{ site.translations[site.lang].computational_thinking.teaser.file }} {% endcapture %}
+
 {%- include project_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
 page_title=page_title
 intro=intro
 summary=summary
 -%}
+
+{%- include teaser_template.html teaser_title=teaser_title teaser_file=teaser_file -%}
 
 {%- include computational_thinking_extra_info.html -%}
 

@@ -35,8 +35,10 @@ partners:
 algorithms:
   intro_title: "Algorithms"
   paragraph1: "Algorithms are everywhere. They are the foundation of the digital world."
-  paragraph2: "In a world where big data plays an increasing role, algorithms are the key to accessing information hidden in data.
-Algorithms are the backbone of modern technology. Whether personalising recommendations, improving healthcare analytics or optimising business processes, algorithms drive innovation. Numerical methods provide ways to solve mathematical problems in the process, enabling us to perform accurate simulations and gain meaningful insights."
+  paragraph2: "In a world where big data plays an increasing role, algorithms are the key to accessing information hidden in data. Algorithms are the backbone of modern technology. Whether personalising recommendations, improving healthcare analytics or optimising business processes, algorithms drive innovation. Numerical methods provide ways to solve mathematical problems in the process, enabling us to perform accurate simulations and gain meaningful insights."
+  teaser:
+      title: "Try it out!"
+      file: "/assets/files/teasers/Opdracht_Perceptron_Start2STEM_lesgever_vTechnopolis.pdf"
 
 usage_website:
   title: Explore our teaching materials
@@ -89,7 +91,7 @@ kiks:
   subtitle3p1: "Deep neural networks are a form of machine learning, and therefore fall within the domain of artificial intelligence. Convolutional neural networks are exceptionally well-suited for recognizing stomata in microphotos."
   subtitle3p2: "Through Python notebooks, we explore step by step this fascinating world. Students gain insight into the fundamentals of artificial intelligence. However, practical aspects such as collecting and preparing the dataset are also involved."
   teaser:
-    title: "Want to try it out?"
+    title: "Try it out!"
     file: "/assets/files/teasers/Opdracht_KIKS_Start2STEM_lesgever_vTechnopolis.pdf"
 
 socialrobot:
@@ -126,7 +128,7 @@ socialrobot:
   t3_subtitle4: "Title"
   t3_p4: ""
   teaser:
-    title: "Want to try it out?"
+    title: "Try it out!"
     file: "/assets/files/teasers/Opdracht_SocialeRobot_Start2STEM_lesgever_vTechnopolis.pdf"
 
 #  socialrobot:
@@ -207,7 +209,7 @@ art:
   paragraph2: "The relationship between plant stomata and climate change provides a unique framework for working with deep neural networks. The programming language Python is also very accessible as a tool to study the fundamentals of neural networks."
   paragraph3: "A strength of the KIKS project is the collaboration between researchers and teachers. The teaching material of KIKS is developed in parallel with the results of ongoing scientific research at UGent and the Plantentuin Meise."
   teaser:
-    title: "Want to try it out?"
+    title: "Try it out!"
     file: "/assets/files/teasers/Opdracht_Jommeke_Start2STEM_lesgever_vTechnopolis.pdf"
 
 wegostem:
@@ -301,6 +303,9 @@ computational_thinking:
   t3_p3: "text"
   t3_subtitle4: "Optional"
   t3_p4: "text"
+  teaser:
+      title: "Try it out!"
+      file: "/assets/files/teasers/Opdracht_Pixels_Start2STEM_lesgever_vTechnopolis.pdf"
 
 math_with_python:
   intro_title: "Math with Python"
@@ -336,7 +341,7 @@ physical_computing:
   title: "Scientific Research"
   subtitle1: "Available Soon"
   teaser:
-    title: "Want to try it out?"
+    title: "Try it out!"
     file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_lesgever_vTechnopolis.pdf"
 
 chatbot:
@@ -355,7 +360,7 @@ chatbot:
   subtitle3: "Sentiment Analysis"
   subtitle3p1: "The popularity of the internet not only led to the rise of social media but also gave rise to a new research domain: detecting feelings and opinions in texts. Sentiment analysis has already proven its importance for the business world, industry, and society. Automatically assigning a sentiment score to online customer reviews, tweets about politics, or a chatbot conversation, it all happens with artificial intelligence: NLP applied in both a knowledge-based (using rules) and data-based (using machine learning) manner."
   teaser:
-    title: "Want to try it out?"
+    title: "Try it out!"
     file: "/assets/files/teasers/Opdracht_SentimentanalyseUnplugged_Start2STEM_lesgever_vTechnopolis.pdf"
 
 learning_paths:

@@ -37,6 +37,9 @@ algorithms:
   intro_title: "Algoritmes"
   paragraph1: "Algoritmes zijn overal. Ze zijn de basis van de digitale wereld."
   paragraph2: "In een wereld waar big data een steeds grotere rol speelt, vormen algoritmes de sleutel om toegang te krijgen tot informatie die in data verschuild is. Algoritmes vormen de ruggengraat van moderne technologie. Of het nu gaat om het personaliseren van aanbevelingen, het verbeteren van gezondheidszorganalyses of het optimaliseren van bedrijfsprocessen, algoritmes zijn de drijvende kracht achter innovatie. Numerieke methodes geven manieren om daarbij wiskundige vraagstukken op te lossen, waardoor we in staat zijn om nauwkeurige simulaties uit te voeren en betekenisvolle inzichten te verkrijgen."
+  teaser:
+      title: "Uitproberen?"
+      file: "/assets/files/teasers/Opdracht_Perceptron_Start2STEM_lesgever_vTechnopolis.pdf"
 
 
 usage_website:
@@ -285,6 +288,9 @@ computational_thinking:
   t3_p3: "tekst"
   t3_subtitle4: "Optioneel"
   t3_p4: "tekst"
+  teaser:
+      title: "Uitproberen?"
+      file: "/assets/files/teasers/Opdracht_Pixels_Start2STEM_lesgever_vTechnopolis.pdf"
 
 
 # Downloadables ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
