@@ -36,10 +36,10 @@ partners:
 algorithms:
   intro_title: "Algorithmen"
   paragraph1: "Algorithmen sind überall. Sie bilden die Grundlage der digitalen Welt."
-  paragraph2: "Algorithmen sind überall. Sie sind das Herzstück der digitalen Welt. In einer Welt, in der Big Data eine immer wichtigere Rolle spielt, sind Algorithmen der Schlüssel zum Zugriff auf die in den Daten verborgenen Informationen. Algorithmen sind das Rückgrat der modernen Technologie. Ob bei der Personalisierung von Empfehlungen, der Verbesserung von Gesundheitsanalysen oder der Optimierung von Geschäftsprozessen, Algorithmen sind der Motor der Innovation. Numerische Methoden bieten Möglichkeiten, mathematische Probleme im Prozess zu lösen, die es uns ermöglichen, genaue Simulationen durchzuführen und aussagekräftige Erkenntnisse zu gewinnen.
+  paragraph2: "Algorithmen sind überall. Sie sind das Herzstück der digitalen Welt. In einer Welt, in der Big Data eine immer wichtigere Rolle spielt, sind Algorithmen der Schlüssel zum Zugriff auf die in den Daten verborgenen Informationen. Algorithmen sind das Rückgrat der modernen Technologie. Ob bei der Personalisierung von Empfehlungen, der Verbesserung von Gesundheitsanalysen oder der Optimierung von Geschäftsprozessen, Algorithmen sind der Motor der Innovation. Numerische Methoden bieten Möglichkeiten, mathematische Probleme im Prozess zu lösen, die es uns ermöglichen, genaue Simulationen durchzuführen und aussagekräftige Erkenntnisse zu gewinnen."
   teaser:
-      title: "Probieren Sie dieses Lehrmaterial aus!"
-      file: "/assets/files/teasers/Opdracht_Perceptron_Start2STEM_lesgever_vTechnopolis.pdf"
+    title: "Probieren Sie dieses Lehrmaterial aus!"
+    file: "/assets/files/teasers/Opdracht_Perceptron_Start2STEM_lesgever_vTechnopolis.pdf"
 
 usage_website:
   title: Erkunden Sie unsere Lehrmaterialien
