@@ -925,7 +925,7 @@ shop:
   products:
     - title: "Vraag ons voor een nascholing!"
       desc: "Zoek je met jou scholengroep naar een nascholing over AI, Physical Computing of computationeel denken? Wij helpen je graag verder! Neem een kijkje in ons <a href='/assets/files/shop/Nascholingen_Dwengo.pdf'>nascholingsoverzicht</a> en contacteer ons voor een offerte op maat."
-      image: "/assets/images/shop/nascholing.jpg"
+      image: "/assets/images/shop/nascholing.jpeg"
       price: "Op aanvraag (standaard tarief: €500 per halve dag excl. 21% btw)"
       price_extra_info: ""
     - title: "Sociale robot kit"

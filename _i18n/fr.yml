@@ -904,7 +904,7 @@ shop:
   products:
     - title: "Demandez-nous une formation continue !"
       desc: "Vous recherchez une formation continue pour votre groupe scolaire sur l'IA, le Physical Computing ou la pensée computationnelle ? Nous sommes heureux de vous aider ! Consultez notre <a href='/assets/files/shop/Nascholingen_Dwengo.pdf'>aperçu des formations</a> et contactez-nous pour un devis personnalisé."
-      image: "/assets/images/shop/nascholing.jpg"
+      image: "/assets/images/shop/nascholing.jpeg"
       price: "Sur demande (tarif standard : 500 € par demi-journée hors TVA de 21%)"
       price_extra_info: ""
     - title: "Kit de robot social"

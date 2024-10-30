@@ -885,7 +885,7 @@ shop:
   products:
     - title: "Fragen Sie uns nach einer Weiterbildung!"
       desc: "Suchen Sie mit Ihrer Schulgruppe nach einer Weiterbildung zu KI, Physical Computing oder rechnerischem Denken? Wir helfen Ihnen gerne weiter! Werfen Sie einen Blick in unser <a href='/assets/files/shop/Nascholingen_Dwengo.pdf'>Weiterbildungsangebot</a> und kontaktieren Sie uns für ein maßgeschneidertes Angebot."
-      image: "/assets/images/shop/nascholing.jpg"
+      image: "/assets/images/shop/nascholing.jpeg"
       price: "Auf Anfrage (Standardtarif: 500 € pro halber Tag zzgl. 21% MwSt.)"
       price_extra_info: ""
     - title: "Bausatz für soziale Roboter"

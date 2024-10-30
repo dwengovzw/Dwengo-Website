@@ -887,7 +887,7 @@ shop:
   products:
     - title: "Ask us for a training!"
       desc: "Is your school group looking for training on AI, Physical Computing, or computational thinking? We are happy to help! Take a look at our <a href='/assets/files/shop/Nascholingen_Dwengo.pdf'>training overview</a> and contact us for a personalized offer."
-      image: "/assets/images/shop/nascholing.jpg"
+      image: "/assets/images/shop/nascholing.jpeg"
       price: "On request (standard rate: €500 per half day excluding 21% VAT)"
       price_extra_info: ""
     - title: "Social robot kit"
