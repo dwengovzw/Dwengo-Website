@@ -448,6 +448,11 @@ curricula_page:
     description: "Schüler der zweiten und dritten Klasse (Sekundarstufe) lernen, wie sie Algorithmen verwenden können, um Probleme zu lösen. Sie lernen, wie sie Algorithmen entwerfen und die Effizienz von Algorithmen analysieren können. Sie lernen auch, wie sie Algorithmen zur Problemlösung einsetzen können."
     contact: ""
     teaser: https://www.youtube.com/embed/2B6gZ9HdQ1Y
+  basics_ai:
+    title: Basisprincipes van AI
+    sub_title: Basisprincipes van AI
+    description: "Onder dit lesthema bundelen we verschillende activiteiten waarin de basisprincipes van artificiële intelligentie (AI) aan bod komen. Leerlingen leren wat AI is, hoe het werkt en hoe het kan worden toegepast in verschillende domeinen."
+    contact: ""
   kiks: 
     title: KI und Klima
     sub_title: KIKS

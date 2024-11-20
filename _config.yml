@@ -60,6 +60,7 @@ theme_tags:
   chatbot: ["all", "lang_art", "soc"]
   physical_computing: ["all", "tec", "mech"]
   algorithms: ["all", "algo"]
+  basics_ai: ["all", "algo", "tec", "math"]
 
 age_tags:
   kiks: ["all", "s2" ,"s3" ,"h"]
@@ -75,6 +76,7 @@ age_tags:
   chatbot: ["all", "s2" ,"s3"]
   physical_computing: ["all", "p" ,"s1"]
   algorithms: ["all", "s2" ,"s3", "h"]
+  basics_ai: ["all", "s2" ,"s3", "h"]
 
 
 # Build settings

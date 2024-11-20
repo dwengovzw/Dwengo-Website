@@ -5,7 +5,7 @@
 layout: default
 title: content
 permalink: /content/
-curricula2: ['kiks', 'socialrobot', 'agriculture', 'art', 'wegostem', 'computational_thinking', 'math_with_python', 'python_programming', 'stem', 'care', 'chatbot', 'physical_computing', "algorithms"]
+curricula2: ['kiks', 'socialrobot', 'agriculture', 'art', 'wegostem', 'computational_thinking', 'math_with_python', 'python_programming', 'stem', 'care', 'chatbot', 'physical_computing', "algorithms", "basics_ai"]
 ---
 
 {%- include curricula.html curricula_pages=page.curricula2 -%}

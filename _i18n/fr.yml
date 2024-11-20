@@ -462,6 +462,11 @@ curricula_page:
     description: "Les élèves de la troisième à la sixième année (enseignement secondaire) apprennent comment utiliser des algorithmes pour résoudre des problèmes. Ils apprennent à concevoir des algorithmes et à analyser l'efficacité de ces derniers. Ils apprennent également à utiliser des algorithmes pour résoudre des problèmes."
     contact: ""
     teaser: https://www.youtube.com/embed/2B6gZ9HdQ1Y
+  basics_ai:
+    title: Basisprincipes van AI
+    sub_title: Basisprincipes van AI
+    description: "Onder dit lesthema bundelen we verschillende activiteiten waarin de basisprincipes van artificiële intelligentie (AI) aan bod komen. Leerlingen leren wat AI is, hoe het werkt en hoe het kan worden toegepast in verschillende domeinen."
+    contact: ""
   kiks:
     title: "IA et changement climatique"
     sub_title: "KIKS"

@@ -304,7 +304,12 @@ curricula_page:
     sub_title: Algoritmes
     description: "Leerlingen uit de tweede en de derde graad (SO) leren hoe ze algoritmes kunnen gebruiken om problemen op te lossen. Ze leren hoe ze algoritmes kunnen ontwerpen en hoe ze de efficiëntie van algoritmes kunnen analyseren. Ze leren ook hoe ze algoritmes kunnen gebruiken om problemen op te lossen."
     contact: ""
-    teaser: "https://www.youtube.com/embed/2B6gZ9HdQ1Y"
+
+  basics_ai:
+    title: Basisprincipes van AI
+    sub_title: Basisprincipes van AI
+    description: "Onder dit lesthema bundelen we verschillende activiteiten waarin de basisprincipes van artificiële intelligentie (AI) aan bod komen. Leerlingen leren wat AI is, hoe het werkt en hoe het kan worden toegepast in verschillende domeinen."
+    contact: ""
 
   kiks:
     title: AI en Klimaat
