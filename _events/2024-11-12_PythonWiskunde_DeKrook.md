@@ -1,13 +1,13 @@
 ---
 title: "Python voor wiskunde, wetenschappen en STEM"
-date: 2024-11-12T09:30:00
-end_date: 2024-11-12T16:30:00
+date: 2025-01-27T09:30:00
+end_date: 2025-01-27T16:30:00
 item_theme_logo_url: "/images/curricula/logo_math_with_python.png"
 location: "HomeLab, Technologiepark-Zwijnaarde 108, 9052 Gent"
 location_link: "https://www.google.be/maps/place/Technologiepark-Zwijnaarde+108,+9052+Gent/@51.0120393,3.7110817,17z/data=!3m1!4b1!4m6!3m5!1s0x47c373943f0e262b:0x8afb6f7f2b8e6a4d!8m2!3d51.0120393!4d3.7136566!16s%2Fg%2F11hfm_p_rq?hl=nl&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D"
 language: "nl"
-registration_link: "https://www.eventbrite.be/e/python-voor-wiskunde-wetenschappen-en-stem-tickets-998627460617"
-anchor: "pyth-wiskunde-12-11-24"
+registration_link: "https://www.eventbrite.be/e/python-voor-wiskunde-wetenschappen-en-stem-tickets-1090024585879?aff=oddtdtcreator"
+anchor: "pyth-wiskunde-27-01-25"
 ---
 
 Om in je school in de tweede en derde graad te werken aan de STEM-minimumdoelen, en de minimumdoelen van computationeel denken en informaticawetenschappen, 
@@ -55,11 +55,10 @@ Na deze nascholing:<br>
 - Lerarenopleiders wiskunde, wetenschappen en STEM voor leerkrachten secundair onderwijs (professionele bachelor en educatieve master).<br>
 
 **Strikt genomen is er geen voorkennis nodig voor het programmeren. Sommige leerkrachten bereiden zich daar toch graag op voor. 
-Je kan dat zelfstandig doen a.d.h.v. de leerpaden 'Datatypes', 'Operatoren', 'Structuren', en 'Functies' op [Programmeren in Python](https://dwengo.org/python_programming/) 
-of je kan de Python nascholing volgen van 15 oktober.**
+Je kan dat zelfstandig doen a.d.h.v. de leerpaden 'Datatypes', 'Operatoren', 'Structuren', en 'Functies' op [Programmeren in Python](https://dwengo.org/python_programming/).**
 
-**Wanneer:** 12 november 2024 van 9u30-16u30<br>
+**Wanneer:** 27 januari 2025 van 9u30-16u30<br>
 **Locatie:** HomeLab, Technologiepark-Zwijnaarde 108, 9052 Gent<br>
 **Organisatie:** Dwengo vzw
 
-**Inschrijven is mogelijk t.e.m. 9 november.**
+**Inschrijven is mogelijk t.e.m. 23 januari (16 u).**
