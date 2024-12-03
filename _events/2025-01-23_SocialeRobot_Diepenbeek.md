@@ -21,7 +21,7 @@ Ook leerkrachten laten we niet in de kou staan. Om je leerlingen succesvol te be
 
 **Doelgroep:** Leerkrachten van 1e en 2e graad die met hun leerlingen deelnemen aan de 'sociale robot'-wedstrijd van Dwengo.
 
-**Wanneer:** 21 januari 2025 van 9u-15u30
+**Wanneer:** 23 januari 2025 van 9u-15u30
 
 **Locatie:** De Krook, Gent, zaal Verwondering
 
