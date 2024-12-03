@@ -39,7 +39,7 @@ algorithms:
   paragraph2: "In een wereld waar big data een steeds grotere rol speelt, vormen algoritmes de sleutel om toegang te krijgen tot informatie die in data verschuild is. Algoritmes vormen de ruggengraat van moderne technologie. Of het nu gaat om het personaliseren van aanbevelingen, het verbeteren van gezondheidszorganalyses of het optimaliseren van bedrijfsprocessen, algoritmes zijn de drijvende kracht achter innovatie. Numerieke methodes geven manieren om daarbij wiskundige vraagstukken op te lossen, waardoor we in staat zijn om nauwkeurige simulaties uit te voeren en betekenisvolle inzichten te verkrijgen."
   teaser:
       title: "Uitproberen?"
-      file: "/assets/files/teasers/Opdracht_Perceptron_Start2STEM_lesgever_vTechnopolis.pdf"
+      file: "/assets/files/teasers/Opdracht_Perceptron_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 
 usage_website:
@@ -93,7 +93,7 @@ kiks:
   subtitle3p2: "Aan de hand van Python notebooks verkennen we stap voor stap deze wondere wereld. Leerlingen krijgen inzicht in de fundamenten van artificiële intelligentie. Maar er komen ook praktische zaken bij kijken, zoals het verzamelen en voorbereiden van de dataset."
   teaser:
       title: "Uitproberen?"
-      file: "/assets/files/teasers/Opdracht_KIKS_Start2STEM_lesgever_vTechnopolis.pdf"
+      file: "/assets/files/teasers/Opdracht_KIKS_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 agriculture:
   intro_title: "AI in de Landbouw"
@@ -104,7 +104,7 @@ art:
   paragraph1: "Kunst streeft ernaar om ons op een andere manier naar de wereld te doen kijken. Het triggert onze zintuigen en zet ons aan tot nadenken. Steeds vaker wordt technologie ingezet in het creëren en analyseren van kunst. In dit lesthema presenteren wij lesmateriaal dat de kloof tussen kunstenaar en computerwetenschapper probeert te verkleinen. "
   teaser:
       title: "Uitproberen?"
-      file: "/assets/files/teasers/Opdracht_Jommeke_Start2STEM_lesgever_vTechnopolis.pdf"
+      file: "/assets/files/teasers/Opdracht_Jommeke_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 wegostem:
   intro_title: "WeGoSTEM"
@@ -167,7 +167,7 @@ chatbot:
   subtitle3p1: "De populariteit van het internet leidde niet alleen tot de opkomst van de sociale media, maar deed ook een nieuw onderzoeksdomein ontstaan: het detecteren van gevoelens en opinies in teksten. Sentimentanalyse heeft haar belang reeds bewezen voor de zakenwereld, de industrie en de maatschappij. Automatisch een sentimentscore toekennen aan online klantenreviews, tweets over politiek, of een chatbotgesprek, het gebeurt allemaal met artificiële intelligentie: NLP die zowel kennisgebaseerd (a.d.h.v. regels) als datagebaseerd (a.d.h.v. machine learning) wordt toegepast."
   teaser:
       title: "Uitproberen?"
-      file: "/assets/files/teasers/Opdracht_SentimentanalyseUnplugged_Start2STEM_lesgever_vTechnopolis.pdf"
+      file: "/assets/files/teasers/Opdracht_SentimentanalyseUnplugged_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 physical_computing:
   intro_title: "Physical computing"
@@ -177,7 +177,7 @@ physical_computing:
 
   teaser:
       title: "Uitproberen?"
-      file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_lesgever_vTechnopolis.pdf"
+      file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 
 # New project pages ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -216,7 +216,7 @@ socialrobot:
   t3_p4: ""  
   teaser:
     title: "Uitproberen?"
-    file: "/assets/files/teasers/Opdracht_SocialeRobot_Start2STEM_lesgever_vTechnopolis.pdf"
+    file: "/assets/files/teasers/Opdracht_SocialeRobot_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 project:
   page_title: "Computationeel denken"
@@ -290,7 +290,7 @@ computational_thinking:
   t3_p4: "tekst"
   teaser:
       title: "Uitproberen?"
-      file: "/assets/files/teasers/Opdracht_Pixels_Start2STEM_lesgever_vTechnopolis.pdf"
+      file: "/assets/files/teasers/Opdracht_Pixels_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 
 # Downloadables ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

@@ -38,7 +38,7 @@ algorithms:
   paragraph2: "Dans un monde où le big data joue un rôle croissant, les algorithmes sont la clé pour accéder aux informations cachées dans les données. Les algorithmes sont l'épine dorsale de la technologie moderne. Qu'il s'agisse de personnaliser les recommandations, d'améliorer l'analyse des soins de santé ou d'optimiser les processus commerciaux, les algorithmes sont le moteur de l'innovation. Les méthodes numériques permettent de résoudre les problèmes mathématiques, ce qui nous permet d'effectuer des simulations précises et d'obtenir des informations utiles"
   teaser:
       title: "Essayez ce matériel?"
-      file: "/assets/files/teasers/Opdracht_Perceptron_Start2STEM_lesgever_vTechnopolis.pdf"
+      file: "/assets/files/teasers/Opdracht_Perceptron_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 usage_website:
   title: Explorez nos supports pédagogiques
@@ -92,7 +92,7 @@ kiks:
   subtitle3p2: "Sur la base des cahiers Python, nous explorons ce merveilleux monde étape par étape. Les étudiants ont un aperçu des fondements de l'intelligence artificielle. Mais il y a aussi des questions pratiques, comme la collecte et la préparation de l'ensemble de données."
   teaser:
     title: "Essayez ce matériel?"
-    file: "/assets/files/teasers/Opdracht_KIKS_Start2STEM_lesgever_vTechnopolis.pdf"
+    file: "/assets/files/teasers/Opdracht_KIKS_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 
 socialrobot:
@@ -130,7 +130,7 @@ socialrobot:
   t3_p4: ""
   teaser:
     title: "Essayez ce matériel!"
-    file: "/assets/files/teasers/Opdracht_SocialeRobot_Start2STEM_lesgever_vTechnopolis.pdf"
+    file: "/assets/files/teasers/Opdracht_SocialeRobot_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 
 #  socialrobot:
@@ -220,7 +220,7 @@ art:
   paragraph3: "Un atout du projet KIKS est la collaboration entre les chercheurs et les enseignants. Le matériel pédagogique de KIKS est en effet développé en parallèle avec les résultats d'une recherche scientifique en cours à l'UGent et au Jardin botanique Meise."
   teaser:
     title: "Essayez ce matériel?"
-    file: "/assets/files/teasers/Opdracht_Jommeke_Start2STEM_lesgever_vTechnopolis.pdf"
+    file: "/assets/files/teasers/Opdracht_Jommeke_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 wegostem:
   intro_title: "WeGoSTEM"
@@ -315,7 +315,7 @@ computational_thinking:
   t3_p4: "texte"
   teaser:
       title: "Essayez ce matériel?"
-      file: "/assets/files/teasers/Opdracht_Pixels_Start2STEM_lesgever_vTechnopolis.pdf"
+      file: "/assets/files/teasers/Opdracht_Pixels_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 math_with_python:
   intro_title: "Pensée computationnelle"
@@ -360,7 +360,7 @@ chatbot:
   subtitle3p1: "La popularité d'Internet a non seulement conduit à l'avènement des médias sociaux, mais a également donné naissance à un nouveau domaine de recherche : la détection des sentiments et des opinions dans les textes. L'analyse de sentiment a déjà prouvé son importance dans le monde des affaires, de l'industrie et de la société. Attribuer automatiquement une note de sentiment aux avis en ligne des clients, aux tweets sur la politique, ou à une conversation avec un chatbot, tout cela se fait avec de l'intelligence artificielle : le NLP appliqué à la fois basé sur la connaissance (par des règles) et basé sur les données (par l'apprentissage automatique)."
   teaser:
     title: "Essayez ce matériel?"
-    file: "/assets/files/teasers/Opdracht_SentimentanalyseUnplugged_Start2STEM_lesgever_vTechnopolis.pdf"
+    file: "/assets/files/teasers/Opdracht_SentimentanalyseUnplugged_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 physical_computing:
   intro_title: "Informatique physique"
@@ -369,7 +369,7 @@ physical_computing:
   paragraph3: "Un atout du projet KIKS est la collaboration entre les chercheurs et les enseignants. Le matériel pédagogique de KIKS est en effet développé en parallèle avec les résultats d'une recherche scientifique en cours à l'UGent et au Jardin botanique Meise."
   teaser:
     title: "Essayez ce matériel?"
-    file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_lesgever_vTechnopolis.pdf"
+    file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 learning_paths:
   title: Parcours d'apprentissage

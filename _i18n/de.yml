@@ -39,7 +39,7 @@ algorithms:
   paragraph2: "Algorithmen sind überall. Sie sind das Herzstück der digitalen Welt. In einer Welt, in der Big Data eine immer wichtigere Rolle spielt, sind Algorithmen der Schlüssel zum Zugriff auf die in den Daten verborgenen Informationen. Algorithmen sind das Rückgrat der modernen Technologie. Ob bei der Personalisierung von Empfehlungen, der Verbesserung von Gesundheitsanalysen oder der Optimierung von Geschäftsprozessen, Algorithmen sind der Motor der Innovation. Numerische Methoden bieten Möglichkeiten, mathematische Probleme im Prozess zu lösen, die es uns ermöglichen, genaue Simulationen durchzuführen und aussagekräftige Erkenntnisse zu gewinnen."
   teaser:
     title: "Probieren Sie dieses Lehrmaterial aus!"
-    file: "/assets/files/teasers/Opdracht_Perceptron_Start2STEM_lesgever_vTechnopolis.pdf"
+    file: "/assets/files/teasers/Opdracht_Perceptron_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 usage_website:
   title: Erkunden Sie unsere Lehrmaterialien
@@ -93,7 +93,7 @@ kiks:
   subtitle3p2: "Mit Python-Notebooks erkunden wir diese faszinierende Welt Schritt für Schritt. Schülerinnen und Schüler erhalten Einblick in die Grundlagen der künstlichen Intelligenz. Aber es gibt auch praktische Aspekte, wie das Sammeln und Vorbereiten des Datensatzes."
   teaser:
     title: "Probieren Sie dieses Lehrmaterial aus!"
-    file: "/assets/files/teasers/Opdracht_KIKS_Start2STEM_lesgever_vTechnopolis.pdf"
+    file: "/assets/files/teasers/Opdracht_KIKS_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 
 socialrobot:
@@ -131,7 +131,7 @@ socialrobot:
   t3_p4: "" 
   teaser:
     title: "Probieren Sie dieses Lehrmaterial aus!"
-    file: "/assets/files/teasers/Opdracht_SocialeRobot_Start2STEM_lesgever_vTechnopolis.pdf"
+    file: "/assets/files/teasers/Opdracht_SocialeRobot_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 #  socialrobot:
 #  intro_title: "Sociale robot"
@@ -206,7 +206,7 @@ art:
   paragraph3: "Ein Vorteil des KIKS-Projekts ist die Zusammenarbeit zwischen Forschern und Lehrern. Das Lehrmaterial von KIKS wird parallel zu den Ergebnissen einer laufenden wissenschaftlichen Untersuchung an der UGent und dem Plantentuin Meise entwickelt."
   teaser:
       title: "Probieren Sie dieses Lehrmaterial aus!"
-      file: "/assets/files/teasers/Opdracht_Jommeke_Start2STEM_lesgever_vTechnopolis.pdf"
+      file: "/assets/files/teasers/Opdracht_Jommeke_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 wegostem:
   intro_title: "WeGoSTEM"
@@ -301,7 +301,7 @@ computational_thinking:
   t3_p4: "Text"
   teaser:
       title: "Probieren Sie dieses Lehrmaterial aus!"
-      file: "/assets/files/teasers/Opdracht_Pixels_Start2STEM_lesgever_vTechnopolis.pdf"
+      file: "/assets/files/teasers/Opdracht_Pixels_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 math_with_python:
   intro_title: "Computational Thinking"
@@ -345,7 +345,7 @@ chatbot:
   subtitle3p1: " "
   teaser:
     title: "Probieren Sie dieses Lehrmaterial aus!"
-    file: "/assets/files/teasers/Opdracht_SentimentanalyseUnplugged_Start2STEM_lesgever_vTechnopolis.pdf"
+    file: "/assets/files/teasers/Opdracht_SentimentanalyseUnplugged_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 physical_computing:
   intro_title: "Physikalisches Computing"
@@ -354,7 +354,7 @@ physical_computing:
   paragraph3: "Ein Vorteil des KIKS-Projekts ist die Zusammenarbeit zwischen Forschern und Lehrern. Das Lehrmaterial von KIKS wird parallel zu den Ergebnissen einer laufenden wissenschaftlichen Untersuchung an der UGent und dem Plantentuin Meise entwickelt."
   teaser:
     title: "Probieren Sie dieses Lehrmaterial aus!"
-    file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_lesgever_vTechnopolis.pdf"
+    file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 learning_paths:
   title: Lernpfade
