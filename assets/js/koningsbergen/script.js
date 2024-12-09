@@ -66,7 +66,7 @@ let landMassOfOrigin = null;
 
 // Background image
 const backgroundImage = new Image();
-backgroundImage.src = 'koningsbergen_in_1652.jpg';
+backgroundImage.src = '/assets/images/koningsbergen/koningsbergen_in_1652.jpg';
 
 // Ensure the map is drawn when the image has loaded
 backgroundImage.onload = () => {
