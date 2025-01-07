@@ -4,7 +4,7 @@ date: 2025-01-23T09:00:00
 end_date: 2025-01-23T15:30:00
 item_theme_logo_url: "/images/curricula/logo_socialrobot.png"
 location: "Diepenbeek"
-location_link: ""
+location_link: "https://www.google.com/maps/place/University+College+Leuven-Limburg+-+Campus+Diepenbeek/@50.9287484,5.3927835,17z/data=!3m1!4b1!4m6!3m5!1s0x47c12057c65cb1fd:0xf90b112dd95b9e1!8m2!3d50.9287484!4d5.3953584!16s%2Fg%2F1yg581f5v?entry=ttu&g_ep=EgoyMDI1MDEwMS4wIKXMDSoASAFQAw%3D%3D"
 language: "nl"
 anchor: "phys-wedstrijd-25-01-23"
 registration_link: "https://forms.gle/wS9UkL4EtSMXxRYP8"
@@ -23,7 +23,7 @@ Ook leerkrachten laten we niet in de kou staan. Om je leerlingen succesvol te be
 
 **Wanneer:** 23 januari 2025 van 9u-15u30
 
-**Locatie:** De Krook, Gent, zaal Verwondering
+**Locatie:** UCLL Campus Diepenbeek
 
 **Prijs:** Gratis voor deelnemers aan de wedstrijd.
 
