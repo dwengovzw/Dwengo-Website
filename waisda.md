@@ -8,7 +8,7 @@ redirect_from:
 banner_image: "/images/aiopschool/banner_wide.jpg"
 logo_image: "/images/curricula/logo_aiopschool_rond.png"
 partner_images: ['/images/partners/dwengo.png', '/images/partners/logo_bekina.png', '/images/partners/logo_fluxlab.webp', '/images/partners/vlaio.png', '/images/partners/logo_SMCLEDE.png', '/images/partners/ugent.svg', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/logo_hoogbloeier.png', '/images/partners/steam_for_auth.png']
-learning_paths: ["un_artificiele_intelligentie", "org-dwengo-waisda-taal-murder-mistery", "art1", "org-dwengo-waisda-beelden-emoties-herkennen", "org-dwengo-waisda-beelden-unplugged-fax-lp", "org-dwengo-waisda-beelden-teachable-machine", "org-dwengo-waisda-soc-netw-euler"]
+learning_paths: ["un_artificiele_intelligentie", "org-dwengo-waisda-taal-murder-mistery", "art1", "org-dwengo-waisda-beelden-emoties-herkennen", "org-dwengo-waisda-beelden-unplugged-fax-lp", "org-dwengo-waisda-beelden-teachable-machine", "org-dwengo-waisda-soc-netw-euler", "org-dwengo-waisda-soc-netw-super-soc-netw"]
 curricula: []
 ---
 
