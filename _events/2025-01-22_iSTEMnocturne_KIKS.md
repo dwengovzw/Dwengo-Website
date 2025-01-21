@@ -5,12 +5,12 @@ end_date: 2025-01-22T21:30:00
 item_theme_logo_url: "/images/curricula/logo_kiks.png"
 location: "online"
 language: "nl"
-registration_link: "https://www.istem.be/2024/06/06/istem-nocturnes-volgend-jaar/"
+registration_link: "https://www.istem.be/sessie/ai-en-klimaat/"
 anchor: "nocturne-kiks-22-01-25"
 ---
 In de iSTEM-nocturnes licht een coach van de cel iSTEM inkleuren elke woensdagavond tussen 20u-21u30 online een concreet STEM-project toe.
 
-[Programma](https://www.istem.be/2024/06/06/istem-nocturnes-volgend-jaar/)<br>
+[Programma](https://www.istem.be/agenda/istem-nocturnes/)<br>
 Deze nocturnes vinden volgend schooljaar plaats van 2/10/2024 t.e.m. 26/3/2025
 
 **Onze sessie over het project 'KIKS'**: woensdag 22 januari 2025, 20u-21u30
