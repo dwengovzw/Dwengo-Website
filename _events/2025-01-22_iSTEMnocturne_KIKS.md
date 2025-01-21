@@ -11,7 +11,7 @@ anchor: "nocturne-kiks-22-01-25"
 In de iSTEM-nocturnes licht een coach van de cel iSTEM inkleuren elke woensdagavond tussen 20u-21u30 online een concreet STEM-project toe.
 
 [Programma](https://www.istem.be/agenda/istem-nocturnes/)<br>
-Deze nocturnes vinden volgend schooljaar plaats van 2/10/2024 t.e.m. 26/3/2025
+Deze nocturnes vinden plaats t.e.m. 26/3/2025
 
 **Onze sessie over het project 'KIKS'**: woensdag 22 januari 2025, 20u-21u30
 
