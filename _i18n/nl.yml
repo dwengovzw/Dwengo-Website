@@ -972,7 +972,7 @@ shop:
       desc: "Met dit stellingenspel krijgen de leerlingen inzichten in de maatschappelijke impact van nieuwe technologieën. De kaartenset bevat tamelijk wat stellingen met elk een bijbehorende afbeelding, en er hoort ook een handleiding bij. De stellingen kunnen bekeken worden vanuit het perspectief van een patiënt, een zorgverlener of een kritische burger, en beslaan drie categorieën: er zijn stellingen over technologische vernieuwing en over sociale interactie, en stellingen die doen nadenken over data en privacy. Meer info <a href='/care'>dwengo.org/care</a>."
       image: "/assets/images/shop/card_game.png"
       price: "€10 excl. 21% BTW"
-      price_extra_info: ""
+      price_extra_info: "Leerkrachten secundair en hoger onderwijs kunnen een gratis kaartenset aanvragen via het volgende formulier: <a href='https://dwengo-forms.ilabt.imec.be/forms/aanvraagformulier-kaartenspel-fflaw1'>Aanvraagformulier</a>"
     - title: "Lerarenhandleiding KIKS"
       desc: "Met deze leerkrachtenhandleiding kan je snel aan de slag met ons materiaal rond artificiële inteligentie en de klimaatverandering. Meer info <a href='/kiks'>dwengo.org/kiks</a>."
       image: "/assets/images/shop/kiks_cover.png"
