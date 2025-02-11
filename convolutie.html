@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Convolution Filter App</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            display: flex;
+            gap: 20px;
+        }
+        canvas {
+            border: 1px solid black;
+        }
+        .filters {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .filter {
+            padding: 10px;
+            border: 1px solid black;
+            cursor: pointer;
+            text-align: center;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2px;
+            width: 100px;
+            justify-content: center;
+        }
+        .filter div {
+            padding: 5px;
+            text-align: center;
+            border: 1px solid gray;
+            background-color: lightgray;
+        }
+        /* Make .cell elements square */
+        .cell {
+            aspect-ratio: 1 / 1;
+        }
+        /* display the elements inside the element_column class in a flex column */
+        .element_column {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        /* Center the text inside the col_title class */
+        .col_title {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="element_column">
+            <h1 class="col_title">Invoer afbeelding</h1>
+            <canvas id="inputCanvas" width="300" height="235"></canvas>
+        </div>
+        
+        <div class="element_column">
+            <h1 class="col_title">Filter</h1>
+            <div class="filters" id="filters"></div>
+        </div>
+        <div class="element_column">
+            <h1 class="col_title">Uitvoer afbeelding</h1>
+            <canvas id="outputCanvas" width="300" height="235"></canvas>
+        </div>
+    </div>
+    <script>
+        const filters = [
+            { name: 'Edge Detection', kernel: [-1, -1, -1, -1, 8, -1, -1, -1, -1] },
+            { name: 'Blur', kernel: [1/9, 1/9, 1/9, 1/9, 1/9, 1/9, 1/9, 1/9, 1/9] },
+            { name: 'Sharpen', kernel: [0, -1, 0, -1, 5, -1, 0, -1, 0] },
+            { name: 'Emboss', kernel: [-2, -1, 0, -1, 1, 1, 0, 1, 2] },
+            { name: 'Outline', kernel: [0, 1, 0, 1, -4, 1, 0, 1, 0] }
+        ];
+
+        const inputCanvas = document.getElementById('inputCanvas');
+        const outputCanvas = document.getElementById('outputCanvas');
+        const ctxInput = inputCanvas.getContext('2d');
+        const ctxOutput = outputCanvas.getContext('2d');
+
+        const filtersDiv = document.getElementById('filters');
+
+        function fractionFormat(value) {
+            if (value === 1/9) return '1/9';
+            if (value === -1/9) return '-1/9';
+            if (Number.isInteger(value)) return value.toString();
+            return value.toFixed(2);
+        }
+
+        filters.forEach(filter => {
+            const filterDiv = document.createElement('div');
+            filterDiv.classList.add('filter');
+            filterDiv.onclick = () => applyFilter(filter.kernel);
+            
+            filter.kernel.forEach(value => {
+                const cell = document.createElement('div');
+                cell.classList.add('cell');
+                cell.textContent = fractionFormat(value);
+                filterDiv.appendChild(cell);
+            });
+
+            filtersDiv.appendChild(filterDiv);
+        });
+
+        const img = new Image();
+        img.src = '/assets/images/convolutie/igent.png'; // Example B/W image
+        img.crossOrigin = "anonymous";
+        img.onload = () => {
+            ctxInput.drawImage(img, 0, 0, inputCanvas.width, inputCanvas.height);
+        };
+
+        function applyFilter(kernel) {
+            const imageData = ctxInput.getImageData(0, 0, inputCanvas.width, inputCanvas.height);
+            const data = imageData.data;
+            const width = imageData.width;
+            const height = imageData.height;
+            const outputData = ctxOutput.createImageData(width, height);
+            const outputPixels = outputData.data;
+            
+            for (let y = 1; y < height - 1; y++) {
+                for (let x = 1; x < width - 1; x++) {
+                    let r = 0, g = 0, b = 0;
+                    let index = (y * width + x) * 4;
+                    
+                    for (let ky = -1; ky <= 1; ky++) {
+                        for (let kx = -1; kx <= 1; kx++) {
+                            let pixelIndex = ((y + ky) * width + (x + kx)) * 4;
+                            let weight = kernel[(ky + 1) * 3 + (kx + 1)];
+                            r += data[pixelIndex] * weight;
+                            g += data[pixelIndex + 1] * weight;
+                            b += data[pixelIndex + 2] * weight;
+                        }
+                    }
+                    outputPixels[index] = Math.min(Math.max(r, 0), 255);
+                    outputPixels[index + 1] = Math.min(Math.max(g, 0), 255);
+                    outputPixels[index + 2] = Math.min(Math.max(b, 0), 255);
+                    outputPixels[index + 3] = 255;
+                }
+            }
+            ctxOutput.putImageData(outputData, 0, 0);
+        }
+    </script>
+</body>
+</html>
