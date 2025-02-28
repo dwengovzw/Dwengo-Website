@@ -12,7 +12,7 @@ Kom naar de infosessies van Van In en leer meer over computationeel denken.
 
 **Waar en wanneer?**
 
-Hasselt - maandag 10 maart
+Hasselt - maandag 10 maart - 20 uur
 
 **Inhoud:** Ontdek hoe je computationeel denken vanuit praktische contexten in je lessen kan integreren, zowel in technische en wetenschapsvakken, als in bv. taal- en humane vakken.
 
