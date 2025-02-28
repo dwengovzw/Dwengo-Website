@@ -1,6 +1,6 @@
 ---
 title: "Krokus Bootcamp Gent: AI Bootcamp"
-date: 2025-03-03T09:30:00
+date: 2025-01-10T09:30:00
 item_theme_logo_url: "/images/curricula/logo_aiopschool.png"
 language: "nl"
 anchor: "Fluxlab-Bootcamp-03-03-25"
