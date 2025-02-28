@@ -1,7 +1,7 @@
 ---
 title: "Computationeel denken op de 'Van In'-infosessies"
 date: 2025-03-18T20:00:00
-end_date: 2025-03-18T21:30:00
+end_date: 2025-03-18T21:00:00
 item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
 location: ""
 language: "nl"
