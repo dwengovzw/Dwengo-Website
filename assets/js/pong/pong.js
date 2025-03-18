@@ -19,8 +19,8 @@ let pong = {
 // Reset the game state
 function reset() {
     // Reset the ball at a random position around the center of the grid
-    pong.ball.row = Math.floor(pong.world.rows / 2) + Math.floor(Math.random() * 5);
-    pong.ball.col = Math.floor(pong.world.cols / 2) + Math.floor(Math.random() * 5);
+    pong.ball.row = Math.floor(pong.world.rows / 2) + Math.floor(Math.random() * 3) - 6;
+    pong.ball.col = Math.floor(pong.world.cols / 2) + Math.floor(Math.random() * 5) - 10;
     pong.ball.x_dir = Math.random() < 0.5 ? 1 : -1;
     pong.ball.y_dir = Math.random() < 0.5 ? 1 : -1;
     pong.ball.speed = 1;
@@ -81,6 +81,12 @@ function moveBall() {
     }
     // Check for collision with rl paddle
     if (pong.ball.col == pong.rlPaddle.col + 1 && pong.ball.row >= pong.rlPaddle.row && pong.ball.row < pong.rlPaddle.row + pong.rlPaddle.length) {
+        // Change y direction depending on where the ball has hit the paddle
+        if (pong.ball.row == pong.rlPaddle.row && pong.ball.row > 1){
+            pong.ball.y_dir = -1;
+        } else if (pong.ball.row == pong.rlPaddle.row + pong.rlPaddle.length - 1 && pong.ball.row < pong.world.rows - 2){
+            pong.ball.y_dir = 1;
+        }
         pong.ball.x_dir *= -1;
         pong.score++;
     }
@@ -91,6 +97,12 @@ function moveBall() {
     }
     // Check for collision with computer paddle
     if (pong.ball.col == pong.computerPaddle.col - 1 && pong.ball.row >= pong.computerPaddle.row && pong.ball.row < pong.computerPaddle.row + pong.computerPaddle.length) {
+        // Change y direction depending on where the ball has hit the paddle
+        if (pong.ball.row == pong.computerPaddle.row && pong.ball.row > 1){
+            pong.ball.y_dir = -1;
+        } else if (pong.ball.row == pong.computerPaddle.row + pong.computerPaddle.length - 1 && pong.ball.row < pong.world.rows - 2){
+            pong.ball.y_dir = 1;
+        } 
         pong.ball.x_dir *= -1;
     }
 }
@@ -214,9 +226,9 @@ let episodes = 10;
 let steps = 1000;
 
 // The reward for losing the game
-let reward_for_loss = -100;
+let reward_for_loss = -10;
 // The reward for hitting the ball
-let reward_for_hit = 10;
+let reward_for_hit = 2;
 
 // Clear the canvas
 ctx.fillStyle = 'black';
@@ -315,6 +327,8 @@ function learn(){
 
     // The q-learning algorithm
     for (let episode = 0; episode < episodes; episode++) {
+        let episodeReward = 0;
+        prevScore = 0;
         reset();
         let ball_row = pong.ball.row;
         let ball_dir = pong.ball.x_dir;
@@ -342,6 +356,7 @@ function learn(){
                 prevScore = pong.score
                 reward = reward_for_hit;
             }
+            episodeReward += reward;
             q[state][action] = q[state][action] + alpha * (reward + gamma * Math.max(...q[next_state]) - q[state][action]);
             ball_row = pong.ball.row;
             ball_dir = pong.ball.x_dir;
@@ -352,8 +367,8 @@ function learn(){
         }
     }
 
-
-  
+    // Visualize the Q-table
+    visualize_q_table(q);
 
     // Reset the game and play based on the q-table
     reset();
@@ -388,6 +403,57 @@ function learn(){
         }, 1000 / 10);
     }, 2000)
         
+}
+
+// Visualize the Q-table by adding a table to the html below the controls
+function visualize_q_table(q) {
+    let table = document.getElementById('qTable');
+    table.innerHTML = '';
+    // Add table headers
+    let tr = document.createElement('tr');
+    let th = document.createElement('th');
+    th.style.backgroundColor = "lightblue";
+    th.innerHTML = 'State (Ball row, Paddle row)';
+    tr.appendChild(th);
+    for (let action of ['Up', 'Stay', 'Down']) {
+        let th = document.createElement('th');
+        th.innerHTML = action;
+        th.style.backgroundColor = "lightblue";
+        tr.appendChild(th);
+    }
+    table.appendChild(tr);
+    for (let state in q) {
+        let tr = document.createElement('tr');
+        let td = document.createElement('td');
+        td.innerHTML = state;
+        td.style.backgroundColor = "lightblue";
+        tr.appendChild(td);
+        // Get the action with the highest value
+        let max_action = q[state].indexOf(Math.max(...q[state]));
+        for (let action of q[state]) {
+            let td = document.createElement('td');
+            td.innerHTML = action;
+            // Highlight the cell with the highest value
+            if (action == Math.max(...q[state])) {
+                td.style.fontWeight = 'bold';
+                td.style.backgroundColor = "lightgreen";
+            }else{
+                td.style.backgroundColor = "yellow";
+            }
+            // Set size of the cell to 50x50 pixels
+            td.style.width = '25px';
+            td.style.height = '25px';
+
+            tr.appendChild(td);
+        }
+        table.appendChild(tr);
+    }
+}
+
+// Map the values of the q-table to colors
+function mapColorToValue(value, min, max) {
+    let hue = (1 - (value - min) / (max - min)) * 120;
+    return 'hsl(' + hue + ', 100%, 50%)';
 }
 
 document.getElementById('stopPlaying').onclick = function () {
