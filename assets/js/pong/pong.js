@@ -167,11 +167,13 @@ keys = {
 document.addEventListener('keydown', function (event) {
     if (event.code in keys) {
         keys[event.code] = true;
+        event.preventDefault();
     }
 });
 document.addEventListener('keyup', function (event) {
     if (event.code in keys) {
         keys[event.code] = false;
+        event.preventDefault();
     }
 });
 
