@@ -125,6 +125,12 @@ function moveBall() {
 let canvas = document.getElementById('pong');
 let ctx = canvas.getContext('2d');
 
+// Stupid function to handle special unicode chars
+function decodeHtml(html) {
+    var txt = document.createElement("textarea");
+    txt.innerHTML = html;
+    return txt.value;
+}
 
 // Draw the game on the canvas with id pong
 function draw() {
@@ -182,8 +188,8 @@ function draw() {
     ctx.fillText('' + Math.floor(pong.rlPaddle.row), canvas.width/pong.world.cols + 20, (pong.rlPaddle.row + 2) * canvas.height / pong.world.rows + 3);
     // Draw an up arrow above and a down arrow below the y-position on the canvas 
     ctx.font = '25px Arial';
-    ctx.fillText('&uarr;', canvas.width/pong.world.cols + 20, (pong.rlPaddle.row + 1) * canvas.height / pong.world.rows);
-    ctx.fillText('&darr;', canvas.width/pong.world.cols + 20, (pong.rlPaddle.row + 3) * canvas.height / pong.world.rows);
+    ctx.fillText(decodeHtml('&uarr;'), canvas.width/pong.world.cols + 20, (pong.rlPaddle.row + 1) * canvas.height / pong.world.rows);
+    ctx.fillText(decodeHtml('&darr;'), canvas.width/pong.world.cols + 20, (pong.rlPaddle.row + 3) * canvas.height / pong.world.rows);
 
 
     // Draw the score
