@@ -1,0 +1,33 @@
+---
+permalink: /absp/
+---
+
+<!-- Basic html structure with link to the pong.js script and style.css stylesheet -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Absp</title>
+    <link rel="stylesheet" type="text/css" href="/assets/css/pong/style.css">
+</head>
+<body>
+    <canvas id="pong" width="400" height="400"></canvas>
+
+    <!-- Add input boxes for asking the following parameters from the user: alpha, gamma, epsilon, episodes, steps -->
+     <div class="controls">
+        <div>
+            <button id="start">Start</button>
+            <button id="reset">Reset</button>
+        </div>
+     </div>
+
+     <!-- Add up and down arrows that are only shown when on mobile device -->
+      <div>
+        <div class="mobile-controls">
+            <button id="up" class="up-down">↑</button>
+            <button id="down" class="up-down">↓</button>
+        </div>
+    <div>
+
+    <script src="/assets/js/pong/pong.js"></script>
+</body>
+</html>
