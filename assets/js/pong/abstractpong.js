@@ -182,8 +182,8 @@ function draw() {
     ctx.fillText('' + Math.floor(pong.rlPaddle.row), canvas.width/pong.world.cols + 20, (pong.rlPaddle.row + 2) * canvas.height / pong.world.rows + 3);
     // Draw an up arrow above and a down arrow below the y-position on the canvas 
     ctx.font = '25px Arial';
-    ctx.fillText('↑', canvas.width/pong.world.cols + 20, (pong.rlPaddle.row + 1) * canvas.height / pong.world.rows);
-    ctx.fillText('↓', canvas.width/pong.world.cols + 20, (pong.rlPaddle.row + 3) * canvas.height / pong.world.rows);
+    ctx.fillText('&uarr;', canvas.width/pong.world.cols + 20, (pong.rlPaddle.row + 1) * canvas.height / pong.world.rows);
+    ctx.fillText('&darr;', canvas.width/pong.world.cols + 20, (pong.rlPaddle.row + 3) * canvas.height / pong.world.rows);
 
 
     // Draw the score
