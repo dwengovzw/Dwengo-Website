@@ -46,7 +46,6 @@ button {
     min-width: 6rem;
     min-height: 6rem;
     padding: 12px 20px; /* Adds extra tap area */
-    font-size: 16px; /* Readable text */
     border-radius: 8px; /* Rounded corners for better UX */
     border: none;
     background-color: #87C544; /* Example color */
@@ -55,4 +54,5 @@ button {
     text-align: center;
     display: inline-block;
     font-weight: 900;
+    font-size: 3rem;
 }
