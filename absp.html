@@ -13,20 +13,17 @@ permalink: /absp/
     <canvas id="pong" width="400" height="400"></canvas>
 
     <!-- Add input boxes for asking the following parameters from the user: alpha, gamma, epsilon, episodes, steps -->
-     <div class="controls">
-        <div>
+     <div class="controls-container">
+        <!-- Add up and down arrows that are only shown when on mobile device -->
+        <div class="mobile-controls">
+            <button id="up" class="up-down">↑</button>
+            <button id="down" class="up-down">↓</button>
+        </div>
+        <div class="controls">
             <button id="start">Start</button>
             <button id="reset">Reset</button>
         </div>
-     </div>
-
-     <!-- Add up and down arrows that are only shown when on mobile device -->
-      <div>
-        <div class="mobile-controls">
-            <button id="up" class="up-down">&uarr;</button>
-            <button id="down" class="up-down">&darr;</button>
-        </div>
-    <div>
+    </div>
 
     <script src="/assets/js/pong/abstractpong.js"></script>
 </body>

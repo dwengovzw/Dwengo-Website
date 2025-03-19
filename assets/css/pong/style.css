@@ -5,4 +5,54 @@ body {
 /* Set the text color of the labels under the controls div to white. */
 .controls label {
     color: white;
+    margin: auto;
+}
+
+.white {
+    color: white;
+}
+
+canvas {
+    display: block;
+    max-width: 800px;
+    max-height: 800px;
+    margin: auto;
+}
+
+.controls {
+    display: flex;
+    flex-direction: row; /* Stack buttons */
+    gap: 1rem; /* Ensures spacing */
+}
+
+.mobile-controls {
+    display: flex;
+    flex-direction: row; /* Stack buttons */
+    gap: 1rem; /* Ensures spacing */
+}
+
+.controls-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 100%;
+    gap: 1rem;
+    margin-top: 3rem;
+}
+
+button {
+    min-width: 6rem;
+    min-height: 6rem;
+    padding: 12px 20px; /* Adds extra tap area */
+    font-size: 16px; /* Readable text */
+    border-radius: 8px; /* Rounded corners for better UX */
+    border: none;
+    background-color: #87C544; /* Example color */
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block;
+    font-weight: 900;
 }
