@@ -21,7 +21,7 @@ Dit educatieve kaartspel moedigt je aan om het gesprek aan te gaan over de impac
 
 🎯 Werk aan leerdoelen of inzicht in gezondheidsdata – Laat je inspireren door de [handleiding](https://dwengo.org/assets/files/care/AIIndeZorgKaartenset_UitlegVoorLeerkracht.pdf).     
 
-📚 Technische inzichten via infofiches – Ontdek de achterliggende technische concepten van AI en robotica aan de hand van duidelijke infofiches. 
+📚 Technische inzichten via [infofiches](https://dwengo.org/assets/files/care/fiches.pdf) – Ontdek de achterliggende technische concepten van AI en robotica aan de hand van duidelijke infofiches. 
 
 📄 Beschikbaar als pdf – Print de kaartenset uit of gebruik de digitale versie.
 
@@ -30,5 +30,7 @@ Dit educatieve kaartspel moedigt je aan om het gesprek aan te gaan over de impac
 💡 Gedrukte set gratis aan te vragen door zorgorganisaties! – Reserveer een kaartenset via [e-mail](mailto:info@dwengo.org).
 
 Dit project van Dwengo vzw en de UGent werd gerealiseerd met de steun van de Koning Boudewijnstichting, de Nationale Loterij en de Provincie Oost-Vlaanderen.
+
+[Bekijk het animatiefilmpje over het stellingenspel>](https://youtu.be/XH3S4HI-BXE)
 
 ![kaartsample](https://github.com/user-attachments/assets/c2491657-e18f-48d4-bd00-0b2d5db65dfb)
