@@ -24,7 +24,7 @@ In deze workshop gaan jullie hands-on aan de slag en gebruik je een diep neuraal
 **Doelgroep:**
 Leerkrachten 2de en 3de graad.
 
-**Wanneer:** 16 okotber 2025, 9u-16u
+**Wanneer:** 16 oktober 2025, 9u-16u
 
 **Locatie:** KU Leuven Campus Kulak Kortrijk, Etienne Sabbelaan 53, Kortrijk
 
