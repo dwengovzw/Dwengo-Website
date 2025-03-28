@@ -1,5 +1,5 @@
 ---
-title: "Kunstnatige Intelligentie, Klimaatverandering, Stomata: KIKS"
+title: "Kunstmatige Intelligentie, Klimaatverandering, Stomata: KIKS"
 date: 2025-10-16T09:00:00
 end_date: 2025-10-16T16:00:00
 item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
