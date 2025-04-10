@@ -9,13 +9,15 @@ language: "nl"
 registration_link: "https://www.vlaanderen.be/kenniscentrum-digisprong/evenementen/stem-workshop-door-het-scientix-team/24-04-2025"
 anchor: "SocialeRobot_24_04_25"
 ---
-#### Dwengo-workshop STEM-studiedag door het SCIENTIX-team
+#### Dwengo-workshop op SCIENTIX STEM-studiedag
 
 Onderzoek, ontdekking en ontwerp van een sociale robot. 
 
 Via [https://dwengo.org/socialerobot](https://dwengo.org/socialerobot) kan je de inhoud van deze workshop onmiddellijk inzetten in jouw klas. 
 
 Breng zeker je laptop mee! 
+
+**Datum:** 24 april 2025
 
 **Locatie:** Future Classroom Lab, Trierstraat 61, Brussel
 
