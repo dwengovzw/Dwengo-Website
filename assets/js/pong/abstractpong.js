@@ -97,8 +97,8 @@ function moveBall() {
             pong.ball.y_dir = 1;
         }
         pong.ball.x_dir *= -1;
-        pong.score+=100;
-        pong.currentReward = 100;
+        pong.score+=50;
+        pong.currentReward = 50;
         pong.rewardVisible = 10;
     }
 
