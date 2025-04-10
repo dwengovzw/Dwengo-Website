@@ -17,7 +17,7 @@ let pong = {
     currentReward: null,
     rewardVisible: 50,
     collisionTime: 0,
-    showGameFromScore: 450
+    showGameFromScore: 150
 }
 
 // Reset the game state
@@ -97,8 +97,8 @@ function moveBall() {
             pong.ball.y_dir = 1;
         }
         pong.ball.x_dir *= -1;
-        pong.score+=50;
-        pong.currentReward = 50;
+        pong.score+=25;
+        pong.currentReward = 25;
         pong.rewardVisible = 10;
     }
 
