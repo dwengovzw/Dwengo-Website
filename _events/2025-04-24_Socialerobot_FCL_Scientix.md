@@ -9,7 +9,9 @@ language: "nl"
 registration_link: "https://www.vlaanderen.be/kenniscentrum-digisprong/evenementen/stem-workshop-door-het-scientix-team/24-04-2025"
 anchor: "SocialeRobot_24_04_25"
 ---
-#### Dwengo-workshop op SCIENTIX STEM-studiedag
+#### Dwengo-workshop op SCIENTIX STEM-studiedag (geannuleerd)
+
+**Wegens een gebrek aan inschrijvingen voor de STEM-studiedag heeft het departement besloten om de studiedag te annuleren.**
 
 Onderzoek, ontdekking en ontwerp van een sociale robot. 
 
