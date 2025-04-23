@@ -7,7 +7,7 @@ title: socialerobotwedstrijd_pers
 permalink: /sr_persbericht/
 banner_image: "/images/curricula/banner_socialrobot.png"
 logo_image: "/images/curricula/logo_socialrobot.png"
-partner_images: ['/images/partners/dwengo.png','/images/partners/ugent.svg', '/images/partners/onderwijsvlaanderen.png', '/images/partners/comon.png', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg',  '/images/partners/pov.jpg', '/images/partners/GO!.png', '/images/partners/kov.png', '/images/partners/ovsg.png', '/images/partners/voop.webp', '/images/partners/uccl_aot_logo.png']
+partner_images: ['/images/partners/dwengo.png','/images/partners/ugent.svg','/images/partners/imec.svg', '/images/partners/onderwijsvlaanderen.png', '/images/partners/comon.png', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg',  '/images/partners/pov.jpg', '/images/partners/GO!.png', '/images/partners/kov.png', '/images/partners/ovsg.png', '/images/partners/voop.webp', '/images/partners/uccl_aot_logo.png']
 learning_paths: ['sr0_lkr', 'sr0_lln', 'sr1', 'sr2', 'sr3', 'sr4']
 ---
 
@@ -22,7 +22,7 @@ De zestien beste teams van scholen over heel Vlaanderen werden geselecteerd op b
 
 Naast de twee hoofdprijzen wordt er door [Comon](https://comon.gent/) ook een bijzondere prijs uitgereikt voor de beste beweegrobot: een robot die mensen aanzet tot meer fysieke activiteit – een creatief antwoord op een reëel gezondheidsprobleem.
 
-“Deze wedstrijd is écht uniek,” zegt Francis wyffels, professor robotica aan de UGent en voorzitter van Dwengo. “In dit sterk STEM-project maken jongeren kennis met technologie als middel om echte maatschappelijke impact te creëren. Bovendien leren ze niet alleen programmeren, ontwerpen en bouwen, maar ook computationeel denken, samenwerken en communiceren.”
+“Deze wedstrijd is écht uniek,” zegt Francis wyffels, professor robotica aan de UGent - imec en voorzitter van Dwengo. “In dit sterk STEM-project maken jongeren kennis met technologie als middel om echte maatschappelijke impact te creëren. Bovendien leren ze niet alleen programmeren, ontwerpen en bouwen, maar ook computationeel denken, samenwerken en communiceren.”
 
 Journalisten zijn van harte welkom op de finaledag voor interviews met deelnemende leerlingen, leerkrachten en juryleden, en om de creatieve en verrassende robotoplossingen van dichtbij te ervaren. 
 
