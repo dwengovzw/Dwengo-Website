@@ -44,8 +44,8 @@ Beelden en verhalen gegarandeerd – van maatschappelijk geëngageerde robots to
 
 Contactinformatie: <br>
 Dwengo vzw <br>
-E-mail: [robotwedstrijd@dwengo.org](mailto:robotwedstrijd@dwengo.org) <br>
-Web: [www.dwengo.org](https://www.dwengo.org) <br>
+[robotwedstrijd@dwengo.org](mailto:robotwedstrijd@dwengo.org) <br>
+[www.dwengo.org](https://www.dwengo.org) <br>
 
 <br>
 
