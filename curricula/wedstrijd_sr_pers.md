@@ -26,7 +26,7 @@ Naast de twee hoofdprijzen wordt er door [Comon](https://comon.gent/) ook een bi
 
 Journalisten zijn van harte welkom op de finaledag voor interviews met deelnemende leerlingen, leerkrachten en juryleden, en om de creatieve en verrassende robotoplossingen van dichtbij te ervaren. 
 
-Praktisch: <br>
+**Praktisch:** <br>
 Datum: Woensdag 7 mei 2025 <br>
 Locatie: [Oost-Vlaams provinciehuis, Charles de Kerchovelaan 189, 9000 Gent](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c3714e4f450913:0x83941915ed2fc6cc?sa=X&ved=1t:8290&ictx=111) <br>
 Persmoment: Kan doorlopend op afspraak met perscontact. <br>
