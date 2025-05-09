@@ -18,6 +18,7 @@ Gent, 7 mei 2025 – Op woensdag 7 mei vindt in het [Oost-Vlaamse provinciehuis]
 
 
 
+
 De zestien beste teams van scholen over heel Vlaanderen werden geselecteerd op basis van een filmpje en een technische fiche waarin ze hun robot voorstelden. Tijdens de finale presenteren ze hun creaties aan een professionele jury van experts uit de technologie-, onderwijs- en sociale sector.
 
 Naast de twee hoofdprijzen wordt er door [Comon](https://comon.gent/) ook een bijzondere prijs uitgereikt voor de beste beweegrobot: een robot die mensen aanzet tot meer fysieke activiteit – een creatief antwoord op een reëel gezondheidsprobleem.
