@@ -30,8 +30,8 @@ De winnende teams scoorden hoog op al deze criteria. De hoofdprijzen werden wegg
 
   <!-- Navigation buttons -->
   <div class="buttons" style="position: absolute; top: 50%; width: 100%; display: flex; justify-content: space-between; transform: translateY(-50%);margin: 0 10px">
-    <button onclick="prevSlide()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px;">❮</button>
-    <button onclick="nextSlide()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px;">❯</button>
+    <button onclick="prevSlide()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px;margin-left: 10px;">❮</button>
+    <button onclick="nextSlide()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px;margin-right:10px;">❯</button>
   </div>
 
 <div class="carousel" style="position: relative; width: 80%; max-width: 800px; overflow: hidden; border-radius: 10px; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
