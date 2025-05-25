@@ -26,6 +26,93 @@ De beoordeling gebeurde op vier belangrijke criteria:
 
 De winnende teams scoorden hoog op al deze criteria. De hoofdprijzen werden weggekaapt door de robots **Daggoe** van EDUGO (eenzaamheid), **Brave stoel** (mobiliteit bij ouderen) van Tachemoni en **Frosty** (eenzaamheid, medicatie) van Atheneum Schilde. 
 
+<div style="font-family: Arial, sans-serif; background: #f4f4f4; display: flex; justify-content: center; align-items: center; height: 60vh; margin: 0;">
+
+<div class="carousel" style="position: relative; width: 80%; max-width: 800px; overflow: hidden; border-radius: 10px; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
+  <div id="carousel-images" style="display: flex; transition: transform 0.5s ease-in-out;">
+    <img src="/assets/images/wedstrijd_sr/U6A7109.jpg" alt="Slide 1" style="width: 100%; flex-shrink: 0;">
+    <img src="/assets/images/wedstrijd_sr/U6A7188.jpg" alt="Slide 2" style="width: 100%; flex-shrink: 0;">
+    <img src="/assets/images/wedstrijd_sr/U6A7241.jpg" alt="Slide 3" style="width: 100%; flex-shrink: 0;">
+    <img src="/assets/images/wedstrijd_sr/U6A7276.jpg" alt="Slide 4" style="width: 100%; flex-shrink: 0;">
+    <iframe 
+      src="https://www.youtube.com/embed/3WOzwC84_bo?si=w9-iDO3ZkLLbuiTJ" 
+      title="YouTube video" 
+      allowfullscreen 
+      style="width: 100%; flex-shrink: 0; border: none; aspect-ratio: 16/9;">
+    </iframe>
+  </div>
+  <div class="buttons" style="position: absolute; top: 50%; width: 100%; display: flex; justify-content: space-between; transform: translateY(-50%);">
+    <button onclick="prevSlide()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px;">❮</button>
+    <button onclick="nextSlide()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px;">❯</button>
+  </div>
+  <!-- Navigation buttons -->
+  <div class="buttons" style="position: absolute; top: 50%; width: 100%; display: flex; justify-content: space-between; transform: translateY(-50%);">
+    <button onclick="prevSlide()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px;">❮</button>
+    <button onclick="nextSlide()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px;">❯</button>
+  </div>
+
+  <!-- Play/Pause button -->
+  <div style="position: absolute; bottom: 10px; right: 10px;">
+    <button id="toggle-autoplay" onclick="toggleAutoplay()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 8px 16px; cursor: pointer; font-size: 14px; border-radius: 5px;">
+      Pause
+    </button>
+  </div>
+</div>
+
+<script>
+  let currentIndex = 0;
+  let autoplayInterval = null;
+  let isPlaying = true;
+
+  function updateCarousel() {
+    const carousel = document.getElementById('carousel-images');
+    const slideWidth = carousel.clientWidth;
+    carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
+  }
+
+  function nextSlide() {
+    const totalSlides = document.querySelectorAll('#carousel-images > *').length;
+    currentIndex = (currentIndex + 1) % totalSlides;
+    updateCarousel();
+  }
+
+  function prevSlide() {
+    const totalSlides = document.querySelectorAll('#carousel-images > *').length;
+    currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+    updateCarousel();
+  }
+
+  function startAutoplay() {
+    if (!autoplayInterval) {
+      autoplayInterval = setInterval(nextSlide, 5000);
+    }
+  }
+
+  function stopAutoplay() {
+    clearInterval(autoplayInterval);
+    autoplayInterval = null;
+  }
+
+  function toggleAutoplay() {
+    const button = document.getElementById('toggle-autoplay');
+    if (isPlaying) {
+      stopAutoplay();
+      button.textContent = "Play";
+    } else {
+      startAutoplay();
+      button.textContent = "Pause";
+    }
+    isPlaying = !isPlaying;
+  }
+
+  window.addEventListener('resize', updateCarousel);
+
+  // Start autoplay by default
+  startAutoplay();
+</script>
+
+</div>
+
 Naast de hoofdprijzen werd er een **bijzondere prijs van [Comon](https://comon.gent/nieuws/robotwedstrijd-watermeloenrobot-brengt-ouderen-aan-het-dansen)** uitgereikt voor de robot die het meest aanzet tot 'meer bewegen' – een creatief antwoord op het groeiende 
 gezondheidsprobleem van te weinig fysieke activiteit. Deze prijs benadrukt hoe technologie ook kan bijdragen aan een gezondere levensstijl. 
 Deze prijs ging naar de **Watermeloen** van PTS Maasmechelen. 
