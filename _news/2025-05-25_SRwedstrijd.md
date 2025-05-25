@@ -26,14 +26,14 @@ De beoordeling gebeurde op vier belangrijke criteria:
 
 De winnende teams scoorden hoog op al deze criteria. De hoofdprijzen werden weggekaapt door de robots **Daggoe** van EDUGO (eenzaamheid), **Brave stoel** (mobiliteit bij ouderen) van Tachemoni en **Frosty** (eenzaamheid, medicatie) van Atheneum Schilde. 
 
-<div style="font-family: Arial, sans-serif; background: #f4f4f4; display: flex; justify-content: center; align-items: center; height: 60vh; margin: 0;">
+<div style="font-family: Arial, sans-serif; background: #f4f4f4; display: flex; justify-content: center; align-items: center; height: 80vh; margin: 0;">
 
 <div class="carousel" style="position: relative; width: 80%; max-width: 800px; overflow: hidden; border-radius: 10px; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
   <div id="carousel-images" style="display: flex; transition: transform 0.5s ease-in-out;">
-    <img src="/assets/images/wedstrijd_sr/U6A7109.jpg" alt="Slide 1" style="width: 100%; flex-shrink: 0;">
-    <img src="/assets/images/wedstrijd_sr/U6A7188.jpg" alt="Slide 2" style="width: 100%; flex-shrink: 0;">
-    <img src="/assets/images/wedstrijd_sr/U6A7241.jpg" alt="Slide 3" style="width: 100%; flex-shrink: 0;">
-    <img src="/assets/images/wedstrijd_sr/U6A7276.jpg" alt="Slide 4" style="width: 100%; flex-shrink: 0;">
+    <img src="/assets/images/wedstrijd_sr/U6A7109_s.jpg" alt="Slide 1" style="width: 100%; flex-shrink: 0;">
+    <img src="/assets/images/wedstrijd_sr/U6A7188_s.jpg" alt="Slide 2" style="width: 100%; flex-shrink: 0;">
+    <img src="/assets/images/wedstrijd_sr/U6A7241_s.jpg" alt="Slide 3" style="width: 100%; flex-shrink: 0;">
+    <img src="/assets/images/wedstrijd_sr/U6A7276_s.jpg" alt="Slide 4" style="width: 100%; flex-shrink: 0;">
     <iframe 
       src="https://www.youtube.com/embed/3WOzwC84_bo?si=w9-iDO3ZkLLbuiTJ" 
       title="YouTube video" 
