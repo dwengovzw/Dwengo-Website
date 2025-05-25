@@ -133,7 +133,7 @@ Bovendien leren ze niet alleen programmeren, ontwerpen en bouwen, maar ook compu
 De scholen van de deelnemende teams waren verspreid over de verschillende Vlaamse provincies, de verschillende koepels en finaliteiten.
 In de finale zaten teams van de B-stroom tot de finaliteit Doorstroom uit de volgende scholen: Atheneum Schilde, EDUGO campus Glorieux Technisch Instituut Oostakker, 
 HTISA Gent, Israelitisch Atheneum Jesode-Hatora-Beth-Jacob Antwerpen, PROVIL Lommel, PST Maasmechelen, Sint-Bavohumaniora Gent, Sint-Laurens Zelzate, Sint-Paulusschool campus Sint-Vincentius Anzegem, 
-TechnOV Vilvoorde, TSM Mechelen. Hun robots verhelpen eenzaamheid, gaan een verslaving aan roken of gsm-gebruik tegen, zetten aan tot meer bewegen of studeren, 
+TechnOV Vilvoorde. Hun robots verhelpen eenzaamheid, gaan een verslaving aan roken of gsm-gebruik tegen, zetten aan tot meer bewegen of studeren, 
 of helpen de weg te vinden.     
 
 ## Ook aan de slag met sociale robots?
