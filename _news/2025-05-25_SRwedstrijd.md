@@ -28,6 +28,12 @@ De winnende teams scoorden hoog op al deze criteria. De hoofdprijzen werden wegg
 
 <div style="font-family: Arial, sans-serif; background: #f4f4f4; display: flex; justify-content: center; align-items: center; height: 80vh; margin: 0;">
 
+  <!-- Navigation buttons -->
+  <div class="buttons" style="position: absolute; top: 40%; width: 100%; display: flex; justify-content: space-between; transform: translateY(-50%);">
+    <button onclick="prevSlide()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px;">❮</button>
+    <button onclick="nextSlide()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px;">❯</button>
+  </div>
+
 <div class="carousel" style="position: relative; width: 80%; max-width: 800px; overflow: hidden; border-radius: 10px; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
   <div id="carousel-images" style="display: flex; transition: transform 0.5s ease-in-out;">
     <img src="/assets/images/wedstrijd_sr/U6A7109_s.jpg" alt="Slide 1" style="width: 100%; flex-shrink: 0;">
@@ -47,15 +53,7 @@ De winnende teams scoorden hoog op al deze criteria. De hoofdprijzen werden wegg
       style="width: 100%; flex-shrink: 0; border: none; aspect-ratio: 16/9;">
     </iframe>
   </div>
-  <div class="buttons" style="position: absolute; top: 50%; width: 100%; display: flex; justify-content: space-between; transform: translateY(-50%);">
-    <button onclick="prevSlide()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px;">❮</button>
-    <button onclick="nextSlide()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px;">❯</button>
-  </div>
-  <!-- Navigation buttons -->
-  <div class="buttons" style="position: absolute; top: 50%; width: 100%; display: flex; justify-content: space-between; transform: translateY(-50%);">
-    <button onclick="prevSlide()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px;">❮</button>
-    <button onclick="nextSlide()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px;">❯</button>
-  </div>
+
 
   <!-- Play/Pause button -->
   <div style="position: absolute; bottom: 10px; right: 10px;">
@@ -122,6 +120,7 @@ De winnende teams scoorden hoog op al deze criteria. De hoofdprijzen werden wegg
 Naast de hoofdprijzen werd er een **bijzondere prijs van [Comon](https://comon.gent/nieuws/robotwedstrijd-watermeloenrobot-brengt-ouderen-aan-het-dansen)** uitgereikt voor de robot die het meest aanzet tot 'meer bewegen' – een creatief antwoord op het groeiende 
 gezondheidsprobleem van te weinig fysieke activiteit. Deze prijs benadrukt hoe technologie ook kan bijdragen aan een gezondere levensstijl. 
 Deze prijs ging naar de **Watermeloen** van PTS Maasmechelen. 
+
 
 ## STEM met een hart
 
