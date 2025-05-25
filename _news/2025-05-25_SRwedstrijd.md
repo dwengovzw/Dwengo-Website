@@ -26,10 +26,10 @@ De beoordeling gebeurde op vier belangrijke criteria:
 
 De winnende teams scoorden hoog op al deze criteria. De hoofdprijzen werden weggekaapt door de robots **Daggoe** van EDUGO (eenzaamheid), **Brave stoel** (mobiliteit bij ouderen) van Tachemoni en **Frosty** (eenzaamheid, medicatie) van Atheneum Schilde. 
 
-<div style="font-family: Arial, sans-serif; background: #f4f4f4; display: flex; justify-content: center; align-items: center; height: 80vh; margin: 0;">
+<div style="font-family: Arial, sans-serif; background: #f4f4f4; display: flex; justify-content: center; align-items: center; height: 80vh; margin: 0;position: relative">
 
   <!-- Navigation buttons -->
-  <div class="buttons" style="position: absolute; top: 40%; width: 100%; display: flex; justify-content: space-between; transform: translateY(-50%);">
+  <div class="buttons" style="position: absolute; top: 50%; width: 100%; display: flex; justify-content: space-between; transform: translateY(-50%);margin: 0 10px">
     <button onclick="prevSlide()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px;">❮</button>
     <button onclick="nextSlide()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px;">❯</button>
   </div>
