@@ -40,6 +40,12 @@ De winnende teams scoorden hoog op al deze criteria. De hoofdprijzen werden wegg
       allowfullscreen 
       style="width: 100%; flex-shrink: 0; border: none; aspect-ratio: 16/9;">
     </iframe>
+    <iframe 
+      src="https://www.youtube.com/embed/fe9M7jrcLoo?si=xYMyY_OSy540ZnK9" 
+      title="YouTube video" 
+      allowfullscreen 
+      style="width: 100%; flex-shrink: 0; border: none; aspect-ratio: 16/9;">
+    </iframe>
   </div>
   <div class="buttons" style="position: absolute; top: 50%; width: 100%; display: flex; justify-content: space-between; transform: translateY(-50%);">
     <button onclick="prevSlide()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px;">❮</button>
