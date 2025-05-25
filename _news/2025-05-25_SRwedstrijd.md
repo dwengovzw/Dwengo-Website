@@ -24,7 +24,7 @@ De beoordeling gebeurde op vier belangrijke criteria:
 
 ## Winnaars 
 
-De winnende teams scoorden hoog op al deze criteria. De hoofdprijzen werden weggekaapt door de robots **Daggoe** van EDUGO (eenzaamheid), **Brave stoel** (mobiliteit bij ouderen) van Tachemoni en **Frosty** (eenzaamheid, medicatie) van Atheneum Schilde. 
+De winnende teams scoorden hoog op al deze criteria. De hoofdprijzen werden weggekaapt door de robots **Daggoe** van EDUGO (eenzaamheid), **Brave stoel** (mobiliteit bij ouderen) van Atheneum Jesode en **Frosty** (eenzaamheid, medicatie) van Atheneum Schilde. 
 
 <div style="font-family: Arial, sans-serif; background: #f4f4f4; display: flex; justify-content: center; align-items: center; height: 80vh; margin: 0;position: relative">
 
