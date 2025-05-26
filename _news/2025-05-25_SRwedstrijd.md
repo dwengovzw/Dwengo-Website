@@ -117,6 +117,8 @@ De winnende teams scoorden hoog op al deze criteria. De hoofdprijzen werden wegg
 
 </div>
 
+*Foto's met dank aan [Comon](https://comon.gent/)*
+
 Naast de hoofdprijzen werd er een **bijzondere prijs van [Comon](https://comon.gent/nieuws/robotwedstrijd-watermeloenrobot-brengt-ouderen-aan-het-dansen)** uitgereikt voor de robot die het meest aanzet tot 'meer bewegen' – een creatief antwoord op het groeiende 
 gezondheidsprobleem van te weinig fysieke activiteit. Deze prijs benadrukt hoe technologie ook kan bijdragen aan een gezondere levensstijl. 
 Deze prijs ging naar de **Watermeloen** van PTS Maasmechelen. 
@@ -127,6 +129,10 @@ Deze prijs ging naar de **Watermeloen** van PTS Maasmechelen.
 “Deze wedstrijd is écht uniek,” zegt **Francis wyffels**, professor robotica aan de UGent - imec en voorzitter van Dwengo. 
 “In dit sterk STEM-project maken jongeren kennis met technologie als middel om echte maatschappelijke impact te creëren. 
 Bovendien leren ze niet alleen programmeren, ontwerpen en bouwen, maar ook computationeel denken, samenwerken en communiceren.”
+
+ *"We hebben in dit project heel veel geleerd: hoe een robot werkt en hoe je met elektronica moet werken, bijvoorbeeld hoe je elektronische onderdelen moet aansluiten." - Emiel en Seppe, 2de jaar STEM-technieken*
+
+*“Dit project is exact wat we willen bereiken met onze richting STEM - Wetenschappen. We koppelen techniek aan maatschappelijke relevantie en stimuleren onze leerlingen om met een brede blik naar de wereld te kijken.” -  GO! atheneum Schilde*
 
 ## Spreiding 
 
