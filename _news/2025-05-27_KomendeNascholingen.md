@@ -13,6 +13,7 @@ Volgend schooljaar staan er opnieuw inspirerende [nascholingen](https://dwengo.o
 - 🗣️ **Taaltechnologie** – Van sentimentanalyse tot chatbots.
 - 😃 **Bouw je eigen AI-systeem om emoties te herkennen** – Hands-on een neuraal netwerk bouwen.
 - 🖥️ **Computationeel denken** - Wat is computationeel denken? Hoe ga ik er actief mee aan de slag in de klas?
+- 🔢 **Numerieke methodes** - Maak kennis met onze Python notebooks over numerieke methodes die aansluiten bij de leerstof wiskunde.
 
 📍 We geven onze nascholingen onder andere in **Gent**, **Antwerpen**, **Brugge** en **Kortrijk**.
 
