@@ -40,7 +40,7 @@ De winnende teams scoorden hoog op al deze criteria. De hoofdprijzen werden wegg
     <img src="/assets/images/wedstrijd_sr/U6A7188_s.jpg" alt="Slide 2" style="width: 100%; flex-shrink: 0;">
     <img src="/assets/images/wedstrijd_sr/U6A7241_s.jpg" alt="Slide 3" style="width: 100%; flex-shrink: 0;">
     <img src="/assets/images/wedstrijd_sr/U6A7276_s.jpg" alt="Slide 4" style="width: 100%; flex-shrink: 0;">
-    <img src="/assets/images/wedstrijd_sr/_U6A7772 kopie_low_res.jpg" alt="Slide 4" style="width: 100%; flex-shrink: 0;">
+    <img src="/assets/images/wedstrijd_sr/U6A7772_s.jpg" alt="Slide 5" style="width: 100%; flex-shrink: 0;">
     <iframe 
       src="https://www.youtube.com/embed/3WOzwC84_bo?si=w9-iDO3ZkLLbuiTJ" 
       title="YouTube video" 
