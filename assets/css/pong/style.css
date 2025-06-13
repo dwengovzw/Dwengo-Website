@@ -31,6 +31,21 @@ canvas {
     color: white;
 }
 
+.buttons button {
+    min-width: 3rem;
+    min-height: 3rem;
+    padding: 12px 20px; /* Adds extra tap area */
+    border-radius: 5px; /* Rounded corners for better UX */
+    border: none;
+    background-color: #87C544; /* Example color */
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
 .inputs {
     display: flex;
     flex-direction: column; /* Stack inputs vertically */
