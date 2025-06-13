@@ -3,6 +3,7 @@ title: "Naar welke nascholingen kan je alvast uitkijken volgend schooljaar?"
 date: 2025-05-27T07:00:00
 item_theme_logo_url: "/images/curricula/logo_basics_ai.png"
 language: "nl"
+anchor: "nascholingen2025-2026"
 ---
 Wil je je verdiepen in artificiële intelligentie of computationeel denken?  
 Volgend schooljaar staan er opnieuw inspirerende [nascholingen](https://dwengo.org/agenda/) op het programma! Ontdek onder andere:
