@@ -482,3 +482,42 @@ document.getElementById('play').onclick = function () {
     }, 100
     );
 }
+
+
+function resizeCanvas() {
+    const canvas = document.getElementById("pong");
+    const aspectRatio = 1; // Adjust as needed
+    let width, height;
+    if (window.innerWidth < window.innerHeight) {
+        width = Math.min(window.innerWidth, 400);
+        height = width / aspectRatio;
+    } else {
+        height = Math.min(window.innerHeight, 400);
+        width = height * aspectRatio;
+    }
+    
+    const isMobile = window.mobileCheck(); //resolves true/false
+
+    console.log(window.innerWidth);
+
+    if (isMobile) {
+
+        if (height > 400) {
+            height = 400;
+            width = height * aspectRatio;
+        }
+        
+        canvas.width = width;
+        canvas.height = height;
+        canvas.style.width = width*window.devicePixelRatio + "px";
+        canvas.style.height = height*window.devicePixelRatio + "px";
+    } else {
+        canvas.width = 400;
+        canvas.height = 400;
+        canvas.style.width = "400px";
+        canvas.style.height = "400px";
+    }
+}
+
+window.addEventListener("resize", resizeCanvas);
+resizeCanvas();

@@ -23,6 +23,30 @@ canvas {
     display: flex;
     flex-direction: row; /* Stack buttons */
     gap: 1rem; /* Ensures spacing */
+    color: white;
+}
+.inputs > label {
+    margin: 0 1rem; /* Adjust spacing between labels */
+    font-size: 1.2rem; /* Adjust font size for better readability */
+    color: white;
+}
+
+.inputs {
+    display: flex;
+    flex-direction: column; /* Stack inputs vertically */
+    gap: 1rem; /* Ensures spacing */
+    margin: auto;
+    width: 100%;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.inputs .buttons {
+    display: flex;
+    flex-direction: row; /* Stack buttons */
+    gap: 1rem; /* Ensures spacing */
 }
 
 .mobile-controls {

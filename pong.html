@@ -13,7 +13,7 @@ permalink: /pong/
     <canvas id="pong" width="650" height="325"></canvas>
 
     <!-- Add input boxes for asking the following parameters from the user: alpha, gamma, epsilon, episodes, steps -->
-     <div class="controls">
+     <div class="inputs">
         <div>
             <label for="alpha">Alpha:</label>
             <input type="number" id="alpha" value="0.1" step="0.1" min="0" max="1">
@@ -23,17 +23,17 @@ permalink: /pong/
             <input type="number" id="epsilon" value="0.1" step="0.1" min="0" max="1">
             <label for="episodes">Episodes:</label>
             <input type="number" id="episodes" value="10" step="1" min="1">
-            <label for="steps">Steps:</label>
+            <label for="steps">Stappen:</label>
             <input type="number" id="steps" value="10" step="1" min="1">
         </div>
-        <div>
+        <div class="buttons">
             <button id="start">Train</button>
-            <button id="play">Play against AI</button>
+            <button id="play">Speel tegen de AI</button>
             <button id="stopPlaying">Stop</button>
         </div>
      </div>
      <div>
-        <h3 class="white">Q-table</h3>
+        <h3 class="white">Q-tabel</h3>
         <table id="qTable">
        </table>
      </div>
