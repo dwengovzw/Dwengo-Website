@@ -9,4 +9,6 @@ language: "nl"
 anchor: "dwengo_open_lab_2025_10_15-1"
 ---
 
-De ervaring leert ons dat physical computing zich zeer goed leent voor het creëren van een motiverende leercontext. Daarom ontwikkelde Dwengo het 'sociale robot'-project. Het project bevat alle nodige lesmateriaal, hardware en tools om in de klas eenvoudig te starten met physical computing. Met het 'sociale robot'-project laat je je leerlingen op een laagdrempelige manier kennis maken met robotica en geef je hen de mogelijkheid om na te denken over oplossingen voor maatschappelijk relevante problemen. Al het lesmateriaal kan je terugvinden op [dwengo.org/waisda](dwengo.org/waisda).
+Ben je benieuwd naar het materiaal dat Dwengo te bieden heeft maar voel je nog drempels om ermee aan de slag te gaan? Het Dwengo open lab is dan de ideale plaats om kennis te maken met alles wat Dwengo te bieden heeft. Elke derde woensdag van de maand kan je terecht in het makersatelier van stadsbibliotheek De Krook in Gent. Daar krijg je de mogelijkheid om, onder professionele begeleiding, onze verschillende lesactiviteiten uit te proberen.
+
+Elk open lab werken we rond een bepaald thema. In dit lab kan je kennis maken met ons materiaal over versterkend leren. Dit is een AI-techniek die de manier waarop wij als mensen leren, probeert na te bootsen. Dit lesmateriaal is gericht op leerlingen van de tweede en derde graad van het secundair onderwijs. Meer informatie over het project kan je vinden op [https://dwengo.org/waisda/](dwengo.org/waisda).
