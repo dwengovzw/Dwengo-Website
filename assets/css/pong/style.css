@@ -31,6 +31,10 @@ canvas {
     color: white;
 }
 
+.inputs > input {
+    max-width: 3rem;;
+}
+
 .buttons button {
     min-width: 3rem;
     min-height: 3rem;

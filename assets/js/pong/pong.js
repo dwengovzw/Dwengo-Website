@@ -262,12 +262,12 @@ document.getElementById('start').onclick = function () {
     ctx.fillRect(0, 0, canvas.width, canvas.height);
     ctx.fillStyle = 'white';
     ctx.font = '30px Arial';
-    ctx.fillText("Training with the following parameters:", 100, 100);
+    ctx.fillText("Trainen met volgende parameters:", 100, 100);
     ctx.fillText('Alpha: ' + alpha, 100, 150);
     ctx.fillText('Gamma: ' + gamma, 100, 180);
     ctx.fillText('Epsilon: ' + epsilon, 100, 210);
     ctx.fillText('Episodes: ' + episodes, 100, 240);
-    ctx.fillText('Steps: ' + steps, 100, 270);
+    ctx.fillText('Stappen: ' + steps, 100, 270);
 
     // Disable the start button
     document.getElementById('start').disabled = true;
@@ -380,13 +380,13 @@ function learn(){
     ctx.fillRect(0, 0, canvas.width, canvas.height);
     ctx.fillStyle = 'white';
     ctx.font = '60px Arial';
-    ctx.fillText('Playing', 300, 100);
+    ctx.fillText('Spelen', 300, 100);
 
     // Print the text "AI: left, Computer: right" on the canvas
     ctx.fillStyle = 'white';
     ctx.font = '30px Arial';
-    ctx.fillText('AI: left', 200, 200);
-    ctx.fillText('Computer: right', 400, 200);
+    ctx.fillText('AI: links', 200, 200);
+    ctx.fillText('Computer: rechts', 400, 200);
 
 
     setTimeout(function(){
