@@ -9,4 +9,4 @@ language: "nl"
 anchor: "dwengo_open_lab_2025_10_15-1"
 ---
 
-test [dwengo.org/waisda](dwengo.org/waisda)
+De ervaring leert ons dat physical computing zich zeer goed leent voor het creëren van een motiverende leercontext. Daarom ontwikkelde Dwengo het 'sociale robot'-project. Het project bevat alle nodige lesmateriaal, hardware en tools om in de klas eenvoudig te starten met physical computing. Met het 'sociale robot'-project laat je je leerlingen op een laagdrempelige manier kennis maken met robotica en geef je hen de mogelijkheid om na te denken over oplossingen voor maatschappelijk relevante problemen. Al het lesmateriaal kan je terugvinden op [dwengo.org/waisda](dwengo.org/waisda).
