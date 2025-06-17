@@ -22,6 +22,6 @@ Alle geïnteresseerden. Deze kaartenset kan ook gebruikt worden in taallessen, l
 
 **Datum:** 30 september van 9u30 tot 12u30
 
-**Prijs:** €70
+**Prijs:** €65
 
 **Organisatie:** Dwengo

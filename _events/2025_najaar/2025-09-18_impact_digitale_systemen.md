@@ -26,6 +26,6 @@ Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor e
 
 ![Plan naar het makersattelier](/images/events/2025/plan_de_krook_dwengo.png)
 
-**Prijs:** €70
+**Prijs:** €65
 
 **Organisatie:** Dwengo

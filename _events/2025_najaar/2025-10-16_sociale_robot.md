@@ -17,6 +17,9 @@ In deze nascholing maak je kennis met het materiaal, zie je hoe je het kan integ
 
 **Doelgroep:** Leerkrachten van 1e en 2e graad.
 
+**Meebrengen:** <br>
+Laptop met internetbrowser (bij voorkeur Google Chrome).
+
 **Wanneer:** 16 oktober 2025 van 9u30-16u30
 
 **Locatie:** Het makersatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
