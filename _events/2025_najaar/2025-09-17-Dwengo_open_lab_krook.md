@@ -18,7 +18,7 @@ Het open lab is toegankelijk voor iedereen maar is vooral gericht op leerkrachte
 
 **Locatie:** Het makersattelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
 
-![Plan naar het makersattelier](/images/event/2025/plan_de_krook_dwengo.png)
+![Plan naar het makersattelier](/images/events/2025/plan_de_krook_dwengo.png)
 
 **Datum:** 17 september van 12u00 tot 17u00
 
