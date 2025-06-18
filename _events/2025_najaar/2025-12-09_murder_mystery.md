@@ -1,5 +1,5 @@
 ---
-title: "Nascholing taaltechnologie (moorddiner)"
+title: "Nascholing taaltechnologie (moordmysterie)"
 date: 2025-12-09T13:00:00
 end_date: 2025-12-09T16:00:00
 item_theme_logo_url: "/images/curricula/logo_chatbot.png"
@@ -12,7 +12,7 @@ registration_link: "https://dwengo.eventgoose.com/events/q5dZlOpKW3bEzrJW"
 
 In deze nascholing ga je zelf op zoek naar de moordenaar van barones Heloisa Argentoliensis. Daarvoor vind je in de ruimte verschillende aanwijzingen. Door je kennis van taaltechnologie toe te passen, slaag je erin om de moordenaar te ontmaskeren. 
 
-Deze activiteit kan je ook met je leerlingen doen. Op die manier verwerven ze meer inzichten in hoe technologie de verwerking van taal kan ondersteunen. Meer info over de activiteit kan je vinden op [https://dwengo.org/learning-path.html?hruid=org-dwengo-waisda-taal-murder-mistery&language=nl&te=true&source_page=%2Fwaisda%2F&source_title=%20wAIsda?#org-dwengo-waisda-taal-murder-mystery-intro;nl;1](onze website).
+Deze activiteit kan je ook met je leerlingen doen. Op die manier verwerven ze meer inzichten in hoe technologie de verwerking van taal kan ondersteunen. Meer info over de activiteit kan je vinden op [onze website](https://dwengo.org/learning-path.html?hruid=org-dwengo-waisda-taal-murder-mistery&language=nl&te=true&source_page=%2Fwaisda%2F&source_title=%20wAIsda?#org-dwengo-waisda-taal-murder-mystery-intro;nl;1).
 
 
 **Doelgroep:** Leerkrachten van de 3e graad. Het lesmateriaal bevind zich op de grens van taal, informaticawetenschappen en wiskunde. De nascholing is dus geschikt voor zowel leerkrachten Nederlands, informatica en wiskunde. 
