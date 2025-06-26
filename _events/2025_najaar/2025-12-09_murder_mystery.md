@@ -1,5 +1,5 @@
 ---
-title: "Nascholing taaltechnologie (moordmysterie)"
+title: "Taaltechnologie (moordmysterie)"
 date: 2025-12-09T13:00:00
 end_date: 2025-12-09T16:00:00
 item_theme_logo_url: "/images/curricula/logo_chatbot.png"
