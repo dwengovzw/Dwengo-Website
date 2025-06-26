@@ -1,5 +1,5 @@
 ---
-title: "Dwengo open lab: CSUnplugged"
+title: "Dwengo open lab: computationeel denken"
 date: 2025-11-19T12:00:00
 end_date: 2025-11-19T17:00:00
 item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
@@ -11,7 +11,9 @@ anchor: "dwengo_open_lab_2025_11_18"
 
 Ben je benieuwd naar het materiaal dat Dwengo te bieden heeft maar voel je nog drempels om ermee aan de slag te gaan? Het Dwengo open lab is dan de ideale plaats om kennis te maken met alles wat Dwengo te bieden heeft. Elke derde woensdag van de maand kan je terecht in het makersatelier van stadsbibliotheek De Krook in Gent. Daar krijg je de mogelijkheid om, onder professionele begeleiding, onze verschillende lesactiviteiten uit te proberen. 
 
-Elk open lab werken we rond een bepaald thema. In dit lab kan je uitleg krijgen en experimenteren met onze CSUnplugged activiteiten. CSUnplugged activiteiten zijn lesactiviteiten die de leerlingen iets bijbrengen over informaticawetenschappen zonder gebruik te maken van de computer. Ze zijn dus ideaal om op een laagdrempelige manier aan de slag te gaan met informaticawetenschappen.
+Elk open lab werken we rond een bepaald thema. In dit lab kan je uitleg krijgen en experimenteren met onze unplugged activiteiten. Met deze activiteiten breng je leerlingen kennis bij over de **concepten en praktijken van computationeel denken**. Tegelijk leren ze over informaticawetenschappen zonder gebruik te maken van de computer. Unplugged activiteiten zijn dus ideaal om op een laagdrempelige manier aan de slag te gaan met computationeel denken en informaticawetenschappen.
+
+In dit open lab wordt ook ons boek *Actief computationeel denken* voorgesteld.
 
 **Doelgroep:**
 Het open lab is toegankelijk voor iedereen maar is vooral gericht op leerkrachten lager en secundair onderwijs. 
