@@ -1,5 +1,5 @@
 ---
-title: "Dwengo open lab: computationeel denken"
+title: "Dwengo open lab: Computationeel denken"
 date: 2025-11-19T12:00:00
 end_date: 2025-11-19T17:00:00
 item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
