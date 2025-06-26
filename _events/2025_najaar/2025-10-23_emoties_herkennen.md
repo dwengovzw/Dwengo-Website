@@ -1,5 +1,5 @@
 ---
-title: "Nascholing emoties herkennen"
+title: "Bouw je eigen AI-systeem om emoties te herkennen"
 date: 2025-10-23T09:30:00
 end_date: 2025-10-23T12:30:00
 item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
