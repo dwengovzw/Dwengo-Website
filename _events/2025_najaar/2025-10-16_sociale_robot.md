@@ -1,5 +1,5 @@
 ---
-title: "Nascholing Sociale Robot"
+title: "Sociale Robot"
 date: 2025-10-16T009:30:00
 end_date: 2025-10-16T016:30:00
 item_theme_logo_url: "/images/curricula/logo_socialrobot.png"
