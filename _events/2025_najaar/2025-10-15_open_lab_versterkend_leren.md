@@ -21,6 +21,6 @@ Het makersatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent
 
 ![Plan naar het makersattelier](/images/events/2025/plan_de_krook_dwengo.png)
 
-**Datum:** 17 september van 12u00 tot 17u00
+**Datum:** 15 oktober van 12u00 tot 17u00
 
 **Organisatie:** Dwengo
