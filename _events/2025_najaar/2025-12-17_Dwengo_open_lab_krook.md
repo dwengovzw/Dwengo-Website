@@ -1,5 +1,5 @@
 ---
-title: "Dwengo open lab: Physical computing"
+title: "Dwengo open lab: physical computing"
 date: 2025-12-17T12:00:00
 end_date: 2025-12-17T17:00:00
 item_theme_logo_url: "/images/curricula/logo_physical_computing.png"
