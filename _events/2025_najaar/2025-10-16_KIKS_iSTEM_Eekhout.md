@@ -11,7 +11,7 @@ registration_link: "https://aanbod.eekhoutacademy.be/course/zj2x4z"
 ---
 #### Stap in de voetsporen van Sofie van de Plantentuin Meise!
 
-In deze nascholing krijg je een overzicht van de inhoud van het KIKS-project. KIKS is een interessant en actueel STEM-project waarmee je na deze sessie goed voorbereid mee aan de slag kunt gaan in de les.
+In deze nascholing krijg je een overzicht van de inhoud van het KIKS-project. KIKS is een interessant en actueel STEM-project waarmee je na deze sessie goed voorbereid aan de slag kunt gaan in de les.
 
 Artificiële intelligentie (AI) is in opmars. AI-geletterdheid is een must om gefundeerde beslissingen te kunnen nemen. KIKS is een STEM-project over de concepten van convolutionele neurale netwerken. Het materiaal is uniek omdat het ontstaan is uit de intensieve samenwerking van onderzoekers en leraren en parallel is aan een lopend wetenschappelijk onderzoek aan de Plantentuin Meise en UGent. Binnen de context van de klimaatverandering gaan leerlingen met een neuraal netwerk aan de slag om huidmondjes van planten te tellen.
 
