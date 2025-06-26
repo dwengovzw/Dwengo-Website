@@ -20,6 +20,6 @@ Het open lab is toegankelijk voor iedereen maar is vooral gericht op leerkrachte
 
 ![Plan naar het makersattelier](/images/events/2025/plan_de_krook_dwengo.png)
 
-**Datum:** 19 november van 12u00 tot 17u00
+**Datum:** 17 december van 12u00 tot 17u00
 
 **Organisatie:** Dwengo
