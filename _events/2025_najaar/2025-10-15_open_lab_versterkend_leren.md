@@ -1,5 +1,5 @@
 ---
-title: "Dwengo open lab: versterkend leren"
+title: "Dwengo open lab: AI - versterkend leren"
 date: 2025-10-15T12:00:00
 end_date: 2025-10-15T17:00:00
 item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
@@ -11,7 +11,7 @@ anchor: "dwengo_open_lab_2025_10_15-1"
 
 Ben je benieuwd naar het materiaal dat Dwengo te bieden heeft maar voel je nog drempels om ermee aan de slag te gaan? Het Dwengo open lab is dan de ideale plaats om kennis te maken met alles wat Dwengo te bieden heeft. Elke derde woensdag van de maand kan je terecht in het makersatelier van stadsbibliotheek De Krook in Gent. Daar krijg je de mogelijkheid om, onder professionele begeleiding, onze verschillende lesactiviteiten uit te proberen.
 
-Elk open lab werken we rond een bepaald thema. In dit lab kan je kennis maken met ons materiaal over versterkend leren. Dit is een AI-techniek die de manier waarop wij als mensen leren, probeert na te bootsen. Dit lesmateriaal is gericht op leerlingen van de tweede en derde graad van het secundair onderwijs. Meer informatie over het project kan je vinden op [https://dwengo.org/waisda/](dwengo.org/waisda).
+Elk open lab werken we rond een bepaald thema. In dit lab kan je kennis maken met ons materiaal over versterkend leren. Dit is een **AI-techniek** die de manier waarop wij als mensen leren, probeert na te bootsen. Dit lesmateriaal is gericht op leerlingen van de tweede en derde graad van het secundair onderwijs. Meer informatie over het project kan je vinden op [https://dwengo.org/waisda/](dwengo.org/waisda).
 
 **Doelgroep:**
 Het open lab is toegankelijk voor iedereen maar is vooral gericht op leerkrachten lager en secundair onderwijs. 
@@ -21,6 +21,6 @@ Het makersatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent
 
 ![Plan naar het makersattelier](/images/events/2025/plan_de_krook_dwengo.png)
 
-**Datum:** 17 september van 12u00 tot 17u00
+**Datum:** 15 oktober van 12u00 tot 17u00
 
 **Organisatie:** Dwengo

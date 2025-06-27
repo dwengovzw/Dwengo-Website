@@ -1,5 +1,5 @@
 ---
-title: "Nascholing Sociale Robot"
+title: "Sociale Robot"
 date: 2025-10-16T009:30:00
 end_date: 2025-10-16T016:30:00
 item_theme_logo_url: "/images/curricula/logo_socialrobot.png"
@@ -10,7 +10,7 @@ anchor: "nascholing_sociale_robot_2025_10_16"
 registration_link: "https://dwengo.eventgoose.com/events/mvbeBMkrpQN2yP4g"
 ---
 
-De ervaring leert ons dat physical computing zich zeer goed leent voor het creëren van een motiverende leercontext. Daarom ontwikkelde Dwengo het 'sociale robot'-project. Het project bevat alle nodige lesmateriaal, hardware en tools om in de klas eenvoudig te starten met physical computing. Met het 'sociale robot'-project laat je je leerlingen op een laagdrempelige manier kennis maken met robotica en geef je hen de mogelijkheid om na te denken over oplossingen voor maatschappelijk relevante problemen. Al het lesmateriaal kan je terugvinden op [dwengo.org/socialerobot](https://dwengo.org/socialerobot).
+De ervaring leert ons dat physical computing zich zeer goed leent tot het creëren van een motiverende leercontext. Daarom ontwikkelde Dwengo het 'sociale robot'-project. Het project bevat alle nodige lesmateriaal, hardware en tools om in de klas eenvoudig te starten met physical computing. Met het 'sociale robot'-project laat je je leerlingen op een laagdrempelige manier kennis maken met robotica en geef je hen de mogelijkheid om na te denken over oplossingen voor maatschappelijk relevante problemen. Al het lesmateriaal kan je terugvinden op [dwengo.org/socialerobot](https://dwengo.org/socialerobot).
 
 In deze nascholing maak je kennis met het materiaal, zie je hoe je het kan integreren in de les, leer je welke minimumdoelen je met het project kan behalen en ga je hands-on aan de slag met het ontwikkelde materiaal.
 

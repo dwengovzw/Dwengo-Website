@@ -1,5 +1,5 @@
 ---
-title: "Nascholing sociale robot (verdieping mechanisch ontwerp)"
+title: "Sociale robot (verdieping mechanisch ontwerp en robotlichaam)"
 date: 2025-11-18T09:30:00
 end_date: 2025-11-18T12:30:00
 item_theme_logo_url: "/images/curricula/logo_socialrobot.png"

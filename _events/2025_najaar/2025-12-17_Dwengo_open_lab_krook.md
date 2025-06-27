@@ -1,5 +1,5 @@
 ---
-title: "Dwengo open lab: Physical computing"
+title: "Dwengo open lab: physical computing"
 date: 2025-12-17T12:00:00
 end_date: 2025-12-17T17:00:00
 item_theme_logo_url: "/images/curricula/logo_physical_computing.png"
@@ -20,6 +20,6 @@ Het open lab is toegankelijk voor iedereen maar is vooral gericht op leerkrachte
 
 ![Plan naar het makersattelier](/images/events/2025/plan_de_krook_dwengo.png)
 
-**Datum:** 19 november van 12u00 tot 17u00
+**Datum:** 17 december van 12u00 tot 17u00
 
 **Organisatie:** Dwengo

@@ -9,12 +9,14 @@ language: "nl"
 registration_link: "https://www.istem.be/2025/04/24/save-the-date-stem-dag-2025/"
 anchor: "STEMdag-iSTEM-26-11-25"
 ---
-#### STEM Start met WOW
+#### STEM Start met WOW!
 Samen met Technopolis organiseren iSTEM inkleuren en STEM voor de Basis een STEM-studiedag voor leerkrachten over geïntegreerd STEM-onderwijs. <br>
 
-Noteeer alvast de datum en kom naar een van onze Dwengo-sessies.
+STEM is een uitdaging voor vele leerkrachten. Daarom organiseren de cel iSTEM inkleuren en STEM voor de Basis samen met Technopolis,  een studiedag die de leerkrachten hierbij op weg kan helpen. 
 
-**Wanneer:** 26 november 2025
+Noteeer alvast de datum en kom naar een van onze Dwengo-sessies over AI of computationeel denken. 
+
+**Wanneer:** 26 november 2025, 9u-16u30
 
 **Locatie:** Technopolis, Mechelen
 

@@ -1,5 +1,5 @@
 ---
-title: "Nascholing stellingenspel AI in de Zorg"
+title: "Stellingenspel AI in de Zorg"
 date: 2025-09-30T009:30:00
 end_date: 2025-09-30T012:30:00
 item_theme_logo_url: "/images/curricula/logo_care.png"
@@ -12,6 +12,8 @@ registration_link: "https://dwengo.eventgoose.com/events/NZGx32KNKd6OJqQm"
 
 Met het stellingenspel over AI en technologie in de gezondheidszorg denken je leerlingen kritisch na over nieuwe technologieën in de sector van de gezondheidszorg en werk je met hen aan mediawijsheid. Hoe beïnvloedt AI de zorgsector? Welke ethische uitdagingen brengt robotica met zich mee? 
 Dit educatieve kaartspel moedigt je aan om het gesprek aan te gaan over de impact van kunstmatige intelligentie en robotica op de maatschappij en helpt je om kritisch na te denken over technologische innovaties en maatschappelijke dilemma’s. Er zijn stellingen over technologische vernieuwing en over sociale interactie, en stellingen die doen nadenken over data en privacy. Laat je inspireren door de handleiding en verdiep je  in de technische aspecten via de infofiches.
+
+Wie nog geen spel heeft, krijgt er gratis een mee!
 
 **Doelgroep:** <br>
 Alle geïnteresseerden. Deze kaartenset kan ook gebruikt worden in taallessen, levensbeschouwelijke vakken, filosofie, maatschappelijke vakken...
