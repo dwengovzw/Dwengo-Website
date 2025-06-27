@@ -9,7 +9,7 @@ anchor: "open-labs-2025-2026"
 Kom dan naar de Dwengo Open Labs in het makersatelier van stadsbibliotheek De Krook in Gent!
 Elke derde woensdag van de maand krijg je de kans om gratis kennis te maken met het educatieve materiaal van Dwengo. Onder begeleiding van experten ontdek je inspirerende lesactiviteiten waarmee je STEM op een toegankelijke manier in je klas brengt.
 
-🎯 Speciaal gericht op leerkrachten lager en secundair onderwijs, maar iedereen is welkom! <br>
+🎯 Speciaal gericht op leerkrachten secundair onderwijs, maar iedereen is welkom! <br>
 📍 Locatie: Makersatelier De Krook, Gent (verdieping -1)
 
 **Elke sessie heeft een uniek thema:**
@@ -31,6 +31,8 @@ Bouw zelf een rijdende robot, een CO₂-meter of een slimme toepassing met micro
 [dwengo.org/physical_computing](dwengo.org/physical_computing)
 
 📌 Mis deze unieke kans niet om nieuwe tools te ontdekken en samen met andere leerkrachten te experimenteren!
+
+Voor een overzicht van al onze activiteiten, neem dan een kijkje op [dwengo.org/agenda](dwengo.org/agenda)
 
 
 
