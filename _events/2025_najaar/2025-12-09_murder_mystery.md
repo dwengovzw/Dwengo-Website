@@ -15,7 +15,7 @@ In deze nascholing ga je zelf op zoek naar de moordenaar van barones Heloisa Arg
 Deze activiteit kan je ook met je leerlingen doen. Op die manier verwerven ze meer inzichten in hoe technologie de verwerking van taal kan ondersteunen. Meer info over de activiteit kan je vinden op [onze website](https://dwengo.org/learning-path.html?hruid=org-dwengo-waisda-taal-murder-mistery&language=nl&te=true&source_page=%2Fwaisda%2F&source_title=%20wAIsda?#org-dwengo-waisda-taal-murder-mystery-intro;nl;1).
 
 
-**Doelgroep:** Leerkrachten van de 3e graad. Het lesmateriaal bevind zich op de grens van taal, informaticawetenschappen en wiskunde. De nascholing is dus geschikt voor zowel leerkrachten Nederlands, informatica en wiskunde. 
+**Doelgroep:** Leerkrachten van de 3e graad. Het lesmateriaal bevindt zich op de grens van taal, informaticawetenschappen en wiskunde. De nascholing is dus geschikt voor zowel leerkrachten Nederlands, informatica en wiskunde. 
 
 **Meebrengen:** <br>
 Laptop met internetbrowser (bij voorkeur Google Chrome).
