@@ -1,5 +1,5 @@
 ---
-title: "Save-the-date iSTEM studiedag"
+title: "iSTEM studiedag"
 date: 2025-11-26T08:30:00
 end_date: 2025-11-26T17:00:00
 item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
