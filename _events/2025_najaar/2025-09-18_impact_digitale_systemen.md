@@ -20,7 +20,7 @@ Leerkrachten 2de graad (alle finaliteiten).<br>
 Directies - Pedagogisch ICT-coördinator. <br> 
 Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor en educatieve master).
 
-**Wanneer:** 18 september 2025
+**Wanneer:** 18 september 2025, 13u30-16u30
 
 **Locatie:** Makersatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent
 
