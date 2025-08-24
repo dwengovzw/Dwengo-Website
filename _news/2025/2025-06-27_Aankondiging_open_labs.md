@@ -16,23 +16,23 @@ Vanaf september krijg je elke derde woensdag van de maand de kans om gratis kenn
 
 🗓️ 17 september – Sociale robot <br>
 Ontdek hoe je met leerlingen een sociale robot programmeert die echte gesprekken kan voeren.<br>
-[dwengo.org/socialerobot](dwengo.org/socialerobot)
+[dwengo.org/socialerobot](https://www.dwengo.org/socialerobot)
 
 🗓️ 15 oktober – Versterkend leren (AI) <br>
 Leer hoe AI leert! Ga aan de slag met ons nieuwste lesmateriaal over reinforcement learning.<br>
-[dwengo.org/waisda](dwengo.org/waisda)
+[dwengo.org/waisda](https://www.dwengo.org/waisda)
 
 🗓️ 19 november – Computationeel denken <br>
 Ervaar hoe jij computationeel denken kan integreren in je lessen. Inclusief boekvoorstelling van *Actief computationeel denken*.<br>
-[dwengo.org/computational_thinking](dwengo.org/computational_thinking)
+[dwengo.org/computational_thinking](https://www.dwengo.org/computational_thinking)
 
 🗓️ 17 december – Physical computing <br>
 Bouw zelf een rijdende robot, een CO₂-meter of een slimme toepassing met microcontrollers.<br>
-[dwengo.org/physical_computing](dwengo.org/physical_computing)
+[dwengo.org/physical_computing](https://www.dwengo.org/physical_computing)
 
 📌 Mis deze unieke kans niet om nieuwe tools te ontdekken en samen met andere leerkrachten te experimenteren!
 
-Voor een overzicht van al onze activiteiten, neem dan een kijkje op [dwengo.org/agenda](dwengo.org/agenda)
+Voor een overzicht van al onze activiteiten, neem dan een kijkje op [dwengo.org/agenda](https://www.dwengo.org/agenda)
 
 
 
