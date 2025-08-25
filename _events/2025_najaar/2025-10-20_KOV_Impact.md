@@ -1,7 +1,7 @@
 ---
 title: "Minimumdoel - De impact van digitale systemen op de maatschappij vanuit principes van computationeel denken"
 date: 2025-10-20T09:30:00
-end_date: 2025-10-20T12:30:00
+end_date: 2026-04-28T12:30:00
 item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
 location: "Hasselt"
 location_link: "https://www.google.be/maps?f=d&source=s_d&saddr&daddr=Tulpinstraat+75+Hasselt+3500&hl=nl"
