@@ -1,7 +1,7 @@
 ---
 title: "Minimumdoel - De impact van digitale systemen op de maatschappij vanuit principes van computationeel denken"
 date: 2025-11-12T13:30:00
-end_date: 2025-11-12T16:30:00
+end_date: 2026-04-29T16:30:00
 item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
 location: "Antwerpen"
 location_link: "https://www.google.be/maps?f=d&source=s_d&saddr&daddr=Groenenborgerlaan+149+Antwerpen+2020&hl=nl"
@@ -20,7 +20,7 @@ Leerkrachten 2de graad (alle finaliteiten).<br>
 Directies - Pedagogisch ICT-coördinator. <br> 
 Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor en educatieve master).
 
-**Wanneer:** 12 november 2025, 13u30-16u en 29 april 2016, 9u30-12u
+**Wanneer:** 12 november 2025, 13u30-16u, en 29 april 2026, 9u30-12u
 
 **Locatie:** Antwerpen, Groenenborgerlaan 149, Theologisch en Pastoraal Centrum
 
