@@ -1,13 +1,13 @@
 ---
 title: "SAVE-THE-DATE Minimumdoel - De impact van digitale systemen op de maatschappij vanuit principes van computationeel denken"
 date: 2025-11-18T13:30:00
-end_date: 2025-11-18T16:30:00
+end_date: 2026-04-30T16:30:00
 item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
-location: "Antwerpen"
-location_link: ""
+location: "Brugge"
+location_link: "https://www.google.be/maps?f=d&source=s_d&saddr&daddr=Baron+Ruzettelaan+435+Assebroek+8310&hl=nl"
 language: "nl"
 anchor: "ct-impact-18-11-25"
-registration_link: ""
+registration_link: "https://nascholing.be/2025-2026/index.aspx?modID=4061350"
 ---
 Bij dit nieuwe minimumdoel komt heel wat kijken.
 
@@ -20,8 +20,8 @@ Leerkrachten 2de graad (alle finaliteiten).<br>
 Directies - Pedagogisch ICT-coördinator. <br> 
 Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor en educatieve master).
 
-**Wanneer:** 18 november 2025, namiddag
+**Wanneer:** 18 november 2025, 13u30-16u, en 30 april 2026, 9u30-12u
 
-**Locatie:** Brugge
+**Locatie:** Brugge (Assebroek), Baron Ruzettelaan 435, Centrum d'Abdij
 
 **Organisatie:** KOV
