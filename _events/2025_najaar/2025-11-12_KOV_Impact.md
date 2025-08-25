@@ -22,6 +22,6 @@ Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor e
 
 **Wanneer:** 12 november 2025, 13u30-16u en 29 april 2016, 9u30-12u
 
-**Locatie:** Antwerpen, Groenenborgerlaan 149
+**Locatie:** Antwerpen, Groenenborgerlaan 149, Theologisch en Pastoraal Centrum
 
 **Organisatie:** KOV
