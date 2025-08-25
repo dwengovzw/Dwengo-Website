@@ -1,5 +1,5 @@
 ---
-title: "SAVE-THE-DATE Minimumdoel - De impact van digitale systemen op de maatschappij vanuit principes van computationeel denken"
+title: "Minimumdoel - De impact van digitale systemen op de maatschappij vanuit principes van computationeel denken"
 date: 2025-11-18T13:30:00
 end_date: 2026-04-30T16:30:00
 item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
