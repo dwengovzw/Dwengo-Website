@@ -4,7 +4,7 @@ date: 2025-10-20T09:30:00
 end_date: 2025-10-20T12:30:00
 item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
 location: "Hasselt"
-location_link: ""
+location_link: "https://www.google.be/maps?f=d&source=s_d&saddr&daddr=Tulpinstraat+75+Hasselt+3500&hl=nl"
 language: "nl"
 anchor: "ct-impact-20-10-25"
 registration_link: "https://nascholing.be/2025-2026/index.aspx?modID=4061350"
@@ -22,6 +22,6 @@ Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor e
 
 **Wanneer:** 20 oktober 2025, 9u30-12u en dinsdag 28 april 2026, 9u30-12u
 
-**Locatie:** Hasselt
+**Locatie:** Hasselt, Tulpinstraat 75, PCS Hasselt
 
 **Organisatie:** KOV
