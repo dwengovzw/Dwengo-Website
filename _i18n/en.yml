@@ -200,7 +200,7 @@ waisda:
 basics_ai:
   intro_title: "Basic Principles of AI"
   paragraph1: "Artificial intelligence (AI) is widely covered in the media. Popular topics include chatbots, self-driving cars, virtual assistants, and job loss. AI systems are increasingly entering our world. But how do these systems really work?"
-  paragraph2: "This project covers various AI concepts such as classification, bias, neural networks, reinforcement learning, graphs, training, validation and test data, as well as under- and overfitting,… The material in this module is aimed at young people aged 14 and over. For some of the learning paths, basic Python knowledge is required. Want to learn programming in Python? Visit [https://www.dwengo.org/python](dwengo.org/python)"
+  paragraph2: "This project covers various AI concepts such as classification, bias, neural networks, reinforcement learning, graphs, training, validation and test data, as well as under- and overfitting,… The material in this module is aimed at young people aged 14 and over. For some of the learning paths, basic Python knowledge is required. Want to learn programming in Python? Visit <a href='https://www.dwengo.org/python'>dwengo.org/python</a>."
   banner_info: ""
   subtitle1: "AI"
   subtitle1p1: ""

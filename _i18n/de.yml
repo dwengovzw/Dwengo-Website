@@ -196,7 +196,8 @@ waisda:
 basics_ai:
   intro_title: "Grundprinzipien der KI"
   paragraph1: "Künstliche Intelligenz (KI) ist in den Medien allgegenwärtig. Beliebte Themen sind: Chatbots, selbstfahrende Autos, virtuelle Assistenten und der Verlust von Arbeitsplätzen. KI-Systeme dringen immer stärker in unsere Welt ein. Aber wie funktionieren diese Systeme eigentlich wirklich?"
-  paragraph2: "In diesem Projekt werden verschiedene KI-Konzepte behandelt, wie Klassifikation, Verzerrungen, neuronale Netze, verstärkendes Lernen, Graphen, Trainings-, Validierungs- und Testdaten sowie Unter- und Überanpassung,… Das Material in diesem Modul richtet sich an Jugendliche ab 14 Jahren. Für einige der Lernpfade sind grundlegende Python-Kenntnisse erforderlich. Möchten Sie lernen, in Python zu programmieren? Besuchen Sie [https://www.dwengo.org/python](dwengo.org/python)"
+  paragraph2: "In diesem Projekt werden verschiedene KI-Konzepte behandelt, wie Klassifikation, Verzerrungen, neuronale Netze, verstärkendes Lernen, Graphen, Trainings-, Validierungs- und Testdaten sowie Unter- und Überanpassung,… Das Material in diesem Modul richtet sich an Jugendliche ab 14 Jahren. Für einige der Lernpfade sind grundlegende Python-Kenntnisse erforderlich. Möchten Sie lernen, in Python zu programmieren? Besuchen Sie <a href='https://www.dwengo.org/python'>dwengo.org/python</a>."
+  paragraph2: "In diesem Projekt werden verschiedene KI-Konzepte behandelt, wie Klassifikation, Verzerrungen, neuronale Netze, verstärkendes Lernen, Graphen, Trainings-, Validierungs- und Testdaten sowie Unter- und Überanpassung,… Das Material in diesem Modul richtet sich an Jugendliche ab 14 Jahren. Für einige der Lernpfade sind grundlegende Python-Kenntnisse erforderlich. Möchten Sie lernen, in Python zu programmieren? Besuchen Sie ."
   banner_info: ""
   subtitle1: "KI"
   subtitle1p1: ""
