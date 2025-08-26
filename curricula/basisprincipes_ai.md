@@ -22,7 +22,7 @@ paragraph1=paragraph1
 paragraph2=paragraph2
 -%}
 
-{%- include page_wide_info_banner.html text=banner_info button_text="kiks.form_button_text" -%}
+
 
 {% assign begin = '{"hruids": ' %}
 {% assign end = '}' %}
