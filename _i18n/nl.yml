@@ -745,6 +745,17 @@ waisda:
   subtitle2: "wAIsda?"
   subtitle2p1: ""
 
+basics_ai:
+  intro_title: "Basisprincipes van AI"
+  paragraph1: "Artificiële intelligentie (AI) komt volop aan bod in de media. Populaire thema’s zijn: chatbots, zelfrijdende auto’s, virtuele assistenten en het verlies aan jobs. AI-systemen dringen meer en meer onze wereld binnen. Maar hoe werken deze systemen nu écht?"
+  paragraph2: "In dit project worden verschillende AI-concepten behandeld, zoals classificatie, bias, neurale netwerken, versterken leren, grafen, trainings-, validatie- en testdata en under- en overfitting,… Het materiaal in dit lesthema is gericht op jongeren vanaf 14 jaar. Voor een aantal van de leerpaden is er een basiskennis Python vereist. Wil je leren programmeren in Python? Dan kan je terecht op [https://www.dwengo.org/python](dwengo.org/python)"
+  banner_info: ""
+  subtitle1: "AI"
+  subtitle1p1: ""
+  subtitle2p2: ""
+  subtitle2: ""
+  subtitle2p1: ""
+
 
 learning_paths:
   title: Ons leermateriaal

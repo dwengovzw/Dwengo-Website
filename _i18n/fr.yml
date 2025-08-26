@@ -207,6 +207,17 @@ waisda:
   subtitle2p2: |
     On distingue entre l'IA générale et l'IA étroite. Dans l'IA géné
 
+basics_ai:
+  intro_title: "Principes de base de l'IA"
+  paragraph1: "L'intelligence artificielle (IA) est largement présente dans les médias. Les thèmes populaires sont : les chatbots, les voitures autonomes, les assistants virtuels et la perte d'emplois. Les systèmes d'IA pénètrent de plus en plus notre monde. Mais comment fonctionnent réellement ces systèmes ?"
+  paragraph2: "Dans ce projet, différents concepts de l'IA sont abordés, tels que la classification, les biais, les réseaux neuronaux, l'apprentissage par renforcement, les graphes, les données d'entraînement, de validation et de test, ainsi que le sous- et le surapprentissage,… Le matériel de ce module est destiné aux jeunes à partir de 14 ans. Pour certains parcours d'apprentissage, une connaissance de base de Python est requise. Vous voulez apprendre à programmer en Python ? Consultez [https://www.dwengo.org/python](dwengo.org/python)"
+  banner_info: ""
+  subtitle1: "IA"
+  subtitle1p1: ""
+  subtitle2p2: ""
+  subtitle2: ""
+  subtitle2p1: ""
+
 agriculture:
   intro_title: "Agriculture"
   paragraph1: "Blabla"

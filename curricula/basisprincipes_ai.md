@@ -11,11 +11,10 @@ learning_paths: ["un_artificiele_intelligentie", "org-dwengo-waisda-beelden-unpl
 curricula: []
 ---
 
-{% capture intro_title %} {{ site.translations[site.lang].waisda.intro_title }} {% endcapture %}
-{% capture paragraph1 %} {{ site.translations[site.lang].waisda.paragraph1 }} {% endcapture %}
-{% capture paragraph2 %} {{ site.translations[site.lang].waisda.paragraph2 }} {% endcapture %}
+{% capture intro_title %} {{ site.translations[site.lang].basics_ai.intro_title }} {% endcapture %}
+{% capture paragraph1 %} {{ site.translations[site.lang].basics_ai.paragraph1 }} {% endcapture %}
+{% capture paragraph2 %} {{ site.translations[site.lang].basics_ai.paragraph2 }} {% endcapture %}
 
-{% capture banner_info %} {{ site.translations[site.lang].waisda.banner_info }} {% endcapture %}
 
 {%- include frontpage_header_template.html banner_url=page.banner_image project_logo_url=page.logo_image
 intro_title=intro_title
