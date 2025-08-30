@@ -16,7 +16,7 @@ Kunstmatige intelligentie is een interdisciplinair domein. Het project ‘Chatbo
 In de voormiddag maak je kennis met principes van taaltechnologie, zonder te programmeren. In de namiddag ga je aan de slag met Python notebooks die ontworpen zijn voor in de klas.
 
 **Doelgroep:**
-Leerkrachten 2de en 3de graad.<br>
+Leerkrachten 2de en 3de graad secundair onderwijs.<br>
 Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor en educatieve master).
 
 **Wanneer:** 6 november 2025, 9u-16u
