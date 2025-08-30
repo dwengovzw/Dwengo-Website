@@ -21,3 +21,5 @@ Noteeer alvast de datum en kom naar een van onze Dwengo-sessies over computation
 **Locatie:** Technopolis, Mechelen
 
 **Organisatie:** iSTEM inkleuren, STEM voor de Basis en Technopolis
+
+<img width="400" height="400" alt="Logo_WowDag" src="https://github.com/user-attachments/assets/e9bcc013-74da-4ce7-81b7-c0eb8dd95948" />
