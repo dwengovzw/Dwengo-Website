@@ -16,7 +16,7 @@ Leerlingen hebben de basisconcepten van computationeel denken leren kennen in de
 Wij hebben een kader ontworpen om met dit minimumdoel aan de slag te gaan op jouw school. In deze sessie bekijken we enkele uitgewerkte voorbeelden en bespreken we een mogelijke aanpak en evaluatie. We geven zowel contexten voor de doorstroomfinaliteit, dubbele finaliteit als finaliteit arbeidsmarkt.
 
 **Doelgroep:**
-Leerkrachten 2de graad (alle finaliteiten).<br>
+Leerkrachten 2de graad secundair onderwijs (alle finaliteiten).<br>
 Directies - Pedagogisch ICT-coördinator. <br> 
 Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor en educatieve master).
 
