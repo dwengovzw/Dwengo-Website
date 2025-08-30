@@ -39,10 +39,15 @@
                         {%- endif -%}
                         <span class="footer-filler" style="flex-grow: 1"></span>
                         <span class="footer-event-date-info nowrap">
+                            {% assign start = event.date | date: "%Y%m%dT%H%M%S" %}
+                            {% assign end = event.end_date | date: "%Y%m%dT%H%M%S" %}
+
+                            <a href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VEVENT%0ADTSTART:{{ start }}%0ADTEND:{{ end }}%0ASUMMARY:{{ event.title | uri_escape }}%0ADESCRIPTION:{{ event.description | uri_escape }}%0AEND:VEVENT%0AEND:VCALENDAR" download="{{ event.title | slugify }}.ics">
                             <span class="material-symbols-outlined md-48">calendar_month</span>
                             <span class="event-item-date event-item-start-date">{{ event.date | date: date_time_format }}</span>
                             <span class="event-date-separator-dash">-</span>
                             <span class="event-item-date event-item-end-date">{{ event.end_date | date: time_format }}</span>
+                            </a>
                         </span>
                         <span class="footer-event-location-info nowrap">
                             {%- if event.location == "online" -%}
