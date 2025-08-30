@@ -15,7 +15,7 @@ De ervaring leert ons dat physical computing zich zeer goed leent tot het creër
 In deze nascholing maak je kennis met het materiaal, zie je hoe je het kan integreren in de les, leer je welke minimumdoelen je met het project kan behalen en ga je hands-on aan de slag met het ontwikkelde materiaal.
 
 
-**Doelgroep:** Leerkrachten van 1e en 2e graad.
+**Doelgroep:** Leerkrachten van 1e en 2e graad secundair onderwijs.
 
 **Meebrengen:** <br>
 Laptop met internetbrowser (bij voorkeur Google Chrome).
