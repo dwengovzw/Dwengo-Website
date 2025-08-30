@@ -22,7 +22,7 @@ Via https://dwengo.org/kiks kan je de inhoud van deze workshop onmiddellijk inze
 In deze workshop gaan jullie hands-on aan de slag en gebruik je een diep neuraal netwerk om huidmondjes op bladeren van planten te detecteren en te tellen. Je ondervindt de mogelijkheden en beperkingen van het systeem en leert wat dat dan betekent voor andere AI-systemen, zoals medische beeldvorming en zelfrijdende auto's. In dit STEM-project gebruiken we Python als tool. Zoals met de minimumdoelen wordt bedoeld, gaan we niet programmeren om te programmeren, maar gebruiken we Python om te komen tot een interessanter project.
 
 **Doelgroep:**
-Leerkrachten 2de en 3de graad.
+Leerkrachten 2de en 3de graad secundair onderwijs.
 
 **Wanneer:** 16 oktober 2025, 9u-16u
 
