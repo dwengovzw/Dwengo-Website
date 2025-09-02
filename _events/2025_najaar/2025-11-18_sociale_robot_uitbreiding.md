@@ -15,7 +15,7 @@ De ervaring leert ons dat physical computing zich zeer goed leent voor het creë
 In deze nascholing gaan we dieper in op hoe je complexere ontwerpen kan maken voor het lichaam van de robot. We leggen je uit hoe je de bestaande 2D-tekeningen kan integreren in een eigen ontwerp en hoe je dat ontwerp kan produceren op een lasersnijder.
 
 
-**Doelgroep:** Leerkrachten van 1e en 2e graad.
+**Doelgroep:** Leerkrachten van 1e en 2e graad secundair onderwijs.
 
 **Meebrengen:** <br>
 Laptop met internetbrowser (bij voorkeur Google Chrome).

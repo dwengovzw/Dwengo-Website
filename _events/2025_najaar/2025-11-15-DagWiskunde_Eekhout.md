@@ -13,6 +13,8 @@ Noteer alvast de datum en kom naar onze Dwengo-sessie.
 
 **Wanneer:** 15 november 2025, 8u30-12u30
 
+**Doelgroep:** Leerkrachten wiskunde van de tweede en derde graad secundair onderwijs
+
 **Locatie:** KU Leuven Campus Kulak Kortrijk, Etienne Sabbelaan 53, Kortrijk
 
 **Organisatie:** Eekhout Academy

@@ -16,7 +16,7 @@ AI-systemen worden steeds krachtiger wat tot indrukwekkende toepassingen leidt. 
 In deze sessie lichten we kort toe hoe AI-systemen achter de schermen werken, daarna gaan we in op de vooroordelen van deze systemen, kijken we of zo’n systeem ons voor de gek kan houden maar ook hoe wij het systeem in de war kunnen brengen. Dit doen we allemaal aan de hand van een AI-systeem dat zwart-witafbeeldingen automatisch kan inkleuren. We gaan eerst in op hoe dit systeem werkt en testen het ook zelf uit.
 
 **Doelgroep:**
-Leerkrachten en docenten<br>
+Leerkrachten secundair onderwijs en docenten<br>
 Directeurs en adjunct-directeurs<br>
 Middenkader en beleidsondersteuners
 

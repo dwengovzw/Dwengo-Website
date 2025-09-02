@@ -16,7 +16,7 @@ Dit educatieve kaartspel moedigt je aan om het gesprek aan te gaan over de impac
 Wie nog geen spel heeft, krijgt er gratis een mee!
 
 **Doelgroep:** <br>
-Alle geïnteresseerden. Deze kaartenset kan ook gebruikt worden in taallessen, levensbeschouwelijke vakken, filosofie, maatschappelijke vakken...
+Alle geïnteresseerden. Deze kaartenset kan ook gebruikt worden in taallessen, levensbeschouwelijke vakken, filosofie, maatschappelijke vakken ...
 
 **Locatie:** Het makersatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
 
