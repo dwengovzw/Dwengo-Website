@@ -841,6 +841,8 @@ footer:
   address_line_3: 2018 Antwerp
   country: Belgium
   vat_number: BE 0811.397.278
+  newsletter: Newsletter
+  newsletter_info: "Subscribe to our newsletter and stay informed about the latest news, teaching materials, and training sessions."
 
 keywords:
   python: Python

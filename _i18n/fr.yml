@@ -857,6 +857,8 @@ footer:
   address_line_3: 2018 Antwerpen
   country: Belgique
   vat_number: BE 0811.397.278
+  newsletter: Bulletin
+  newsletter_info: "Inscrivez-vous à notre newsletter et restez informé des dernières nouvelles, du matériel pédagogique et des formations."
 
 # Keywords show below the search bar
 keywords:

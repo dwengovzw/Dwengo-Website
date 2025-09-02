@@ -840,6 +840,8 @@ footer:
   address_line_3: 2018 Antwerpen
   country: Belgien
   vat_number: BE 0811.397.278
+  newsletter: Newsletter
+  newsletter_info: "Abonnieren Sie unseren Newsletter und bleiben Sie über die neuesten Nachrichten, Unterrichtsmaterialien und Schulungen informiert."
 
 keywords:
   python: Python
