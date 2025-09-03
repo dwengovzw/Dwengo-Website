@@ -2,6 +2,7 @@
 permalink: /bot/
 ---
 
+
 <!-- Chat Widget -->
 <div id="dwengo-chat-widget">
   <div id="dwengo-chat-header">Chat with our Bot</div>
@@ -76,7 +77,7 @@ permalink: /bot/
 </style>
 
 <script>
-const apiUrl = "/bot/chat"; // adjust if hosted elsewhere
+const apiUrl = "https://10.10.160.72/bot/v1/chat"; // adjust if hosted elsewhere
 
 document.getElementById("dwengo-chat-send").addEventListener("click", sendMessage);
 document.getElementById("dwengo-chat-text").addEventListener("keypress", function(e) {
@@ -100,7 +101,7 @@ async function sendMessage() {
       headers: {
         "Content-Type": "application/json",
         "Accept": "text/event-stream",
-        "DWENGO-API-KEY": "changeme" // adjust if required
+        "DWENGO-API-KEY": "MBIyVRAQ2cwkeYmyMtlEgZqcuqefB1wgQXftC8G06DWrunbrFILK6thzqgGw6AEXyg5loNG7yTeR4EjrTgB19K4ewuBaDlLFJWoGnLVGiHmLpTfTiSusHeqQWiCGi9DE" // adjust if required
       },
       body: JSON.stringify({ query: message, stream: true })
     });
