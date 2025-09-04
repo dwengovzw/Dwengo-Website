@@ -125,7 +125,7 @@ async function sendMessage() {
 
         for (const part of parts) {
             if (part.startsWith("data:")) {
-            let token = part.slice(5).trim();
+            let token = part.slice(5);
             token = cleanBotText(token); // clean it
 
             // Append as HTML to render links
@@ -144,7 +144,7 @@ function cleanBotText(text) {
   // Remove system/user tags
   text = text.replace(/<\|\/?(user|system)\|>/g, "");
 
-  return text.trim();
+  return text;
 }
 
 function appendMessage(sender, text, isHtml = false) {
