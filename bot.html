@@ -116,21 +116,23 @@ async function sendMessage() {
     let buffer = "";
 
     while (true) {
-      const { done, value } = await reader.read();
-      if (done) break;
-      buffer += decoder.decode(value, { stream: true });
+        const { done, value } = await reader.read();
+        if (done) break;
+        buffer += decoder.decode(value, { stream: true });
 
-      // SSE events are separated by double newlines
-      const parts = buffer.split("\n\n");
-      buffer = parts.pop(); // save incomplete part
+        const parts = buffer.split("\n\n");
+        buffer = parts.pop(); // save incomplete part
 
-      for (const part of parts) {
-        if (part.startsWith("data:")) {
-          const token = part.slice(5).trim();
-          botMsgElem.textContent += token;
-          scrollMessages();
+        for (const part of parts) {
+            if (part.startsWith("data:")) {
+            let token = part.slice(5).trim();
+            token = cleanBotText(token); // clean it
+
+            // Append as HTML to render links
+            botMsgElem.innerHTML += token;
+            scrollMessages();
+            }
         }
-      }
     }
   } catch (err) {
     botMsgElem.textContent = "Error fetching response.";
@@ -138,11 +140,27 @@ async function sendMessage() {
   }
 }
 
-function appendMessage(sender, text) {
+function cleanBotText(text) {
+  // Remove system/user tags
+  text = text.replace(/<\|\/?(user|system)\|>/g, "");
+
+  // Optional: fix missing spaces after punctuation (simple heuristic)
+  text = text.replace(/([.,!?])([A-Za-z])/g, "$1 $2");
+
+  return text.trim();
+}
+
+function appendMessage(sender, text, isHtml = false) {
   const messagesDiv = document.getElementById("dwengo-chat-messages");
   const msg = document.createElement("div");
   msg.className = sender;
-  msg.textContent = text;
+  
+  if (isHtml) {
+    msg.innerHTML = text;
+  } else {
+    msg.textContent = text;
+  }
+
   messagesDiv.appendChild(msg);
   scrollMessages();
   return msg; // return the element so we can update it while streaming
