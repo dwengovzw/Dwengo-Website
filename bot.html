@@ -129,7 +129,7 @@ async function sendMessage() {
             token = cleanBotText(token); // clean it
 
             // Append as HTML to render links
-            botMsgElem.innerHTML += token;
+            botMsgElem.innerHTML += token + " ";
             scrollMessages();
             }
         }
@@ -143,9 +143,6 @@ async function sendMessage() {
 function cleanBotText(text) {
   // Remove system/user tags
   text = text.replace(/<\|\/?(user|system)\|>/g, "");
-
-  // Optional: fix missing spaces after punctuation (simple heuristic)
-  text = text.replace(/([.,!?])([A-Za-z])/g, "$1 $2");
 
   return text.trim();
 }
