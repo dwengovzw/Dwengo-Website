@@ -1018,6 +1018,7 @@ bot:
   send: "Senden"
   placeholder: "Geben Sie hier Ihre Frage ein..."
   loading: "Laden..."
+  thinking: "Nachdenken..."
 
 # Translations for the menu items
 about: Über uns

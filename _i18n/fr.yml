@@ -1036,6 +1036,7 @@ bot:
   send: "Envoyer"
   placeholder: "Écrivez votre message ici..."
   loading: "Chargement..."
+  thinking: "En train de réfléchir..."
 
 
 # Translations for the menu items

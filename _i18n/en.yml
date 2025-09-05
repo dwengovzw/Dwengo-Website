@@ -1019,6 +1019,7 @@ bot:
   send: "Send"
   placeholder: "Type your question here..."
   loading: "Loading..."
+  thinking: "Thinking..."
 
 # Translations for the menu items
 about: About
