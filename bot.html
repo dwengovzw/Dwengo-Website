@@ -166,8 +166,6 @@ async function sendMessage() {
       // Otherwise split into words for a smoother typing effect
       const parts = token.split(/\s+/).filter(Boolean);
       for (let i = 0; i < parts.length; i++) {
-        // insert a space between words, but avoid space before punctuation-only tokens
-        if (i > 0 && !/^[\.,!?;:)\]\}…]+$/.test(parts[i])) queue.push(" ");
         queue.push(parts[i]);
       }
     }
@@ -180,13 +178,18 @@ async function sendMessage() {
       const chunk = queue.shift();
       // Add a small delay so it looks like the text is being written
       await new Promise(res => setTimeout(res, TYPE_DELAY_MS));
-      if (chunk === " ") {
-        // Only add a space if previous char isn't space and we're not at start
-        const last = (botMsgElem.textContent || "").slice(-1);
-        if (last && !/\s/.test(last)) botMsgElem.innerHTML += chunk;
-      } else {
-        botMsgElem.innerHTML += chunk; // use HTML to render links
+      // Insert a space before non-punctuation words when appropriate
+      const isHtml = chunk.includes("<");
+      if (!isHtml) {
+        const isPunctOnly = /^[\.,!?;:)\]\}…]+$/.test(chunk);
+        if (!isPunctOnly) {
+          const last = (botMsgElem.textContent || "").slice(-1);
+          if (last && !/\s/.test(last) && !/[([{]/.test(last)) {
+            botMsgElem.innerHTML += " ";
+          }
+        }
       }
+      botMsgElem.innerHTML += chunk; // use HTML to render links
       scrollMessages();
     }
     typing = false;
