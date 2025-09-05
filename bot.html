@@ -31,7 +31,7 @@ permalink: /bot/
   z-index: 9999;
 }
 #dwengo-chat-header {
-  background: #0077cc;
+  background: #87C544;
   color: white;
   padding: 10px;
   font-weight: bold;
@@ -54,6 +54,10 @@ permalink: /bot/
   margin: 5px 0;
   white-space: pre-wrap;
 }
+#dwengo-chat-messages .bot.loading {
+  color: #888;
+  font-style: italic;
+}
 #dwengo-chat-input {
   display: flex;
   border-top: 1px solid #ccc;
@@ -65,19 +69,21 @@ permalink: /bot/
   font-size: 14px;
 }
 #dwengo-chat-input button {
-  background: #0077cc;
+  background: #87C544;
   border: none;
   color: white;
   padding: 0 15px;
   cursor: pointer;
 }
 #dwengo-chat-input button:hover {
-  background: #005fa3;
+  background: #6FA636;
 }
 </style>
 
 <script>
 const apiUrl = "https://kiks2.ilabt.imec.be/bot/v1/chat"; // adjust if hosted elsewhere
+const TYPE_DELAY_MS = 25; // artificial delay per chunk (ms) to simulate typing
+const LOADING_TEXT = "Thinking…"; // placeholder shown while waiting for first tokens
 
 document.getElementById("dwengo-chat-send").addEventListener("click", sendMessage);
 document.getElementById("dwengo-chat-text").addEventListener("keypress", function(e) {
@@ -93,7 +99,48 @@ async function sendMessage() {
   input.value = "";
 
   // Create a placeholder for streaming response
-  const botMsgElem = appendMessage("bot", "");
+  const botMsgElem = appendMessage("bot", LOADING_TEXT);
+  botMsgElem.classList.add("loading");
+
+  // Simple per-message typing queue to control render speed
+  let started = false; // becomes true when first token arrives
+  const queue = [];
+  let typing = false;
+
+  function enqueue(token) {
+    if (!token) return;
+    if (!started) {
+      // First token: clear placeholder and switch to normal style
+      botMsgElem.textContent = "";
+      botMsgElem.classList.remove("loading");
+      started = true;
+    }
+    // If the token contains HTML, queue it as a whole chunk to avoid breaking tags
+    if (token.includes("<")) {
+      queue.push(token + " ");
+    } else {
+      // Otherwise split into words for a smoother typing effect
+      const parts = token.split(/\s+/).filter(Boolean);
+      if (parts.length === 0) {
+        queue.push(" ");
+      } else {
+        for (const w of parts) queue.push(w + " ");
+      }
+    }
+    if (!typing) processQueue();
+  }
+
+  async function processQueue() {
+    typing = true;
+    while (queue.length) {
+      const chunk = queue.shift();
+      // Add a small delay so it looks like the text is being written
+      await new Promise(res => setTimeout(res, TYPE_DELAY_MS));
+      botMsgElem.innerHTML += chunk; // use HTML to render links
+      scrollMessages();
+    }
+    typing = false;
+  }
 
   try {
     const response = await fetch(apiUrl, {
@@ -108,6 +155,7 @@ async function sendMessage() {
 
     if (!response.ok || !response.body) {
       botMsgElem.textContent = "Error connecting to server.";
+      botMsgElem.classList.remove("loading");
       return;
     }
 
@@ -128,14 +176,20 @@ async function sendMessage() {
             let token = part.slice(5);
             token = cleanBotText(token); // clean it
 
-            // Append as HTML to render links
-            botMsgElem.innerHTML += token + " ";
-            scrollMessages();
+            // Queue token for delayed rendering
+            enqueue(token);
             }
         }
     }
+
+    // If stream ended but no content arrived, replace placeholder with message
+    if (!started) {
+      botMsgElem.textContent = "No response from server.";
+      botMsgElem.classList.remove("loading");
+    }
   } catch (err) {
     botMsgElem.textContent = "Error fetching response.";
+    botMsgElem.classList.remove("loading");
     console.error(err);
   }
 }
