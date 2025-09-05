@@ -1076,6 +1076,7 @@ bot:
   description: "Stel je vragen en ontvang direct antwoorden van onze slimme chatbot."
   send: "Verstuur"
   placeholder: "Typ je vraag hier..."
+  loading: "Even geduld..."
 
 # Translations for the menu items ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 about: Over

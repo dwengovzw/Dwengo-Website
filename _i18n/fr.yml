@@ -1035,6 +1035,7 @@ bot:
   description: "Posez vos questions et obtenez des réponses immédiates de notre chatbot intelligent."
   send: "Envoyer"
   placeholder: "Écrivez votre message ici..."
+  loading: "Chargement..."
 
 
 # Translations for the menu items

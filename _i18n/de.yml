@@ -1017,6 +1017,7 @@ bot:
   description: "Stellen Sie Ihre Fragen und erhalten Sie sofortige Antworten von unserem intelligenten Chatbot."
   send: "Senden"
   placeholder: "Geben Sie hier Ihre Frage ein..."
+  loading: "Laden..."
 
 # Translations for the menu items
 about: Über uns

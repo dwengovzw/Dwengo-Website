@@ -112,7 +112,7 @@ async function sendMessage() {
     if (!started) {
       // First token: clear placeholder and switch to normal style
       botMsgElem.textContent = "";
-      botMsgElem.classList.remove("loading");
+      botMsgElem.classList.remove("{{ site.translations[site.lang].bot.loading }}");
       started = true;
     }
     // If the token contains HTML, queue it as a whole chunk to avoid breaking tags
