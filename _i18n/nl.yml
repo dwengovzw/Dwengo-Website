@@ -1071,7 +1071,11 @@ wedstrijd_sr:
   t5p1: "Om deze wedstrijd te begeleiden kan je als leerkracht een beroep doen op het uitgebreide lessenpakket van het project <a href='https://www.dwengo.org/socialerobot/'>Sociale robot</a>. Zo werk je eigenlijk aan de minimumdoelen van een waaier aan sleutelcompetenties. En dat met een wedstrijd als bonus! De nodige elektronica kan je gratis ontlenen via je onderwijskoepel of via de uitleendiensten van de <a href='https://www.istem.be/2023/09/29/dwengos-uitproberen-2/'>cel iSTEM inkleuren</a> en de <a href='https://oost-vlaanderen.be/leren/materialen-activiteiten-scholen/educatief-materiaal/stem/secundair-onderwijs/de-sociale-robot.html'>Provincie Oost-Vlaanderen</a>. Je beschikt ook over een programmeeromgeving (blokgebaseerd of tekstueel) met <a href='https://blockly.dwengo.org/'>simulator</a>, zodat je het project al kan starten zonder de hardware.<br>Zit je nog met vragen? <a href='mailto:robotwedstrijd@dwengo.org'>Mail</a>, volg een van de online infosessies op <a href='https://dwengo.org/agenda/#phys-wedstrijd-24-09-26'>26 september</a> of op <a href='https://dwengo.org/agenda/#phys-wedstrijd-24-10-04'>4 oktober</a>, of neem deel aan een van de face to face <a href='https://dwengo.org/agenda'>nascholingen</a> die Dwengo organiseert."
 
 
-
+bot:
+  title: "Chat met onze Bot"
+  description: "Stel je vragen en ontvang direct antwoorden van onze slimme chatbot."
+  send: "Verstuur"
+  placeholder: "Typ je vraag hier..."
 
 # Translations for the menu items ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 about: Over

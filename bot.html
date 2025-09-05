@@ -5,11 +5,11 @@ permalink: /bot/
 
 <!-- Chat Widget -->
 <div id="dwengo-chat-widget">
-  <div id="dwengo-chat-header">Chat with our Bot</div>
+  <div id="dwengo-chat-header">{{ site.translations[site.lang].bot.title }}</div>
   <div id="dwengo-chat-messages"></div>
   <div id="dwengo-chat-input">
-    <input type="text" id="dwengo-chat-text" placeholder="Type your message..." />
-    <button id="dwengo-chat-send">Send</button>
+    <input type="text" id="dwengo-chat-text" placeholder="{{ site.translations[site.lang].bot.placeholder }}" />
+    <button id="dwengo-chat-send">{{ site.translations[site.lang].bot.send }}</button>
   </div>
 </div>
 

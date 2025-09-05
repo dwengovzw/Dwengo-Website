@@ -1013,7 +1013,11 @@ wedstrijd_sr:
   title5: "Tip voor leerkrachten!"
   t5p1: "Om deze wedstrijd te begeleiden kan je een beroep doen op het uitgebreide lessenpakket van het project [Sociale robot](https://www.dwengo.org/socialerobot/). Zo werk werk je eigenlijk aan de minimumdoelen van een waaier aan sleutelcompetenties. En dat met een wedstrijd als bonus! De nodige hardware kan je gratis ontlenen via je onderwijskoepel of via de uitleendiensten van de [cel iSTEM](https://www.istem.be/2023/09/29/dwengos-uitproberen-2/) inkleuren en de [Provincie Oost-Vlaanderen](https://oost-vlaanderen.be/leren/materialen-activiteiten-scholen/educatief-materiaal/stem/secundair-onderwijs/de-sociale-robot.html). Zit je nog met vragen? [Mail](mailto:robotwedstrijd@dwengo.org), volg een van de online infosessies, of neem deel aan een van de face to face nascholingen die Dwengo organiseert."
 
-
+bot:
+  title: "Chat with our Bot"
+  description: "Ask your questions and get instant answers from our smart chatbot."
+  send: "Send"
+  placeholder: "Type your question here..."
 
 # Translations for the menu items
 about: About
