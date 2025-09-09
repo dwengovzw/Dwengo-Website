@@ -301,6 +301,8 @@ async function sendMessage() {
         }
         // Debug logging: raw and processed content
         let sanitized = sanitizeMarkdown(rawBotText);
+        // Filter out llm tags
+        sanitized = cleanBotText(sanitized);
         // Ensure sources after "Bronnen:" render as HTML, not code
         sanitized = ensureSourcesHtml(sanitized);
         // Protect MathJax content so marked doesn't strip backslashes or alter delimiters
@@ -318,6 +320,7 @@ async function sendMessage() {
     formatCodeBlocks(botMsgElem);
     highlightCode(botMsgElem);
     typesetMath(botMsgElem);
+    
   }
 
   function scheduleRenderDebounced() {
