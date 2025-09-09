@@ -406,9 +406,10 @@ async function sendMessage() {
         buffer += decoder.decode(value, { stream: true });
 
         const parts = buffer.split("\n\n");
+        console.log(`buffer: ${buffer}`);
         buffer = parts.pop(); // save incomplete part
 
-        console.log(`buffer: ${buffer}`);
+        
         console.log(`parts: ${parts}`);
 
         for (const part of parts) {
