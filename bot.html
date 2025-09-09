@@ -408,6 +408,9 @@ async function sendMessage() {
         const parts = buffer.split("\n\n");
         buffer = parts.pop(); // save incomplete part
 
+        console.log(buffer);
+        console.log(parts)
+
         for (const part of parts) {
             if (part.startsWith("data:")) {
             let token = part.slice(5);
