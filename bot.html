@@ -475,7 +475,7 @@ function sanitizeMarkdown(raw) {
     const pattern = new RegExp("```[ \t]*(" + langs.join('|') + ")\\b(?![ \t]*\\n)", 'gi');
     // Insert a newline after the language if one is not present
     raw = raw.replace(pattern, (m, lang) => {
-      return '```' + String(lang).toLowerCase() + '\n';
+      return '```' + String(lang).toLowerCase() + '```\n';
     });
     // Ensure a newline after closing fences like ``` when not followed by a newline
     raw = raw.replace(/```(?![a-zA-Z])(?=[^\n])/g, '\n```\n');
