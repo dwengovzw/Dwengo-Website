@@ -129,6 +129,10 @@ permalink: /bot/
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   font-size: 0.95em;
 }
+#dwengo-chat-messages pre,
+#dwengo-chat-messages pre code {
+  white-space: pre-wrap; /* preserve newlines and allow wrapping */
+}
 #dwengo-chat-input {
   display: flex;
   border-top: 1px solid #ccc;
@@ -184,6 +188,15 @@ body.dwengo-chat-no-scroll { overflow: hidden; }
 
 <!-- Markdown parser -->
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<!-- Prettier standalone + plugins (for in-browser code formatting) -->
+<script src="https://unpkg.com/prettier@3.3.3/standalone.js"></script>
+<script src="https://unpkg.com/prettier@3.3.3/plugins/babel.js"></script>
+<script src="https://unpkg.com/prettier@3.3.3/plugins/estree.js"></script>
+<script src="https://unpkg.com/prettier@3.3.3/plugins/typescript.js"></script>
+<script src="https://unpkg.com/prettier@3.3.3/plugins/html.js"></script>
+<script src="https://unpkg.com/prettier@3.3.3/plugins/postcss.js"></script>
+<script src="https://unpkg.com/prettier@3.3.3/plugins/markdown.js"></script>
+<script src="https://unpkg.com/prettier@3.3.3/plugins/yaml.js"></script>
 
 <script>
 const apiUrl = "https://kiks2.ilabt.imec.be/bot/v1/chat"; // adjust if hosted elsewhere
@@ -292,8 +305,9 @@ async function sendMessage() {
       console.log('[CHAT][TEXT-FALLBACK]', rawBotText);
       botMsgElem.textContent = rawBotText;
     }
-    // Highlight code with Prism (if available) before MathJax
-    highlightCode(botMsgElem);
+  // Auto-format code in supported languages (Prettier), then highlight and typeset
+  formatCodeBlocks(botMsgElem);
+  highlightCode(botMsgElem);
     typesetMath(botMsgElem);
   }
 
@@ -489,6 +503,72 @@ function highlightCode(el) {
         nodes.forEach(n => Prism.highlightElement(n));
       }
     }
+  } catch (_) {}
+}
+
+// Prettier formatting helper (best-effort; skips unsupported languages)
+function formatCodeBlocks(el) {
+  try {
+    if (!window.prettier || !window.prettierPlugins) return;
+    const codeNodes = el.querySelectorAll('pre code');
+    codeNodes.forEach((node) => {
+      const cls = node.className || '';
+      const langMatch = cls.match(/language-([a-z0-9+#-]+)/i);
+      const lang = langMatch ? langMatch[1].toLowerCase() : '';
+      let parser = null;
+      switch (lang) {
+        case 'js':
+        case 'jsx':
+        case 'javascript':
+          parser = 'babel';
+          break;
+        case 'ts':
+        case 'tsx':
+        case 'typescript':
+          parser = 'typescript';
+          break;
+        case 'json':
+          parser = 'json';
+          break;
+        case 'html':
+        case 'xml':
+          parser = 'html';
+          break;
+        case 'css':
+        case 'scss':
+        case 'less':
+          parser = 'css';
+          break;
+        case 'md':
+        case 'markdown':
+          parser = 'markdown';
+          break;
+        case 'yaml':
+        case 'yml':
+          parser = 'yaml';
+          break;
+        default:
+          parser = null; // unsupported (e.g., python, java, etc.)
+      }
+      if (!parser) return;
+      const src = node.textContent;
+      try {
+        const formatted = prettier.format(src, {
+          parser,
+          plugins: prettierPlugins,
+          tabWidth: 2,
+          useTabs: false,
+          semi: true,
+          singleQuote: false,
+          trailingComma: 'es5',
+        });
+        if (formatted && formatted !== src) {
+          node.textContent = formatted;
+        }
+      } catch (_) {
+        // ignore formatting errors
+      }
+    });
   } catch (_) {}
 }
 </script>
