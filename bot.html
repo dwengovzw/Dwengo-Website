@@ -256,6 +256,14 @@ async function sendMessage() {
   let started = false; // becomes true when first token arrives
   const queue = [];
   let typing = false;
+  let typesetTimer = null;
+
+  function scheduleTypesetDebounced() {
+    clearTimeout(typesetTimer);
+    typesetTimer = setTimeout(() => {
+      typesetMath(botMsgElem);
+    }, 250);
+  }
 
   function enqueue(token) {
     if (!token) return;
@@ -297,6 +305,7 @@ async function sendMessage() {
       }
       botMsgElem.innerHTML += chunk; // use HTML to render links
       scrollMessages();
+  scheduleTypesetDebounced();
     }
     typing = false;
   }
@@ -339,7 +348,10 @@ async function sendMessage() {
             enqueue(token);
             }
         }
-    }
+  }
+
+  // Ensure final typeset when stream completes
+  typesetMath(botMsgElem);
 
     // If stream ended but no content arrived, replace placeholder with message
     if (!started) {
@@ -379,5 +391,25 @@ function appendMessage(sender, text, isHtml = false) {
 function scrollMessages() {
   const messagesDiv = document.getElementById("dwengo-chat-messages");
   messagesDiv.scrollTop = messagesDiv.scrollHeight;
+}
+
+// MathJax typesetting helper (supports v2 and v3)
+function typesetMath(el, retries = 5) {
+  try {
+    if (window.MathJax) {
+      // v3 preferred
+      if (typeof MathJax.typesetPromise === 'function') {
+        return MathJax.typesetPromise([el]).catch(() => {});
+      }
+      // v2 fallback
+      if (MathJax.Hub && typeof MathJax.Hub.Queue === 'function') {
+        MathJax.Hub.Queue(["Typeset", MathJax.Hub, el]);
+        return;
+      }
+    }
+  } catch (_) {}
+  if (retries > 0) {
+    setTimeout(() => typesetMath(el, retries - 1), 400);
+  }
 }
 </script>
