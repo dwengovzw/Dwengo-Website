@@ -1020,6 +1020,7 @@ bot:
   placeholder: "Type your question here..."
   loading: "Loading..."
   thinking: "Thinking..."
+  info: "This chatbot allows you to ask questions about the educational materials available on the Dwengo website. The chatbot is experimental and may make mistakes."
 
 # Translations for the menu items
 about: About

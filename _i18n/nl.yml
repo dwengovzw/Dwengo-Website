@@ -1078,6 +1078,7 @@ bot:
   placeholder: "Typ je vraag hier..."
   loading: "Even geduld..."
   thinking: "Aan het rekenen..."
+  info: "Deze chatbot geeft je de mogelijkheid om vragen te stellen over lesmateriaal op de Dwengo website. De chatbot is experimenteel en kan fouten bevatten."
 
 # Translations for the menu items ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 about: Over

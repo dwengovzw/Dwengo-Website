@@ -218,7 +218,7 @@ art:
   paragraph3: "Ein Vorteil des KIKS-Projekts ist die Zusammenarbeit zwischen Forschern und Lehrern. Das Lehrmaterial von KIKS wird parallel zu den Ergebnissen einer laufenden wissenschaftlichen Untersuchung an der UGent und dem Plantentuin Meise entwickelt."
   teaser:
       title: "Probieren Sie dieses Lehrmaterial aus!"
-      file: "/assets/files/teasers/Opdracht_Jommeke_Start2STEM_deelnemer_vTechnopolis.pdf"
+
 
 wegostem:
   intro_title: "WeGoSTEM"
@@ -1019,6 +1019,7 @@ bot:
   placeholder: "Geben Sie hier Ihre Frage ein..."
   loading: "Laden..."
   thinking: "Nachdenken..."
+  info: "Dieser Chatbot gibt Ihnen die Möglichkeit, Fragen zu den Bildungsressourcen auf der Dwengo-Website zu stellen. Der Chatbot ist experimentell und kann Fehler enthalten."
 
 # Translations for the menu items
 about: Über uns

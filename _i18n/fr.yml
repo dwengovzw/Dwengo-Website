@@ -231,7 +231,7 @@ art:
   paragraph3: "Un atout du projet KIKS est la collaboration entre les chercheurs et les enseignants. Le matériel pédagogique de KIKS est en effet développé en parallèle avec les résultats d'une recherche scientifique en cours à l'UGent et au Jardin botanique Meise."
   teaser:
     title: "Essayez ce matériel?"
-    file: "/assets/files/teasers/Opdracht_Jommeke_Start2STEM_deelnemer_vTechnopolis.pdf"
+
 
 wegostem:
   intro_title: "WeGoSTEM"
@@ -1037,6 +1037,7 @@ bot:
   placeholder: "Écrivez votre message ici..."
   loading: "Chargement..."
   thinking: "En train de réfléchir..."
+  info: "Ce chatbot vous permet de poser des questions sur le matériel pédagogique disponible sur le site de Dwengo. Le chatbot est expérimental et peut faire des erreurs."
 
 
 # Translations for the menu items
