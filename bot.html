@@ -408,7 +408,7 @@ async function sendMessage() {
         if (done) break;
         buffer += decoder.decode(value, { stream: true });
 
-        const parts = buffer.split("data: ");
+        let parts = buffer.split("data: ");
         console.log(`parts: ${parts}`);
         
 
