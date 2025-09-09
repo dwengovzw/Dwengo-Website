@@ -340,6 +340,7 @@ async function sendMessage() {
     //    }
     //  }
     //}
+    console.log("Queuing token: " + token);
     queue.push(token);
     if (!typing) processQueue();
   }
@@ -407,26 +408,32 @@ async function sendMessage() {
         if (done) break;
         buffer += decoder.decode(value, { stream: true });
 
-        const parts = buffer.split("\n\n");
+        const parts = buffer.split("data: ");
         console.log(`buffer: ${buffer}`);
         buffer = parts.pop(); // save incomplete part
 
         
         console.log(`parts: ${parts}`);
 
-        for (const part of parts) {
-            if (part.startsWith("data:")) {
-                let token = part.slice(6);
-
-                if (token !== ""){
-                    token = cleanBotText(token); // clean it
-
-                    // Queue token for delayed rendering
-                    enqueue(token);
-                }
-            
+        for (const part of parts){
+            if (part !== ""){
+                token = cleanBotText(part); // clean it
+                enqueue(token);
             }
         }
+
+        //for (const part of parts) {
+        //    if (part.startsWith("data:")) {
+        //        let token = part.slice(6);
+//
+        //        if (token !== ""){
+        //            token = cleanBotText(token); // clean it
+        //            // Queue token for delayed rendering
+        //            enqueue(token);
+        //        }
+        //    
+        //    }
+        //}
   }
 
   // Ensure final render/typeset when stream completes
