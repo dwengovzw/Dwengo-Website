@@ -376,11 +376,15 @@ async function sendMessage() {
         console.log(`parts: ${parts}`);
         
 
-        // Replace all \n\n with empty string in parts
-        parts.forEach((part, index) => {
-            parts[index] = part.replace(/\n\n/g, "");
-        });
 
+        // Look if there are more than 2 consecuative \n characters in the part. If there are, remove two \n characters from that consecuative sequence.
+        parts = parts.map(part => part.replace(/(\n\n)+/g, "\n"));
+
+        // Replace all \n\n with empty string in parts
+        //parts.forEach((part, index) => {
+        //    parts[index] = part.replace(/\n\n/g, "");
+        //});
+//
         // Remove all parts with empty string
         parts = parts.filter(part => part !== "");
 
