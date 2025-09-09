@@ -325,21 +325,22 @@ async function sendMessage() {
       started = true;
     }
     // If the token contains HTML, queue it as a whole chunk to avoid breaking tags
-    if (token.includes("<")) {
-      queue.push(token);
-    } else {
-      // Preserve newlines while still typing words smoothly
-      const segments = token.split(/(\r?\n)/);
-      for (const seg of segments) {
-        if (!seg) continue;
-        if (/^\r?\n$/.test(seg)) {
-          queue.push("\n");
-        } else {
-          const parts = seg.split(/\s+/).filter(Boolean);
-          for (const w of parts) queue.push(w);
-        }
-      }
-    }
+    //if (token.includes("<")) {
+    //  queue.push(token);
+    //} else {
+    //  // Preserve newlines while still typing words smoothly
+    //  const segments = token.split(/(\r?\n)/);
+    //  for (const seg of segments) {
+    //    if (!seg) continue;
+    //    if (/^\r?\n$/.test(seg)) {
+    //      queue.push("\n");
+    //    } else {
+    //      const parts = seg.split(/\s+/).filter(Boolean);
+    //      for (const w of parts) queue.push(w);
+    //    }
+    //  }
+    //}
+    queue.push(token);
     if (!typing) processQueue();
   }
 
@@ -414,11 +415,15 @@ async function sendMessage() {
 
         for (const part of parts) {
             if (part.startsWith("data:")) {
-            let token = part.slice(5);
-            token = cleanBotText(token); // clean it
+                let token = part.slice(6);
 
-            // Queue token for delayed rendering
-            enqueue(token);
+                if (token !== ""){
+                    token = cleanBotText(token); // clean it
+
+                    // Queue token for delayed rendering
+                    enqueue(token);
+                }
+            
             }
         }
   }
