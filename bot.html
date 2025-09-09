@@ -446,14 +446,14 @@ function sanitizeMarkdown(raw) {
     raw = raw.replace(pattern, (m, lang) => {
       return '```' + String(lang).toLowerCase() + '\n';
     });
-  // Ensure a newline after closing fences like ``` when not followed by a newline
-  raw = raw.replace(/```(?![a-zA-Z])(?=[^\n])/g, '```\n');
-  // If the content ends with a closing fence without newline, append one
-  if (/(^|\n)```[ \t]*$/.test(raw)) raw += '\n';
-    return raw;
-  } catch (_) {
-    return raw;
-  }
+    // Ensure a newline after closing fences like ``` when not followed by a newline
+    raw = raw.replace(/```(?![a-zA-Z])(?=[^\n])/g, '\n```\n');
+    // If the content ends with a closing fence without newline, append one
+    if (/(^|\n)```[ \t]*$/.test(raw)) raw += '\n';
+        return raw;
+    } catch (_) {
+        return raw;
+    }
 }
 
 // MathJax typesetting helper (supports v2 and v3)
