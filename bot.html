@@ -416,7 +416,7 @@ async function sendMessage() {
         console.log(`parts: ${parts}`);
 
         for (const part of parts){
-            if (part !== ""){
+            if (part !== "" && part !== "\n"){
                 token = cleanBotText(part); // clean it
                 enqueue(token);
             }
