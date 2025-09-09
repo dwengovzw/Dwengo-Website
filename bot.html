@@ -278,7 +278,8 @@ async function sendMessage() {
         }
         // Debug logging: raw and processed content
         console.log('[CHAT][RAW]', rawBotText);
-        const processedHtml = marked.parse(rawBotText);
+        const sanitized = sanitizeMarkdown(rawBotText);
+        const processedHtml = marked.parse(sanitized);
         console.log('[CHAT][HTML]', processedHtml);
         botMsgElem.innerHTML = processedHtml;
       } else {
@@ -428,6 +429,27 @@ function appendMessage(sender, text, isHtml = false) {
 function scrollMessages() {
   const messagesDiv = document.getElementById("dwengo-chat-messages");
   messagesDiv.scrollTop = messagesDiv.scrollHeight;
+}
+
+// Normalize code fences like ```python<no-newline> to ```python\n
+function sanitizeMarkdown(raw) {
+  try {
+    const langs = [
+      'python','py','javascript','js','typescript','ts','java','c','cpp','c\\+\\+','csharp','c#','cs','go','rust','rs',
+      'bash','sh','shell','zsh','powershell','ps1','html','xml','css','json','yaml','yml','markdown','md','sql','swift',
+      'kotlin','r','julia','php','ruby','rb','matlab','octave','scala','dart','haskell','hs','lua','perl','pl',
+      'objective-c','objc','ocaml','elixir','erlang','solidity','proto','protobuf','dockerfile','makefile','gradle',
+      'groovy','ini','toml','tex','latex','vhdl','verilog'
+    ];
+    const pattern = new RegExp("```[ \t]*(" + langs.join('|') + ")\\b(?![ \t]*\\n)", 'gi');
+    // Insert a newline after the language if one is not present
+    raw = raw.replace(pattern, (m, lang) => {
+      return '```' + String(lang).toLowerCase() + '\n';
+    });
+    return raw;
+  } catch (_) {
+    return raw;
+  }
 }
 
 // MathJax typesetting helper (supports v2 and v3)
