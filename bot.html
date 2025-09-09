@@ -409,11 +409,8 @@ async function sendMessage() {
         buffer += decoder.decode(value, { stream: true });
 
         const parts = buffer.split("data: ");
-        console.log(`buffer: ${buffer}`);
-        buffer = parts.pop(); // save incomplete part
-
-        
         console.log(`parts: ${parts}`);
+        
 
         // Replace all \n\n with empty string in parts
         parts.forEach((part, index) => {
@@ -430,6 +427,7 @@ async function sendMessage() {
         for (const part of parts){
             enqueue(part);
         }
+
 
         //for (const part of parts) {
         //    if (part.startsWith("data:")) {
