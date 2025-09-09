@@ -373,6 +373,7 @@ async function sendMessage() {
       //  }
       //}
       rawBotText += chunk;
+      console.log("Raw bot text: " + rawBotText);
       renderCurrent();
       scrollMessages();
       scheduleRenderDebounced();
