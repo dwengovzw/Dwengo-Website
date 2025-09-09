@@ -121,6 +121,14 @@ permalink: /bot/
 #dwengo-chat-messages a:hover { color: #6FA636; }
 #dwengo-chat-messages a:active { color: #5A8E2F; }
 #dwengo-chat-messages a:visited { color: #6FA636; }
+#dwengo-chat-messages pre {
+  overflow: auto;
+  margin: 8px 0;
+}
+#dwengo-chat-messages code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 0.95em;
+}
 #dwengo-chat-input {
   display: flex;
   border-top: 1px solid #ccc;
@@ -275,6 +283,8 @@ async function sendMessage() {
     } catch (_) {
       botMsgElem.textContent = rawBotText;
     }
+    // Highlight code with Prism (if available) before MathJax
+    highlightCode(botMsgElem);
     typesetMath(botMsgElem);
   }
 
@@ -430,5 +440,21 @@ function typesetMath(el, retries = 5) {
   if (retries > 0) {
     setTimeout(() => typesetMath(el, retries - 1), 400);
   }
+}
+
+// Prism highlighting helper
+function highlightCode(el) {
+  try {
+    if (window.Prism) {
+      if (typeof Prism.highlightAllUnder === 'function') {
+        Prism.highlightAllUnder(el);
+        return;
+      }
+      if (typeof Prism.highlightElement === 'function') {
+        const nodes = el.querySelectorAll('pre code, code[class*="language-"]');
+        nodes.forEach(n => Prism.highlightElement(n));
+      }
+    }
+  } catch (_) {}
 }
 </script>
