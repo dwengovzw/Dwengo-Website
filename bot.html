@@ -380,11 +380,6 @@ async function sendMessage() {
         // Remove two \n characters from the end of each line
         parts = parts.map(part => part.replace(/\n\n$/, ""));
 
-        // Replace all \n\n with empty string in parts
-        //parts.forEach((part, index) => {
-        //    parts[index] = part.replace(/\n\n/g, "");
-        //});
-//
         // Remove all parts with empty string
         parts = parts.filter(part => part !== "");
 
@@ -414,7 +409,7 @@ async function sendMessage() {
 
 function cleanBotText(text) {
   // Remove system/user tags
-  text = text.replace(/<\|\/?(user|system)\|>/g, "");
+  text = text.replace(/<\|\/?(user|system|response)\|>/g, "");
 
   return text;
 }
