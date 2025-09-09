@@ -6,7 +6,11 @@ permalink: /bot/
 
 <!-- Chat Widget -->
 <div id="dwengo-chat-widget">
-  <div id="dwengo-chat-header">{{ site.translations[site.lang].bot.title }}</div>
+  <div id="dwengo-chat-header">
+    <span class="dwengo-chat-spacer"></span>
+    <span class="dwengo-chat-title">{{ site.translations[site.lang].bot.title }}</span>
+    <button id="dwengo-chat-expand" aria-label="Expand chat" title="Expand">⤢</button>
+  </div>
   <div id="dwengo-chat-messages"></div>
   <div id="dwengo-chat-input">
   <textarea id="dwengo-chat-text" placeholder="{{ site.translations[site.lang].bot.placeholder }}"></textarea>
@@ -36,8 +40,22 @@ permalink: /bot/
   color: white;
   padding: 10px;
   font-weight: bold;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
+.dwengo-chat-title { flex: 1; text-align: center; }
+#dwengo-chat-expand {
+  background: rgba(255,255,255,0.15);
+  color: #fff;
+  border: 1px solid rgba(255,255,255,0.25);
+  border-radius: 6px;
+  font-size: 14px;
+  line-height: 1;
+  padding: 6px 8px;
+  cursor: pointer;
+}
+#dwengo-chat-expand:hover { background: rgba(255,255,255,0.25); }
 #dwengo-chat-messages {
   flex: 1;
   padding: 12px;
@@ -130,6 +148,30 @@ permalink: /bot/
 #dwengo-chat-input button:hover {
   background: #6FA636;
 }
+
+/* Overlay and expanded mode */
+#dwengo-chat-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.35);
+  z-index: 9998;
+  display: none;
+}
+#dwengo-chat-overlay.visible { display: block; }
+
+#dwengo-chat-widget.expanded {
+  top: 50%;
+  left: 50%;
+  right: auto;
+  bottom: auto;
+  transform: translate(-50%, -50%);
+  width: min(720px, 94vw);
+  height: 80vh;
+  max-height: 80vh;
+  border-radius: 16px;
+  box-shadow: 0 16px 40px rgba(0,0,0,0.35);
+}
+body.dwengo-chat-no-scroll { overflow: hidden; }
 </style>
 
 <script>
@@ -159,6 +201,41 @@ function autoResize(el) {
   el.style.height = newH + "px";
   el.style.overflowY = el.scrollHeight > MAX_HEIGHT ? "auto" : "hidden";
 }
+
+// Expand/Collapse logic
+const widget = document.getElementById('dwengo-chat-widget');
+const expandBtn = document.getElementById('dwengo-chat-expand');
+// Create overlay dynamically so it sits after body
+const overlay = document.createElement('div');
+overlay.id = 'dwengo-chat-overlay';
+document.body.appendChild(overlay);
+
+function isExpanded() { return widget.classList.contains('expanded'); }
+function expandChat() {
+  widget.classList.add('expanded');
+  overlay.classList.add('visible');
+  document.body.classList.add('dwengo-chat-no-scroll');
+  expandBtn.textContent = '⤡';
+  expandBtn.title = 'Close';
+  expandBtn.setAttribute('aria-label', 'Close chat');
+  // Keep focus on input for quick typing
+  dwengoInput.focus();
+}
+function collapseChat() {
+  widget.classList.remove('expanded');
+  overlay.classList.remove('visible');
+  document.body.classList.remove('dwengo-chat-no-scroll');
+  expandBtn.textContent = '⤢';
+  expandBtn.title = 'Expand';
+  expandBtn.setAttribute('aria-label', 'Expand chat');
+}
+expandBtn.addEventListener('click', () => {
+  isExpanded() ? collapseChat() : expandChat();
+});
+overlay.addEventListener('click', collapseChat);
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape' && isExpanded()) collapseChat();
+});
 
 async function sendMessage() {
   const input = document.getElementById("dwengo-chat-text");
