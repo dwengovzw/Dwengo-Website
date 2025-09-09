@@ -378,7 +378,7 @@ async function sendMessage() {
 
 
         // Remove two \n characters from the end of each line
-        parts = parts.map(part => part.replace(/\n{2,}$/, ""));
+        parts = parts.map(part => part.replace(/\n\n$/, ""));
 
         // Replace all \n\n with empty string in parts
         //parts.forEach((part, index) => {
