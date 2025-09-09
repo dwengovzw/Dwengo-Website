@@ -276,11 +276,19 @@ async function sendMessage() {
         if (marked.setOptions) {
           marked.setOptions({ gfm: true, breaks: true, mangle: false, headerIds: false });
         }
-        botMsgElem.innerHTML = marked.parse(rawBotText);
+        // Debug logging: raw and processed content
+        console.log('[CHAT][RAW]', rawBotText);
+        const processedHtml = marked.parse(rawBotText);
+        console.log('[CHAT][HTML]', processedHtml);
+        botMsgElem.innerHTML = processedHtml;
       } else {
+        console.log('[CHAT][RAW]', rawBotText);
+        console.log('[CHAT][TEXT]', rawBotText);
         botMsgElem.textContent = rawBotText;
       }
     } catch (_) {
+      console.log('[CHAT][RAW]', rawBotText);
+      console.log('[CHAT][TEXT-FALLBACK]', rawBotText);
       botMsgElem.textContent = rawBotText;
     }
     // Highlight code with Prism (if available) before MathJax
