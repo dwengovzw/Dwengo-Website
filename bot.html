@@ -415,11 +415,20 @@ async function sendMessage() {
         
         console.log(`parts: ${parts}`);
 
+        // Replace all \n\n with empty string in parts
+        parts.forEach((part, index) => {
+            parts[index] = part.replace(/\n\n/g, "");
+        });
+
+        // Remove all parts with empty string
+        parts = parts.filter(part => part !== "" && part !== "\n" && part !== " ");
+
+        // apply cleanBotText to each part
+        parts = parts.map(part => cleanBotText(part));
+
+        // Enqueue each part
         for (const part of parts){
-            if (part !== "" && part !== "\n" && part !== " "){
-                token = cleanBotText(part); // clean it
-                enqueue(token);
-            }
+            enqueue(part);
         }
 
         //for (const part of parts) {
