@@ -377,8 +377,8 @@ async function sendMessage() {
         
 
 
-        // Look if there are more than 2 consecuative \n characters in the part. If there are, remove two \n characters from that consecuative sequence.
-        parts = parts.map(part => part.replace(/(\n\n)+/g, "\n"));
+        // Remove two \n characters from the end of each line
+        parts = parts.map(part => part.replace(/\n{2,}$/, ""));
 
         // Replace all \n\n with empty string in parts
         //parts.forEach((part, index) => {
