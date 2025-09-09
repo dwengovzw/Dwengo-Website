@@ -328,10 +328,16 @@ async function sendMessage() {
     if (token.includes("<")) {
       queue.push(token);
     } else {
-      // Otherwise split into words for a smoother typing effect
-      const parts = token.split(/\s+/).filter(Boolean);
-      for (let i = 0; i < parts.length; i++) {
-        queue.push(parts[i]);
+      // Preserve newlines while still typing words smoothly
+      const segments = token.split(/(\r?\n)/);
+      for (const seg of segments) {
+        if (!seg) continue;
+        if (/^\r?\n$/.test(seg)) {
+          queue.push("\n");
+        } else {
+          const parts = seg.split(/\s+/).filter(Boolean);
+          for (const w of parts) queue.push(w);
+        }
       }
     }
     if (!typing) processQueue();
@@ -343,6 +349,17 @@ async function sendMessage() {
       const chunk = queue.shift();
       // Add a small delay so it looks like the text is being written
       await new Promise(res => setTimeout(res, TYPE_DELAY_MS));
+      // If this is a newline, append it directly and continue
+      if (/^\r?\n$/.test(chunk)) {
+        // Trim trailing space before newline to avoid space at EOL
+        if (/(\s)$/.test(rawBotText.slice(-1))) {
+          rawBotText = rawBotText.replace(/[ \t]+$/, "");
+        }
+        rawBotText += "\n";
+        renderCurrent();
+        scrollMessages();
+        continue;
+      }
       // Insert a space before non-punctuation words when appropriate
       const isHtml = chunk.includes("<");
       if (!isHtml) {
