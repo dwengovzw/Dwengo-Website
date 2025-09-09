@@ -8,7 +8,7 @@ permalink: /bot/
   <div id="dwengo-chat-header">{{ site.translations[site.lang].bot.title }}</div>
   <div id="dwengo-chat-messages"></div>
   <div id="dwengo-chat-input">
-    <input type="text" id="dwengo-chat-text" placeholder="{{ site.translations[site.lang].bot.placeholder }}" />
+  <textarea id="dwengo-chat-text" placeholder="{{ site.translations[site.lang].bot.placeholder }}"></textarea>
     <button id="dwengo-chat-send">{{ site.translations[site.lang].bot.send }}</button>
   </div>
 </div>
@@ -106,11 +106,18 @@ permalink: /bot/
   display: flex;
   border-top: 1px solid #ccc;
 }
-#dwengo-chat-input input {
+#dwengo-chat-input textarea {
   flex: 1;
   border: none;
   padding: 10px;
   font-size: 14px;
+  line-height: 1.35;
+  resize: none; /* we'll control size in JS */
+  overflow-y: hidden; /* becomes auto when max is hit */
+  max-height: 140px; /* reasonable cap */
+  min-height: 38px;  /* single-line height */
+  height: 38px;      /* start as single line */
+  outline: none;
 }
 #dwengo-chat-input button {
   background: #87C544;
@@ -130,9 +137,27 @@ const TYPE_DELAY_MS = 25; // artificial delay per chunk (ms) to simulate typing
 const LOADING_TEXT = "{{ site.translations[site.lang].bot.thinking }}"; // placeholder shown while waiting for first tokens
 
 document.getElementById("dwengo-chat-send").addEventListener("click", sendMessage);
-document.getElementById("dwengo-chat-text").addEventListener("keypress", function(e) {
-  if (e.key === "Enter") sendMessage();
+const dwengoInput = document.getElementById("dwengo-chat-text");
+dwengoInput.addEventListener("keydown", function(e) {
+  // Enter sends; Shift+Enter inserts newline
+  if (e.key === "Enter" && !e.shiftKey) {
+    e.preventDefault();
+    sendMessage();
+  }
 });
+dwengoInput.addEventListener("input", function() {
+  autoResize(this);
+});
+// Initialize height on load
+autoResize(dwengoInput);
+
+function autoResize(el) {
+  const MAX_HEIGHT = 140;
+  el.style.height = "auto";
+  const newH = Math.min(el.scrollHeight, MAX_HEIGHT);
+  el.style.height = newH + "px";
+  el.style.overflowY = el.scrollHeight > MAX_HEIGHT ? "auto" : "hidden";
+}
 
 async function sendMessage() {
   const input = document.getElementById("dwengo-chat-text");
@@ -141,6 +166,9 @@ async function sendMessage() {
 
   appendMessage("user", message);
   input.value = "";
+  // Reset input back to single line
+  input.style.height = "38px";
+  input.style.overflowY = "hidden";
 
   // Create a placeholder for streaming response
   const botMsgElem = appendMessage("bot", LOADING_TEXT);
