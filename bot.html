@@ -325,7 +325,7 @@ async function sendMessage() {
       started = true;
     }
 
-    console.log("Queuing token: " + token);
+    //console.log("Queuing token: " + token);
     queue.push(token);
     if (!typing) processQueue();
   }
@@ -338,7 +338,7 @@ async function sendMessage() {
       await new Promise(res => setTimeout(res, TYPE_DELAY_MS));
       
       rawBotText += chunk;
-      console.log("Raw bot text: " + rawBotText);
+      //console.log("Raw bot text: " + rawBotText);
       renderCurrent();
       scrollMessages();
       scheduleRenderDebounced();
