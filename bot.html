@@ -310,16 +310,9 @@ async function sendMessage() {
       botMsgElem.classList.remove("loading");
       started = true;
     }
-    // If the token contains HTML, queue it as a whole chunk to avoid breaking tags
-    if (token.includes("<")) {
-      queue.push(token);
-    } else {
-      // Otherwise split into words for a smoother typing effect
-      const parts = token.split(/\s+/).filter(Boolean);
-      for (let i = 0; i < parts.length; i++) {
-        queue.push(parts[i]);
-      }
-    }
+  // Split into parts but preserve whitespace/newlines (capture group keeps them)
+  const parts = String(token).split(/(\s+)/);
+  for (const p of parts) if (p !== "") queue.push(p);
     if (!typing) processQueue();
   }
 
@@ -329,18 +322,19 @@ async function sendMessage() {
       const chunk = queue.shift();
       // Add a small delay so it looks like the text is being written
       await new Promise(res => setTimeout(res, TYPE_DELAY_MS));
-      // Insert a space before non-punctuation words when appropriate
-      const isHtml = chunk.includes("<");
-      if (!isHtml) {
+      if (/^\s+$/.test(chunk)) {
+        // Whitespace chunk: append as-is to preserve formatting
+        rawBotText += chunk;
+      } else {
+        // Non-whitespace chunk: insert a space across token boundaries when needed
+        const last = (rawBotText || "").slice(-1);
+        const first = chunk[0];
         const isPunctOnly = /^[\.,!?;:)\]\}…]+$/.test(chunk);
-        if (!isPunctOnly) {
-          const last = (rawBotText || "").slice(-1);
-          if (last && !/\s/.test(last) && !/[([{]/.test(last)) {
-            rawBotText += " ";
-          }
+        if (last && !/\s/.test(last) && first && !/\s/.test(first) && !isPunctOnly && !/[([{]/.test(last)) {
+          rawBotText += " ";
         }
+        rawBotText += chunk;
       }
-      rawBotText += chunk;
       renderCurrent();
       scrollMessages();
       scheduleRenderDebounced();
