@@ -290,19 +290,19 @@ async function sendMessage() {
           marked.setOptions({ gfm: true, breaks: true, mangle: false, headerIds: false });
         }
         // Debug logging: raw and processed content
-        console.log('[CHAT][RAW]', rawBotText);
+        //console.log('[CHAT][RAW]', rawBotText);
         const sanitized = sanitizeMarkdown(rawBotText);
         const processedHtml = marked.parse(sanitized);
-        console.log('[CHAT][HTML]', processedHtml);
+        //console.log('[CHAT][HTML]', processedHtml);
         botMsgElem.innerHTML = processedHtml;
       } else {
-        console.log('[CHAT][RAW]', rawBotText);
-        console.log('[CHAT][TEXT]', rawBotText);
+        //console.log('[CHAT][RAW]', rawBotText);
+        //console.log('[CHAT][TEXT]', rawBotText);
         botMsgElem.textContent = rawBotText;
       }
     } catch (_) {
-      console.log('[CHAT][RAW]', rawBotText);
-      console.log('[CHAT][TEXT-FALLBACK]', rawBotText);
+      //console.log('[CHAT][RAW]', rawBotText);
+      //console.log('[CHAT][TEXT-FALLBACK]', rawBotText);
       botMsgElem.textContent = rawBotText;
     }
   // Auto-format code in supported languages (Prettier), then highlight and typeset
