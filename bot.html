@@ -301,7 +301,9 @@ async function sendMessage() {
         }
         // Debug logging: raw and processed content
         //console.log('[CHAT][RAW]', rawBotText);
-        const sanitized = sanitizeMarkdown(rawBotText);
+        let sanitized = sanitizeMarkdown(rawBotText);
+        // Ensure sources after "Bronnen:" render as HTML, not code
+        sanitized = ensureSourcesHtml(sanitized);
         // Protect MathJax content so marked doesn't strip backslashes or alter delimiters
         const protectedObj = protectMath(sanitized);
         let processedHtml = marked.parse(protectedObj.text);
@@ -471,6 +473,44 @@ function sanitizeMarkdown(raw) {
     } catch (_) {
         return raw;
     }
+}
+
+// Prevent marked from altering MathJax delimiters/content by using placeholders
+function ensureSourcesHtml(text) {
+  try {
+    // Normalize different possible variants of the heading (with or without colon and spacing)
+    const markerRe = /(\n|^)Bronnen:\s*(\n|$)/i;
+    if (!markerRe.test(text)) return text;
+
+    // 1) If we're inside an unclosed fenced code block before Bronnen:, close it
+    // Count ``` occurrences before the marker; if odd, insert a closing fence right before the marker.
+    const idx = text.search(markerRe);
+    const before = text.slice(0, idx);
+    const fenceCount = (before.match(/```/g) || []).length;
+    let adjusted = text;
+    if (fenceCount % 2 === 1) {
+      // insert a newline + closing fence before the marker
+      adjusted = before + (before.endsWith('\n') ? '' : '\n') + '```\n' + text.slice(idx);
+    }
+
+    // 2) Strip any leading/backtick fences immediately after the Bronnen line to avoid rendering as code
+    adjusted = adjusted.replace(/(\n|^)Bronnen:\s*(?:\n```[a-zA-Z0-9-]*\s*\n)?/i, (m) => {
+      // Keep only the line 'Bronnen:' followed by a newline
+      return (m.startsWith('\n') ? '\n' : '') + 'Bronnen:\n';
+    });
+
+    // 3) If the sources block ends with a closing fence right before the end, remove that fence
+    // We look for a trailing fence after Bronnen: until next top-level heading or end of text.
+    const sourcesRe = /(\n|^)Bronnen:\n[\s\S]*$/i;
+    adjusted = adjusted.replace(sourcesRe, (block) => {
+      // Remove a trailing standalone ``` at end of block
+      return block.replace(/\n```\s*$/g, '\n');
+    });
+
+    return adjusted;
+  } catch (_) {
+    return text;
+  }
 }
 
 // Prevent marked from altering MathJax delimiters/content by using placeholders
