@@ -416,10 +416,23 @@ async function sendMessage() {
 }
 
 function cleanBotText(text) {
-  // Remove system/user tags
-  text = text.replace(/<\|\/?(user|system|response|ns|user|assistant)\|>/g, "");
-
-  return text;
+  try {
+    let t = String(text);
+    // Remove tags like <|response|>, <|/response|>, </|response|>, with optional spaces
+    t = t.replace(/<\|\s*\/?\s*(?:user|system|assistant|response|bot|model|tool|ns)\s*\|>/gi, "");
+    t = t.replace(/<\/(?:\|)\s*(?:user|system|assistant|response|bot|model|tool|ns)\s*\|>/gi, "");
+    // Remove simple angle tags like <assistant>, </assistant>
+    t = t.replace(/<\s*\/?\s*(?:user|system|assistant|response|bot|model|tool|ns)\s*>/gi, "");
+    // Remove OpenAI style markers and special tokens
+    t = t.replace(/<\/?im_(?:start|end)>/gi, "");
+    t = t.replace(/<\|endoftext\|>/gi, "");
+    t = t.replace(/\[\/?INST\]/g, "");
+    // Collapse any leftover multiple spaces created by removals near punctuation
+    t = t.replace(/\s{2,}/g, ' ');
+    return t;
+  } catch (_) {
+    return text;
+  }
 }
 
 function appendMessage(sender, text, isHtml = false) {
