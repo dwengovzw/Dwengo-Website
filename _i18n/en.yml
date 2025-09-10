@@ -782,13 +782,38 @@ curricula_page:
         link_name: "Download"
         
   wedstrijd_sr:
-    teaser: "https://docs.google.com/forms/d/e/1FAIpQLSep0VYnDk08rHEmUgWcIsRkQhQuXXr_dVGC-sM0lbSsGgwIaQ/viewform?usp=dialog"
+    teaser: "https://www.youtube.com/embed/tqSnpAKLsu8"
     curricula_files:
       - file_title: "Inschrijvingsformulier"
-        file_info: "Laat je leerkracht jullie inschrijven via het volgende formulier!"
-        file_location: "https://forms.gle/NfnD6d1xLE8EPY678"
+        file_info: "Laat jullie leerkracht jullie team inschrijven via het volgende formulier!"
+        file_location: "https://docs.google.com/forms/d/e/1FAIpQLSep0VYnDk08rHEmUgWcIsRkQhQuXXr_dVGC-sM0lbSsGgwIaQ/viewform?usp=dialog"
+        file_icon_name: "link"
+        link_name: "Open"
+      - file_title: "Indienformulier"
+        file_info: "Vul dit formulier in om jullie project in te dienen."
+        file_location: "https://dwengo-forms.ilabt.imec.be/forms/my-form-mw3vr9-2"
+        file_icon_name: "link"
+        link_name: "Open"
+      - file_title: "Formulier voor tussentijdse technische fiche"
+        file_info: "Met dit formulier kan je je tussentijdse technische fiche indienen."
+        file_location: "https://dwengo-forms.ilabt.imec.be/forms/my-form-mw3vr9-1-1"
+        file_icon_name: "link"
+        link_name: "Open"
+      - file_title: "Minimumdoelen"
+        file_info: "In dit document kan je alle minimumdoelen terugvinden die gekoppeld zijn aan het project."
+        file_location: "/assets/files/wedstrijd_sr/Minimumdoelen.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
+      - file_title: "Wedstrijdreglement"
+        file_info: "Neem het reglement goed door! Het is bindend. Het bevat o.a. een rubric met de evaluatiecriteria."
+        file_location: "/assets/files/wedstrijd_sr/Wedstrijdreglement.pdf"
         file_icon_name: "link"
         link_name: "Download"
+      - file_title: "Infosessie voor leerkrachten"
+        file_info: "In deze presentatie vind je alle informatie over de wedstrijd terug."
+        file_location: "https://www.youtube.com/watch?v=voQyQ85oUr8"
+        file_icon_name: "play_arrow"
+        link_name: "Bekijk"
 
 
 
@@ -999,19 +1024,19 @@ learning_trajectory:
 
 
 wedstrijd_sr:
-  page_title: Wedstrijd 'sociale robot'
+  page_title: Wedstrijd 'Sociale robot'
   intro: "In het dagelijkse leven kom je steeds vaker in contact met robots in allerlei vormen en maten. Toch verloopt de communicatie met deze robots vaak behoorlijk stroef! Wij hebben jou nodig om daar verandering in te brengen!"
-  summary: "Ga je de uitdaging aan? Schrijf je dan in voor onze 'sociale robot'-wedstrijd! Ontwerp, bouw en programmeer in een team van maximaal vier personen een sociale robot die kan dienen als oplossing voor een maatschappelijk probleem."
+  summary: "Ga je de uitdaging aan? Schrijf je dan in voor onze 'Sociale robot'-wedstrijd! Ontwerp, bouw en programmeer in een team van maximaal vier personen een sociale robot die een oplossing biedt voor een maatschappelijk probleem."
   title1: De wedstrijd
-  t1p1: "Dit schooljaar organiseert Dwengo de eerste editie van haar ‘sociale robot’-wedstrijd. Voor deze wedstrijd ontwerp en bouw jij, in groepjes van maximaal vier personen, een sociale robot die een oplossing biedt voor een maatschappelijk probleem. Om deel te nemen stuur je voor 1 december 2024 een eerste keer een technische fiche naar Dwengo. Nadien maak je een filmpje waarin je jouw robot voorstelt en uitlegt welk maatschappelijk probleem deze oplost. Dit stuur je, samen met een gefinaliseerde technische fiche van je robot, door naar Dwengo voor …... De twintig beste inzendingen worden uitgenodigd voor de finale op 7 mei 2025. Daar zal je jouw robot moeten voorstellen aan een professionele jury die de beste 3 robots selecteert. Het is de bedoeling om met beperkte middelen het gekozen maatschappelijk probleem zo goed mogelijk aan te pakken. Om hun beoordeling te maken zal de jury zowel met het gekozen maatschappelijk probleem, de oplossing ervan en de technische uitwerking rekening houden."
-  title2: Doelgroep
-  t2p1: "De wedstrijd richt zich op leerlingen van de eerste en tweede graad van het secundair onderwijs. Zij kunnen in groepjes van maximaal vier leerlingen deelnemen aan de wedstrijd. Zowel het sociale als het technische aspect van je robot worden opgenomen in de eindbeoordeling. Het kan dus nuttig zijn om deel te nemen met een team van leerlingen uit verschillende studierichtingen (weliswaar van dezelfde graad). Zo kunnen jullie elkaars competenties versterken! De inschrijving voor de wedstrijd verloopt via de school. Heb je interesse om deel te nemen? Stel een team samen en overtuig jullie leerkracht om jullie team in te schrijven!"
+  t1p1: "Dit schooljaar organiseert Dwengo de tweede editie van haar ‘Sociale robot’-wedstrijd. Voor deze wedstrijd ontwerp en bouw jij, in groepjes van maximaal vier personen, een sociale robot die een oplossing biedt voor een maatschappelijk probleem.<br>Om deel te nemen vul je een technische fiche van je robot in, die je herwerkt tijdens het verloop van de wedstrijd. Verder maak je een filmpje waarin je jouw robot voorstelt en uitlegt welk maatschappelijk probleem deze oplost. Dit stuur je door naar Dwengo, samen met een gefinaliseerde technische fiche van je robot, ten laatste op 22 april 2026. De 16 beste inzendingen worden uitgenodigd voor de finale. Daar zal je jouw robot moeten voorstellen aan een professionele jury die de beste 3 robots selecteert.<br>Het is de bedoeling om met beperkte middelen het gekozen maatschappelijk probleem zo goed mogelijk aan te pakken. Om hun beoordeling te maken zal de jury zowel met het gekozen maatschappelijk probleem, de oplossing ervan en de technische uitwerking rekening houden. Tijdens deze tweede editie wordt er naast een prijs voor de beste drie robots ook een prijs uitgedeeld voor de beste ‘opvoedrobot’. Deze robot ondersteunt ouder, grootouders, familie, vrienden en opvoeders in het algemeen om kinderen met vertrouwen op te voeden."
+  title2: Wie kan er deelnemen?
+  t2p1: "De wedstrijd richt zich op alle leerlingen van de eerste en tweede graad van het secundair onderwijs. Zij kunnen in groepjes van minimaal twee en maximaal vier leerlingen deelnemen aan de wedstrijd. Zowel het sociale als het technische aspect van je robot worden opgenomen in de eindbeoordeling. Het kan dus nuttig zijn om deel te nemen met een team van leerlingen uit verschillende studierichtingen (weliswaar van dezelfde graad). Zo kunnen jullie elkaars competenties versterken!<br>De inschrijving voor de wedstrijd verloopt via de school. Heb je interesse om deel te nemen? Stel een team samen en overtuig jullie leerkracht om jullie team in te schrijven!"
   title3: Waarom moet ik meedoen?
-  t3p1: "Vandaag de dag zijn computers in allerlei vormen (domotica, huishoudelijke apparatuur, robots, ...) niet meer weg te denken uit onze samenleving. Het is dus niet enkel belangrijk dat je deze technologieën leert gebruiken, maar ook dat je je verdiept in de onderliggende fundamentele concepten.  Door mee te doen aan onze robotcompetitie maak je op een leuke manier kennis met de verschillende technische aspecten van robotica. Bovendien doe je zowel computationele als sociale vaardigheden op door in teamverband aan een open probleem te werken. <br>Deelname aan de wedstrijd is gratis. Jouw leerkracht kan de nodige elektronica ontlenen via de onderwijskoepel van je school. Het materiaal voor de bouw van het lichaam van de robot voorzie je zelf. Je kan hier je creativiteit dus de vrije loop laten."
+  t3p1: "Vandaag de dag zijn computers in allerlei vormen (domotica, huishoudelijke apparatuur, robots, ...) niet meer weg te denken uit onze samenleving. Het is dus niet enkel belangrijk dat je deze technologieën leert gebruiken, maar ook dat je je verdiept in de onderliggende fundamentele concepten.  Door mee te doen aan onze robotcompetitie maak je op een leuke manier kennis met de verschillende technische aspecten van robotica. Bovendien doe je zowel computationele als sociale vaardigheden op door in teamverband aan een open probleem te werken. <br> Deelname aan de wedstrijd is gratis. Jouw leerkracht kan de nodige elektronica ontlenen via de onderwijskoepel van je school. Het materiaal voor de bouw van het lichaam van de robot voorzie je zelf. Je kan hier je creativiteit dus de vrije loop laten."
   title4: "Ik doe mee! En nu?"
-  t4p1: "Je kan enkel deelnemen via jouw school. Je zal dus een van je leerkrachten moeten overtuigen om jouw team in te schrijven en te begeleiden bij het ontwerpen en bouwen van je robot. Vraag je leerkracht eerst en vooral om de nodige elektronica te reserveren. Dat kan via <a href='https://forms.gle/NfnD6d1xLE8EPY678'>deze link</a>. Heb je je leerkracht kunnen overtuigen? Bekijk dan al eens het lesmateriaal over de sociale robot op: <a href='https://dwengo.org/socialerobot'>dwengo.org/socialrobot</a>. Hier vind je alle informatie die je nodig hebt om je robot te ontwerpen en te bouwen." 
-  title5: "Tip voor leerkrachten!"
-  t5p1: "Om deze wedstrijd te begeleiden kan je een beroep doen op het uitgebreide lessenpakket van het project [Sociale robot](https://www.dwengo.org/socialerobot/). Zo werk werk je eigenlijk aan de minimumdoelen van een waaier aan sleutelcompetenties. En dat met een wedstrijd als bonus! De nodige hardware kan je gratis ontlenen via je onderwijskoepel of via de uitleendiensten van de [cel iSTEM](https://www.istem.be/2023/09/29/dwengos-uitproberen-2/) inkleuren en de [Provincie Oost-Vlaanderen](https://oost-vlaanderen.be/leren/materialen-activiteiten-scholen/educatief-materiaal/stem/secundair-onderwijs/de-sociale-robot.html). Zit je nog met vragen? [Mail](mailto:robotwedstrijd@dwengo.org), volg een van de online infosessies, of neem deel aan een van de face to face nascholingen die Dwengo organiseert."
+  t4p1: "Je kan enkel deelnemen via jouw school. Je zal dus een van je leerkrachten moeten overtuigen om jouw team in te schrijven en te begeleiden bij het ontwerpen en bouwen van je robot. Vraag je leerkracht eerst en vooral om de nodige elektronica aan te vragen bij jullie onderwijskoepel. Concrete info daarover krijg je bij je inschrijving.<br>Heb je je leerkracht kunnen overtuigen? Bekijk dan al eens het lesmateriaal over de sociale robot op: <a href='https://dwengo.org/socialerobot'>dwengo.org/socialerobot</a>. Hier vind je alle informatie die je nodig hebt om je robot te ontwerpen en te bouwen."
+  title5: "Tip voor je leerkrachten!"
+  t5p1: "Om deze wedstrijd te begeleiden kan je als leerkracht een beroep doen op het uitgebreide lessenpakket van het project <a href='https://www.dwengo.org/socialerobot/'>Sociale robot</a>. Zo werk je eigenlijk aan de minimumdoelen van een waaier aan sleutelcompetenties. En dat met een wedstrijd als bonus! De nodige elektronica kan je gratis ontlenen via je onderwijskoepel of via de uitleendiensten van de <a href='https://www.istem.be/2023/09/29/dwengos-uitproberen-2/'>cel iSTEM inkleuren</a> en de <a href='https://oost-vlaanderen.be/leren/materialen-activiteiten-scholen/educatief-materiaal/stem/secundair-onderwijs/de-sociale-robot.html'>Provincie Oost-Vlaanderen</a>. Je beschikt ook over een programmeeromgeving (blokgebaseerd of tekstueel) met <a href='https://blockly.dwengo.org/'>simulator</a>, zodat je het project al kan starten zonder de hardware.<br>Zit je nog met vragen? <a href='mailto:robotwedstrijd@dwengo.org'>Mail</a>, bekijk de <a href='https://www.youtube.com/watch?v=voQyQ85oUr8'>opname van onze infosessie van vorig jaar</a>, of neem deel aan een van de face to face <a href='https://dwengo.org/agenda'>nascholingen</a> die Dwengo organiseert."
 
 bot:
   title: "Chat with our Bot"
