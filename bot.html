@@ -402,8 +402,6 @@ async function sendMessage() {
 
   // Ensure final render/typeset when stream completes
   renderCurrent();
-  // Log the fully assembled raw response (pre-Markdown HTML) for debugging
-  try { console.log('[CHAT][RAW_FINAL]', rawBotText); } catch (_) {}
 
     // If stream ended but no content arrived, replace placeholder with message
     if (!started) {
