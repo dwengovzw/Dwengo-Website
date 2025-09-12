@@ -471,10 +471,23 @@ function sanitizeMarkdown(raw) {
     raw = raw.replace(pattern, (m, lang) => {
       return '```' + String(lang).toLowerCase() + '\n';
     });
-    // Ensure a newline after closing fences like ``` when not followed by a newline
-    raw = raw.replace(/```(?![a-zA-Z])(?=[^\n])/g, '\n```\n');
-    // If the content ends with a closing fence without newline, append one
+    // --- Normalize fence placement ---
+    // 1. Ensure opening fences start on their own line.
+    const langAlt = langs.join('|');
+    const openingFenceInline = new RegExp('([^\n])(```[ \t]*(?:' + langAlt + ')\b)', 'gi');
+    raw = raw.replace(openingFenceInline, (m, pre, fence) => pre + '\n' + fence);
+    // 2. Ensure a blank line (at least newline) before opening fence if previous line has text and no blank line.
+    raw = raw.replace(/(^|\n)([^\n\r]+)\n(```[ \t]*(?:' + langAlt + ')\b)/gi, (m, start, prevLine, fence) => {
+      return start + prevLine + '\n' + fence; // already newline between, keep
+    });
+    // 3. Ensure closing fences are on their own line: insert newline before if preceding char not newline and pattern is closing fence (no lang).
+    raw = raw.replace(/([^\n])```(\s*\n|$)/g, (m, pre, tail) => pre + '\n```' + tail);
+    // 4. Ensure newline after closing fence when next char is not newline/end and not a letter (to avoid opening fences).
+    raw = raw.replace(/```(?![a-zA-Z`])(?!\n|$)/g, '```\n');
+    // 5. If the content ends with a closing fence without newline, append newline.
     if (/(^|\n)```[ \t]*$/.test(raw)) raw += '\n';
+    // 6. Collapse any accidental triple newlines around fences to double at most.
+    raw = raw.replace(/\n{3,}/g, '\n\n');
         return raw;
     } catch (_) {
         return raw;
