@@ -7,6 +7,7 @@ location: "Hendrik Consciencegebouw, Koning Albert II-laan 15, Brussel"
 location_link: "https://www.google.be/maps/place/Koning%20Albert%20II-laan%2015,%201210%20Brussel"
 language: "nl"
 registration_link: "https://www.vlaanderen.be/kenniscentrum-digisprong/kalender/evenementen/codefestival-2025-programmeren-en-coderen-in-het-onderwijs/13-10-2025"
+anchor: "codefestival-13-10-25"
 ---
 
 Ook dit jaar is Dwengo van de partij op het Codefestival. Je kan er onze **beursstand** bezoeken of deelnemen aan een van onze workshops.
