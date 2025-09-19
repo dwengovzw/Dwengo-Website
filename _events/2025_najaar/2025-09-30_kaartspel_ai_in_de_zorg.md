@@ -1,5 +1,5 @@
 ---
-title: "Stellingenspel AI in de Zorg"
+title: "Stellingenspel AI in de Zorg (volzet)"
 date: 2025-09-30T009:30:00
 end_date: 2025-09-30T012:30:00
 item_theme_logo_url: "/images/curricula/logo_care.png"
