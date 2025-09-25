@@ -17,7 +17,8 @@ let pong = {
     currentReward: null,
     rewardVisible: 50,
     collisionTime: 0,
-    showGameFromScore: 150
+    showGameFromScore: 100,
+    showOpponentFromScore: 50
 }
 
 // Reset the game state
@@ -167,7 +168,7 @@ function draw() {
 
 
     // Draw the computer paddle
-    if (pong.score > pong.showGameFromScore) {
+    if (pong.score > pong.showOpponentFromScore) {
         ctx.fillStyle = 'white';
         ctx.fillRect(pong.computerPaddle.col * canvas.width / pong.world.cols, pong.computerPaddle.row * canvas.height / pong.world.rows, canvas.width / pong.world.cols, pong.computerPaddle.length * canvas.height / pong.world.rows);
     }
