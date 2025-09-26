@@ -18,7 +18,7 @@ let pong = {
     rewardVisible: 50,
     collisionTime: 0,
     showGameFromScore: 100,
-    showOpponentFromScore: 50
+    showOpponentFromScore: 40
 }
 
 // Reset the game state
