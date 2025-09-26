@@ -28,6 +28,8 @@ summary=summary
 
 {%- include wedstrijd_sr_extra_info.html -%}
 
+<h1>Geniet van enkele sfeerbeelden van de vorige editie</h1>
+
 <div style="font-family: Arial, sans-serif; background: #f4f4f4; display: flex; justify-content: center; align-items: center; height: 80vh; margin: 0;position: relative">
 
   <!-- Navigation buttons -->
