@@ -12,6 +12,8 @@ anchor: "codefestival-13-10-25"
 
 Ook dit jaar is Dwengo van de partij op het Codefestival. Je kan er onze **beursstand** bezoeken of deelnemen aan een van onze workshops.
 
+![Banner van Codefestival 2025](/images/events/2025/codefestival.png)
+
 Het Codefestival maakt deel uit van de EU Code Week, die loopt van 11 tot en met 26 oktober 2025. 
 Dit initiatief stimuleert creativiteit, probleemoplossend denken en samenwerking via programmeren en andere digitale en 
 technologische activiteiten. Het doel is om programmeren toegankelijker te maken en te tonen hoe je ideeën met code tot leven kunt brengen. 

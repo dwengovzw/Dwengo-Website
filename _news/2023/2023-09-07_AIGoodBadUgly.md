@@ -1,7 +1,7 @@
 ---
 title: "AI: The Good, the bad and the ugly"
 date: 2023-09-11T08:00:00
-item_theme_logo_url: "/images/curricula/logo_aiopschool.png"
+item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
 language: "nl"
 ---
 ###### Lezing Mieke De Ketelaere - Merelbeke, 12 oktober 2023

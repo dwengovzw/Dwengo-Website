@@ -1,7 +1,7 @@
 ---
 title: "Krokus of Pasen Bootcamp Gent: AI Bootcamp"
 date: 2025-01-10T09:30:00
-item_theme_logo_url: "/images/curricula/logo_aiopschool.png"
+item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
 language: "nl"
 anchor: "Fluxlab-Bootcamp-03-03-25"
 ---
@@ -30,4 +30,3 @@ Waar? MS Voskenslaan: Voskenslaan 38, 9000 Gent
 [Inschrijven](https://fluxlab.be/event/krokus-bootcamp-gent-ai-bootcamp/)
 
 ![AI-Bootcamp-Voskenslaan-Pasen](https://github.com/user-attachments/assets/734c12b5-451b-4b3f-93f9-03d03c9bb6ab)
-
