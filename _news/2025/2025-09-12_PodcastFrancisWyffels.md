@@ -6,7 +6,7 @@ language: "nl"
 anchor: "podcast-wrc-2025"
 ---
 
-Na de World Robotics Conference te hebben bijgewoond in China, brengt professor AI en robotica Francis Wyffels (UGent) verslag uit op de podcast 'Bits & atomen' van De Standaard. Samen met hosts Pieter Van Dooren en Dominique Deckmyn spreekt hij onder andere over de recentste vooruitgangen in de robotica.
+Na de World Robotics Conference te hebben bijgewoond in China, brengt professor AI en robotica Francis wyffels (UGent-imec en Dwengo) verslag uit op de podcast 'Bits & atomen' van De Standaard. Samen met hosts Pieter Van Dooren en Dominique Deckmyn spreekt hij onder andere over de recentste vooruitgangen in de robotica.
 
 Krijgen we binnenkort volledig autonome huishoudrobots? Zijn humanoïde robots de toekomst? Loopt Europa achter op Amerika en Azië? 
 Deze vragen en meer worden beantwoord [hier](https://www.standaard.be/podcast/robotexpert-francis-wyffels-het-chatgpt-moment-voor-robotica-is-nog-niet-voor-meteen/89872878.html?utm_medium=referral&utm_campaign=share)!
