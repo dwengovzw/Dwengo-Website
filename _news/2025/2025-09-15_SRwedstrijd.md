@@ -1,6 +1,6 @@
 ---
 title: "Wedstrijd 'Sociale robot' 2025"
-date: 2026-04-22T12:00:00
+date: 2025-09-15T12:00:00
 item_theme_logo_url: "/images/curricula/logo_socialrobot.png"
 language: "nl"
 anchor: "sociale-robot-wedstrijd-2026"
