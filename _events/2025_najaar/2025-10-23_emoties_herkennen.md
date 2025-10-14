@@ -11,10 +11,10 @@ registration_link: "https://dwengo.eventgoose.com/events/ZgvLVEzpR4p2Wq9D"
 ---
 
 Heel wat AI-systemen maken gebruik van artificiële neurale netwerken. Een artificieel neuraal netwerk is een techniek van het machinaal leren waarmee je de computer, op basis van voorbeelden, een bepaalde taak kan aanleren. 
-In deze workshop ga je hands-on aan de slag met een neuraal netwerk dat emoties leert herkennen. Je verzamelt zelf een dataset waarmee je het netwerk zal trainen, traint het neurale netwerk en evalueert de prestatie ervan. Dit doe je aan de hand van de programmeertaal Python
+In deze workshop ga je hands-on aan de slag met een neuraal netwerk dat emoties leert herkennen. Je verzamelt zelf een dataset waarmee je het netwerk zal trainen, traint het neurale netwerk en evalueert de prestatie ervan. Dit doe je aan de hand van de programmeertaal Python.
 
 **Doelgroep:** <br>
-Leerkrachten informaticawetenschappen, wetenschappen of STEM van de 2e of 3e graad van het secundair onderwijs
+Leerkrachten informaticawetenschappen, wetenschappen of STEM van de 2e of 3e graad van het secundair onderwijs.
 
 **Voorkennis:** <br>
 Je hebt bij voorkeur een basiskennis programmeren. Dat kan in eender welke programmeertaal.

@@ -1,5 +1,5 @@
 ---
-title: "Save-the-date - Dag van wiskunde - tweede en derde graad"
+title: "Dag van wiskunde - tweede en derde graad"
 date: 2025-11-15T08:00:00
 end_date: 2025-11-15T13:00:00
 item_theme_logo_url: "/images/curricula/logo_aiopschool_rond.png"
@@ -9,11 +9,11 @@ language: "nl"
 anchor: "wiskundedag-15-11-25"
 registration_link: "https://aanbod.eekhoutacademy.be/course/zEe1Qz"
 ---
-Noteer alvast de datum en kom naar onze Dwengo-sessie.
+Kom naar onze Dwengo-sessie.
 
 **Wanneer:** 15 november 2025, 8u30-12u30
 
-**Doelgroep:** Leerkrachten wiskunde van de tweede en derde graad secundair onderwijs
+**Doelgroep:** Leerkrachten wiskunde van de tweede en derde graad secundair onderwijs.
 
 **Locatie:** KU Leuven Campus Kulak Kortrijk, Etienne Sabbelaan 53, Kortrijk
 
