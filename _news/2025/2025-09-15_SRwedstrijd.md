@@ -18,5 +18,5 @@ Leerkrachten, dit is hét moment om je leerlingen te laten proeven van creativit
 Schrijf je vandaag nog in en laat je leerlingen schitteren!
 
 ⏰ Deadline inzendingen: 22 april 2026 <br>
-🏆 Finale: 27 mei 2026 in het Provinciehuis (Gent) met professionele jury en prijzen <br>
+🏆 Finale: 27 mei 2026 in het stadsbibliotheek De Krook (Gent) met professionele jury en prijzen <br>
 💡 Voor meer info, klik [hier](https://dwengo.org/socialerobotwedstrijd/)
