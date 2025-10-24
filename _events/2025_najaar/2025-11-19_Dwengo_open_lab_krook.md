@@ -13,7 +13,7 @@ Ben je benieuwd naar het materiaal dat Dwengo te bieden heeft maar voel je nog d
 
 Elk open lab werken we rond een bepaald thema. In dit lab kan je uitleg krijgen en experimenteren met onze unplugged activiteiten. Met deze activiteiten breng je leerlingen kennis bij over de **concepten en praktijken van computationeel denken**. Tegelijk leren ze over informaticawetenschappen zonder gebruik te maken van de computer. Unplugged activiteiten zijn dus ideaal om op een laagdrempelige manier aan de slag te gaan met computationeel denken en informaticawetenschappen.
 
-In dit open lab wordt ook ons **boek** *Actief computationeel denken* voorgesteld.
+In dit open lab wordt ook ons **boek** *Actief computationeel denken* voorgesteld. Om 14u is er een presentatie door Natacha die de inhoud van het boek zal toelichten.
 
 **Doelgroep:**
 Het open lab is toegankelijk voor iedereen maar is vooral gericht op leerkrachten lager en secundair onderwijs. 
