@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-curricula: ['basics_ai', 'kiks', 'socialrobot', 'Robotica', 'agriculture', 'art', 'wegostem', 'computational_thinking', 'math_with_python', 'python_programming', 'stem', 'care', 'chatbot', 'physical_computing', 'algorithms']
+curricula: ['basics_ai', 'kiks', 'socialrobot', 'robotica', 'agriculture', 'art', 'wegostem', 'computational_thinking', 'math_with_python', 'python_programming', 'stem', 'care', 'chatbot', 'physical_computing', 'algorithms']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].strengths.title }} {% endcapture %}
