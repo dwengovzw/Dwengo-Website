@@ -174,7 +174,16 @@ physical_computing:
   paragraph1: "Een robot bouwen met leerlingen of een andere toepassing van physical computing introduceren in de klas is niet zo eenvoudig. Om het voor leerkrachten zo laagdrempelig mogelijk te maken, ontwikkelde Dwengo een eigen microcontrollerplatform, de Dwenguino, en een grafische programmeeromgeving, DwenguinoBlockly. Zelfs zonder fysiek materiaal kan je hiermee werken."
   paragraph2: "De Dwenguino is een Arduino-gebaseerd microcontrollerplatform dat heel wat elementen bevat waarmee je snel een eigen apparaat kan bouwen."
   paragraph3: "De Dwenguino beschikt bijvoorbeeld over drukknoppen, een lcd-scherm, een zoemer, leds en connectoren om motoren aan te sluiten. De Dwenguino is open source. Het platform wordt momenteel reeds gebruikt voor leerlingen vanaf 10 jaar tot in het hoger onderwijs. Er kan een leerlijn mee opgebouwd worden van de eerste tot de derde graad van het secundair onderwijs, van grafisch tot tekstueel programmeren, en met een stijgende moeilijkheidsgraad in toepassingen."
+  teaser:
+      title: "Uitproberen?"
+      file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_deelnemer_vTechnopolis.pdf"
 
+
+robotica:
+  intro_title: "Robotica"
+  paragraph1: "Robots spreken tot de verbeelding van leerlingen en vormen een ideale ingang om STEM-vaardigheden te ontwikkelen. Toch is het niet altijd eenvoudig om robotica op een haalbare en motiverende manier in de klas te brengen. Dwengo ontwikkelt educatieve robotica-oplossingen en lesmateriaal waarmee leerkrachten stap voor stap met hun leerlingen kunnen ontdekken wat robots kunnen en hoe ze werken."
+  paragraph2: "Met de Dwenguino leren leerlingen niet enkel programmeren, maar ook hoe sensoren en actuatoren samenwerken om een robot tot leven te brengen. Zo ontdekken ze de basisprincipes van automatisatie en kunstmatige intelligentie op een tastbare manier."
+  paragraph3: "Onze robotica-activiteiten sluiten aan bij verschillende leeftijden en leertrajecten: van eenvoudige bewegende robots in de eerste graad tot sociale robots of zelflerende robots in de derde graad. Dankzij open source hardware en software kan elke leerkracht met beperkte middelen aan de slag en bouwen leerlingen stapsgewijs hun eigen intelligente machines."
   teaser:
       title: "Uitproberen?"
       file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_deelnemer_vTechnopolis.pdf"
@@ -666,6 +675,12 @@ curricula_page:
         file_location: "/assets/files/physical_computing/bouwjouweigenrobot.pdf"
         file_icon_name: "description"
         link_name: "Download"
+
+
+  robotica:
+    title: Robotica
+    sub_title: Programmeer robots in de klas
+    description: "Van een eenvoudige rijdende robot die in een vierkant rijdt tot een robot die zelf leert hoe deze zich moet verplaatsen met Q-learning. In dit lesthema leer je alles over hoe je een robot ontwerpt, bouwt en programmeert!"
         
   wedstrijd_sr:
     teaser: "https://www.youtube.com/embed/tqSnpAKLsu8"

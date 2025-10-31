@@ -368,6 +368,15 @@ physical_computing:
     title: "Probieren Sie dieses Lehrmaterial aus!"
     file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_deelnemer_vTechnopolis.pdf"
 
+robotica:
+  intro_title: "Robotik"
+  paragraph1: "Roboter regen die Vorstellungskraft der Schüler an und bieten einen idealen Einstieg, um MINT-Fähigkeiten zu entwickeln. Es ist jedoch nicht immer einfach, Robotik auf eine erreichbare und motivierende Weise in den Unterricht zu integrieren. Dwengo entwickelt Bildungsrobotik-Lösungen und Unterrichtsmaterialien, mit denen Lehrkräfte und ihre Schüler Schritt für Schritt entdecken können, was Roboter können und wie sie funktionieren."
+  paragraph2: "Mit dem Dwenguino lernen die Schüler nicht nur zu programmieren, sondern auch, wie Sensoren und Aktoren zusammenarbeiten, um einen Roboter zum Leben zu erwecken. So entdecken sie die Grundprinzipien der Automatisierung und der künstlichen Intelligenz auf greifbare Weise."
+  paragraph3: "Unsere Robotik-Aktivitäten richten sich an verschiedene Altersgruppen und Lernstufen: von einfachen beweglichen Robotern in den ersten Jahren bis hin zu sozialen oder selbstlernenden Robotern in den höheren Stufen. Dank Open-Source-Hardware und -Software kann jede Lehrkraft mit begrenzten Mitteln starten, und die Schüler können nach und nach ihre eigenen intelligenten Maschinen bauen."
+  teaser:
+      title: "Möchten Sie es ausprobieren?"
+      file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_deelnemer_vTechnopolis.pdf"
+
 learning_paths:
   title: Lernpfade
   search_title: Lernpfade suchen
@@ -774,6 +783,11 @@ curricula_page:
           file_location: "/assets/files/physical_computing/bouwjouweigenrobot.pdf"
           file_icon_name: "description"
           link_name: "Download"
+
+  robotica:
+    title: "Robotik"
+    sub_title: "Programmiere Roboter im Unterricht"
+    description: "Von einem einfachen fahrenden Roboter, der in einem Quadrat fährt, bis zu einem Roboter, der mit Q-Learning selbst lernt, sich zu bewegen. In diesem Unterrichtsthema lernst du alles über das Entwerfen, Bauen und Programmieren eines Roboters!"
         
   wedstrijd_sr:
     teaser: "https://www.youtube.com/embed/tqSnpAKLsu8"

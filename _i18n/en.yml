@@ -355,6 +355,15 @@ physical_computing:
     title: "Try it out!"
     file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_deelnemer_vTechnopolis.pdf"
 
+robotica:
+  intro_title: "Robotics"
+  paragraph1: "Robots capture students’ imagination and offer an ideal entry point to develop STEM skills. However, bringing robotics into the classroom in an achievable and motivating way is not always easy. Dwengo develops educational robotics solutions and teaching materials that help teachers and their students discover step by step what robots can do and how they work."
+  paragraph2: "With the Dwenguino, students not only learn to program, but also how sensors and actuators work together to bring a robot to life. In this way, they discover the basic principles of automation and artificial intelligence in a tangible way."
+  paragraph3: "Our robotics activities are tailored to different ages and learning paths: from simple moving robots in the first years to social or self-learning robots in the later stages. Thanks to open-source hardware and software, every teacher can get started with limited resources, and students can gradually build their own intelligent machines."
+  teaser:
+      title: "Want to try it out?"
+      file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_deelnemer_vTechnopolis.pdf"
+
 chatbot:
   intro_title: "Chatbot"
   paragraph1: "<strong>Where language and technology come together, the field of Natural Language Processing (NLP) emerges. Using machine learning techniques, such as training models to recognize text, images, or sound frequencies, we can enable computers to intelligently work with language. Well-known NLP applications of machine learning include translation programs, voice control systems, or virtual assistants like Siri, and chat robots.</strong>"
@@ -762,12 +771,14 @@ curricula_page:
     description: "The programming language Python offers great possibilities to enrich the math class. From the Pythagorean theorem to creating your own graphs, digital image processing, and linear regression, everything becomes clearer with Python."
     contact: ""
     teaser: https://www.youtube.com/embed/dO-E33G20co
+
   python_programming:
     title: Programming with Python
     sub_title: Basic Programming in Python
     description: "Want to learn the basic principles of programming? You can do it perfectly with this package. We use Python and learn all about sequences, repetition structure, and decision structure. That's exactly what's in the end terms. And more!"
     contact: Questions? Contact us at team@aiopschool.be. The press can contact Francis Wyffels via Francis@dwengo.org.
     teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+
   physical_computing:
     title: Physical Computing
     sub_title: Program Robots in the Classroom
@@ -780,6 +791,11 @@ curricula_page:
         file_location: "/assets/files/physical_computing/bouwjouweigenrobot.pdf"
         file_icon_name: "link"
         link_name: "Download"
+
+  robotica:
+    title: "Robotics"
+    sub_title: "Program robots in the classroom"
+    description: "From a simple driving robot that moves in a square to a robot that learns by itself how to move using Q-learning. In this lesson theme, you will learn everything about how to design, build, and program a robot!"
         
   wedstrijd_sr:
     teaser: "https://www.youtube.com/embed/tqSnpAKLsu8"

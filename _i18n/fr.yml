@@ -382,6 +382,15 @@ physical_computing:
     title: "Essayez ce matériel?"
     file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_deelnemer_vTechnopolis.pdf"
 
+robotica:
+  intro_title: "Robotique"
+  paragraph1: "Les robots stimulent l'imagination des élèves et constituent une porte d'entrée idéale pour développer des compétences STEM. Il n'est cependant pas toujours facile d'introduire la robotique de manière réalisable et motivante en classe. Dwengo développe des solutions pédagogiques et du matériel en robotique permettant aux enseignants, pas à pas, de faire découvrir à leurs élèves ce que les robots peuvent faire et comment ils fonctionnent."
+  paragraph2: "Avec la Dwenguino, les élèves apprennent non seulement à programmer, mais aussi comment les capteurs et les actionneurs collaborent pour donner vie à un robot. Ils y découvrent ainsi de manière concrète les principes fondamentaux de l'automatisation et de l'intelligence artificielle."
+  paragraph3: "Nos activités en robotique s'adaptent à différents âges et parcours d'apprentissage : des robots mobiles simples en première année aux robots sociaux ou auto-apprenants en troisième année. Grâce au matériel et aux logiciels open source, chaque enseignant peut se lancer avec des moyens limités et les élèves construisent progressivement leurs propres machines intelligentes."
+  teaser:
+      title: "Essayez ce matériel?"
+      file: "/assets/files/teasers/Opdracht_RijdendeRobot_Start2STEM_deelnemer_vTechnopolis.pdf"
+
 learning_paths:
   title: Parcours d'apprentissage
   search_title: Rechercher des parcours d'apprentissage
@@ -795,6 +804,11 @@ curricula_page:
         file_location: "/assets/files/physical_computing/bouwjouweigenrobot.pdf"
         file_icon_name: "link"
         link_name: "Download"
+
+  robotica:
+    title: "Robotique"
+    sub_title: "Programmez des robots en classe"
+    description: "D’un robot simple qui roule en carré à un robot qui apprend lui-même à se déplacer grâce au Q-learning. Dans ce thème de cours, vous apprendrez tout sur la conception, la construction et la programmation d’un robot !"
         
   wedstrijd_sr:
     teaser: "https://www.youtube.com/embed/tqSnpAKLsu8"
