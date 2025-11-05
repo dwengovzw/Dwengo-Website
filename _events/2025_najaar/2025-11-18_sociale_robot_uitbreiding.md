@@ -15,17 +15,22 @@ De ervaring leert ons dat physical computing zich zeer goed leent voor het creë
 In deze nascholing gaan we dieper in op hoe je complexere ontwerpen kan maken voor het lichaam van de robot. We leggen je uit hoe je de bestaande 2D-tekeningen kan integreren in een eigen ontwerp en hoe je dat ontwerp kan produceren op een lasersnijder.
 
 
-**Doelgroep:** Leerkrachten van 1e en 2e graad secundair onderwijs.
+**Doelgroep:**<br>
+Leerkrachten van 1e en 2e graad secundair onderwijs
 
-**Meebrengen:** <br>
-Laptop met internetbrowser (bij voorkeur Google Chrome).
+**Wanneer:**<br>
+18 november 2025 van 9u30-12u30
 
-**Wanneer:** 18 november 2025 van 9u30-12u30
+**Meebrengen:**<br>
+Laptop met internetbrowser (bij voorkeur Google Chrome)
 
-**Locatie:** Het makersatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
+**Locatie:**<br>
+Het makersatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
 
 ![Plan naar het makersattelier](/images/events/2025/plan_de_krook_dwengo.png)
 
-**Prijs:** €65
+**Prijs:**<br>
+€65
 
-**Organisatie:** Dwengo
+**Organisatie:**<br>
+Dwengo

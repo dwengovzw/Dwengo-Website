@@ -12,13 +12,17 @@ anchor: "steminar-wiskunde-en-stem"
 
 STEMinars zijn maandelijkse lezingen over kernconcepten binnen het STEM-vakgebied. Op donderdag 17 maart is Dwengo aan de beurt. Natacha Gesquière en Geert Neyrynck nemen de M van STEM onder de loep en nemen jullie mee in het idee van een hands-on aanpak over volume, inhoud, drijven en zinken.
 
-**Doelgroep:** Leerkrachten en directies basis- en secundair onderwijs, studenten lerarenopleiding, pedagogisch begeleiders.
+**Doelgroep:**<br>
+Leerkrachten en directies basis- en secundair onderwijs, studenten lerarenopleiding, pedagogisch begeleiders
 
-**Wanneer:** 17 maart 2026 van 19u30 tot 21u00
+**Wanneer:**<br>
+17 maart 2026 van 19u30 tot 21u00
 
-**Locatie:** De Krook, Gent
+**Locatie:**<br>
+De Krook, Gent
 
-**Organisatie:** STEM voor de Basis, iSTEM
+**Organisatie:**<br>
+STEM voor de Basis, iSTEM
 
 **Meer info en registreren** [hier](https://www.istem.be/sessie/steminar-wiskunde-en-stem-the-perfect-mathch-17-03-2026-ugent/)
 

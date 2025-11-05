@@ -15,17 +15,22 @@ In deze nascholing ga je zelf op zoek naar de moordenaar van barones Heloisa Arg
 Deze activiteit kan je ook met je leerlingen doen. Op die manier verwerven ze meer inzichten in hoe technologie de verwerking van taal kan ondersteunen. Meer info over de activiteit kan je vinden op [onze website](https://dwengo.org/learning-path.html?hruid=org-dwengo-waisda-taal-murder-mistery&language=nl&te=true&source_page=%2Fwaisda%2F&source_title=%20wAIsda?#org-dwengo-waisda-taal-murder-mystery-intro;nl;1).
 
 
-**Doelgroep:** Leerkrachten van de 3e graad secundair onderwijs. Het lesmateriaal bevindt zich op de grens van taal, informaticawetenschappen en wiskunde. De nascholing is dus geschikt voor zowel leerkrachten Nederlands, informatica en wiskunde. 
+**Doelgroep:**<br>
+Leerkrachten van de 3e graad secundair onderwijs. Het lesmateriaal bevindt zich op de grens van taal, informaticawetenschappen en wiskunde. De nascholing is dus geschikt voor zowel leerkrachten Nederlands, informatica en wiskunde.
 
-**Meebrengen:** <br>
-Laptop met internetbrowser (bij voorkeur Google Chrome).
+**Wanneer:**<br>
+9 december 2025 van 13u00-16u00
 
-**Wanneer:** 9 december 2025 van 13u00-16u00
+**Meebrengen:**<br>
+Laptop met internetbrowser (bij voorkeur Google Chrome)
 
-**Locatie:** Het makersatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
+**Locatie:**<br>
+Het makersatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
 
 ![Plan naar het makersattelier](/images/events/2025/plan_de_krook_dwengo.png)
 
-**Prijs:** €65
+**Prijs:**<br>
+€65
 
-**Organisatie:** Dwengo
+**Organisatie:**<br>
+Dwengo

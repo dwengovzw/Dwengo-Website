@@ -16,10 +16,13 @@ STEM is een uitdaging voor vele leerkrachten. Daarom organiseren de cel iSTEM in
 
 Noteeer alvast de datum en kom naar een van onze Dwengo-sessies over computationeel denken of AI (gegidst bezoek aan de tentoonstelling of zelf een neuraal netwerk bouwen om emoties te herkennen). 
 
-**Wanneer:** 26 november 2025, 9u-16u30
+**Wanneer:**<br>
+26 november 2025, 9u-16u30
 
-**Locatie:** Technopolis, Mechelen
+**Locatie:**<br>
+Technopolis, Mechelen
 
-**Organisatie:** iSTEM inkleuren, STEM voor de Basis en Technopolis
+**Organisatie:**<br>
+iSTEM inkleuren, STEM voor de Basis en Technopolis
 
 <img width="400" height="400" alt="Logo_WowDag" src="https://github.com/user-attachments/assets/e9bcc013-74da-4ce7-81b7-c0eb8dd95948" />

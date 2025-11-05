@@ -15,13 +15,16 @@ Elk open lab werken we rond een bepaald thema. In dit lab kan je uitleg krijgen 
 
 In dit open lab wordt ook ons **boek** *Actief computationeel denken* voorgesteld. Om 14u is er een presentatie door Natacha die de inhoud van het boek zal toelichten.
 
-**Doelgroep:**
-Het open lab is toegankelijk voor iedereen maar is vooral gericht op leerkrachten lager en secundair onderwijs. 
+**Doelgroep:**<br>
+Voor iedereen toegankelijk, vooral gericht op leerkrachten lager en secundair onderwijs
 
-**Locatie:** Het makersatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
+**Wanneer:**<br>
+19 november van 12u00 tot 17u00
+
+**Locatie:**<br>
+Het makersatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
 
 ![Plan naar het makersattelier](/images/events/2025/plan_de_krook_dwengo.png)
 
-**Datum:** 19 november van 12u00 tot 17u00
-
-**Organisatie:** Dwengo
+**Organisatie:**<br>
+Dwengo
