@@ -11,7 +11,7 @@ anchor: "dwengo_open_lab_2025_12_17"
 
 Ben je benieuwd naar het materiaal dat Dwengo te bieden heeft maar voel je nog drempels om ermee aan de slag te gaan? Het Dwengo open lab is dan de ideale plaats om kennis te maken met alles wat Dwengo te bieden heeft. Elke derde woensdag van de maand kan je terecht in het makersatelier van stadsbibliotheek De Krook in Gent. Daar krijg je de mogelijkheid om, onder professionele begeleiding, onze verschillende lesactiviteiten uit te proberen. 
 
-Elk open lab werken we rond een bepaald thema. In dit lab kan je experimenteren met ons lesmateriaal over physical computing. Zo kan je zelf een rijdende robot, een CO<sup>2</sup>, een sociale robot of nog veel andere toepassingen bouwen. Meer info kan je vinden op [dwengo.org/physical_computing](dwengo.org/physical_computing).  
+Elk open lab werken we rond een bepaald thema. In dit lab kan je experimenteren met ons lesmateriaal over physical computing. Zo kan je zelf een rijdende robot, een CO<sub>2</sub>-meter, een sociale robot of nog veel andere toepassingen bouwen. Meer info kan je vinden op [dwengo.org/physical_computing](dwengo.org/physical_computing).  
 
 **Doelgroep:**<br>
 Voor iedereen toegankelijk, vooral gericht op leerkrachten lager en secundair onderwijs
