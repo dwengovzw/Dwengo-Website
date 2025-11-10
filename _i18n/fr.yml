@@ -519,6 +519,11 @@ curricula_page:
         file_location: "https://vimeo.com/467062270"
         file_icon_name: "play_arrow"
         link_name: "Voir"
+      - file_title: "Sur les pommes et les poires"
+        file_info: "Comment l'IA change notre vie et comment vous pouvez l'utiliser. Ce livret vous emmène dans un voyage à travers le monde merveilleux du deep learning."
+        file_location: "/assets/files/kiks/dwengo-appels-en-peren-deeplearning.pdf"
+        file_icon_name: "description"
+        link_name: "Télécharger"
   socialrobot:
     title: "Robot social"
     sub_title: "Robotique en classe"
