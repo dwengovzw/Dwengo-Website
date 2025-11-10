@@ -506,6 +506,11 @@ curricula_page:
         file_location: "https://vimeo.com/467062270"
         file_icon_name: "play_arrow"
         link_name: "Ansehen"
+      - file_title: "Über Äpfel und Birnen"
+        file_info: "Wie KI unser Leben verändert und wie Sie sie nutzen können. Diese Broschüre nimmt Sie mit auf eine Reise durch die wunderbare Welt des Deep Learning."
+        file_location: "/assets/files/kiks/dwengo-appels-en-peren-deeplearning.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
   socialrobot:
     title: Sozialer Roboter
     sub_title: Robotik im Klassenzimmer
