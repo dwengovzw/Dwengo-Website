@@ -511,6 +511,11 @@ curricula_page:
         file_location: "https://vimeo.com/467062270"
         file_icon_name: "play_arrow"
         link_name: "Watch"
+      - file_title: "About apples and pears"
+        file_info: "How AI is changing our lives and how you can apply it. This booklet takes you on a journey into the wonderful world of deep learning."
+        file_location: "/assets/files/kiks/dwengo-appels-en-peren-deeplearning.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
   socialrobot:
     title: Social Robot
     sub_title: Robotics in the classroom
