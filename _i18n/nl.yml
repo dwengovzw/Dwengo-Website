@@ -352,6 +352,11 @@ curricula_page:
         file_location: "https://www.youtube.com/watch?v=JptF3jhOV5k"
         file_icon_name: "play_arrow"
         link_name: "Kijk"
+      - file_title: "Over appels en peren"
+        file_info: "Hoe AI ons leven verandert en hoe jij het kunt toepassen. Dit boekje neemt je mee in de wondere wereld van deeplearning."
+        file_location: "/assets/files/kiks/dwengo-appels-en-peren-deeplearning.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
 
   socialrobot:
     title: Sociale robot
