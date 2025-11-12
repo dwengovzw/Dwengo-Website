@@ -15,6 +15,8 @@ Elk open lab werken we rond een bepaald thema. In dit lab kan je uitleg krijgen 
 
 In dit open lab wordt ook ons **boek** *Actief computationeel denken* voorgesteld. Om 14u is er een presentatie door Natacha die de inhoud van het boek zal toelichten.
 
+![Foto boek Actief computationeel denken](/images/events/2025/actiefcomputationeeldenken.png)
+
 **Doelgroep:**<br>
 Voor iedereen toegankelijk, vooral gericht op leerkrachten lager en secundair onderwijs
 
