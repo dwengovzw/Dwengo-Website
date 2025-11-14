@@ -14,7 +14,7 @@ Samen met Technopolis organiseren iSTEM inkleuren en STEM voor de Basis een STEM
 
 STEM is een uitdaging voor vele leerkrachten. Daarom organiseren de cel iSTEM inkleuren en STEM voor de Basis samen met Technopolis,  een studiedag die de leerkrachten hierbij op weg kan helpen. 
 
-Noteeer alvast de datum en kom naar een van onze Dwengo-sessies over computationeel denken of AI (gegidst bezoek aan de tentoonstelling of zelf een neuraal netwerk bouwen om emoties te herkennen). 
+Noteer alvast de datum en kom naar een van onze Dwengo-sessies over computationeel denken of AI (gegidst bezoek aan de tentoonstelling of zelf een neuraal netwerk bouwen om emoties te herkennen). 
 
 **Wanneer:**<br>
 26 november 2025, 9u-16u30
