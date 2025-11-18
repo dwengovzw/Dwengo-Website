@@ -6,6 +6,7 @@ item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
 location: "online"
 language: "nl"
 registration_link: "https://docs.google.com/forms/d/e/1FAIpQLSfT2S_pmYy-h8dDEPjBvko8YovDUzIqkNA6-n1VOz2hFv7a_A/viewform"
+anchor: "nocturne_computationeel_denken_unplugged_28_01_26"
 ---
 In de iSTEM-nocturnes licht een coach van de cel iSTEM inkleuren elke woensdagavond tussen 20u-21u30 online een concreet STEM-project toe.
 Deze nocturnes vinden plaats van 5/11/2025 t.e.m. 4/2/2026. Het volledige programma vind je [hier](https://www.istem.be/agenda/istem-nocturnes/)<br>
