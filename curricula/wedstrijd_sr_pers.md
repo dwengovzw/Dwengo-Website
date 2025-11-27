@@ -13,7 +13,7 @@ learning_paths: ['sr0_lkr', 'sr0_lln', 'sr1', 'sr2', 'sr3', 'sr4']
 
 
  
-# Dwengo lanceert tweede editie van de **Sociale Robot-wedstrijd** voor secundair onderwijs
+# Dwengo lanceert tweede editie van de **Sociale Robot-wedstrijd**
 
 **Gent, september 2025** – Na het succes van de eerste editie organiseert Dwengo dit schooljaar de tweede editie van de *Sociale robot*-wedstrijd, een STEM-competitie voor leerlingen uit de eerste en tweede graad secundair onderwijs. Jongeren worden uitgedaagd om in interdisciplinaire teams een sociale robot te ontwerpen, bouwen en programmeren die een oplossing biedt voor een maatschappelijk probleem.
 
