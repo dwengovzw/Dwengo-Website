@@ -22,11 +22,11 @@ Laat je verrassen door onze inspirerende voorbeelden en maak bovendien kennis me
 Leerkrachten secundair onderwijs 1ste, 2de en 3de graad (alle finaliteiten) - zowel leerkrachten van STEM-vakken als niet-STEM-vakken<br> 
 Lerarenopleiders voor leerkrachten secundair onderwijs (professionele bachelor en EduMa)
 
-**Wanneer:** 28 januari 2026, 20u-21u30
+**Wanneer:**<br> 28 januari 2026, 20u00-21u30
 
-**Locatie:** online
+**Locatie:**<br> online
 
-**Organisatie:** iSTEM
+**Organisatie:**<br> iSTEM
 
 <img width="253" height="308" alt="actiefcomputationeeldenken_Dwengo_VanIn" src="https://github.com/user-attachments/assets/749bb635-2926-44fe-93e4-69aedc461bf2" />
 
