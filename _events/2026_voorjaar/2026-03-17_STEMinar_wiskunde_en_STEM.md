@@ -6,7 +6,8 @@ item_theme_logo_url: "/images/curricula/logo_stem.png"
 location: "De Krook, Gent"
 location_link: "https://maps.app.goo.gl/WWqADZcgu84aJ38U9"
 language: "nl"
-anchor: "steminar-wiskunde-en-stem"
+registration_link: "https://www.istem.be/sessie/steminar-wiskunde-en-stem-the-perfect-mathch-17-03-2026-ugent/"
+anchor: "steminar-wiskunde-en-stem-17-03-2026"
 ---
 #### The perfect mat(c)h?
 
@@ -19,11 +20,9 @@ Leerkrachten en directies basis- en secundair onderwijs, studenten lerarenopleid
 17 maart 2026 van 19u30 tot 21u00
 
 **Locatie:**<br>
-De Krook, Gent
+Zaal De Blauwe Vogel, De Krook, Gent
 
 **Organisatie:**<br>
 STEM voor de Basis, iSTEM
-
-**Meer info en registreren** [hier](https://www.istem.be/sessie/steminar-wiskunde-en-stem-the-perfect-mathch-17-03-2026-ugent/)
 
 ![banner STEMinars](/images/events/2026/STEMinars.png)
