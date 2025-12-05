@@ -210,15 +210,13 @@ basics_ai:
 
 agriculture:
   intro_title: "Agriculture"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "The relationship between plant stomata and climate change provides a unique framework for working with deep neural networks. The programming language Python is also very accessible as a tool to study the fundamentals of neural networks."
-  paragraph3: "A strength of the KIKS project is the collaboration between researchers and teachers. The teaching material of KIKS is developed in parallel with the results of ongoing scientific research at UGent and the Plantentuin Meise."
+  paragraph1: "The relationship between plant stomata and climate change provides a unique framework for working with deep neural networks. The programming language Python is also very accessible as a tool to study the fundamentals of neural networks."
+  paragraph2: "A strength of the KIKS project is the collaboration between researchers and teachers. The teaching material of KIKS is developed in parallel with the results of ongoing scientific research at UGent and the Plantentuin Meise."
 
 art:
   intro_title: "Art"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "The relationship between plant stomata and climate change provides a unique framework for working with deep neural networks. The programming language Python is also very accessible as a tool to study the fundamentals of neural networks."
-  paragraph3: "A strength of the KIKS project is the collaboration between researchers and teachers. The teaching material of KIKS is developed in parallel with the results of ongoing scientific research at UGent and the Plantentuin Meise."
+  paragraph1: "The relationship between plant stomata and climate change provides a unique framework for working with deep neural networks. The programming language Python is also very accessible as a tool to study the fundamentals of neural networks."
+  paragraph2: "A strength of the KIKS project is the collaboration between researchers and teachers. The teaching material of KIKS is developed in parallel with the results of ongoing scientific research at UGent and the Plantentuin Meise."
   teaser:
     title: "Try it out!"
     file: "/assets/files/teasers/Opdracht_Jommeke_Start2STEM_deelnemer_vTechnopolis.pdf"
@@ -320,21 +318,18 @@ computational_thinking:
 
 math_with_python:
   intro_title: "Math with Python"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "The relationship between plant stomata and climate change provides a unique framework for working with deep neural networks. The programming language Python is also very accessible as a tool to study the fundamentals of neural networks."
-  paragraph3: "A strength of the KIKS project is the collaboration between researchers and teachers. The teaching material of KIKS is developed in parallel with the results of ongoing scientific research at UGent and the Plantentuin Meise."
+  paragraph1: "The relationship between plant stomata and climate change provides a unique framework for working with deep neural networks. The programming language Python is also very accessible as a tool to study the fundamentals of neural networks."
+  paragraph2: "A strength of the KIKS project is the collaboration between researchers and teachers. The teaching material of KIKS is developed in parallel with the results of ongoing scientific research at UGent and the Plantentuin Meise."
 
 python_programming:
   intro_title: "Python Programming"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "The relationship between plant stomata and climate change provides a unique framework for working with deep neural networks. The programming language Python is also very accessible as a tool to study the fundamentals of neural networks."
-  paragraph3: "A strength of the KIKS project is the collaboration between researchers and teachers. The teaching material of KIKS is developed in parallel with the results of ongoing scientific research at UGent and the Plantentuin Meise."
+  paragraph1: "The relationship between plant stomata and climate change provides a unique framework for working with deep neural networks. The programming language Python is also very accessible as a tool to study the fundamentals of neural networks."
+  paragraph2: "A strength of the KIKS project is the collaboration between researchers and teachers. The teaching material of KIKS is developed in parallel with the results of ongoing scientific research at UGent and the Plantentuin Meise."
 
 stem:
   intro_title: "STEM"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "The relationship between plant stomata and climate change provides a unique framework for working with deep neural networks. The programming language Python is also very accessible as a tool to study the fundamentals of neural networks."
-  paragraph3: "A strength of the KIKS project is the collaboration between researchers and teachers. The teaching material of KIKS is developed in parallel with the results of ongoing scientific research at UGent and the Plantentuin Meise."
+  paragraph1: "The relationship between plant stomata and climate change provides a unique framework for working with deep neural networks. The programming language Python is also very accessible as a tool to study the fundamentals of neural networks."
+  paragraph2: "A strength of the KIKS project is the collaboration between researchers and teachers. The teaching material of KIKS is developed in parallel with the results of ongoing scientific research at UGent and the Plantentuin Meise."
 
 care:
   intro_title: "AI in Healthcare"
