@@ -10,8 +10,6 @@ registration_link: "https://dwengo.eventgoose.com/events/QqBg7MwVPWQ2wWG0"
 anchor: "basisprincipes_ai_26-03-19"
 ---
 
-# Kennismaking met de basisprincipes van AI-systemen
-
 ![](/images/events/2026/aiopschool.png)
 
 Maak je dagelijks gebruik van AI-toepassingen, of twijfel je nog over hoe je ze op een doordachte en veilige manier kunt inzetten in je lespraktijk? Dan is deze nascholing precies wat je nodig hebt. We verkennen stap voor stap hoe verschillende soorten AI-systemen werken en reiken je de nodige inzichten aan om zelf te kunnen beoordelen wanneer en hoe je AI het best inzet in de klas.

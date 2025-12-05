@@ -10,8 +10,6 @@ registration_link: "https://dwengo.eventgoose.com/events/QqBg7MwVPjQ2wWG0"
 anchor: "computationeel_denken_26-03-05"
 ---
 
-# Computationeel denken
-
 ![](/images/events/2026/computationeeldenken.png)
 
 ## Voormiddag: basisvorming overeenkomstig minimumdoel eerste graad

@@ -10,7 +10,7 @@ registration_link: "https://dwengo.eventgoose.com/events/n3BKwOdWn5nEa87J"
 anchor: "basisprincipes_robotica_26-04-24"
 ---
 
-# Introductie tot robotica met de Dwenguino (prent: robotmanipulatie.png)
+![](/images/events/2026/physicalcomputing.png)
 
 Robots worden al decennialang gebruikt om processen te automatiseren. Tot voor kort bleven ze vooral voorbehouden voor afgeschermde industriële omgevingen, waarin hun werking nauwkeurig gecontroleerd kan worden. Dankzij recente ontwikkelingen in artificiële intelligentie ontstaan er echter steeds meer robots die veilig en zelfstandig kunnen functioneren in alledaagse situaties en die moeten interageren met mensen. Daardoor komen we er steeds vaker mee in aanraking, zowel thuis als op school en in de publieke ruimte.
 Deze snelle evolutie maakt robotica een uitermate geschikt en relevant thema voor in de klas. Het sluit niet alleen aan bij actuele maatschappelijke uitdagingen, maar legt ook een natuurlijke link met verschillende STEM-disciplines zoals wiskunde, fysica, chemie, informatica, psychologie, sociologie en meer.

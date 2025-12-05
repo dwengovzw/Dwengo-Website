@@ -10,8 +10,6 @@ registration_link: "https://dwengo.eventgoose.com/events/6YaldE9lbnpMG3LB"
 anchor: "wiskunde-in-ai-26-02-05"
 ---
 
-# AI ❤️ wiskunde van het secundair onderwijs
-
 ![](/images/events/2026/aiopschool.png)
 
 Bij de ontwikkeling van artificieel intelligente systemen komt heel wat wiskunde kijken. Zelfs de wiskunde uit het secundair onderwijs komt hier aan bod: eerstegraadsfuncties bij een classificatieprobleem, tweedegraadsfuncties bij beslissingsbomen, matrices bij convoluties, optellen, vermenigvuldigen, maar ook afgeleiden en functies met een meervoudig voorschrift bij neurale netwerken, staafdiagrammen bij auteursherkenning, breuken bij regelgebaseerde chatbots, vectoren bij grote taalmodellen (zoals ChatGPT) …
