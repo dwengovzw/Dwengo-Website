@@ -10,8 +10,6 @@ registration_link: "https://dwengo.eventgoose.com/events/QqBg7MwVPWQ2wWG0"
 anchor: "basisprincipes_ai_26-03-19"
 ---
 
-![](/images/events/2026/aiopschool.png)
-
 Maak je dagelijks gebruik van AI-toepassingen, of twijfel je nog over hoe je ze op een doordachte en veilige manier kunt inzetten in je lespraktijk? Dan is deze nascholing precies wat je nodig hebt. We verkennen stap voor stap hoe verschillende soorten AI-systemen werken en reiken je de nodige inzichten aan om zelf te kunnen beoordelen wanneer en hoe je AI het best inzet in de klas.
 
 Het doel van deze sessie is niet om één specifieke tool aan te leren, maar om je digitaal weerbaar te maken in een wereld waarin AI-toepassingen razendsnel evolueren.
@@ -34,3 +32,5 @@ Na deze nascholing kan je een antwoord formuleren op de volgende vragen:
 **Prijs:** 65 euro
 
 **Organisatie:** Dwengo
+
+![](/images/events/2026/aiopschool.png)
