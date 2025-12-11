@@ -1,7 +1,7 @@
 ---
 title: "Dwengo op de Dag van de Wetenschap"
 date: 2025-12-03T12:00:00
-item_theme_logo_url: "images/strengths/value-inclusion.png"
+item_theme_logo_url: "/images/curricula/logo_wegostem.png"
 language: "nl"
 anchor: "dag-van-de-wetenschap-2025"
 ---
