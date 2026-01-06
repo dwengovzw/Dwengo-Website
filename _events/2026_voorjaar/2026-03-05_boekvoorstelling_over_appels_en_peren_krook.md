@@ -10,7 +10,7 @@ registration_link: "https://dwengo.eventgoose.com/events/n3BKwOdWnxnEa87J"
 anchor: "boekvoorstelling_ai_26-03-17"
 ---
 
-Geboeid door artificiële intelligentie? Wil je meer weten over neurale netwerken en hun algoritmes? Kom dan kennismaken met ons aantrekkelijk en toegankelijk boekje. Voor geïnteresseerden van 12 tot 120 jaar.
+Geboeid door artificiële intelligentie? Wil je meer weten over neurale netwerken en hun algoritmes? Kom dan kennismaken met ons aantrekkelijk en toegankelijk boekje. Het boekje is geschikt voor lezers van 12 tot 120 jaar. De boekvoorstelling is gericht op deelnemers vanaf 16 jaar. 
 
 ![](/images/events/2026/kaftoverappelsenperen.png)
 
@@ -21,4 +21,4 @@ Geboeid door artificiële intelligentie? Wil je meer weten over neurale netwerke
 **Doelgroep:** breed publiek met oproep naar leerkrachten
  
 
-In samenwerking met Avansa
+In samenwerking met Avansa en bibliotheek De Krook.
