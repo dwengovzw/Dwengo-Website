@@ -2,7 +2,7 @@
 title: "Computationeel denken"
 date: 2026-03-05T09:30:00
 end_date: 2025-03-05T16:30:00
-item_theme_logo_url: "/images/curricula/logo_compuational_thinking.png"
+item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
 location: "Maakatelier De Wondertuin (op -1), De Krook, Platteberg 11, Gent"
 location_link: "https://www.google.com/maps/place/De+Krook/@51.0486039,3.7286873,17z/data=!4m15!1m8!3m7!1s0x47c3714effffffff:0x9b1a2c7f1cb8c825!2sDe+Krook!8m2!3d51.0487577!4d3.7286015!10e5!16s%2Fg%2F1hc0gcm5l!3m5!1s0x47c3714effffffff:0x9b1a2c7f1cb8c825!8m2!3d51.0487577!4d3.7286015!16s%2Fg%2F1hc0gcm5l?entry=ttu&g_ep=EgoyMDI1MTIwMi4wIKXMDSoASAFQAw%3D%3D"
 language: "nl"
