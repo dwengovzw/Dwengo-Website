@@ -26,7 +26,7 @@ Na het volgen van de nascholing:
 - beschik je over meer kennis over de ontwikkeling van artificieel intelligente systemen;
 - beschik je over lesmateriaal dat je direct in de klas kan gebruiken, zowel materiaal met als zonder programmeren.
 
-***Doelgroep:**<br>
+**Doelgroep:**<br>
 Leerkrachten wiskunde, wetenschappen, informatica en STEM van de 2de en 3de graad van het secundair onderwijs.<br>
 Ook pedagogische begeleiders en onderwijsinspectie betreffende diezelfde disciplines zijn welkom.<br>
 De deelnemer moet in staat zijn om vrij eenvoudige wiskundige concepten van het secundair onderwijs te begrijpen en toe te passen, zoals matrices en afgeleiden. Er is geen voorkennis programmeren vereist om deze nascholing te kunnen volgen.
@@ -37,4 +37,5 @@ De deelnemer moet in staat zijn om vrij eenvoudige wiskundige concepten van het 
 **Locatie:** <br>
 KU Leuven Campus Kulak Kortrijk, Etienne Sabbelaan 53, Kortrijk
 
-**Organisatie:** Eekhout Academy
+**Organisatie:**<br>
+Eekhout Academy

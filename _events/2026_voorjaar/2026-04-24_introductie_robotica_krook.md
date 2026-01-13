@@ -23,7 +23,14 @@ Na deze nascholing kan je onder andere beantwoorden:
 - Hoe kan ik samen met leerlingen nadenken over de impact van robots op onze samenleving?
 
 
-**Locatie:** Maakatelier De Wondertuin (op -1), De Krook, Platteberg 11, Gent
-**Wanneer:** Vrijdag 24 april 2026 van 9u30 tot 12u30
-**Prijs:** 65 euro
-**Organisatie:** Dwengo
+**Locatie:**<br>
+Maakatelier De Wondertuin (op -1), De Krook, Platteberg 11, Gent
+
+**Wanneer:**<br>
+Vrijdag 24 april 2026 van 9u30 tot 12u30
+
+**Prijs:**<br> 
+65 euro
+
+**Organisatie:**<br>
+Dwengo
