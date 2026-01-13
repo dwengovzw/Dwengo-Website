@@ -37,4 +37,5 @@ De deelnemer moet in staat zijn om vrij eenvoudige wiskundige concepten van het 
 **Locatie:** <br>
 KU Leuven Campus Kulak Kortrijk, Etienne Sabbelaan 53, Kortrijk
 
-**Organisatie:** Eekhout Academy
+**Organisatie:**<br>
+Eekhout Academy
