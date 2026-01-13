@@ -24,7 +24,7 @@ Na het volgen van de nascholing:
 - beschik je over lesmateriaal dat je direct in de klas kan gebruiken, zowel materiaal met als zonder programmeren.
 
 
-***Doelgroep:**
+**Doelgroep:**
 Leerkrachten wiskunde, wetenschappen, informatica en STEM van de 2de en 3de graad van het secundair onderwijs.
 Ook pedagogische begeleiders en onderwijsinspectie betreffende diezelfde disciplines zijn welkom.
 De deelnemer moet in staat zijn om vrij eenvoudige wiskundige concepten van het secundair onderwijs te begrijpen en toe te passen, zoals matrices en afgeleiden. Er is geen voorkennis programmeren vereist om deze nascholing te kunnen volgen.

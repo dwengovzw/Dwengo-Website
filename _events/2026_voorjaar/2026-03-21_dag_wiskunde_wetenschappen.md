@@ -7,10 +7,10 @@ location: "Campus Diepenbeek – Agoralaan gebouw D – 3590 Diepenbeek"
 location_link: "https://maps.app.goo.gl/tSyk8qm8okh99uRW9"
 language: "nl"
 registration_link: "https://www.uhasselt.be/nl/info-voor/aanbod-voor-scholen-en-onderwijsprofessionals/nascholingen/dag-van-de-wiskunde-en-wetenschappen"
-anchor: "dag-wiskunde-wetenschappen"
+anchor: "21-03-2026-dag-wiskunde-wetenschappen"
 ---
 
-Dwengo verzorgt twee sessies tijdens de derde editie van de Dag van de Wiskunde en Wetenschappen van de Universiteit Leuven:
+Dwengo verzorgt twee sessies tijdens de derde editie van de Dag van de Wiskunde en Wetenschappen van de Universiteit Hasselt:
 
 🤖 AI ♥ Wiskunde<br>
 🧠 Computationeel denken
