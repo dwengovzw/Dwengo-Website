@@ -14,4 +14,4 @@ Op de **Nationale Wiskunde Dagen** (27 en 28 maart) zal Natacha haar werk voorst
 
 Ook in 2026 blijft Dwengo zich inzetten voor het ontwikkelen van sterk didactisch materiaal dat jongeren en leerkrachten wegwijs maakt in wetenschappen en technologie.
 
-💡 Interesse om de Nationale Wiskunde Dagen bij te wonen en mee te vieren? Bekijk zeker ons bijhorend bericht bij onze nascholingen [bericht bij onze nascholingen](www.dwengo.org/agenda/#nationale_wiskunde_dagen_27-03-26)
+💡 Interesse om de Nationale Wiskunde Dagen bij te wonen en mee te vieren? Bekijk zeker ons bijbehorend bericht bij onze nascholingen [bericht bij onze nascholingen](www.dwengo.org/agenda/#nationale_wiskunde_dagen_27-03-26)
