@@ -14,7 +14,7 @@ Geboeid door artificiële intelligentie? Wil je meer weten over neurale netwerke
 
 ![](/images/events/2026/kaftoverappelsenperen.png)
 
-**Wanneer:** middagpauze 17 maart 2026 van 12.00 tot 14.00 u.
+**Wanneer:** middagpauze 17 maart 2026 van 12.00 tot 14.00 u. Presentatie om 12u30.
 
 **Prijs:** gratis
 
@@ -22,3 +22,7 @@ Geboeid door artificiële intelligentie? Wil je meer weten over neurale netwerke
  
 
 In samenwerking met Avansa en bibliotheek De Krook.
+
+<img width="540" height="350" alt="EUAIWEEK26_Visual 2700x1750 (1)" src="https://github.com/user-attachments/assets/328b7ffa-ad91-45d8-812b-5cd6b8395f21" />
+
+
