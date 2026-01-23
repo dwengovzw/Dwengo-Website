@@ -16,3 +16,4 @@ Ben je benieuwd naar het materiaal dat Dwengo aanbiedt, maar voel je nog drempel
 
 Elk open lab werken we rond een bepaald thema. In dit lab ontdek je hoe verschillende AI-toepassingen werken. Je kan bijvoorbeeld leren hoe ChatGPT geleerd heeft om teksten te genereren, hoe zelfrijdende wagens de weg kunnen analyseren en hoe robots kunnen leren op basis van beloningen. Naast inhoudelijke kennis, kan je ook kennis maken met concrete voorbeelden, opdrachten en evaluatiemethodes die je in de klas kan toepassen.
 
+<img width="540" height="350" alt="EUAIWEEK26_Visual 2700x1750 (1)" src="https://github.com/user-attachments/assets/328b7ffa-ad91-45d8-812b-5cd6b8395f21" />
