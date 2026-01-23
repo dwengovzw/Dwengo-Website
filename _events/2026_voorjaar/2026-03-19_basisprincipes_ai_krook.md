@@ -34,3 +34,5 @@ Na deze nascholing kan je een antwoord formuleren op de volgende vragen:
 **Organisatie:** Dwengo
 
 ![](/images/events/2026/aiopschool.png)
+
+<img width="540" height="350" alt="EUAIWEEK26_Visual 2700x1750 (1)" src="https://github.com/user-attachments/assets/328b7ffa-ad91-45d8-812b-5cd6b8395f21" />
