@@ -1,5 +1,5 @@
 ---
-title: "Save the date – Dwengo op de Dag van de Wiskunde en Wetenschappen"
+title: "Dwengo op de Dag van de Wiskunde en Wetenschappen"
 date: 2026-03-21T08:30:00
 end_date: 2026-03-21T13:30:00
 item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
