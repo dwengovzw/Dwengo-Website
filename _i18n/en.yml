@@ -979,6 +979,11 @@ shop:
       image: "/assets/images/shop/card_game.png"
       price: "€10 excl. 6% VAT"
       price_extra_info: ""
+    - title: 'Booklet “Apples and Pears: How AI Is Changing Our Lives and How You Can Use It”'
+      desc: 'Are you simply undergoing all these AI applications? Or do you want to engage with them consciously? <br>In the booklet “Apples and Pears…”, Francis Wyffels, Jeroen Bourgonjon, and Natacha Gesquière take you into the world of AI. Readers aged 12 to 120 discover, in an accessible way, how these technologies are shaping our future.'
+      image: "/images/events/2026/kaftoverappelsenperen.png"
+      price: "€10 incl. 6% VAT"
+      price_extra_info: ""
     - title: "Book 'Active Computational Thinking'"
       desc: "Computational thinking. It is a mandatory educational goal for students in the first and second stages of secondary education. It also appears in the third stage. But how do you actually achieve this? The book Active Computational Thinking, written by ‘Robotics and AI’ professor Francis Wyffels and mathematics teacher and STEM coach Natacha Gesquière, is the perfect guide. With clear explanations of key concepts, practical lesson examples, and assessment methods, it shows how to bring computational thinking into the classroom in a meaningful and accessible way."
       image: "/assets/images/shop/actiefcomputationeeldenken.png"

@@ -1004,6 +1004,11 @@ shop:
       image: "/assets/images/shop/card_game.png"
       price: "10 € hors TVA 6%"
       price_extra_info: ""
+    - title: 'Brochure « Des pommes et des poires : comment l’IA change nos vies et comment vous pouvez l’utiliser »'
+      desc: 'Subissez-vous déjà toutes ces applications de l’IA ? Ou souhaitez-vous les utiliser de manière réfléchie ? <br>Dans la brochure « Des pommes et des poires… », Francis Wyffels, Jeroen Bourgonjon et Natacha Gesquière vous emmènent dans le monde de l’IA. Des lecteurs de 12 à 120 ans découvrent ainsi, de manière accessible, comment ces technologies façonnent notre avenir.'
+      image: "/images/events/2026/kaftoverappelsenperen.png"
+      price: "10 € TVA 6 % incluse"
+      price_extra_info: ""
     - title: "Livre 'Pensée Computationnelle Active'"
       desc: "La pensée computationnelle. C’est un objectif éducatif obligatoire pour les élèves du premier et du deuxième degré de l’enseignement secondaire. Elle apparaît également au troisième degré. Mais comment l’enseigner concrètement ? Le livre Pensée computationnelle active, écrit par le professeur « Robotique et IA » Francis Wyffels et l’enseignante de mathématiques et coach STEM Natacha Gesquière, constitue le guide idéal. Avec des explications claires des concepts clés, des exemples de leçons pratiques et des méthodes d’évaluation, il montre comment introduire la pensée computationnelle de manière pertinente et accessible en classe."
       image: "/assets/images/shop/actiefcomputationeeldenken.png"

@@ -976,6 +976,11 @@ shop:
       image: "/assets/images/shop/card_game.png"
       price: "€10 exkl. 6% MwSt"
       price_extra_info: ""
+    - title: 'Broschüre „Äpfel und Birnen: Wie KI unser Leben verändert und wie du sie anwenden kannst“'
+      desc: 'Bist du all den KI-Anwendungen einfach ausgeliefert? Oder möchtest du bewusst mit ihnen umgehen? <br>In der Broschüre „Äpfel und Birnen…“ nehmen dich Francis Wyffels, Jeroen Bourgonjon und Natacha Gesquière mit in die Welt der KI. Leserinnen und Leser von 12 bis 120 Jahren entdecken auf verständliche Weise, wie diese Technologien unsere Zukunft gestalten.'
+      image: "/images/events/2026/kaftoverappelsenperen.png"
+      price: "10 € inkl. 6 % MwSt."
+      price_extra_info: ""
     - title: "Buch 'Aktives Computational Thinking'"
       desc: "Computational Thinking. Es ist ein verpflichtendes Bildungsziel für Schülerinnen und Schüler der ersten und zweiten Sekundarstufe. Auch in der dritten Stufe kommt es vor. Aber wie genau setzt man dies um? Das Buch Aktives Computational Thinking, geschrieben vom Professor für „Robotik und KI“ Francis Wyffels und der Mathematiklehrerin und STEM-Coach Natacha Gesquière, ist der perfekte Leitfaden. Mit klaren Erklärungen der Hauptkonzepte, praktischen Unterrichtsbeispielen und Bewertungsmethoden wird gezeigt, wie man Computational Thinking sinnvoll und zugänglich in den Unterricht bringen kann."
       image: "/assets/images/shop/actiefcomputationeeldenken.png"
