@@ -333,9 +333,8 @@ stem:
 
 care:
   intro_title: "AI in Healthcare"
-  paragraph1: "TODO: translate all content"
-  paragraph2: "The relationship between plant stomata and climate change provides a unique framework for working with deep neural networks. The programming language Python is also very accessible as a tool to study the fundamentals of neural networks."
-  paragraph3: "A strength of the KIKS project is the collaboration between researchers and teachers. The teaching material of KIKS is developed in parallel with the results of ongoing scientific research at UGent and the Plantentuin Meise."
+  paragraph1: "The relationship between plant stomata and climate change provides a unique framework for working with deep neural networks. The programming language Python is also very accessible as a tool to study the fundamentals of neural networks."
+  paragraph2: "A strength of the KIKS project is the collaboration between researchers and teachers. The teaching material of KIKS is developed in parallel with the results of ongoing scientific research at UGent and the Plantentuin Meise."
   title: "Scientific Research"
   subtitle1: "Applications of artificial intelligence (AI) are finding their way into our society, including hospitals. But innovations in the healthcare sector are not only on the hospital floor but also in general practitioner practices, in drug research, and at your home. Researchers develop applications of artificial intelligence for the healthcare sector. This is best done by <strong>interdisciplinary teams</strong> that anticipate possible negative effects and prioritize putting the <strong>patient at the center</strong>. Progress in hardware, e.g., sensors, and software, e.g., language technology, leads to new possibilities. Data-driven and rule-based AI models are combined into effective and more <strong>transparent systems</strong>. Thanks to wearables, patients can be monitored remotely, research on migraines is conducted through a smartphone app, anamnesis interviews are conducted via a chatbot, and AI assists radiologists in assessing medical images.<br><br>If these new technologies are developed, taking into account all users and possible societal effects, they have the potential to reduce the workload in the healthcare sector and provide better healthcare."
 

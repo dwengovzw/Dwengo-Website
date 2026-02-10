@@ -667,6 +667,11 @@ curricula_page:
         file_location: "/assets/files/chatbot/Improbotics_lesmap_Leerling.pdf"
         file_icon_name: "description"
         link_name: "Download"
+      - file_title: "Opdracht 'Woordembeddings'"
+        file_info: "Dit is een oefening in verband met woordembeddings om de werking van chatbots te illustreren."
+        file_location: "/assets/files/chatbot/opdracht_embedding.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
 
   physical_computing:
     title: Physical computing
