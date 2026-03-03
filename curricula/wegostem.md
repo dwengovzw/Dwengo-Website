@@ -7,7 +7,7 @@ title: wegostem
 permalink: /wegostem/
 banner_image: "/images/curricula/banner_wegostem.png"
 logo_image: "/images/curricula/logo_wegostem.png"
-partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/sap_logo.png', '/images/partners/kuleuven.png', '/images/partners/kbc.png']
+partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/sap_logo.png', '/images/partners/kuleuven.png', '/images/partners/kbc.png', '/images/partners/ae.svg']
 learning_paths: ['wegostem']
 ---
 
