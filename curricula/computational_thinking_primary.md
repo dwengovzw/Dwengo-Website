@@ -4,8 +4,9 @@
 
 layout: default
 title: Computationaleel denken basis
-permalink: /computationeeldenkenbasis/
+permalink: /computational_thinking_primary/
 redirect_from: 
+  - /computationeeldenkenbasis
   - /Computationeel_Denken_basis/
   - /computationeel_denken_basis/
 banner_image: "/images/curricula/banner_computational_thinking.png"
