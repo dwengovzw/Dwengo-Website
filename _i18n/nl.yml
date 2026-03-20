@@ -303,9 +303,9 @@ computational_thinking:
 
 computational_thinking_primary:
   disc: "Deze leerpaden zijn momenteel in ontwikkeling en worden geleidelijk aangevuld."
-  page_title: "Computationeel denken in de lagere school"
-  intro: "Ook in de lagere school is computationeel denken een belangrijke basisvaardigheid. Leerlingen leren problemen stap voor stap aanpakken, patronen herkennen en duidelijke instructies formuleren, met of zonder computer."
-  summary: "Computationeel denken helpt kinderen om logisch, creatief en doelgericht te redeneren. Ze leren een grote opdracht opdelen in kleine stappen en ontdekken hoe digitale tools hen kunnen helpen. <br><br>In dit lesmateriaal vind je speelse activiteiten en concrete voorbeelden voor de klaspraktijk in het lager onderwijs."
+  page_title: "Computationeel denken in het basisonderwijs"
+  intro: "Ook in het basisonderwijs is computationeel denken een belangrijke basisvaardigheid. Leerlingen leren problemen stap voor stap aanpakken, patronen herkennen en duidelijke instructies formuleren, met of zonder computer."
+  summary: "Computationeel denken helpt kinderen om logisch, creatief en doelgericht te redeneren. Ze leren een grote opdracht opdelen in kleine stappen en ontdekken hoe digitale tools hen kunnen helpen. <br><br>In dit lesmateriaal vind je speelse activiteiten en concrete voorbeelden voor de klaspraktijk in het basisonderwijs."
   title1: "In de klas"
   title1_p: "We tonen hoe computationeel denken op een betekenisvolle manier geïntegreerd kan worden in het lager onderwijs. Dat kan binnen wiskunde, taal, wereldoriëntatie, STEM en muzische vakken. <br>Onze materialen sluiten aan bij de leefwereld van kinderen en bouwen stap voor stap op van concrete ervaringen naar eenvoudige abstracte denkoefeningen."
   t1_subtitle1: "Dicht bij de leefwereld"
@@ -581,7 +581,7 @@ curricula_page:
         link_name: "Download"
 
   computational_thinking_primary:
-    title: Computationeel denken
+    title: Computationeel denken in het basisonderwijs
     sub_title: Computationeel denken in de lagere school
     description: "Hoe leren kinderen in de lagere school problemen stap voor stap oplossen? Met computationeel denken! Via speelse activiteiten met en zonder computer ontdekken leerlingen patronen, algoritmes en logisch redeneren. Wij helpen je op weg."
     contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
