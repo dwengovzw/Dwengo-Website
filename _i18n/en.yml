@@ -315,6 +315,45 @@ computational_thinking:
   teaser:
       title: "Try it out!"
       file: "/assets/files/teasers/Opdracht_Pixels_Start2STEM_deelnemer_vTechnopolis.pdf"
+  
+  computational_thinking_primary:
+  disc: "These learning paths are currently in development and will be gradually supplemented."
+  page_title: "Computational Thinking"
+  intro: "In our increasingly digitized world, it is important that everyone, in addition to reading, writing, and arithmetic, can also think computationally. Computational thinking is about the ability to solve problems using a computer."
+  summary: "When you think computationally, you think about the steps needed to arrive at a solution to a specific problem, after which you set the computer to work on solving the problem using your technical knowledge."
+  title1: "In the Classroom"
+  title1_p: "We demonstrate how computational thinking can be integrated meaningfully and from practical contexts into the curriculum. This extends to subjects in technical and scientific directions, as well as within language and human sciences. Our innovative learning materials are intertwined with the existing 'AI at School' curriculum, which addresses computational thinking in the first, second, and third grades, each within various contexts. Here, we focus on a multidisciplinary approach with attention to the impact of new technologies on our rapidly changing society."
+  t1_subtitle1: "For Everyone"
+  t1_p1: "Because computational thinking strongly focuses on problem-solving skills, it can be addressed in any existing subject in regular education. It involves problems for which the solution is often easier obtained with the help of a computer."
+  t1_subtitle2: "With and Without Computer"
+  t1_p2: "Through programming lessons, you can put many concepts of computational thinking into practice. However, you can also learn a lot about computational thinking without a computer. There are many interesting unplugged activities possible for this purpose."
+  t1_subtitle3: "Professional Development"
+  t1_p3: "With this project, we help teacher trainers and secondary school teachers get started through a flexible, online learning trajectory with concrete teaching materials integrated into STEM projects. We also provide insights on how to translate computational thinking into the specific context of their own study direction."
+  t1_subtitle4: "Optional"
+  t1_p4: "text"
+  title2: "Content"
+  title2_p: "The professionalization of teachers deserves attention because they are often insufficiently trained in the concepts of and possible approaches to, didactics, and evaluation for computational thinking. An overview of all learning paths can be found at the end of the learning path <em>'Importance of Computational Thinking'</em>"
+  t2_subtitle1: "New Terminology"
+  t2_p1: "It is important to familiarize teachers with the terminology so that they can recognize aspects of computational thinking in their own teaching materials, and their confidence to teach about computational thinking grows. To this end, there is a need for a wide range of high-quality teaching materials that we try to meet."
+  t2_subtitle2: "Scientific Research"
+  t2_p2: "Research is still ongoing on how computational thinking is best addressed in education. Here we try to give you a guide to get started, while we follow up on the findings."
+  t2_subtitle3: "Learning Paths"
+  t2_p3: "Below you will find a wide range of learning paths. Topics range from <em>'Definition and Focus Points'</em> to <em>'History'</em> and even <em>'End Goals and Minimum Objectives'</em>"
+  t2_subtitle4: "Congres"
+  t2_p4: 'In 2023 we organized a conference on computational thinking. <a href="https://drive.google.com/drive/folders/1yq-NJbZTqiVhdBukFetQmavDwVCjcfiZ?usp=sharing" style="color: black; text-decoration: underline">Here</a> you will find the presentations back.'
+  title3: "How to Start?"
+  title3_p: "Text"
+  t3_subtitle1: "Optional"
+  t3_p1: "text"
+  t3_subtitle2: "Optional"
+  t3_p2: "text"
+  t3_subtitle3: "Optional"
+  t3_p3: "text"
+  t3_subtitle4: "Optional"
+  t3_p4: "text"
+  teaser:
+      title: "Try it out!"
+      file: "/assets/files/teasers/Opdracht_Pixels_Start2STEM_deelnemer_vTechnopolis.pdf"
 
 math_with_python:
   intro_title: "Math with Python"
@@ -764,6 +803,20 @@ curricula_page:
         file_location: "/assets/files/computational_thinking/ZoektochtNaarSpraak.pdf"
         file_icon_name: "description"
         link_name: "Download"
+
+  computational_thinking_primary:
+    title: Computational Thinking
+    sub_title: Computational Thinking in the Classroom
+    description: "How can we solve complex problems with the help of a computer? Thanks to computational thinking! You can learn this through various activities with or without a computer. We'll help you get started."
+    contact: Questions? Contact us at team@aiopschool.be. The press can contact Francis Wyffels via Francis@dwengo.org.
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8
+    curricula_files:
+      - file_title: "Concepts and Approach to Computational Thinking"
+        file_info: "poster"
+        file_location: "/assets/files/computational_thinking/CDposterDwengo2.png"
+        file_icon_name: "description"
+        link_name: "Download"
+
   math_with_python: 
     title: Python in Math Class
     sub_title: Python in Mathematics

@@ -315,6 +315,45 @@ computational_thinking:
       title: "Probieren Sie dieses Lehrmaterial aus!"
       file: "/assets/files/teasers/Opdracht_Pixels_Start2STEM_deelnemer_vTechnopolis.pdf"
 
+computational_thinking_primary:
+  disc: "Diese Lernpfade befinden sich derzeit in Entwicklung und werden schrittweise ergänzt."
+  page_title: "Computational Thinking"
+  intro: "In unserer zunehmend digitalisierten Welt ist es wichtig, dass jeder neben Rechnen, Lesen und Schreiben auch computationell denken kann. Computational Thinking bezieht sich auf die Fähigkeit, Probleme mithilfe eines Computers zu lösen."
+  summary: "Wenn Sie computationell denken, überlegen Sie die Schritte, die erforderlich sind, um eine Lösung für ein bestimmtes Problem zu finden, und setzen dann mit Hilfe Ihres technischen Wissens den Computer ein, um das Problem zu lösen."
+  title1: "Im Unterricht"
+  title1_p: "Wir demonstrieren, wie Computational Thinking auf sinnvolle Weise und aus praktischen Kontexten in den Lehrplan integriert werden kann. Dies erstreckt sich auf Fächer in technischen und wissenschaftlichen Richtungen, aber auch in Sprach- und Geisteswissenschaften. <br>Unsere innovativen Lehrmaterialien sind in die bestehende Lernlinie 'AI Op School' eingebunden, die sich in der ersten, zweiten und dritten Klasse mit Computational Thinking befasst, jeweils in verschiedenen Kontexten. Dabei liegt der Schwerpunkt auf einem multidisziplinären Ansatz mit besonderem Augenmerk auf den Auswirkungen neuer Technologien auf unsere sich schnell verändernde Gesellschaft."
+  t1_subtitle1: "Für jeden"
+  t1_p1: "Da Computational Thinking stark auf problemlösende Fähigkeiten ausgerichtet ist, kann es in jedem bestehenden Fach im regulären Unterricht behandelt werden. Es geht dabei um Probleme, für die man oft mit Hilfe eines Computers leichter eine Lösung findet."
+  t1_subtitle2: "ohne und mit Computer"
+  t1_p2: "Über Programmierkurse können Sie viele Konzepte des Computational Thinking in die Praxis umsetzen. Dennoch kann man auch ohne Computer viel über Computational Thinking lernen. Dafür sind zahlreiche interessante Aktivitäten ohne Computer möglich."
+  t1_subtitle3: "Fortbildung"
+  t1_p3: "Mit diesem Projekt unterstützen wir Lerarenopleider und Lehrer der Sekundarstufe dabei, mithilfe eines flexiblen, Online-Lernpfads mit konkreten Unterrichtsmaterialien, integriert in STEM-Projekte, Computational Thinking in den eigenen fachspezifischen Kontext zu übersetzen."
+  t1_subtitle4: "Optional"
+  t1_p4: "Text"
+  title2: "Inhaltlich"
+  title2_p: "Die Professionalisierung von Lehrern verdient die notwendige Aufmerksamkeit, denn sie sind oft unzureichend in Bezug auf die Konzepte von und mögliche Herangehensweisen, Didaktik und Bewertung für Computational Thinking ausgebildet. Eine Übersicht aller Lernpfade finden Sie am Ende des Lernpfads <em>'Bedeutung von Computational Thinking'</em>."
+  t2_subtitle1: "neue Terminologie"
+  t2_p1: "Es ist wichtig, Lehrer mit der Terminologie vertraut zu machen, damit sie Aspekte des Computational Thinking in ihrem eigenen Unterrichtsmaterial erkennen können, und ihr Selbstvertrauen, über Computational Thinking zu unterrichten, wächst. Dafür ist unter anderem ein breites Angebot an qualitativ hochwertigem Unterrichtsmaterial erforderlich, dem wir gerecht zu werden versuchen."
+  t2_subtitle2: "wissenschaftliche Forschung"
+  t2_p2: "Man ist noch intensiv damit beschäftigt, zu erforschen, wie Computational Thinking am besten im Unterricht behandelt werden kann. Hier versuchen wir Ihnen bereits einen Leitfaden zur Umsetzung zu geben, während wir die Erkenntnisse weiterverfolgen."
+  t2_subtitle3: "Lernpfade"
+  t2_p3: "Nachfolgend finden Sie eine breite Palette von Lernpfaden. Die Themen reichen von <em>'Definition und Schwerpunkte'</em> bis <em>'historiek'</em> und sogar <em>'Eindtermen und minimumdoelen'</em>."
+  t2_subtitle4: "Kongress"
+  t2_p4: 'Im Jahr 2023 haben wir eine Konferenz zum Thema Computational Thinking organisiert. <a href="https://drive.google.com/drive/folders/1yq-NJbZTqiVhdBukFetQmavDwVCjcfiZ?usp=sharing" style="color: black; text-decoration: underline">Hier</a> finden Sie die Präsentationen zurück.'
+  title3: "Wie fängt man an?"
+  title3_p: "Text"
+  t3_subtitle1: "Optional"
+  t3_p1: "Text"
+  t3_subtitle2: "Optional"
+  t3_p2: "Text"
+  t3_subtitle3: "Optional"
+  t3_p3: "Text"
+  t3_subtitle4: "Optional"
+  t3_p4: "Text"
+  teaser:
+      title: "Probieren Sie dieses Lehrmaterial aus!"
+      file: "/assets/files/teasers/Opdracht_Pixels_Start2STEM_deelnemer_vTechnopolis.pdf"
+
 math_with_python:
   intro_title: "Computational Thinking"
   paragraph1: "TODO: Alle Inhalte übersetzen"
@@ -764,6 +803,20 @@ curricula_page:
         file_location: "/assets/files/computational_thinking/ZoektochtNaarSpraak.pdf"
         file_icon_name: "description"
         link_name: "Download"  
+
+  computational_thinking_primary:
+    title: Algorithmisches Denken
+    sub_title: Algorithmisches Denken im Unterricht
+    description: "Wie können wir komplexe Probleme mithilfe eines Computers lösen? Dank algorithmischem Denken! Das können Sie durch verschiedene Aktivitäten mit oder ohne Computer lernen. Wir helfen Ihnen gerne auf dem Weg."
+    contact: Fragen? Kontaktieren Sie uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels unter Francis@dwengo.org wenden.
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+    curricula_files:
+      - file_title: "Konzepte und Ansätze des algorithmischen Denkens"
+        file_info: "Poster​"
+        file_location: "/assets/files/computational_thinking/CDposterDwengo2.png"
+        file_icon_name: "description"
+        link_name: "Download"
+
   math_with_python: 
     title: Python im Mathematikunterricht
     sub_title: Python in der Mathematik
