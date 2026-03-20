@@ -12,7 +12,7 @@ redirect_from:
 banner_image: "/images/curricula/banner_computational_thinking.png"
 logo_image: "/images/curricula/logo_computational_thinking.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png', '/images/partners/vlaanderen.svg']
-learning_paths: ['ct1_concepten', 'ct2_concreet', 'ct3_voorbeelden', 'ct9_impact', 'ct10_bebras', 'ct8_eindtermen', 'ct7_historiek', 'ct5_kijkwijzer', 'ct4_evaluatiekader']
+learning_paths: ['ct2_concreet_basisonderwijs', 'ct6_cases_basisonderwijs', 'ct10_bebras_basisonderwijs', 'ct8_eindtermen_basisonderwijs', 'ct10_ct_in_wiskunde_basisonderwijs', 'ct11_ct_in_stem_basisonderwijs']
 ---
 
 {% capture page_title %} {{ site.translations[site.lang].computational_thinking_primary.page_title }} {% endcapture %}
