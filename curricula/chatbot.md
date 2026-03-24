@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: taaltechnologie
-permalink: /taaltechnologie/
+title: chatbot
+permalink: /chatbot/
 redirect_from:
-  - /aiopschool/taaltechnologie/
+  - /aiopschool/chatbot/
 banner_image: "/images/curricula/banner_chatbot.png"
 logo_image: "/images/curricula/logo_chatbot.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/sintbavo.png']
