@@ -315,6 +315,45 @@ computational_thinking:
       title: "Probieren Sie dieses Lehrmaterial aus!"
       file: "/assets/files/teasers/Opdracht_Pixels_Start2STEM_deelnemer_vTechnopolis.pdf"
 
+computational_thinking_primary:
+  disc: "Diese Lernpfade befinden sich derzeit in Entwicklung und werden schrittweise ergänzt."
+  page_title: "Computational Thinking in der Grundschule"
+  intro: "Auch in der Grundschule ist Computational Thinking eine wichtige Basiskompetenz. Kinder lernen, Probleme Schritt für Schritt anzugehen, Muster zu erkennen und klare Anweisungen zu formulieren – mit oder ohne Computer."
+  summary: "Computational Thinking hilft Kindern, logisch, kreativ und zielgerichtet zu denken. Sie lernen, große Aufgaben in kleine Schritte zu zerlegen, und entdecken, wie digitale Werkzeuge sie dabei unterstützen können. <br><br>In diesem Material finden Sie spielerische Aktivitäten und konkrete Beispiele für die Unterrichtspraxis in der Grundschule."
+  title1: "Im Unterricht"
+  title1_p: "Wir zeigen, wie Computational Thinking sinnvoll in die Grundschule integriert werden kann. Das ist in Mathematik, Sprache, Sachunterricht, MINT und kreativen Fächern möglich. <br>Unsere Materialien knüpfen an die Lebenswelt der Kinder an und bauen schrittweise von konkreten Erfahrungen zu einfachen abstrakten Denkweisen auf."
+  t1_subtitle1: "Nah an der Lebenswelt"
+  t1_p1: "Die Kinder arbeiten mit vertrauten Situationen, Spielen, Geschichten und Gestaltungsaufgaben. So entdecken sie, dass Computational Thinking nicht nur mit Computern zu tun hat, sondern vor allem mit klugem Problemlösen."
+  t1_subtitle2: "Ohne und mit Computer"
+  t1_p2: "Viele Konzepte lassen sich zunächst unplugged einführen, zum Beispiel mit Karten, Wegen, Mustern oder Klassenaktivitäten. Danach kann man – wenn es passt – den Schritt zu einfachen digitalen Anwendungen oder zum Programmieren machen."
+  t1_subtitle3: "Für Lehrkräfte"
+  t1_p3: "Mit diesem Projekt unterstützen wir Lehrkräfte und Ausbildende im Grundschulbereich durch einen flexiblen Online-Lernpfad mit konkreten Unterrichtsideen, Hintergrundinformationen und sofort einsetzbarem Material."
+  t1_subtitle4: "Schritt für Schritt"
+  t1_p4: "Wir beginnen mit einfachen Aufgaben und bauen die Inhalte allmählich auf. So können Lehrkräfte und Kinder sicher starten."
+  title2: "Inhaltlich"
+  title2_p: "Bei jüngeren Lernenden liegt der Schwerpunkt auf Grundideen wie Muster erkennen, Aufgaben in Schritte zerlegen, logisch denken, Fehler finden und einfache Algorithmen entwerfen. Unsere Lernpfade zeigen, wie sich diese Ideen zugänglich und spielerisch vermitteln lassen."
+  t2_subtitle1: "Klare Sprache"
+  t2_p1: "Wir bieten verständliche Begriffe und anschauliche Beispiele, damit Lehrkräfte Computational Thinking in ihrer eigenen Unterrichtspraxis leicht erkennen und benennen können."
+  t2_subtitle2: "Forschung und Praxis"
+  t2_p2: "Wir greifen wissenschaftliche Erkenntnisse zu Computational Thinking auf, übersetzen sie aber immer in machbare Aktivitäten für die Grundschule."
+  t2_subtitle3: "Lernpfade"
+  t2_p3: "Sie finden Lernpfade zu Grundbegriffen, didaktischen Ansätzen, unplugged Aktivitäten und ersten Programmerfahrungen. Jeder Lernpfad kann einzeln genutzt werden und bietet sofort einsetzbare Anregungen."
+  t2_subtitle4: "Sofort einsetzbar"
+  t2_p4: "Viele Aktivitäten benötigen nur wenig Vorbereitung und lassen sich gut in bestehende Unterrichtsstunden einbinden. So wird Computational Thinking zu einem natürlichen Teil des Schulalltags."
+  title3: "Wie fängt man an?"
+  title3_p: "Man muss nicht groß anfangen. Kleine, konkrete Aufgaben machen Computational Thinking im Unterricht schnell sichtbar."
+  t3_subtitle1: "Ein vertrautes Problem wählen"
+  t3_p1: "Starten Sie mit einer Aufgabe, die Kinder kennen, zum Beispiel einen Weg planen, ein Muster ergänzen oder einen Ablauf beschreiben."
+  t3_subtitle2: "Konkret arbeiten"
+  t3_p2: "Nutzen Sie Materialien wie Karten, Bausteine, Pfeile oder Zeichnungen, um abstrakte Begriffe greifbar zu machen."
+  t3_subtitle3: "Kinder erklären lassen"
+  t3_p3: "Wenn Kinder ihre Denkschritte laut erklären, lernen sie genauer zu argumentieren und erkennen leichter, wo ein Fehler steckt."
+  t3_subtitle4: "Ruhig aufbauen"
+  t3_p4: "Beginnen Sie ohne Computer und erweitern Sie später mit einfachen digitalen Werkzeugen oder Programmieraktivitäten, wenn die Klasse dafür bereit ist."
+  teaser:
+      title: "Probieren Sie dieses Lehrmaterial aus!"
+      file: "/assets/files/teasers/Opdracht_Pixels_Start2STEM_deelnemer_vTechnopolis.pdf"
+
 math_with_python:
   intro_title: "Computational Thinking"
   paragraph1: "TODO: Alle Inhalte übersetzen"
@@ -764,6 +803,20 @@ curricula_page:
         file_location: "/assets/files/computational_thinking/ZoektochtNaarSpraak.pdf"
         file_icon_name: "description"
         link_name: "Download"  
+
+  computational_thinking_primary:
+    title: Computational Thinking
+    sub_title: Computational Thinking in der Grundschule
+    description: "Wie lernen Kinder in der Grundschule, Probleme Schritt für Schritt zu lösen? Mit Computational Thinking! Durch spielerische Aktivitäten mit und ohne Computer entdecken sie Muster, Algorithmen und logisches Denken. Wir helfen Ihnen beim Einstieg."
+    contact: Fragen? Kontaktieren Sie uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels unter Francis@dwengo.org wenden.
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+    curricula_files:
+      - file_title: "Computational Thinking in der Grundschule"
+        file_info: "Einführungsmaterial für Computational Thinking in der Grundschulpraxis"
+        file_location: "/assets/files/computational_thinking/CDposterDwengo2.png"
+        file_icon_name: "description"
+        link_name: "Download"
+
   math_with_python: 
     title: Python im Mathematikunterricht
     sub_title: Python in der Mathematik

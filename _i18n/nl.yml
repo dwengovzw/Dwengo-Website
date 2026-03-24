@@ -301,6 +301,45 @@ computational_thinking:
       title: "Uitproberen?"
       file: "/assets/files/teasers/Opdracht_Pixels_Start2STEM_deelnemer_vTechnopolis.pdf"
 
+computational_thinking_primary:
+  disc: "Deze leerpaden zijn momenteel in ontwikkeling en worden geleidelijk aangevuld."
+  page_title: "Computationeel denken in het basisonderwijs"
+  intro: "Ook in het basisonderwijs is computationeel denken een belangrijke basisvaardigheid. Leerlingen leren problemen stap voor stap aanpakken, patronen herkennen en duidelijke instructies formuleren, met of zonder computer."
+  summary: "Computationeel denken helpt kinderen om logisch, creatief en doelgericht te redeneren. Ze leren een grote opdracht opdelen in kleine stappen en ontdekken hoe digitale tools hen kunnen helpen. <br><br>In dit lesmateriaal vind je speelse activiteiten en concrete voorbeelden voor de klaspraktijk in het basisonderwijs."
+  title1: "In de klas"
+  title1_p: "We tonen hoe computationeel denken op een betekenisvolle manier geïntegreerd kan worden in het lager onderwijs. Dat kan binnen wiskunde, taal, wereldoriëntatie, STEM en muzische vakken. <br>Onze materialen sluiten aan bij de leefwereld van kinderen en bouwen stap voor stap op van concrete ervaringen naar eenvoudige abstracte denkoefeningen."
+  t1_subtitle1: "Dicht bij de leefwereld"
+  t1_p1: "Leerlingen werken rond herkenbare situaties, spel, verhalen en maakopdrachten. Zo ontdekken ze dat computationeel denken niet alleen over computers gaat, maar vooral over slim problemen oplossen."
+  t1_subtitle2: "Zonder en mét computer"
+  t1_p2: "Veel concepten kan je eerst unplugged aanbrengen, bijvoorbeeld met kaartjes, routes, patronen of klasactiviteiten. Daarna kan je, als dat past, de stap zetten naar eenvoudige digitale toepassingen of programmeren."
+  t1_subtitle3: "Voor leerkrachten"
+  t1_p3: "Met dit project ondersteunen we leerkrachten en lerarenopleiders lager onderwijs via een flexibel online leertraject met concrete lesideeën, achtergrondinformatie en kant-en-klaar materiaal voor de klas."
+  t1_subtitle4: "Stap voor stap"
+  t1_p4: "We vertrekken van eenvoudige opdrachten en bouwen geleidelijk op. Zo kunnen zowel leerkrachten als leerlingen met vertrouwen aan de slag."
+  title2: "Inhoudelijk"
+  title2_p: "Bij jonge leerlingen ligt de nadruk op basisconcepten zoals patronen herkennen, opdelen in stappen, logisch redeneren, fouten opsporen en eenvoudige algoritmes ontwerpen. Onze leerpaden tonen hoe je die begrippen op een toegankelijke en speelse manier kan aanbrengen."
+  t2_subtitle1: "Heldere taal"
+  t2_p1: "We reiken begrijpelijke termen en voorbeelden aan, zodat leerkrachten computationeel denken gemakkelijk kunnen herkennen en benoemen in hun eigen klaspraktijk."
+  t2_subtitle2: "Onderzoek en praktijk"
+  t2_p2: "We bouwen verder op wetenschappelijke inzichten over computationeel denken, maar vertalen die telkens naar haalbare activiteiten voor de lagere school."
+  t2_subtitle3: "Leerpaden"
+  t2_p3: "Je vindt leerpaden over basisbegrippen, didactische aanpakken, unplugged activiteiten en eerste programmeerervaringen. Elk leerpad kan afzonderlijk gebruikt worden en biedt meteen bruikbare inspiratie."
+  t2_subtitle4: "Klaar voor gebruik"
+  t2_p4: "Veel activiteiten vragen weinig voorbereiding en sluiten aan bij bestaande lessen. Zo kan computationeel denken op een natuurlijke manier deel worden van je onderwijspraktijk."
+  title3: "Hoe begin je eraan?"
+  title3_p: "Je hoeft niet groot te starten. Met kleine, concrete opdrachten maak je computationeel denken snel zichtbaar in de klas."
+  t3_subtitle1: "Kies een herkenbaar probleem"
+  t3_p1: "Vertrek vanuit een taak die kinderen kennen, zoals een route uitstippelen, een patroon aanvullen of een stappenplan maken."
+  t3_subtitle2: "Werk concreet"
+  t3_p2: "Gebruik materiaal zoals kaartjes, blokken, pijlen of tekeningen om abstracte begrippen tastbaar te maken."
+  t3_subtitle3: "Laat leerlingen verwoorden"
+  t3_p3: "Door hun denkstappen luidop uit te leggen, leren leerlingen preciezer redeneren en ontdekken ze waar iets fout loopt."
+  t3_subtitle4: "Bouw rustig op"
+  t3_p4: "Begin zonder computer en breid later uit met eenvoudige digitale tools of programmeeractiviteiten wanneer de klas daar klaar voor is."
+  teaser:
+      title: "Uitproberen?"
+      file: "/assets/files/teasers/Opdracht_Pixels_Start2STEM_deelnemer_vTechnopolis.pdf"
+
 
 # Downloadables ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 curricula_page:
@@ -540,6 +579,20 @@ curricula_page:
         file_location: "/assets/files/computational_thinking/ZoektochtNaarSpraak.pdf"
         file_icon_name: "description"
         link_name: "Download"
+
+  computational_thinking_primary:
+    title: Computationeel denken in het basisonderwijs
+    sub_title: Computationeel denken in de lagere school
+    description: "Hoe leren kinderen in de lagere school problemen stap voor stap oplossen? Met computationeel denken! Via speelse activiteiten met en zonder computer ontdekken leerlingen patronen, algoritmes en logisch redeneren. Wij helpen je op weg."
+    contact: Vragen? Contacteer ons via team@aiopschool.be. De pers kan contact opnemen met Francis wyffels via Francis@dwengo.org.
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8
+    curricula_files:
+      - file_title: "Computationeel denken in de lagere school"
+        file_info: "Informatievideo over computationeel denken in de klaspraktijk van het lager onderwijs"
+        file_location: "https://www.youtube.com/watch?v=Nifa0vooyKg"
+        file_icon_name: "play_arrow"
+        link_name: "Kijk"
+
 
   math_with_python:
     title: Python in de Wiskundeles
@@ -1016,7 +1069,7 @@ shop:
         - "Vier bevestigingsplaatjes voor de servomotoren."
         - "Voldoende op maat gemaakte kabels voor het aansluiten van sensoren en actuatoren."
         - "Een waaier aan didactisch materiaal op <a href='/socialrobot'>dwengo.org/socialrobot</a>"
-    - title: 'Boekje "Over appels en peren,  Hoe AI ons leven verandert en hoe jij het kunt toepassen"'
+    - title: 'Boekje "Over appels en peren ... Hoe AI ons leven verandert en hoe jij het kunt toepassen"'
       desc: 'Onderga je al die AI-toepassingen? Of wil je er bewust mee omgaan? <br>In het boekje "Over appels en peren…" nemen Francis wyffels, Jeroen Bourgonjon en Natacha Gesquière je mee in de wereld van AI. Lezers van 12 tot 120 jaar ontdekken zo op een laagdrempelige manier hoe deze technologieën onze toekomst vormgeven.'
       image: "/images/events/2026/kaftoverappelsenperen.png"
       price: "€10 incl. 6% btw"
@@ -1025,7 +1078,7 @@ shop:
       desc: "Met dit stellingenspel krijgen de leerlingen inzichten in de maatschappelijke impact van nieuwe technologieën. De kaartenset bevat tamelijk wat stellingen met elk een bijbehorende afbeelding, en er hoort ook een handleiding bij. De stellingen kunnen bekeken worden vanuit het perspectief van een patiënt, een zorgverlener of een kritische burger, en beslaan drie categorieën: er zijn stellingen over technologische vernieuwing en over sociale interactie, en stellingen die doen nadenken over data en privacy. Meer info <a href='/care'>dwengo.org/care</a>."
       image: "/assets/images/shop/card_game.png"
       price: "€10 excl. 21% btw"
-      price_extra_info: "Leerkrachten secundair en hoger onderwijs kunnen een gratis kaartenset aanvragen via het volgende formulier: <a href='https://dwengo-forms.ilabt.imec.be/forms/aanvraagformulier-kaartenspel-fflaw1'>Aanvraagformulier</a>. Organisaties uit de zorgsector kunnen de set aanvragen via e-mail naar info@dwengo.org. "
+      price_extra_info: "Leerkrachten secundair onderwijs, hoger onderwijs of volwassenenonderwijs kunnen een gratis kaartenset aanvragen via het volgende formulier: <a href='https://dwengo-forms.ilabt.imec.be/forms/aanvraagformulier-kaartenspel-fflaw1'>Aanvraagformulier</a>. Organisaties uit de zorgsector kunnen een gratis set aanvragen via e-mail naar info@dwengo.org. "
     - title: "Boek 'Actief Computationeel Denken'"
       desc: "Computationeel denken. Het is een verplicht onderwijsdoel voor leerlingen van de eerste en tweede graad secundair onderwijs. Ook in de derde graad komt het aan bod. Maar hoe vervul je deze precies? Het boek Actief computationeel denken, geschreven door ‘Robotica en AI’-professor Francis wyffels en wiskunde-leerkracht en STEM-coach Natacha Gesquière, vormt dé perfecte gids. Met heldere uitleg van kernconcepten, praktische lesvoorbeelden en evaluatiemethoden wordt uiteengezet hoe je computationeel denken op een zinvolle en toegankelijke manier in een klaslokaal kan brengen."
       image: "/assets/images/shop/actiefcomputationeeldenken.png"
