@@ -24,7 +24,7 @@ strengths:
   inclusive_text: We richten ons op alle kinderen en jongeren met een specifieke aandacht voor het evenwicht tussen meisjes en jongens en leerlingen uit kansengroepen.
   socially_relevant_text: We zoeken projecten uit die passen binnen de actualiteit en maatschappelijke thema's.
   summary: ""
-  main: Al onze pakketten zijn gebruiksvriendelijk, maatschappelijk relevant, wetenschappelijk onderbouwd, én inclusief. Leerkrachten over de hele wereld gingen hiermee reeds aan de slag. Jij ook? Verken de lesthema's op onze website! 
+  main: Al onze pakketten zijn gebruiksvriendelijk, maatschappelijk relevant, wetenschappelijk onderbouwd, én inclusief. Leerkrachten over de hele wereld gingen hiermee reeds aan de slag. Jij ook? Verken de lesthema's op onze website!
   quote:
     text: Je maakt iets praktisch, je leert werken met hardware en je kan zelf iets nieuws cre&euml;ren.
     name: Matthias en Bruno
@@ -152,7 +152,7 @@ care:
   subtitle1: "Toepassingen van artificiële intelligentie (AI) vinden steeds meer hun weg naar onze maatschappij, waaronder het ziekenhuis. Maar innovaties zijn er in de zorgsector niet alleen op de ziekenhuisvloer, maar ook in de huisartsenpraktijken, in het geneesmiddelenonderzoek en bij jou thuis. Onderzoekers ontwikkelen toepassingen van artificiële intelligentie voor de zorgsector. Dat gebeurt best door <strong>interdisciplinaire teams</strong> die anticiperen op mogelijk negatieve effecten en de <strong>patiënt centraal</strong> stellen.  Vooruitgang op vlak van hardware, bv. sensoren, en software, bv. taaltechnologie, leidt tot nieuwe mogelijkheden. Datagebaseerde en regelgebaseerde AI-modellen worden gecombineerd tot effectieve en meer <strong>transparante systemen</strong>.  Zo kunnen patiënten dankzij wearables al van op afstand worden opgevolgd, doet men via een smartphone-app onderzoek naar migraine, gebeuren anamnesegesprekken via een chatbot, en helpt AI radiologen bij het beoordelen van medische beelden.<br><br>Als deze nieuwe technologieën worden ontwikkeld, rekening houdend met alle gebruikers en mogelijke maatschappelijke effecten, dan hebben ze het potentieel om de werkdruk in de zorgsector te verlagen en te zorgen voor een betere gezondheidszorg."
 
 chatbot:
-  intro_title: "Chatbot"
+  intro_title: "Taaltechnologie"
   paragraph1: "Waar taal en technologie samenkomen, ontstaat het domein van Natural Language Processing (NLP). Met technieken uit machine learning, zoals het trainen van modellen om tekst, afbeeldingen of geluidsfrequenties te herkennen, kunnen we computers op een intelligente manier laten werken met taal. Bekende NLP-toepassingen van machine learning zijn bijvoorbeeld vertaalprogramma's, spraakbesturingssystemen of virtual assistants zoals Siri, en chatrobots."
   paragraph2: "We buigen ons over vragen als <em>Hoe kunnen we automatisch teksten begrijpen, vertalen en zelfs schrijven?</em>, <em>Kan een computer emoties of ironie herkennen in een tekst?</em>, en vooral <em>Hoe belangrijk zijn data?</em>. Leerlingen van de tweede en de derde graad secundair onderwijs krijgen inzicht in het domein NLP en zetten hun eerste stappen in de wereld van het programmeren met Python."
   title: "Het wetenschappelijk onderzoek"
@@ -222,7 +222,7 @@ socialrobot:
   t3_subtitle3: "Titel"
   t3_p3: ""
   t3_subtitle4: "Titel"
-  t3_p4: ""  
+  t3_p4: ""
   teaser:
     title: "Uitproberen?"
     file: "/assets/files/teasers/Opdracht_SocialeRobot_Start2STEM_deelnemer_vTechnopolis.pdf"
@@ -691,7 +691,7 @@ curricula_page:
     title: Robotica
     sub_title: Programmeer robots in de klas
     description: "Van een eenvoudige rijdende robot die in een vierkant rijdt tot een robot die zelf leert hoe deze zich moet verplaatsen met Q-learning. In dit lesthema leer je alles over hoe je een robot ontwerpt, bouwt en programmeert!"
-        
+
   wedstrijd_sr:
     teaser: "https://www.youtube.com/embed/tqSnpAKLsu8"
     curricula_files:
@@ -728,7 +728,7 @@ curricula_page:
 
 
 # Projects, varia & temp ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-privacy: 
+privacy:
   detail: "Bij Dwengo vinden we transparantie erg belangrijk. We willen onze gebruikers dan ook graag informeren over welke data we verzamelen en waarom we dat doen. We maken gebruik van de analytics tool Matomo, die lokaal gehost wordt op een server in België. Dit betekent dat we 100% eigenaar zijn van de data en deze niet delen met derden. Deze data is volledig anoniem, er worden geen persoonsgegevens aan gekoppeld.<br><br>
 We houden bij welke pagina's u bezoekt op onze website en hoe lang u op deze pagina blijft. Dit helpt ons om te begrijpen welke inhouden u interessant vindt. Aan de hand van die informatie kunnen we onze website verbeteren. We houden ook bij hoe u onze website gevonden heeft, bijvoorbeeld via een zoekmachine, een ander platform of via een directe link. Dit helpt ons om te begrijpen via welke van onze partners u op onze website terechtgekomen bent. We houden ook bij op welke uitgaande links u klikt. Dit geeft ons inzicht in welke externe bronnen u interessant vindt en helpt ons om onze content te verbeteren.<br><br>
 Verder houden we bij welk besturingssysteem, welk apparaat en welke browser u gebruikt om onze website te bezoeken. Dit helpt ons om onze website te optimaliseren voor verschillende apparaten en om eventuele technische problemen op te sporen.<br><br>
@@ -741,12 +741,12 @@ We gebruiken deze gegevens uitsluitend voor interne analyse en om onze website t
 aiopschool:
   intro_title: "AI Op School"
   paragraph1: "
-  Artificiële intelligentie (AI) komt volop aan bod in de media. 
-  Populaire thema’s zijn: chatbots, zelfrijdende auto’s, virtuele assistenten en het verlies aan jobs. 
+  Artificiële intelligentie (AI) komt volop aan bod in de media.
+  Populaire thema’s zijn: chatbots, zelfrijdende auto’s, virtuele assistenten en het verlies aan jobs.
   AI-systemen dringen meer en meer onze wereld binnen."
   paragraph2: "AI Op School is een project dat ontstaan is uit de bekommernis dat leerlingen kunstmatige (KI) of artificiële intelligentie moeten kunnen begrijpen en het besef dat er een hiaat is in het curriculum van het secundair onderwijs om hieraan tegemoet te komen. We maken lesmateriaal voor het secundair onderwijs rond AI gelinkt aan de eindtermen en de bestaande leerplandoelen."
   banner_info: "
-  AI Op School is een project van Dwengo vzw. 
+  AI Op School is een project van Dwengo vzw.
   Binnen het project ontwikkelden we zowel het lesmateriaal als de nodige tools om in de klas aan de slag te gaan met machinaal leren en artificiële intelligentie.
   Alle lesinhouden die beschikbaar waren op aiopschool.be (<a href='/content/'>en nog veel meer</a>) zijn nu beschikbaar op <a href='/'>dwengo.org</a>"
   subtitle1: "AI"
@@ -762,7 +762,7 @@ waisda:
   paragraph2: "
   Er worden verschillende AI-concepten behandeld, zoals classificatie, bias, neurale netwerken, trainings-, validatie- en testdata en under- en overfitting … Voor een aantal van de leerpaden is er een basiskennis Python vereist. Wil je leren programmeren in Python? Dan kan je terecht op <a href='https://www.dwengo.org/python'>dwengo.org/python</a>."
   banner_info: "
-  wAIsda? is een project van Dwengo vzw. 
+  wAIsda? is een project van Dwengo vzw.
   In dit project ontwikkelen we een educatief traject om getalenteerde jongeren vertrouwd te maken met de grondbeginselen van kunstmatige intelligentie. Deelnemers krijgen inzicht in de technieken achter bekende AI-gebaseerde toepassingen zoals DALL·E, ChatGPT en Siri. Verschillende AI-concepten worden behandeld, zoals classificatie, bias, neurale netwerken, trainings-, validatie- en testdata en under- en overfitting … Dit doen we steeds in een maatschappelijk relevante context zoals klimaatverandering of gezondheidszorg. We ontwikkelen tien buitenschoolse workshops van een halve dag. Om groei mogelijk te maken, worden deze ingedeeld naar moeilijkheidsgraad."
   subtitle1: "AI"
   subtitle1p1: "AI is een tak binnen de computerwetenschappen. Een definitie geven voor AI, iets dat in zoveel verschillende domeinen wordt ingezet, is geen sinecure. Binnen AI onderscheidt men kennisgebaseerde en datagebaseerde systemen. De chatbot Eliza en de schaakcomputer Deep Blue zijn voorbeelden van kennisgebaseerde systemen. De regels die de computer volgt, zijn zorgvuldig geprogrammeerd. Gezichtsherkenning is een voorbeeld van een datagebaseerd systeem. Dit systeem heeft geleerd: gebaseerd op de gegeven data heeft het zelf de parameters in het geprogrammeerde algoritme aangepast. Men spreekt ook van machine learning."
@@ -897,7 +897,7 @@ calendar_page:
   boek_ons: "Boek ons voor een nascholing!"
 
 news_page:
-  no_news: Geen nieuws 
+  no_news: Geen nieuws
 
 project_highlights:
   title: Projecten in de kijker
@@ -1035,7 +1035,7 @@ shop:
       desc: "Met deze leerkrachtenhandleiding kan je snel aan de slag met ons materiaal rond artificiële inteligentie en de klimaatverandering. Meer info <a href='/kiks'>dwengo.org/kiks</a>."
       image: "/assets/images/shop/kiks_cover.png"
       price: "€50 excl. 6% btw"
-      price_extra_info: "" 
+      price_extra_info: ""
     - title: "Leerkrachtenhandleiding Chatbot"
       desc: "Met deze leerkrachtenhandleiding kan je snel aan de slag met ons materiaal rond taaltechnologie. Meer info <a href='/chatbot'>dwengo.org/chatbot</a>."
       image: "/assets/images/shop/chatbot_cover.png"
@@ -1085,8 +1085,8 @@ learning_trajectories:
     geavanceerde_microcontroller:
       title: "Geavanceerde µC"
       description: "In deze leerlijn ontdekken leerlingen hoe ze een geavanceerde microcontrollertoepassing kunnen bouwen en programmeren."
-    
-      
+
+
 learning_trajectory:
   title: Jouw persoonlijke leerlijn
 

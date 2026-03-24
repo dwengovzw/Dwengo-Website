@@ -6,7 +6,7 @@ layout: default
 title: taaltechnologie
 permalink: /taaltechnologie/
 redirect_from:
-  - /aiopschool/chatbot/
+  - /aiopschool/taaltechnologie/
 banner_image: "/images/curricula/banner_chatbot.png"
 logo_image: "/images/curricula/logo_chatbot.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/sintbavo.png']
