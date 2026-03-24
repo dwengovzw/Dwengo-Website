@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: chatbot
-permalink: /chatbot/
-redirect_from: 
+title: taaltechnologie
+permalink: /taaltechnologie/
+redirect_from:
   - /aiopschool/chatbot/
 banner_image: "/images/curricula/banner_chatbot.png"
 logo_image: "/images/curricula/logo_chatbot.png"

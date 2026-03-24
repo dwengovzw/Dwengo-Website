@@ -5,7 +5,7 @@
 layout: default
 title: Math with python
 permalink: /math_with_python/
-redirect_from: 
+redirect_from:
   - /Wiskunde/
   - /wiskunde/
   - /Wiskundemetpython/
@@ -13,7 +13,7 @@ redirect_from:
 banner_image: "/images/curricula/banner_math_with_python.png"
 logo_image: "/images/curricula/logo_math_with_python.png"
 partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png']
-learning_paths: ['pn_werking', 'maths_pythagoras', 'maths_spreidingsdiagrammen', 'maths_rechten', 'maths_lineaireregressie', 'maths_epidemie', 'pn_digitalebeelden', 'maths_logica', 'maths_parameters', 'maths_parabolen', 'pn_regressie', 'maths7_grafen', 'maths8_statistiek']
+learning_paths: ['pn_werking', 'maths_pythagoras', 'maths_spreidingsdiagrammen', 'maths_rechten', 'maths_lineaireregressie', 'maths_epidemie', 'pn_digitalebeelden', 'maths_logica', 'maths_parameters', 'maths_parabolen', 'pn_regressie', 'maths7_grafen', 'maths8_statistiek','org-dwengo-anm19-nijlpaarden']
 ---
 
 {% capture intro_title %} {{ site.translations[site.lang].math_with_python.intro_title }} {% endcapture %}
