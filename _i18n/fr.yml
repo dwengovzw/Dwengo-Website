@@ -207,6 +207,16 @@ waisda:
   subtitle2p2: |
     On distingue entre l'IA générale et l'IA étroite. Dans l'IA géné
 
+gripit:
+  intro_title: "GripIt"
+  paragraph1: |
+    GripIt est un projet de manipulation robotique dans lequel les apprenants conçoivent, construisent et programment une pince robotisée.
+  paragraph2: |
+    Dans ce parcours, les apprenants combinent l'ingénierie, la programmation et la résolution de problèmes. Ils testent et améliorent leur conception de manière itérative et découvrent comment la mécanique, l'électronique et le logiciel se combinent dans un système robotique fonctionnel.
+  banner_info: |
+    GripIt est un projet de Dwengo vzw.
+    Dans ce projet, les apprenants découvrent pas à pas la manipulation robotique en concevant, construisant et programmant une pince robotisée. Ils développent ainsi des compétences techniques et la pensée computationnelle dans un contexte concret et pratique.
+
 basics_ai:
   intro_title: "Principes de base de l'IA"
   paragraph1: "L'intelligence artificielle (IA) est largement présente dans les médias. Les thèmes populaires sont : les chatbots, les voitures autonomes, les assistants virtuels et la perte d'emplois. Les systèmes d'IA pénètrent de plus en plus notre monde. Mais comment fonctionnent réellement ces systèmes ?"

@@ -852,6 +852,12 @@ waisda:
   subtitle2: "wAIsda?"
   subtitle2p1: ""
 
+gripit:
+  intro_title: "GripIt"
+  paragraph1: "GripIt is een project rond robotmanipulatie waarin leerlingen zelf een robotgrijper ontwerpen, bouwen en programmeren."
+  paragraph2: "Tijdens dit traject combineren leerlingen probleemoplossend denken, computationeel denken en engineering. Ze testen hun ontwerp iteratief uit en leren hoe mechanica, elektronica en software samenkomen in een functionele robottoepassing."
+  banner_info: "GripIt is een project van Dwengo vzw. In dit project ontdekken leerlingen stap voor stap hoe robotmanipulatie werkt door een robotgrijper te ontwerpen, te bouwen en te programmeren. Zo ontwikkelen ze technische vaardigheden en computationeel denken in een concrete, hands-on context."
+
 basics_ai:
   intro_title: "Basisprincipes van AI"
   paragraph1: "Artificiële intelligentie (AI) komt volop aan bod in de media. Populaire thema’s zijn: chatbots, zelfrijdende auto’s, virtuele assistenten en het verlies aan jobs. AI-systemen dringen meer en meer onze wereld binnen. Maar hoe werken deze systemen nu écht?"

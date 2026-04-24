@@ -197,6 +197,12 @@ waisda:
   subtitle2: "wAIsda?"
   subtitle2p1: ""
 
+gripit:
+  intro_title: "GripIt"
+  paragraph1: "GripIt is a robotics manipulation project in which learners design, build, and program a robotic gripper."
+  paragraph2: "During this project, learners combine engineering, coding, and problem-solving skills. They iteratively test and improve their designs while discovering how mechanics, electronics, and software work together in a functional robot system."
+  banner_info: "GripIt is a project by Dwengo vzw. In this project, learners explore robot manipulation step by step by designing, building, and programming a robotic gripper. In this way, they develop technical skills and computational thinking in a concrete, hands-on context."
+
 basics_ai:
   intro_title: "Basic Principles of AI"
   paragraph1: "Artificial intelligence (AI) is widely covered in the media. Popular topics include chatbots, self-driving cars, virtual assistants, and job loss. AI systems are increasingly entering our world. But how do these systems really work?"
