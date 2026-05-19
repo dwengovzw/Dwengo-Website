@@ -67,7 +67,7 @@ Waar?<br>
 Bibliotheek De Krook (Gent), gelijkvloers
 
 **Meer info**<br>
-https://comon.gent/finale-sociale-robot-wedstrijd of https://dwengo.org/socialerobotwedstrijd<br>
+<a href="https://comon.gent/finale-sociale-robot-wedstrijd">https://comon.gent/finale-sociale-robot-wedstrijd</a> of <a href="https://dwengo.org/socialerobotwedstrijd">https://dwengo.org/socialerobotwedstrijd</a><br>
 
 **Perscontact**<br>
 Tom Neutens <br>
