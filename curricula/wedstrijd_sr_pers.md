@@ -13,7 +13,7 @@ learning_paths: ['sr0_lkr', 'sr0_lln', 'sr1', 'sr2', 'sr3', 'sr4']
 
 
 
-# Persuitnodiging – Finale van de 'Sociale robot'-wedstrijd
+# Persuitnodiging voor finale van de 'Sociale robot'-wedstrijd
 
 Op **woensdag 27 mei** ontvangen Dwengo en Comon de pers in De Krook voor de finale van de ‘Sociale robot’-wedstrijd.
 
@@ -59,9 +59,9 @@ Wanneer?<br>
 Woensdag 27 mei 2026, van 13u30 tot 17u30
 
 Programma (vrije inloop)<br>
-• Robotbeurs: 13u30 tot 15u
-• Robotpresentaties in het Krookcafé: 15u tot 16u30
-• Prijsuitreiking in het Krookcafé: 17u tot 17u30
+* Robotbeurs: 13u30 tot 15u
+* Robotpresentaties in het Krookcafé: 15u tot 16u30
+* Prijsuitreiking in het Krookcafé: 17u tot 17u30
 
 Waar?<br>
 Bibliotheek De Krook (Gent), gelijkvloers
