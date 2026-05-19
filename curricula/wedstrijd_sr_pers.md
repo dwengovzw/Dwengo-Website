@@ -31,10 +31,10 @@ Bibliotheek De Krook (Gent) – gelijkvloers
 
 Pers is welkom tijdens het volledige programma.
 
-**Perscontact**
-Tom Neutens
-tom@dwengo.org
-0478 96 77 56
+**Perscontact**<br>
+Tom Neutens<br>
+tom@dwengo.org<br>
+0478 96 77 56<br>
 
 
 # Jong talent bouwt robots voor een warmere samenleving: finale van de 'Sociale robot'-wedstrijd op 27 mei in De Krook
@@ -55,24 +55,24 @@ Beelden en verhalen gegarandeerd: van robots die mensen aanzetten tot bewegen to
 
 **Praktisch**
 
-Wanneer?
+Wanneer?<br>
 Woensdag 27 mei 2026, van 13u30 tot 17u30
 
-Programma (vrije inloop)
+Programma (vrije inloop)<br>
 • Robotbeurs: 13u30 tot 15u
 • Robotpresentaties in het Krookcafé: 15u tot 16u30
 • Prijsuitreiking in het Krookcafé: 17u tot 17u30
 
-Waar?
+Waar?<br>
 Bibliotheek De Krook (Gent), gelijkvloers
 
-**Meer info**
-https://comon.gent/finale-sociale-robot-wedstrijd of https://dwengo.org/socialerobotwedstrijd
+**Meer info**<br>
+https://comon.gent/finale-sociale-robot-wedstrijd of https://dwengo.org/socialerobotwedstrijd<br>
 
-**Perscontact**
-Tom Neutens
-tom@dwengo.org
-0478 96 77 56
+**Perscontact**<br>
+Tom Neutens <br>
+tom@dwengo.org <br>
+0478 96 77 56 <br>
 
  
 # Dwengo lanceert tweede editie van de **Sociale Robot-wedstrijd**
