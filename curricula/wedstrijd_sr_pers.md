@@ -13,7 +13,7 @@ learning_paths: ['sr0_lkr', 'sr0_lln', 'sr1', 'sr2', 'sr3', 'sr4']
 
 
 
-# Persuitnodiging voor finale van de 'Sociale robot'-wedstrijd
+# Persuitnodiging voor de finale van de 'Sociale robot'-wedstrijd
 
 Op **woensdag 27 mei** ontvangen Dwengo en Comon de pers in De Krook voor de finale van de ‘Sociale robot’-wedstrijd.
 
