@@ -4,13 +4,13 @@
 layout: default
 title: algorithms
 permalink: /algorithms/
-redirect_from: 
+redirect_from:
   - /algoritmes/
   - /numerlieke_methodes/
   - /numerical_methods/
 banner_image: "/images/curricula/banner_algorithms_2.png"
 logo_image: "/images/curricula/logo_algorithms.png"
-partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png']
+partner_images: ['/images/partners/ugent.svg', '/images/partners/dwengo.png', '/images/partners/istem.png', '/images/partners/pov.jpg']
 learning_paths: ['art2', 'anm1', 'anm2', 'anm3', 'anm4', 'anm11', 'anm12', 'anm13', 'anm14', 'anm15','anm16','anm17','maths_epidemie', 'stem_insectbooks', "org-dwengo-anm19-nijlpaarden"]
 ---
 
