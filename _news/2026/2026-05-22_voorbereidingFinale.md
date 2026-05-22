@@ -14,6 +14,4 @@ Met veel enthousiasme ontstonden er zo allerlei unieke robotjes die de sfeer op 
 
 Kom ze zeker van dichtbij bewonderen tijdens de finale in De Krook!
 
-![Foto met Dwengo-werknemers die aan een tafel iets aan het knutselen zijn](/images/news/knutselen.jpeg)
-
-![Foto van een Dwengo-werknemer die aan een tafel iets aan het knutselen is met een doos en confetti ](/images/news/knutselen_closeup.jpeg)
+![Foto's met Dwengo-werknemers die aan een tafel iets aan het knutselen zijn](/images/news/voorbereiding_sociale_robot.png)
