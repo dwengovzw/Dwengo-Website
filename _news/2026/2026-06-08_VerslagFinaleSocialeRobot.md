@@ -17,6 +17,15 @@ Tijdens de finale kregen de jongeren de kans om hun robot live te demonstreren e
 “Deze wedstrijd is écht uniek,” zegt Francis wyffels, professor robotica aan de UGent - imec, IDLab-AIRO, en voorzitter van Dwengo vzw. 
 “In dit sterk STEM-project maken jongeren kennis met technologie als middel om echte maatschappelijke impact te creëren. Bovendien leren ze niet alleen programmeren, ontwerpen en bouwen, maar ook computationeel denken, samenwerken en communiceren.”
 
+
+{% capture sr_wedstrijd_slides %}
+<img src="/assets/images/wedstrijd_sr/2026/Yuri_Andries_Comon_Robotwedstrijd_27-05-2026_0203.jpg" alt="Slide 1" style="width: 100%; flex-shrink: 0;">
+<img src="/assets/images/wedstrijd_sr/2026/Yuri_Andries_Comon_Robotwedstrijd_27-05-2026_0217.jpg" alt="Slide 2" style="width: 100%; flex-shrink: 0;">
+<img src="/assets/images/wedstrijd_sr/2026/Yuri_Andries_Comon_Robotwedstrijd_27-05-2026_0454.jpg" alt="Slide 3" style="width: 100%; flex-shrink: 0;">
+<img src="/assets/images/wedstrijd_sr/2026/Yuri_Andries_Comon_Robotwedstrijd_27-05-2026_1130.jpg" alt="Slide 4" style="width: 100%; flex-shrink: 0;">
+{% endcapture %}
+{% include carousel.html id="sr-wedstrijd-nieuws" slides=sr_wedstrijd_slides %}
+
 <b>Winnaars hoofdprijzen</b>
 
 De jury bekroonde volgende teams voor hun sterke combinatie van maatschappelijke relevantie, technische uitwerking, creativiteit en presentatie.<br>
