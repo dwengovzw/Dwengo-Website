@@ -32,7 +32,67 @@
                 </span>
             </li>
       {%- endfor -%}
+    </ul>
+
+    {%- if paginator and paginator.total_pages > 1 -%}
+    <nav class="news-pagination" aria-label="News pagination">
+        {%- if paginator.previous_page_path -%}
+        <a class="news-pagination-link" href="{{ paginator.previous_page_path | relative_url }}" rel="prev">&larr;</a>
+        {%- else -%}
+        <span class="news-pagination-link news-pagination-link-disabled">&larr;</span>
+        {%- endif -%}
+
+        {%- for trail in paginator.page_trail -%}
+            {%- if trail.num == paginator.page -%}
+            <span class="news-pagination-link news-pagination-link-current">{{ trail.num }}</span>
+            {%- else -%}
+            <a class="news-pagination-link" href="{{ trail.path | replace: 'index.html', '' | relative_url }}">{{ trail.num }}</a>
+            {%- endif -%}
+        {%- endfor -%}
+
+        {%- if paginator.next_page_path -%}
+        <a class="news-pagination-link" href="{{ paginator.next_page_path | relative_url }}" rel="next">&rarr;</a>
+        {%- else -%}
+        <span class="news-pagination-link news-pagination-link-disabled">&rarr;</span>
+        {%- endif -%}
+    </nav>
+    {%- endif -%}
     {%- else -%}
       <span id="event-list-no-events">{% t news_page.no_news %}</span>
     {%- endif -%}
+
+</div>
+
+<style>
+    .news-pagination {
+        display: flex;
+        gap: 0.5rem;
+        justify-content: center;
+        align-items: center;
+        margin-top: 1.5rem;
+    }
+
+    .news-pagination-link {
+        min-width: 2rem;
+        height: 2rem;
+        border: 1px solid #d0d0d0;
+        border-radius: 0.35rem;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        text-decoration: none;
+        color: inherit;
+        padding: 0 0.35rem;
+        font-weight: 500;
+    }
+
+    .news-pagination-link-current {
+        border-color: #2e7d32;
+        color: #2e7d32;
+    }
+
+    .news-pagination-link-disabled {
+        opacity: 0.4;
+    }
+</style>
 
