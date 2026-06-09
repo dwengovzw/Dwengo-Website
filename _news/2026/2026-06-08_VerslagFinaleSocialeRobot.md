@@ -19,8 +19,8 @@ Tijdens de finale kregen de jongeren de kans om hun robot live te demonstreren e
 
 
 {% capture sr_wedstrijd_slides %}
-<img src="/assets/images/wedstrijd_sr/2026/Yuri_Andries_Comon_Robotwedstrijd_27-05-2026_0203.jpg" alt="Slide 1" style="width: 100%; flex-shrink: 0;">
 <img src="/assets/images/wedstrijd_sr/2026/Yuri_Andries_Comon_Robotwedstrijd_27-05-2026_0217.jpg" alt="Slide 2" style="width: 100%; flex-shrink: 0;">
+<img src="/assets/images/wedstrijd_sr/2026/Yuri_Andries_Comon_Robotwedstrijd_27-05-2026_0203.jpg" alt="Slide 1" style="width: 100%; flex-shrink: 0;">
 <img src="/assets/images/wedstrijd_sr/2026/Yuri_Andries_Comon_Robotwedstrijd_27-05-2026_0454.jpg" alt="Slide 3" style="width: 100%; flex-shrink: 0;">
 <img src="/assets/images/wedstrijd_sr/2026/Yuri_Andries_Comon_Robotwedstrijd_27-05-2026_1130.jpg" alt="Slide 4" style="width: 100%; flex-shrink: 0;">
 {% endcapture %}
