@@ -24,7 +24,7 @@ Tijdens de finale kregen de jongeren de kans om hun robot live te demonstreren e
 <img src="/assets/images/wedstrijd_sr/2026/Yuri_Andries_Comon_Robotwedstrijd_27-05-2026_0454.jpg" alt="Slide 3" style="width: 100%; flex-shrink: 0;">
 <img src="/assets/images/wedstrijd_sr/2026/Yuri_Andries_Comon_Robotwedstrijd_27-05-2026_1130.jpg" alt="Slide 4" style="width: 100%; flex-shrink: 0;">
 {% endcapture %}
-{% include carousel.html id="sr-wedstrijd-nieuws" slides=sr_wedstrijd_slides %}
+{% include carousel.html id="sr-wedstrijd-nieuws-2026" slides=sr_wedstrijd_slides %}
 
 <b>Winnaars hoofdprijzen</b>
 
