@@ -579,6 +579,11 @@ curricula_page:
         file_location: "/assets/files/computational_thinking/ZoektochtNaarSpraak.pdf"
         file_icon_name: "description"
         link_name: "Download"
+      - file_title: "Poster CTI Computationeel Denken"
+        file_info: "Poster met betrekking tot het minimumdoel: Leerlingen analyseren de impact van digitale systemen vanuit principes van computationeel denken.​"
+        file_location: "/assets/files/computational_thinking/poster-CTI-computationeel-denken.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
 
   computational_thinking_primary:
     title: Computationeel denken in het basisonderwijs
