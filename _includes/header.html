@@ -38,27 +38,35 @@
         <ul class="navbar-nav mr-auto">
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
+            {%- assign nav_title = my_page.title -%}
+            {%- assign nav_url = my_page.url -%}
+
+            {%- if my_page == nil and path == "news.md" -%}
+              {%- assign nav_title = "news" -%}
+              {%- assign nav_url = "/nieuws/" -%}
+            {%- endif -%}
+
+            {%- if nav_title -%}
               {% if site.lang == "nl" %}
-                {% if page.url == my_page.url %}
+                {% if page.url == nav_url %}
                   <li class="nav-item active">
-                    <a class="nav-link active" href="{{ my_page.url | relative_url }}">{% t my_page.title %}</a>
+                    <a class="nav-link active" href="{{ nav_url | relative_url }}">{% t nav_title %}</a>
                   </li>
                 {% else %}
                   <li class="nav-item">
-                    <a class="nav-link" href="{{ my_page.url | relative_url }}">{% t my_page.title %}</a>
+                    <a class="nav-link" href="{{ nav_url | relative_url }}">{% t nav_title %}</a>
                   </li>
                 {% endif %}
               {% else %}
-                {% assign url_with_lang = '/' | append: site.lang | append: my_page.url %}
+                {% assign url_with_lang = '/' | append: site.lang | append: nav_url %}
 
-                {% if page.url == my_page.url %}
+                {% if page.url == nav_url %}
                   <li class="nav-item active">
-                    <a class="nav-link active" href="/{{site.lang}}{{ my_page.url | relative_url }}">{% t my_page.title %}</a>
+                    <a class="nav-link active" href="/{{site.lang}}{{ nav_url | relative_url }}">{% t nav_title %}</a>
                   </li>
                 {% else %}
                   <li class="nav-item">
-                    <a class="nav-link" href="/{{site.lang}}{{ my_page.url | relative_url }}">{% t my_page.title %}</a>
+                    <a class="nav-link" href="/{{site.lang}}{{ nav_url | relative_url }}">{% t nav_title %}</a>
                   </li>
                 {% endif %}
               

@@ -1,0 +1,76 @@
+{% assign carousel_id = include.id | default: "carousel" %}
+<div style="font-family: Arial, sans-serif; background: #f4f4f4; display: flex; justify-content: center; align-items: center; height: 80vh; margin: 0; position: relative">
+
+  <!-- Navigation buttons -->
+  <div class="buttons" style="position: absolute; top: 50%; width: 100%; display: flex; justify-content: space-between; transform: translateY(-50%); margin: 0 10px">
+    <button onclick="window['carousel_{{ carousel_id }}'].prev()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px; margin-left: 10px;">❮</button>
+    <button onclick="window['carousel_{{ carousel_id }}'].next()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 10px 20px; cursor: pointer; font-size: 18px; border-radius: 5px; margin-right: 10px;">❯</button>
+  </div>
+
+  <div class="carousel" style="position: relative; width: 80%; max-width: 800px; overflow: hidden; border-radius: 10px; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
+    <div id="{{ carousel_id }}-images" style="display: flex; transition: transform 0.5s ease-in-out;">
+      {{ include.slides }}
+    </div>
+
+    <!-- Play/Pause button -->
+    <div style="position: absolute; bottom: 10px; right: 10px;">
+      <button id="{{ carousel_id }}-toggle" onclick="window['carousel_{{ carousel_id }}'].toggleAutoplay()" style="background-color: rgba(0, 0, 0, 0.5); border: none; color: white; padding: 8px 16px; cursor: pointer; font-size: 14px; border-radius: 5px;">
+        Pause
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function () {
+  var id = '{{ carousel_id }}';
+  var currentIndex = 0;
+  var autoplayInterval = null;
+  var isPlaying = true;
+
+  function updateCarousel() {
+    var el = document.getElementById(id + '-images');
+    el.style.transform = 'translateX(-' + (currentIndex * el.clientWidth) + 'px)';
+  }
+
+  function next() {
+    var total = document.querySelectorAll('#' + id + '-images > *').length;
+    currentIndex = (currentIndex + 1) % total;
+    updateCarousel();
+  }
+
+  function prev() {
+    var total = document.querySelectorAll('#' + id + '-images > *').length;
+    currentIndex = (currentIndex - 1 + total) % total;
+    updateCarousel();
+  }
+
+  function startAutoplay() {
+    if (!autoplayInterval) {
+      autoplayInterval = setInterval(next, 5000);
+    }
+  }
+
+  function stopAutoplay() {
+    clearInterval(autoplayInterval);
+    autoplayInterval = null;
+  }
+
+  function toggleAutoplay() {
+    var btn = document.getElementById(id + '-toggle');
+    if (isPlaying) {
+      stopAutoplay();
+      btn.textContent = 'Play';
+    } else {
+      startAutoplay();
+      btn.textContent = 'Pause';
+    }
+    isPlaying = !isPlaying;
+  }
+
+  window.addEventListener('resize', updateCarousel);
+  window['carousel_' + id] = { next: next, prev: prev, toggleAutoplay: toggleAutoplay };
+
+  startAutoplay();
+})();
+</script>

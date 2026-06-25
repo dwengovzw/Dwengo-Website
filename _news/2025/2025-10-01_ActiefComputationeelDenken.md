@@ -1,7 +1,7 @@
 ---
 title: "Actief computationeel denken"
 date: 2025-10-01T12:00:00
-item_theme_logo_url: "/images/strengths/value-inclusion.png"
+item_theme_logo_url: "/images/strengths/logo_computational_thinking.png"
 language: "nl"
 anchor: "actief-computationeel-denken"
 ---
