@@ -2,8 +2,7 @@
 Post Dwengo news articles to Facebook and LinkedIn.
 
 Scans all _news/**/*.md files. For each file with `to_socials: true`:
-  - If no post ID is recorded in _social_posts.json → create a new post and save the ID.
-  - If a post ID is already recorded → update the existing post.
+  If no post ID is recorded in _social_posts.json → create a new post and save the ID.
 
 Required environment variables:
   FACEBOOK_PAGE_TOKEN    Facebook Page access token  (optional, skipped if absent)
@@ -102,7 +101,7 @@ def create_facebook_post(text: str, page_token: str, page_id: str) -> str:
     url = f"https://graph.facebook.com/{FACEBOOK_GRAPH_VERSION}/{page_id}/feed"
     resp = requests.post(
         url,
-        data={"message": text, "access_token": page_token},
+        data={"message": text, "published": "true", "access_token": page_token},
         timeout=30,
     )
     resp.raise_for_status()
@@ -242,6 +241,8 @@ def main() -> None:
                     print("  Creating Facebook post")
                     post_id = create_facebook_post(fb_text, fb_token, fb_page_id)
                     post_ids["facebook_post_id"] = post_id
+                    social_posts[filepath] = post_ids
+                    save_posted_news(social_posts)
                     ids_updated = True
                     print(f"  Facebook post created: {post_id}")
             except PostTooLongException:
@@ -263,6 +264,8 @@ def main() -> None:
                     print("  Creating LinkedIn post")
                     post_id = create_linkedin_post(li_text, li_token, li_org_id)
                     post_ids["linkedin_post_id"] = post_id
+                    social_posts[filepath] = post_ids
+                    save_posted_news(social_posts)
                     ids_updated = True
                     print(f"  LinkedIn post created: {post_id}")
             except PostTooLongException:
