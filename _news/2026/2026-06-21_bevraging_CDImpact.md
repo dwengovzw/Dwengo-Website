@@ -1,7 +1,7 @@
 ---
 anchor: "juni-26-bevraging-computationeel-denken-impact"
 date: 2026-06-21T12:00:00
-item_theme_logo_ur: "/images/curricula/logo_computational_thinking.png"
+item_theme_logo_url: "/images/curricula/logo_computational_thinking.png"
 language: "nl"
 title: "Bevraging computationeel denken tweede graad" 
 ---

@@ -1,7 +1,7 @@
 ---
 anchor: vertaling-leerobjecten
 date: '2026-04-19T12:00:00'
-item_theme_logo_ur: "/images/curricula/logo_dwengo.png"
+item_theme_logo_url: "/images/curricula/logo_dwengo.png"
 language: nl
 title: Vertaling leerobjecten
 ---

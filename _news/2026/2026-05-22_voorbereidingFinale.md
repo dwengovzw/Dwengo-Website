@@ -1,7 +1,7 @@
 ---
 anchor: voorbereiding-finale-2026
 date: '2026-05-22T12:00:00'
-item_theme_logo_ur: "/images/curricula/logo_socialrobot.png"
+item_theme_logo_url: "/images/curricula/logo_socialrobot.png"
 language: nl
 title: Voorbereiding Finale Sociale Robot-wedstrijd
 ---

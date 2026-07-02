@@ -1,7 +1,7 @@
 ---
 anchor: mei-26-verslag-finale-wedstrijd
 date: '2026-06-08T18:00:00'
-item_theme_logo_ur: /images/curricula/logo_socialrobot.png
+item_theme_logo_url: /images/curricula/logo_socialrobot.png
 language: nl
 title: Wie won de tweede editie van de 'Sociale robot'-wedstrijd?
 ---
