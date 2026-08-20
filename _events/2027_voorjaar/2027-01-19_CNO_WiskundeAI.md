@@ -31,6 +31,6 @@ Er is geen voorkennis programmeren vereist om deze nascholing te kunnen volgen.
 
 **Locatie:** Universiteit Antwerpen, Boogkeers 5, 2000 Antwerpen, lokaal 201 (tweede verdieping)
 
-**Datum:** 19 januari 2027, 9u30-16u30
+**Wanneer:** 19 januari 2027, 9u30-16u30
 
 **Organisatie:** CNO

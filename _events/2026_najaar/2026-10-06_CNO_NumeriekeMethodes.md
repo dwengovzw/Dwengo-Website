@@ -24,6 +24,10 @@ Alle materiaal is toegankelijk via de browser, bijkomende software installeren i
 Leerkrachten informatica, wiskunde, wetenschappen en STEM van de 3de graad secundair onderwijs. <br>
 Lerarenopleiders wiskunde, wetenschappen, STEM voor leerkrachten secundair onderwijs (EDUMA).
 
+**Wanneer:** 6 oktober 2026, 13u30-16u30
+
 **Locatie:** Universiteit Antwerpen, Boogkeers 5, 2000 Antwerpen, lokaal 202 (tweede verdieping)
+
+**Prijs:** €69
 
 **Organisatie:** CNO
