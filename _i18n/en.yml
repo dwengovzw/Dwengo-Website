@@ -198,10 +198,18 @@ waisda:
   subtitle2p1: ""
 
 gripit:
-  intro_title: "GripIt"
-  paragraph1: "GripIt is a robotics manipulation project in which learners design, build, and program a robotic gripper."
-  paragraph2: "During this project, learners combine engineering, coding, and problem-solving skills. They iteratively test and improve their designs while discovering how mechanics, electronics, and software work together in a functional robot system."
-  banner_info: "GripIt is a project by Dwengo vzw. In this project, learners explore robot manipulation step by step by designing, building, and programming a robotic gripper. In this way, they develop technical skills and computational thinking in a concrete, hands-on context."
+  intro_title: "Grip->IT"
+  paragraph1: "Grip->IT is a STEM project for students in the fifth and sixth year of secondary education. In teams, they design, build, and program a robotic gripper."
+  paragraph2: "The challenge: use your design to grasp as many different objects as possible from a set of everyday objects. Along the way, students discover how mechanics, electronics, and software come together in a real robotic application."
+  banner_info: "Grip->IT is a Dwengo vzw project about intelligent robot manipulation. Students work hands-on with their own robotic gripper and learn to design, test, measure, and improve."
+  challenge_title: "The challenge"
+  challenge: "Design and build a gripper that fits on a robot arm. Then program the robot arm and gripper to pick up as many objects as possible from the test set. There is no single correct solution: a strong design comes from experimenting, collaborating, and improving iteratively."
+  learning_title: "For students and teachers"
+  learning: "The project is aimed at the final years of secondary education and consists of several hands-on sessions. Students follow the complete design cycle: analyse the task, develop a solution, design and make components, connect and program the gripper, and test its performance. Teachers receive the teaching materials, background information, and support needed to guide the project in class or in an extracurricular workshop."
+  tools_title: "Tools and materials"
+  tools: "Dwengo is developing a mobile robot platform with a robot arm, a build-your-own gripper, and testing materials. Students can use Dwengo's programming environment for control: <a href='https://blockly.dwengo.org'>Blockly</a> supports both graphical and text-based programming. The existing <a href='/physical_computing/'>Alles onder (µ)controle</a> learning line provides additional support for microcontrollers, electronics, and programming."
+  pilot_title: "Become a pilot partner in 2026-2027"
+  pilot: "At the end of next academic year (2026-2027), we will organise a small Grip->IT competition. We are looking for teachers and students who want to pilot test the project and take part in the competition. Interested in participating or receiving more information? <a href='/contact/'>Contact Dwengo</a>."
 
 basics_ai:
   intro_title: "Basic Principles of AI"

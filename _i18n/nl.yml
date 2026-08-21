@@ -858,10 +858,18 @@ waisda:
   subtitle2p1: ""
 
 gripit:
-  intro_title: "GripIt"
-  paragraph1: "GripIt is een project rond robotmanipulatie waarin leerlingen zelf een robotgrijper ontwerpen, bouwen en programmeren."
-  paragraph2: "Tijdens dit traject combineren leerlingen probleemoplossend denken, computationeel denken en engineering. Ze testen hun ontwerp iteratief uit en leren hoe mechanica, elektronica en software samenkomen in een functionele robottoepassing."
-  banner_info: "GripIt is een project van Dwengo vzw. In dit project ontdekken leerlingen stap voor stap hoe robotmanipulatie werkt door een robotgrijper te ontwerpen, te bouwen en te programmeren. Zo ontwikkelen ze technische vaardigheden en computationeel denken in een concrete, hands-on context."
+  intro_title: "Grip->IT"
+  paragraph1: "Grip->IT is een STEM-project voor leerlingen van het vijfde en zesde jaar secundair onderwijs. In teams ontwerpen, bouwen en programmeren ze een robotgrijper."
+  paragraph2: "De uitdaging: grijp met jullie ontwerp zo veel mogelijk verschillende voorwerpen uit een verzameling alledaagse objecten. Onderweg ontdekken leerlingen hoe mechanica, elektronica en software samenkomen in een echte robottoepassing."
+  banner_info: "Grip->IT is een project van Dwengo vzw over intelligente robotmanipulatie. Leerlingen werken hands-on aan een eigen robotgrijper en leren ontwerpen, testen, meten en verbeteren."
+  challenge_title: "De uitdaging"
+  challenge: "Ontwerp en bouw een grijper die op een robotarm past. Programmeer de robotarm en de grijper vervolgens om zo veel mogelijk voorwerpen uit de testverzameling op te nemen. Er is niet één juiste oplossing: een sterk ontwerp is het resultaat van experimenteren, samenwerken en iteratief verbeteren."
+  learning_title: "Voor leerlingen en leerkrachten"
+  learning: "Het traject is bedoeld voor de derde graad secundair onderwijs en bestaat uit meerdere hands-on sessies. Leerlingen doorlopen de volledige ontwerpcyclus: de taak analyseren, een oplossing bedenken, onderdelen ontwerpen en maken, de grijper aansluiten en programmeren, en de prestaties testen. Leerkrachten krijgen het lesmateriaal, de nodige achtergrond en ondersteuning om het traject in de klas of tijdens een buitenschoolse workshop te begeleiden."
+  tools_title: "Tools en materiaal"
+  tools: "Dwengo ontwikkelt een mobiel robotplatform met een robotarm, een zelf te bouwen grijper en materiaal om te testen. Voor de besturing kunnen leerlingen gebruikmaken van de programmeeromgeving van Dwengo: <a href='https://blockly.dwengo.org'>Blockly</a> ondersteunt zowel grafisch als tekstueel programmeren. De bestaande leerlijn <a href='/physical_computing/'>Alles onder (µ)controle</a> biedt extra ondersteuning bij microcontrollers, elektronica en programmeren."
+  pilot_title: "Word pilootpartner in 2026-2027"
+  pilot: "Aan het einde van het volgende schooljaar (2026-2027) organiseren we een kleine Grip->IT-wedstrijd. Daarvoor zoeken we leerkrachten en leerlingen die het project willen piloottesten en aan de wedstrijd willen deelnemen. Interesse om mee te doen of meer informatie te ontvangen? <a href='/contact/'>Neem contact op met Dwengo</a>."
 
 basics_ai:
   intro_title: "Basisprincipes van AI"
