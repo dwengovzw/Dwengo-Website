@@ -12,7 +12,9 @@ title: Wiskunde Werkt - De M in STEM
 
 Tijdens **Wiskunde Werkt** brengt Leerpunt in Gent leraren en onderwijsprofessionals uit het basis- en secundair onderwijs samen voor een inspirerende namiddag en avond vol wetenschappelijke inzichten, praktijkvoorbeelden en concrete tools.
 
-Tijdens de eerste keuzesessie kun je kiezen voor onze workshop '**De M in STEM**' waarin de verschillende rollen van de wiskunde binnen STEM-onderwijs worden uitgelicht.
+Tijdens de eerste keuzesessie kun je kiezen voor onze workshop '**De M in STEM**' waarin de verschillende rollen van de wiskunde binnen STEM-onderwijs worden uitgelicht: <br>
+De M in STEM wordt vaak een beetje stiefmoederlijk behandeld. Nochtans speelt wiskunde wel degelijk een rol binnen STEM-lessen. Soms subtiel op de achtergrond, soms in een sleutelrol. Van wiskunde als tool, maar ook als overkoepelend concept om wetenschappelijke inzichten te versterken, tot wiskunde als instrument voor kritisch denken. 
+
 
 **Doelgroep:**<br>
 Leraren en onderwijsprofessionals wiskunde uit het basis- en secundair onderwijs.<br>
