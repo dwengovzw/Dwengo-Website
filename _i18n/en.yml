@@ -868,7 +868,7 @@ curricula_page:
     curricula_files:
       - file_title: "Inschrijvingsformulier"
         file_info: "Laat jullie leerkracht jullie team inschrijven via het volgende formulier!"
-        file_location: "https://docs.google.com/forms/d/e/1FAIpQLSep0VYnDk08rHEmUgWcIsRkQhQuXXr_dVGC-sM0lbSsGgwIaQ/viewform?usp=dialog"
+        file_location: "https://docs.google.com/forms/d/e/1FAIpQLSdDI8_BSCMpX5clu4UGRC4nY7lCDFzu5CAzeqQYISSj3KhsBQ/viewform?usp=dialog"
         file_icon_name: "link"
         link_name: "Open"
       - file_title: "Indienformulier"
@@ -888,7 +888,7 @@ curricula_page:
         link_name: "Download"
       - file_title: "Wedstrijdreglement"
         file_info: "Neem het reglement goed door! Het is bindend. Het bevat o.a. een rubric met de evaluatiecriteria."
-        file_location: "/assets/files/wedstrijd_sr/Wedstrijdreglement.pdf"
+        file_location: "/assets/files/wedstrijd_sr/Wedstrijdreglement%202026-2027.pdf"
         file_icon_name: "link"
         link_name: "Download"
       - file_title: "Infosessie voor leerkrachten"
@@ -1132,7 +1132,7 @@ wedstrijd_sr:
   title6: "Speciale categorie: de opvoedrobot"
   t6p1: "Kinderen opvoeden is iets heel moois, maar het is zeker niet altijd gemakkelijk. Ouders krijgen vaak tegenstrijdige raad, hebben weinig tijd, soms te weinig geld en voelen zich weleens alleen. Dingen zoals schermtijd, sociale media, huiswerk, klusjes of kinderen die extra hulp nodig hebben, maken het nog moeilijker. Dat zorgt soms voor stress bij zowel ouders als kinderen. Gelukkig hoeft opvoeden je nooit helemaal alleen te doen – it takes a village to raise a child. <br>Jullie mogen nu een robot bedenken die daarbij helpt. Een robot die klusjes eerlijk verdeelt, die afspraken onthoudt, ruzies oplost of die ouders, kinderen én misschien zelfs buren of vrienden dichter bij elkaar brengt. Alles wat opvoeden weer leuk en gezellig maakt, samen met de mensen rondom je. Gebruik je fantasie en verras ons: hoe kan jullie opvoedrobot het leven van gezinnen makkelijker én vrolijker maken?<br><br>Meer informatie?<br><ul><li><a href='https://comon.gent/opvoeden-met-vertrouwen'>Opvoeden met vertrouwen</a></li><li><a href='https://comon.gent/nieuws/wat-zijn-de-grootste-uitdagingen-bij-opvoedstress'>De uitdagingen bij opvoedstress</a></li><li><a href='https://comon.gent/nieuws/oplossingen-maakmarathon-over-opvoeden'>Inspiratiebronnen</a></li></ul>"
   title7: "Praktische info"
-  t7p1: "Uiterste indiendatum: woensdag 21 april 2027<br>Selectie finale:  12 mei 2027<br>Finale:  woensdag 27 mei 2027  in bibliotheek De Krook te Gent"
+  t7p1: "Uiterste indiendatum: woensdag 21 april 2027<br>Selectie finale:  12 mei 2027<br>Finale:  woensdag 26 mei 2027  in bibliotheek De Krook te Gent"
   title8: "Geniet van enkele sfeerbeelden van de finale in 2026!"
 
 bot:
