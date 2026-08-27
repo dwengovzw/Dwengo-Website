@@ -947,6 +947,14 @@ contact_page:
   vat_number: Dwengo vzw is in België geregistreerd onder BTW-nummer BE 0811.397.278.
   designer_info: 'Al de tekeningen op onze website werden gemaakt door Margot De Saegher. Ze is een <strong>getalenteerde illustrator en grafisch ontwerper</strong>. Wil je meer van haar werk zien? Bezoek dan zeker haar website: <a href="https://margotds.com/">margotds.com</a>.'
 
+# De Krook page ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+krook_page:
+  title: Samenwerking met De Krook
+  paragraph1: Vanaf september 2026 werkt Dwengo samen met <strong>stadsbibliotheek De Krook</strong> en <strong>Fluxlab</strong>. We toveren het Maakatelier om tot een inspirerende plek waar iedereen kan leren, experimenteren en creëren met technologie. Dwengo focust er op onderwijsactiviteiten en vormingen voor leerkrachten, terwijl Fluxlab een vrijetijdsaanbod ontwikkelt voor kinderen en jongeren.
+  paragraph2: Samen met andere Gentse maakorganisaties bouwen we daarnaast aan een actieve community rond het Maakatelier. Zo willen we van deze plek een toegankelijke en creatieve ontmoetingsplaats maken waar mensen elkaar kunnen ontmoeten, ideeën uitwisselen en samen aan de slag kunnen gaan met technologie.
+  paragraph3: Benieuwd naar wat er allemaal mogelijk is? Spring gerust eens binnen in het Maakatelier, ontdek het aanbod en ga zelf aan de slag. Iedereen is welkom!
+  location_title: Waar?
+  location: 'In het Maakatelier van Stadsbibliotheek: Platteberg 11, 9000 Gent (verdieping -1)'
 
 # Projects page ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 projects_page:
@@ -1224,6 +1232,7 @@ bot:
 # Translations for the menu items ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 about: Over
 contact: Contact
+krook: '@De Krook'
 projects: Projecten
 curricula: Leerlijnen
 content: Lesthema's
