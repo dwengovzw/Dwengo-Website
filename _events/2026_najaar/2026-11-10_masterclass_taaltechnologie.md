@@ -2,7 +2,7 @@
 anchor: masterclass taaltechnologie
 date: 2026-11-10T13:30
 end_date: 2026-11-10T16:30
-item_theme_logo_ur: /images/curricula/logo_dwengo.png
+item_theme_logo_url: /images/curricula/logo_dwengo.png
 language: nl
 location: De Krook
 location_link: https://www.google.com/maps/place/De+Krook/@51.0486039,3.7286873,17z/data=!4m15!1m8!3m7!1s0x47c3714effffffff:0x9b1a2c7f1cb8c825!2sDe+Krook!8m2!3d51.0487577!4d3.7286015!10e5!16s%2Fg%2F1hc0gcm5l!3m5!1s0x47c3714effffffff:0x9b1a2c7f1cb8c825!8m2!3d51.0487577!4d3.7286015!16s%2Fg%2F1hc0gcm5l?entry=ttu&g_ep=EgoyMDI1MTIwMi4wIKXMDSoASAFQAw%3D%3D
@@ -18,10 +18,10 @@ Deze activiteit kan je ook met je leerlingen doen. Op die manier verwerven ze me
 
 **Wanneer:** 10 november 2026 van 13u30-16u30
 
-**Locatie:** Maakatelier De Wondertuin (op -1), De Krook, Platteberg 11, 9000 Gent
+**Locatie:** Het makersatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
 
 **Prijs:** €65
 
-**Meebrengen:** Laptop met internetbrowser (bij voorkeur Google Chrome)
+**Meebrengen:** Laptop
 
 **Organisatie:** Dwengo

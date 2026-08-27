@@ -30,4 +30,6 @@ Lerarenopleiders wiskunde, wetenschappen, STEM voor leerkrachten secundair onder
 
 **Prijs:** €69
 
+**Meebrengen:** Laptop
+
 **Organisatie:** CNO

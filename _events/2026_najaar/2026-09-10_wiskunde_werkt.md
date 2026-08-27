@@ -2,7 +2,7 @@
 anchor: wiskunde-werkt
 date: 2026-09-10T14:30
 end_date: 2026-09-10T20:30
-item_theme_logo_ur: /images/curricula/logo_stem.png
+item_theme_logo_url: /images/curricula/logo_stem.png
 language: nl
 location: VAC Virginie Loveling
 location_link: https://maps.app.goo.gl/jAGGLM9pd1cMiW159

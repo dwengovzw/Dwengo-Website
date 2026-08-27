@@ -29,8 +29,8 @@ Ook pedagogische begeleiders en onderwijsinspectie betreffende diezelfde discipl
 De deelnemer moet in staat zijn om vrij eenvoudige wiskundige concepten van het secundair onderwijs te begrijpen en toe te passen, zoals matrices en afgeleiden.
 Er is geen voorkennis programmeren vereist om deze nascholing te kunnen volgen.
 
-**Locatie:** Universiteit Antwerpen, Boogkeers 5, 2000 Antwerpen, lokaal 201 (tweede verdieping)
-
 **Wanneer:** 19 januari 2027, 9u30-16u30
+
+**Locatie:** Universiteit Antwerpen, Boogkeers 5, 2000 Antwerpen, lokaal 201 (tweede verdieping)
 
 **Organisatie:** CNO
