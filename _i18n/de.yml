@@ -128,7 +128,7 @@ socialrobot:
   t3_subtitle3: "Titel"
   t3_p3: ""
   t3_subtitle4: "Titel"
-  t3_p4: "" 
+  t3_p4: ""
   teaser:
     title: "Probieren Sie dieses Lehrmaterial aus!"
     file: "/assets/files/teasers/Opdracht_SocialeRobot_Start2STEM_deelnemer_vTechnopolis.pdf"
@@ -160,7 +160,7 @@ socialrobot:
 
 congres:
   intro_title: "Kongress Rechnerisches Denken, MINT und Künstliche Intelligenz im Klassenzimmer"
-  paragraph1: "Vormittag: Rechnerisches Denken und integrierte MINT konkret im Klassenzimmer <br> 
+  paragraph1: "Vormittag: Rechnerisches Denken und integrierte MINT konkret im Klassenzimmer <br>
   Nachmittags: Künstliche Intelligenz und ihre gesellschaftlichen Aspekte im Klassenzimmer"
   paragraph2: "Sie haben die Möglichkeit, sich für einen halben oder ganzen Tag anzumelden.<br> <a href='https://www.eventbrite.com/e/computationeel-denken-stem-en-artificiele-intelligentie-in-de-klas-tickets-599666999137'>Programm und anmelden</a><br><br>  <strong>Wann</strong>: 7. juni 2023<br><strong>Ort:</strong> De Krook, Miriam Makebaplein 1, 9000 Gent<br><br> Unterstützt von der flämischen Regierung, Departement Onderwijs en Vorming, Digital Belgium Skils Fund und dem Erasmus+ Programm der EU"
   paragraph3: "tekst"
@@ -280,8 +280,8 @@ project:
   t3_p3: "Text"
   t3_subtitle4: "Optional"
   t3_p4: "Text"
-  
- 
+
+
 computational_thinking:
   disc: "Diese Lernpfade befinden sich derzeit in Entwicklung und werden schrittweise ergänzt."
   page_title: "Computational Thinking"
@@ -479,6 +479,15 @@ contact_page:
   vat_number: Dwengo vzw ist in Belgien unter der Umsatzsteuer-Identifikationsnummer BE 0811.397.278 registriert.
   designer_info: 'Alle Zeichnungen auf unserer Website wurden von Margot De Saegher gemacht. Sie ist eine talentierte Illustratorin und Grafikdesignerin. Möchten Sie mehr von ihrer Arbeit sehen? Dann besuchen Sie unbedingt ihre Website: <a href="https://margotds.com/">margotds.com</a>.'
 
+# De Krook page
+krook_page:
+  title: Zusammenarbeit mit De Krook
+  paragraph1: Ab September 2026 arbeitet Dwengo mit der <strong>Stadtbibliothek De Krook</strong> und <strong>Fluxlab</strong> zusammen. Gemeinsam machen wir das Maakatelier zu einem inspirierenden Ort, an dem alle mit Technologie lernen, experimentieren und kreativ sein können. Dwengo konzentriert sich auf Bildungsaktivitäten und Fortbildungen für Lehrkräfte, während Fluxlab ein Freizeitangebot für Kinder und Jugendliche entwickelt.
+  paragraph2: Gemeinsam mit anderen Genter Maker-Organisationen bauen wir außerdem eine aktive Community rund um das Maakatelier auf. Wir möchten diesen Ort zu einem zugänglichen und kreativen Treffpunkt machen, an dem Menschen sich begegnen, Ideen austauschen und gemeinsam mit Technologie arbeiten können.
+  paragraph3: Neugierig, was alles möglich ist? Schauen Sie gerne im Maakatelier vorbei, entdecken Sie das Angebot und legen Sie selbst los. Alle sind herzlich willkommen!
+  location_title: Wo?
+  location: 'Im Maakatelier der Stadtbibliothek De Krook: Platteberg 11, 9000 Gent (Ebene -1)'
+
 # Translations for the projects page
 projects_page:
   title: Projekte im Fokus
@@ -519,7 +528,7 @@ curricula_page:
     sub_title: Basisprincipes van AI
     description: "Onder dit lesthema bundelen we verschillende activiteiten waarin de basisprincipes van artificiële intelligentie (AI) aan bod komen. Leerlingen leren wat AI is, hoe het werkt en hoe het kan worden toegepast in verschillende domeinen."
     contact: ""
-  kiks: 
+  kiks:
     title: KI und Klima
     sub_title: KIKS
     description: "Schülerinnen und Schüler der dritten Klasse (SO) erforschen, wie Pflanzen sich über ihre Spaltöffnungen an den Klimawandel anpassen. Dazu zählen sie diese Spaltöffnungen mit künstlicher Intelligenz und Bilderkennung."
@@ -638,7 +647,7 @@ curricula_page:
     sub_title: Mit einem Chatbot arbeiten
     description: "Wo Sprache und Technologie aufeinandertreffen, entsteht das Gebiet des Natural Language Processing. Kann ein Computer Texte verstehen, übersetzen oder sogar schreiben? Kann ein Computer Emotionen erkennen? Schülerinnen und Schüler der zweiten und dritten Klasse (SO) lernen in diesem Paket alles darüber."
     contact: Fragen? Kontaktieren Sie uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels wenden unter Francis@dwengo.org.
-    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8
     curricula_files:
       - file_title: "Projektblatt Chatbot"
         file_info: "Dies ist ein kurzer Überblick über das Chatbot-Projekt mit Projektstruktur und -merkmalen."
@@ -670,7 +679,7 @@ curricula_page:
         file_location: "/assets/files/chatbot/Improbotics_lesmap_Leerling.pdf"
         file_icon_name: "description"
         link_name: "Download"
-  care: 
+  care:
     title: KI im Gesundheitswesen
     sub_title: KI-Systeme, die im Gesundheitswesen helfen
     description: "Krankenhäuser machen bereits heute Gebrauch von künstlicher Intelligenz. Schülerinnen und Schüler der zweiten und dritten Klasse (SO) entdecken, welche Systeme existieren und wie sie Ärzte bei Entscheidungen unterstützen. Auf diese Weise lernen die Schülerinnen und Schüler die Prinzipien des Entscheidungsbaums, einer weit verbreiteten Technik im maschinellen Lernen."
@@ -727,20 +736,20 @@ curricula_page:
     sub_title: Datavisualisierungen mit Python
     description: "In diesem Paket lernen Sie, komplexe Probleme einfacher und schneller mit der Programmiersprache Python zu lösen. Programmieren kann nämlich eine verbindende Rolle zwischen Wissenschaft, Technik, Design und angewandter Mathematik spielen. Kurz gesagt, dank Python holen wir das Beste aus MINT heraus."
     contact: Fragen? Kontaktieren Sie uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels unter Francis@dwengo.org wenden.
-    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8
   agriculture:
     title: KI in der Landwirtschaft
     sub_title: KI in der Landwirtschaft
     description: "Verfaulte Tomaten während der Ernte entfernen? Künstliche Intelligenz kann dabei helfen. Aber wie? Schülerinnen und Schüler der zweiten und dritten Klasse (SO) setzen KI ein. Vielleicht kann ein vibrierendes Laufband das System noch verbessern?"
     contact: Fragen? Kontaktieren Sie uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels unter Francis@dwengo.org wenden.
-    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8
     curricula_files:
       - file_title: "Design"
         file_info: "Design des Laufbands"
         file_location: "/assets/files/art/Transportband_InnoVET_RCH.zip"
         file_icon_name: "description"
         link_name: "Download"
-  art: 
+  art:
     title: KI in der Kunst
     sub_title: Zeichenroboter im Unterricht
     description: "Können wir Kunst mit künstlicher Intelligenz schaffen? Schülerinnen und Schüler der zweiten und dritten Klasse (SO) setzen sich kreativ mit KI auseinander und reflektieren über das Ergebnis. Ist das Kunst? Sie entdecken auch, wie KI unser kulturelles Erbe schützen kann."
@@ -751,13 +760,13 @@ curricula_page:
     sub_title: Zeichenroboter im Unterricht
     description: "Wir fordern Kinder der dritten Klasse (GS) heraus, einen zeichnenden Kunstroboter zu programmieren. Spielerisch lernen die Kinder viele MINT-Fähigkeiten, von Technik bis zum algorithmischen Denken."
     contact: Fragen? Kontaktieren Sie uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels unter Francis@dwengo.org wenden.
-    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8
   computational_thinking:
     title: Algorithmisches Denken
     sub_title: Algorithmisches Denken im Unterricht
     description: "Wie können wir komplexe Probleme mithilfe eines Computers lösen? Dank algorithmischem Denken! Das können Sie durch verschiedene Aktivitäten mit oder ohne Computer lernen. Wir helfen Ihnen gerne auf dem Weg."
     contact: Fragen? Kontaktieren Sie uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels unter Francis@dwengo.org wenden.
-    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8
     curricula_files:
       - file_title: "Konzepte und Ansätze des algorithmischen Denkens"
         file_info: "Poster​"
@@ -808,14 +817,14 @@ curricula_page:
         file_info: "Das Locked-In-Syndrom ist eine der schlimmsten medizinischen Erkrankungen. Sie sind vollständig gelähmt, außer dass Sie vielleicht noch mit einem Auge blinzeln können. Ihr intelligenter Geist ist in einem nutzlosen Körper gefangen: Sie können alles fühlen, aber nicht kommunizieren. Es kann jedem passieren, aus dem Nichts, als Folge eines Schlaganfalls. Wenn Sie Menschen mit dem Locked-In-Syndrom helfen möchten, werden Sie am besten Arzt oder Krankenschwester? Oder kann Ihnen auch ein Informatiker helfen?​"
         file_location: "/assets/files/computational_thinking/ZoektochtNaarSpraak.pdf"
         file_icon_name: "description"
-        link_name: "Download"  
+        link_name: "Download"
 
   computational_thinking_primary:
     title: Computational Thinking
     sub_title: Computational Thinking in der Grundschule
     description: "Wie lernen Kinder in der Grundschule, Probleme Schritt für Schritt zu lösen? Mit Computational Thinking! Durch spielerische Aktivitäten mit und ohne Computer entdecken sie Muster, Algorithmen und logisches Denken. Wir helfen Ihnen beim Einstieg."
     contact: Fragen? Kontaktieren Sie uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels unter Francis@dwengo.org wenden.
-    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8
     curricula_files:
       - file_title: "Computational Thinking in der Grundschule"
         file_info: "Einführungsmaterial für Computational Thinking in der Grundschulpraxis"
@@ -823,7 +832,7 @@ curricula_page:
         file_icon_name: "description"
         link_name: "Download"
 
-  math_with_python: 
+  math_with_python:
     title: Python im Mathematikunterricht
     sub_title: Python in der Mathematik
     description: "Die Programmiersprache Python bietet interessante Möglichkeiten, den Mathematikunterricht zu bereichern. Von der Pythagoras-Theorie bis zur Erstellung eigener Grafiken, digitalen Bildverarbeitung und linearer Regression wird alles mit Python klarer."
@@ -834,13 +843,13 @@ curricula_page:
       sub_title: Grundlagen des Programmierens in Python
       description: "Die Grundprinzipien des Programmierens erlernen? Das ist perfekt möglich mit diesem Paket. Wir verwenden Python und lernen alles über Sequenzen, Wiederholungsstrukturen und Auswahlstrukturen. Genau das steht in den Endzielen. Und noch mehr!"
       contact: Fragen? Kontaktieren Sie uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels unter Francis@dwengo.org wenden.
-      teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+      teaser: https://www.youtube.com/embed/tqSnpAKLsu8
   physical_computing:
       title: Physical Computing
       sub_title: Programmieren von Robotern im Unterricht
       description: "Ein Musikinstrument, Auto oder Wetterstation bauen? Das geht mit Dwenguino, einer Mikrocontroller-Plattform mit einer eigenen Programmierumgebung. Schülerinnen und Schüler der Grundschule und der Sekundarstufe können sofort damit arbeiten. Echt oder in unserem Simulator, blockbasiert oder textuell."
       contact: Fragen? Kontaktieren Sie uns unter team@aiopschool.be. Die Presse kann sich an Francis Wyffels unter Francis@dwengo.org wenden.
-      teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+      teaser: https://www.youtube.com/embed/tqSnpAKLsu8
       curricula_files:
         - file_title: "Bouw jouw eigen robot"
           file_info: "Baue deinen eigenen fahrenden Roboter."
@@ -852,7 +861,7 @@ curricula_page:
     title: "Robotik"
     sub_title: "Programmiere Roboter im Unterricht"
     description: "Von einem einfachen fahrenden Roboter, der in einem Quadrat fährt, bis zu einem Roboter, der mit Q-Learning selbst lernt, sich zu bewegen. In diesem Unterrichtsthema lernst du alles über das Entwerfen, Bauen und Programmieren eines Roboters!"
-        
+
   wedstrijd_sr:
     teaser: "https://www.youtube.com/embed/tqSnpAKLsu8"
     curricula_files:
@@ -886,7 +895,7 @@ curricula_page:
         file_location: "https://www.youtube.com/watch?v=voQyQ85oUr8"
         file_icon_name: "play_arrow"
         link_name: "Bekijk"
- 
+
 
 # Translations for the learning-path page
 learning_path_page:
@@ -966,7 +975,7 @@ theme_selection_filter_translation:
   bio: "Biologie"
   mech: "Elektrizität und Mechanik"
   algo: "Algorithmisches Denken"
-  
+
 theme_selection_age_group_translation:
   p: Grundschule
   s1: "12-14 Jahre alt"
@@ -1049,7 +1058,7 @@ shop:
       desc: "Mit diesem Lehrerhandbuch können Sie schnell mit unserem Material über künstliche Intelligenz und Klima beginnen."
       image: "/assets/images/shop/kiks_cover.png"
       price: "€50 exkl. 6% MwSt"
-      price_extra_info: "" 
+      price_extra_info: ""
     - title: "Lehrerführer Chatbot"
       desc: "Mit diesem Lehrerhandbuch können Sie schnell mit unserem Material über die Sprachtechnologie beginnen."
       image: "/assets/images/shop/chatbot_cover.png"
@@ -1124,7 +1133,7 @@ wedstrijd_sr:
   t7p1: "Uiterste indiendatum: woensdag 21 april 2027<br>Selectie finale:  12 mei 2027<br>Finale:  woensdag 26 mei 2027  in bibliotheek De Krook te Gent"
   title8: "Geniet van enkele sfeerbeelden van de finale in 2026!"
 
- 
+
 bot:
   title: "Chat mit unserem Bot"
   description: "Stellen Sie Ihre Fragen und erhalten Sie sofortige Antworten von unserem intelligenten Chatbot."
@@ -1137,6 +1146,7 @@ bot:
 # Translations for the menu items
 about: Über uns
 contact: Kontakt
+krook: '@De Krook'
 projects: Projekte
 curricula: Curricula
 calendar: Kalender

@@ -25,7 +25,7 @@ strengths:
   summary: We develop innovative workshops and educational resources, and we provide them to students around the globe in collaboration with teachers and volunteers. Our train-the-trainer sessions enable them to bring our hands-on workshops to the students.
   main: We continuously add new projects and methodologies to all our projects. For these projects, we always look for a socially relevant theme. Additionally, we ensure that our didactic material is based on scientific research and always keep an eye on inclusivity.
   quote:
-    text: You make something practical, learn how to use the hardware and create something new. 
+    text: You make something practical, learn how to use the hardware and create something new.
     name: Matthias and Bruno
     affiliation: Grade 10
 
@@ -161,14 +161,14 @@ socialrobot:
 congres:
   intro_title: "Conference Computational thinking, STEM and artificial intelligence in the classroom"
   paragraph1: "
-  Morning: Computational thinking and integrated STEM concrete in the classroom <br> 
+  Morning: Computational thinking and integrated STEM concrete in the classroom <br>
   Afternoon: Artificial intelligence and its social aspects in the classroom"
   paragraph2: "You will be able to register for a half day or for the whole day.<br><br> <a href='https://www.eventbrite.com/e/computationeel-denken-stem-en-artificiele-intelligentie-in-de-klas-tickets-599666999137'>Program and registration</a><br><br> Keynotes by a.o. Kris Coolsaet, Gregorio Robles, and Hannes Cools.<br> Workshops on how to implement computational thinking in the classroom, how to evaluate STEM projects, AI in Agriculture and ChatGPT.<br><br> <strong>Date</strong>: June 7, 2023<br><strong>Location:</strong> De Krook, Miriam Makebaplein 1, 9000 Gent<br><br> With the support of the Flemish government, Department of Education and Training, the Digital Belgium Skils Fund and the Erasmus+ program of the EU"
   paragraph3: "tekst"
 
 
 
-privacy: 
+privacy:
   detail: "At Dwengo, transparency is important to us. We want our users to know what data we collect and why we collect it. We use an analytics tool called Matomo, which is hosted on our server in Belgium. This means we own the data and don't share it with others. Also, the data is anonymous and doesn't contain any personal information. We track which pages you visit on our website and how long you stay on them. This helps us understand what content you find interesting, so we can improve our website. We also track how you found our website and which links you click on, to see which sources are most effective in bringing visitors to our site. Additionally, we track which operating system, device, and browser you use to access our website. This helps us optimize our website for different devices and identify any technical issues. We also track which country you're accessing our website from, so we can optimize our website for different regions. We only use this data for internal analysis to improve our website, and we never share it with third parties. Your privacy is important to us. If you have any questions about our privacy policy, please contact us at dpo@dwengo.org."
   notice: We use fuctional and analytics cookies to collect data about how our website is used.
   accept: Approve
@@ -185,7 +185,7 @@ aiopschool:
   subtitle2p2: "A distinction is made between general AI and narrow AI. General AI refers to computer systems with the same capabilities as a human being. Currently, we do not have the knowledge to design such systems. For now, AI is still at the level of narrow AI: AI systems that perform specific tasks for which they were designed."
   subtitle2: "At School"
   subtitle2p1: "As students surf the internet, post photos on Instagram, use Google Docs, have an email sent by a virtual assistant like Siri, or walk through the city, data is captured. What if an AI system correlates all that big data? Are these AI systems objective when making decisions? Should students leaving secondary education not have an understanding of our digitized world? Is this insight not necessary for them to make informed decisions in their adult lives? The 'AI at School' team believes it is. We create teaching materials for secondary education related to AI, aligned with the end goals and existing curriculum objectives. We believe that all young people should know and understand the fundamentals of AI. The best way to reach all young people is through school. Moreover, school is the ideal place to make students aware of the ethical aspects of AI systems."
-  
+
 waisda:
   intro_title: "wAIsda?"
   paragraph1: "Artificial intelligence (AI) is extensively covered in the media. Popular topics include chatbots, self-driving cars, virtual assistants, and job displacement. AI systems are increasingly permeating our world."
@@ -238,10 +238,10 @@ art:
 wegostem:
   intro_title: "WeGoSTEM"
   paragraph1: "With WeGoSTEM, Dwengo inspires students in the third grade of primary education for technology and computer science. We challenge the children to build and program a creative art robot that can draw independently. This way, they learn various STEM skills from technology to computational thinking."
-  paragraph2: "On this page, we have gathered all supporting didactic material in an online lesson. WeGoSTEM bundles several interesting activities that you can realize in two class hours."  
+  paragraph2: "On this page, we have gathered all supporting didactic material in an online lesson. WeGoSTEM bundles several interesting activities that you can realize in two class hours."
   title: "Borrow the drawing robots for free in the library and bring STEM into the classroom"
   titlep1: "To facilitate the distribution of our material, we collaborate with local libraries. You can find an overview at the bottom of this page, with links to the reservation form or a contact person."
-  titlep2: "With the material in this box, you can conduct a WeGoSTEM workshop for a class of up to 30 students. Get your colleagues excited about WeGoSTEM and give the workshop together for all students in the 5th and 6th grades!" 
+  titlep2: "With the material in this box, you can conduct a WeGoSTEM workshop for a class of up to 30 students. Get your colleagues excited about WeGoSTEM and give the workshop together for all students in the 5th and 6th grades!"
   titlep3: "The material should be returned to the library after <strong>two weeks</strong>!"
   subtitle1: "Origin"
   subtitle1p1: "In 2017, during the jury presentations of Young ICT Lady of the Year candidates, 3 of the candidates started talking to each other. It quickly became clear that the reason for participating in SheGoesICT was the same: to share their passion by inspiring students for STEM. That same day, the 3 decided to set up an activity together. A first trial workshop, which was already composed by Dwengo vzw, took place in a school in Ghent on International Women's Day."
@@ -289,8 +289,8 @@ project:
   t3_p3: "text"
   t3_subtitle4: "Optional"
   t3_p4: "text"
-  
- 
+
+
 computational_thinking:
   disc: "These learning paths are currently in development and will be gradually supplemented."
   page_title: "Computational Thinking"
@@ -329,7 +329,7 @@ computational_thinking:
   teaser:
       title: "Try it out!"
       file: "/assets/files/teasers/Opdracht_Pixels_Start2STEM_deelnemer_vTechnopolis.pdf"
-  
+
   computational_thinking_primary:
     disc: "These learning paths are currently in development and will be gradually supplemented."
     page_title: "Computational Thinking in Primary School"
@@ -486,6 +486,15 @@ contact_page:
   vat_number: Dwengo vzw is registered in Belgium under VAT number BE 0811.397.278.
   designer_info: 'All the drawings on our website were made by Margot De Saegher. She is a talented illustrator and graphic designer. Would you like to see more of her work? Then be sure to visit her website: <a href="https://margotds.com/">margotds.com</a>.'
 
+# De Krook page
+krook_page:
+  title: Collaboration with De Krook
+  paragraph1: From September 2026, Dwengo will collaborate with <strong>De Krook City Library</strong> and <strong>Fluxlab</strong>. Together, we are turning the Maakatelier into an inspiring place where everyone can learn, experiment and create with technology. Dwengo focuses on educational activities and training for teachers, while Fluxlab develops leisure activities for children and young people.
+  paragraph2: Together with other Ghent-based maker organisations, we are also building an active community around the Maakatelier. We want to make this place an accessible and creative meeting space where people can meet, exchange ideas and work together with technology.
+  paragraph3: Curious about what is possible? Feel free to drop by the Maakatelier, discover the activities on offer and get hands-on yourself. Everyone is welcome!
+  location_title: Where?
+  location: 'At the Maakatelier of De Krook City Library: Platteberg 11, 9000 Ghent (level -1)'
+
 # Translations for the projects page
 projects_page:
   title: Spotlight on Projects
@@ -496,11 +505,11 @@ projects_page:
   project_2_title: AI in School
   project_2_description: "Artificial intelligence (AI) is a prominent topic in the media. Popular themes include chatbots, self-driving cars, virtual assistants, and job loss. AI systems are increasingly penetrating our world. AI in School is a project that originated from the concern that students should understand artificial intelligence (AI) and the realization that there is a gap in the curriculum of secondary education to address this. We create educational material for secondary education related to AI, linked to the final objectives and existing curriculum goals. All this educational material is available on our website."
   project_2_contact: Questions? Contact us at team@aiopschool.be. Press can contact Francis Wyffels at 0473 300 729 or Francis@dwengo.org.
-  project_2_teaser: "https://www.youtube.com/embed/tqSnpAKLsu8" 
+  project_2_teaser: "https://www.youtube.com/embed/tqSnpAKLsu8"
   project_3_title: International Projects
   project_3_description: Description of international project
   project_3_contact: Interested in starting an international project? Contact Francis Wyffels at Francis@dwengo.org
-  project_3_teaser: "https://www.youtube.com/embed/HP0ncKuV2-A" 
+  project_3_teaser: "https://www.youtube.com/embed/HP0ncKuV2-A"
   project_4_title: Dwenguino
   project_4_description: "Building a robot with students or introducing another application of physical computing in the classroom is not so simple. To make it as accessible as possible for teachers, Dwengo developed its own microcontroller platform, Dwenguino, and a graphical programming environment, DwenguinoBlockly. Even without physical material, you can work with it. Dwenguino is an Arduino-based microcontroller platform that contains many elements for quickly building your own device, such as a social robot, weather station, musical instrument, or autonomous car. Dwenguino has buttons, an LCD screen, a buzzer, LEDs, and connectors to connect motors. Dwenguino is open source. The platform is currently used for students from 10 years old to higher education. A curriculum can be built from the first to the third grade of secondary education, from graphical to textual programming, and with an increasing level of difficulty in applications."
   project_4_contact: "Questions? Contact us at natacha@dwengo.org."
@@ -526,7 +535,7 @@ curricula_page:
     sub_title: Basics of AI
     description: "Under this lesson theme, we bundle several activities that introduce the basic principles of artificial intelligence (AI). Students learn what AI is, how it works, and how it can be applied in various domains"
     contact: ""
-  kiks: 
+  kiks:
     title: AI and Climate
     sub_title: KIKS
     description: "Students in the third grade (SO) investigate how plants adapt to climate change through their stomata. They use artificial intelligence and image recognition to count these stomata."
@@ -676,8 +685,8 @@ curricula_page:
         file_info: "In the theater performance Improbotics, a social robot improvises in the scenes. The lesson plan provides information about the technologies used."
         file_location: "/assets/files/chatbot/Improbotics_lesmap_Leerling.pdf"
         file_icon_name: "description"
-        link_name: "Download"  
-  care: 
+        link_name: "Download"
+  care:
     title: AI in Healthcare
     sub_title: AI Systems Assisting in Healthcare
     description: "Hospitals are already using artificial intelligence today. Students in the second and third grades (SO) discover the existing systems and how they help doctors make decisions. This way, students learn the principles of the decision tree, a commonly used technique in machine learning."
@@ -734,20 +743,20 @@ curricula_page:
     sub_title: Data Visualizations with Python
     description: "In this package, you'll learn to tackle complex problems more easily and quickly with the programming language Python. Programming can indeed play a connecting role between science, technology, design, and applied mathematics. In short, thanks to Python, we get the best out of STEM."
     contact: Questions? Contact us at team@aiopschool.be. The press can contact Francis Wyffels via Francis@dwengo.org.
-    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8
   agriculture:
     title: AI in Agriculture
     sub_title: AI in agriculture
     description: "Removing rotten tomatoes during harvest? Artificial intelligence can help with that. But how? Students in the second and third grades (SO) get hands-on experience with AI. Perhaps a vibrating conveyor belt can improve the system even more?"
     contact: Questions? Contact us at team@aiopschool.be. The press can contact Francis Wyffels via Francis@dwengo.org.
-    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8
     curricula_files:
       - file_title: "Design"
         file_info: "Design of the conveyor belt"
         file_location: "/assets/files/art/Transportband_InnoVET_RCH.zip"
         file_icon_name: "description"
         link_name: "Download"
-  art: 
+  art:
     title: AI in Art
     sub_title: Drawing Robots in the Classroom
     description: "Can we create art with artificial intelligence? Students in the second and third grades (SO) express their creativity with AI and reflect on the result. Is this art? They also discover how AI can protect our cultural heritage."
@@ -831,7 +840,7 @@ curricula_page:
         file_icon_name: "description"
         link_name: "Download"
 
-  math_with_python: 
+  math_with_python:
     title: Python in Math Class
     sub_title: Python in Mathematics
     description: "The programming language Python offers great possibilities to enrich the math class. From the Pythagorean theorem to creating your own graphs, digital image processing, and linear regression, everything becomes clearer with Python."
@@ -843,7 +852,7 @@ curricula_page:
     sub_title: Basic Programming in Python
     description: "Want to learn the basic principles of programming? You can do it perfectly with this package. We use Python and learn all about sequences, repetition structure, and decision structure. That's exactly what's in the end terms. And more!"
     contact: Questions? Contact us at team@aiopschool.be. The press can contact Francis Wyffels via Francis@dwengo.org.
-    teaser: https://www.youtube.com/embed/tqSnpAKLsu8 
+    teaser: https://www.youtube.com/embed/tqSnpAKLsu8
 
   physical_computing:
     title: Physical Computing
@@ -862,7 +871,7 @@ curricula_page:
     title: "Robotics"
     sub_title: "Program robots in the classroom"
     description: "From a simple driving robot that moves in a square to a robot that learns by itself how to move using Q-learning. In this lesson theme, you will learn everything about how to design, build, and program a robot!"
-        
+
   wedstrijd_sr:
     teaser: "https://www.youtube.com/embed/tqSnpAKLsu8"
     curricula_files:
@@ -976,7 +985,7 @@ theme_selection_filter_translation:
   bio: "Biology"
   mech: "Electricity and mechanics"
   algo: "Algorithms"
-  
+
 theme_selection_age_group_translation:
   p: primary school
   s1: "12-14 years old"
@@ -1059,7 +1068,7 @@ shop:
       desc: "With this teacher manual you can quickly get started with our material on artificial intelligence and climate."
       image: "/assets/images/shop/kiks_cover.png"
       price: "€50 excl. 6% VAT"
-      price_extra_info: "" 
+      price_extra_info: ""
     - title: "Teacher guide Chatbot"
       desc: "With this teacher manual you can quickly get started with our material on language technology."
       image: "/assets/images/shop/chatbot_cover.png"
@@ -1147,6 +1156,7 @@ bot:
 # Translations for the menu items
 about: About
 contact: Contact
+krook: '@De Krook'
 projects: Projects
 curricula: Curricula
 calendar: Calendar

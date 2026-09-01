@@ -32,3 +32,30 @@ img:
 ### {% t projects_page.title %}
 
 {%- include projects.html -%}
+
+<br>
+<br>
+<br>
+
+## {% t contact_page.title %}
+
+{% t contact_page.introduction1 %}
+
+{% t contact_page.news %}
+
+{% t contact_page.introduction %}
+
+{% t contact_page.you_can_contact_dwengo %}
+
+{% t contact_page.email %}
+
+{% t contact_page.mail %}
+
+{% t contact_page.address_line_1 %}\
+{% t contact_page.address_line_2 %}\
+{% t contact_page.address_line_3 %}\
+{% t contact_page.country %}
+
+{% t contact_page.vat_number %}
+
+{% t contact_page.designer_info %}

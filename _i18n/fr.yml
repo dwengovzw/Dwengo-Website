@@ -25,7 +25,7 @@ strengths:
   summary: Nous développons des ateliers innovants et des ressources éducatives, et nous les fournissons aux étudiants du monde entier en collaboration avec les enseignants et les bénévoles.Nos séances de train-Trainer leur permettent d'amener nos ateliers pratiques aux étudiants.
   main: Nous ajoutons toujours de nouveaux projets et méthodologies à tous nos projets.Nous recherchons toujours un thème socialement pertinent pour ces projets.De plus, nous nous assurons toujours que notre matériel didactique est basé sur la recherche scientifique et nous gardons également un œil sur l'inclusivité.
   quote:
-    text: Vous faites quelque chose de pratique, vous apprenez à travailler avec du matériel et vous pouvez exécuter quelque chose de nouveau Cre & Euml; 
+    text: Vous faites quelque chose de pratique, vous apprenez à travailler avec du matériel et vous pouvez exécuter quelque chose de nouveau Cre & Euml;
     name: Matthias en Bruno
     affiliation: 4e milieu
 
@@ -57,7 +57,7 @@ kiks_test:
   title1p1: "Les scientifiques du jardin botanique Meise et Ugent étudient <strong> comment les arbres de la forêt tropicale tropicale s'adaptent au changement climatique </strong>. Les stomates de leurs feuilles fournissent des informations sur la concentration de CO <bus 2 </bin> dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la concentration dans la CO <bin> 2 </bin> dans la concentration dans la atmosphère au moment de la croissance des plantes. Les chercheurs <strong> comptent </strong> le nombre de stomates sur les feuilles et ils <strong> mesurent </strong> leur taille. Ensuite, ils comparent les résultats du matériel récent avec celui du matériel il y a cent ans. "
   title1p2: "Cependant, le comptage et la mesure des stomates est une activité consommatrice de temps. Pour <strong> automatiser ce </strong>, un informaticien d'Ugent <strong> a formé un réseau neuronal </strong> à une telle formation de réseau est nécessaire De nombreux exemples: Photos de stomates et photos de feuilles sans stomates. "
   title2: "In de klas"
-  title2p1: "Het KIKS-project heeft als doel de leerlingen de fundamenten van AI te leren kennen en hen bij te brengen hoe ze vat kunnen hebben op AI-systemen die ze tegenkomen in hun dagelijks leven. <br> We willen daarom leerkrachten aanmoedigen om met KIKS en AI aan de slag te gaan in de klas (zie figuur), met of zonder programmeren.<br> We hebben geprobeerd het project zo laagdrempelig mogelijk te houden door het materiaal online aan te bieden, door ervoor te zorgen dat er geen extra software geïnstalleerd moet worden en door in de nodige achtergrondinformatie te voorzien via een handleiding.<br> We hopen dat er tijdens de projectlessen ook tijd wordt vrijgemaakt om stil te staan bij de ethische kwesties die opduiken door de aanwezigheid van AI en deep learning-systemen in het dagelijks leven." 
+  title2p1: "Het KIKS-project heeft als doel de leerlingen de fundamenten van AI te leren kennen en hen bij te brengen hoe ze vat kunnen hebben op AI-systemen die ze tegenkomen in hun dagelijks leven. <br> We willen daarom leerkrachten aanmoedigen om met KIKS en AI aan de slag te gaan in de klas (zie figuur), met of zonder programmeren.<br> We hebben geprobeerd het project zo laagdrempelig mogelijk te houden door het materiaal online aan te bieden, door ervoor te zorgen dat er geen extra software geïnstalleerd moet worden en door in de nodige achtergrondinformatie te voorzien via een handleiding.<br> We hopen dat er tijdens de projectlessen ook tijd wordt vrijgemaakt om stil te staan bij de ethische kwesties die opduiken door de aanwezigheid van AI en deep learning-systemen in het dagelijks leven."
   title2p2: "Het lesmateriaal kan ook op een andere manier worden ingezet. Men kan bv. enkele notebooks uitkiezen om de leerlingen te leren programmeren in Python of men kan er opdrachten uit halen om te werken aan onderzoekscompetenties in de lessen biologie, aardrijkskunde of wiskunde. Men kan de leerlingen aan de hand van enkele notebooks vertrouwd maken met de principes van digitale beeldverwerking of de leerkracht Nederlands of godsdienst kan in dit project inspiratie halen voor een les over de maatschappelijke aspecten van AI."
   subtitle1: "climat"
   subtitle1p1: "Depuis le début de la révolution industrielle (1750), la concentration des gaz à effet de serre dans notre atmosphère a fortement augmenté. Cela renforce l'effet naturel en serre. La couche avec des gaz à effet de serre dans l'atmosphère agit comme une sorte de couverture que la quantité de serre en serre Les gaz augmentent. Par conséquent, il devient plus chaud sous la couverture car la chaleur est de plus en plus difficile à échapper sous la couverture. La concentration accrue de gaz à effet de serre dans l'atmosphère entraîne une augmentation de la température moyenne et un changement climatique mondial. "
@@ -160,7 +160,7 @@ socialrobot:
 
 congres:
   intro_title: "Congrès Pensée computationnelle, STEM et l'intelligence artificielle en classe"
-  paragraph1: "Matin: Pensée computationnelle et intégration des STEM concrète en classe<br> 
+  paragraph1: "Matin: Pensée computationnelle et intégration des STEM concrète en classe<br>
   Après-midi : L'intelligence artificielle et ses aspects sociétaux en classe"
   paragraph2: "Vous pourrez vous inscrire pour une demi-journée ou pour la journée entière.<br><br> <a href='https://www.eventbrite.com/e/computationeel-denken-stem-en-artificiele-intelligentie-in-de-klas-tickets-599666999137'>Programme et inscrire</a><br><br> <strong>Date</strong>: 7 juin 2023<br> Keynotes: Kris Coolsaet, Gregorio Robles, Hannes Cools ... <br> Ateliers sur la façon de mettre en œuvre la pensée computationnelle en classe, sur la façon d'évaluer les projets STEM, sur l'IA dans l'agriculture et sur le ChatGPT.<br><br> <strong>Location:</strong> De Krook, Miriam Makebaplein 1, 9000 Gent<br><br> Soutenu par le gouvernement flamand, Departement Onderwijs en Vorming, Digital Belgium Skils Fund et le programme Erasmus+ de l'Union européenne"
   paragraph3: "tekst"
@@ -176,12 +176,12 @@ privacy:
 aiopschool:
   intro_title: "AI À l'École"
   paragraph1: |
-    L'intelligence artificielle (IA) est largement abordée dans les médias. 
-    Les thèmes populaires incluent : chatbots, voitures autonomes, assistants virtuels et perte d'emplois. 
+    L'intelligence artificielle (IA) est largement abordée dans les médias.
+    Les thèmes populaires incluent : chatbots, voitures autonomes, assistants virtuels et perte d'emplois.
     Les systèmes d'IA pénètrent de plus en plus dans notre monde.
   paragraph2: |
     AI À l'École est un projet né de la préoccupation selon laquelle les élèves doivent comprendre l'intelligence artificielle (IA) et de la prise de conscience d'un manque dans le programme de l'enseignement secondaire pour y répondre. Nous créons du matériel pédagogique pour l'enseignement secondaire sur l'IA liée aux objectifs finaux et aux objectifs d'apprentissage existants.
-    AI À l'École est un projet de dwengo vzw. 
+    AI À l'École est un projet de dwengo vzw.
     Dans le cadre du projet, nous avons développé à la fois le matériel pédagogique et les outils nécessaires pour travailler en classe avec l'apprentissage automatique et l'intelligence artificielle.
     Tout le contenu pédagogique qui était disponible sur aiopschool.be (<a href='/content/'>et bien plus encore</a>) est désormais disponible sur dwengo.org.
   subtitle1: "IA"
@@ -199,7 +199,7 @@ waisda:
     L'intelligence artificielle (IA) est largement abordée dans les médias. Les thèmes populaires incluent : chatbots, voitures autonomes, assistants virtuels et perte d'emplois. Les systèmes d'IA pénètrent de plus en plus dans notre monde.
   paragraph2: |
     Ce projet aborde différents concepts d'IA, tels que la classification, les biais, les réseaux neuronaux, les données d'entraînement, de validation et de test, ainsi que la sous-ajustement et la sur-ajustement,... Nous le faisons toujours dans un contexte socialement pertinent, comme le changement climatique ou les soins de santé. Nous développons dix ateliers parascolaires de demi-journée. Pour permettre la croissance, ils sont classés par niveau de difficulté.
-    wAIsda? est un projet de dwengo vzw. 
+    wAIsda? est un projet de dwengo vzw.
     Dans ce projet, nous développons un parcours éducatif pour familiariser les jeunes talentueux avec les principes fondamentaux de l'intelligence artificielle. Les participants acquièrent une compréhension des techniques derrière des applications d'IA bien connues telles que DALL·E, ChatGPT et Siri. Différents concepts d'IA sont abordés, tels que la classification, les biais, les réseaux neuronaux, les données d'entraînement, de validation et de test, ainsi que la sous-ajustement et la sur-ajustement... Nous le faisons toujours dans un contexte socialement pertinent, comme le changement climatique ou les soins de santé.
   subtitle1: "IA"
   subtitle1p1: |
@@ -297,8 +297,8 @@ project:
   t3_p3: "texte"
   t3_subtitle4: "Optionnel"
   t3_p4: "texte"
-  
- 
+
+
 computational_thinking:
   disc: "Deze leerpaden zijn momenteel in ontwikkeling en worden geleidelijk aangevuld."
   page_title: "Pensée computationnelle"
@@ -495,6 +495,15 @@ contact_page:
   country: Belgique
   vat_number: Dwengo asbl est enregistrée en Belgique sous le numéro de TVA BE 0811.397.278.
   designer_info: "Tous les dessins sur notre site web ont été réalisés par Margot De Saegher. Elle est une illustratrice et graphiste talentueuse. Voulez-vous voir plus de son travail? Alors n'oubliez pas de visiter son site web: <a href='https://margotds.com/'>margotds.com</a>."
+
+# De Krook page ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+krook_page:
+  title: Collaboration avec De Krook
+  paragraph1: À partir de septembre 2026, Dwengo collaborera avec la <strong>bibliothèque municipale De Krook</strong> et <strong>Fluxlab</strong>. Ensemble, nous transformons le Maakatelier en un lieu inspirant où chacun peut apprendre, expérimenter et créer avec la technologie. Dwengo se concentre sur les activités éducatives et les formations pour les enseignants, tandis que Fluxlab développe une offre de loisirs pour les enfants et les jeunes.
+  paragraph2: Avec d’autres organisations gantoises actives dans le domaine de la création, nous construisons également une communauté dynamique autour du Maakatelier. Nous voulons faire de cet endroit un lieu de rencontre accessible et créatif où chacun peut se rencontrer, échanger des idées et travailler ensemble avec la technologie.
+  paragraph3: Curieux de découvrir tout ce qui est possible ? N’hésitez pas à passer au Maakatelier, à découvrir les activités proposées et à vous lancer vous-même. Tout le monde est le bienvenu !
+  location_title: Où ?
+  location: 'Dans le Maakatelier de la bibliothèque municipale De Krook : Platteberg 11, 9000 Gand (niveau -1)'
 
 # Translations for the projects page
 projects_page:
@@ -881,7 +890,7 @@ curricula_page:
     title: "Robotique"
     sub_title: "Programmez des robots en classe"
     description: "D’un robot simple qui roule en carré à un robot qui apprend lui-même à se déplacer grâce au Q-learning. Dans ce thème de cours, vous apprendrez tout sur la conception, la construction et la programmation d’un robot !"
-        
+
   wedstrijd_sr:
     teaser: "https://www.youtube.com/embed/tqSnpAKLsu8"
     curricula_files:
@@ -997,7 +1006,7 @@ theme_selection_filter_translation:
   bio: "La biologie"
   mech: "Electricité et mécanique"
   algo: "Algorithmes"
-  
+
 theme_selection_age_group_translation:
   p: École primaire
   s1: "12-14 ans"
@@ -1080,7 +1089,7 @@ shop:
       desc: "Avec ce manuel d'enseignant, vous pouvez rapidement commencer avec notre matériel sur l'intelligence artificielle et le climat."
       image: "/assets/images/shop/kiks_cover.png"
       price: "50 € hors TVA 6%"
-      price_extra_info: "" 
+      price_extra_info: ""
     - title: "Guide des enseignants chatbot"
       desc: "Avec ce manuel d'enseignant, vous pouvez rapidement commencer avec notre matériel sur la technologie linguistique."
       image: "/assets/images/shop/chatbot_cover.png"
@@ -1093,7 +1102,7 @@ learning_trajectories:
   grade1: 1e graad
   grade2: 2e graad
   grade3: 3e graad
-  choose_alternative: Choisissez 
+  choose_alternative: Choisissez
   ai: IA
   physical_computing: Physical computing
   my_personal_trajectory: Mon parcours d'apprentissage
@@ -1130,7 +1139,7 @@ learning_trajectories:
     geavanceerde_microcontroller:
       title: "Geavanceerde microcontroller"
       description: "In deze leerlijn ontdekken leerlingen hoe ze een geavanceerde microcontrollertoepassing kunnen bouwen en programmeren."
-     
+
 
 learning_trajectory:
   title: Votre parcours d'apprentissage
@@ -1170,6 +1179,7 @@ bot:
 # Translations for the menu items
 about: À propos
 contact: Contact
+krook: '@De Krook'
 projects: Projets
 curricula: Curricula
 calendar: Calendrier
