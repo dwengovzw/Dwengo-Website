@@ -7,7 +7,7 @@ redirect_from:
 banner_image: "/images/curricula/banner_physical_computing.png"
 logo_image: "/images/curricula/logo_physical_computing.png"
 partner_images: ['/images/partners/dwengo.png', '/images/partners/ugent.svg']
-learning_paths: []
+learning_paths: ["gripit_fiches"]
 curricula: []
 ---
 
@@ -34,13 +34,6 @@ paragraph2=paragraph2
 
 {%- include page_wide_info_banner.html text=banner_info button_text="kiks.form_button_text" -%}
 
-<div style="max-width: 960px; margin: 2rem auto 1rem; padding: 0 1rem;">
-    <video controls playsinline preload="metadata" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); background: #000;">
-        <source src="/assets/video/gripit/20260821_Halberd-teaser.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
-
 <section class="page-content">
     <h2>{{ challenge_title }}</h2>
     <p>{{ challenge }}</p>
@@ -61,5 +54,6 @@ paragraph2=paragraph2
 {% assign full = "'" | append: begin | append: page.learning_paths | append: end | append: "'" %}
 {% capture lp_filter %} {{ full }} {% endcapture %}
 
+{%- include learning_paths.html filter_object=lp_filter -%}
 
 {%- include partners.html images=page.partner_images -%}
