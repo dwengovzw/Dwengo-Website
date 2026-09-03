@@ -7,7 +7,7 @@ redirect_from:
 banner_image: "/images/curricula/banner_physical_computing.png"
 logo_image: "/images/curricula/logo_physical_computing.png"
 partner_images: ['/images/partners/dwengo.png', '/images/partners/ugent.svg']
-learning_paths: []
+learning_paths: ["gripit_fiches"]
 curricula: []
 ---
 
