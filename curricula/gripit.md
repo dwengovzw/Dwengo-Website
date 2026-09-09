@@ -4,7 +4,7 @@ title: "Grip->IT"
 permalink: /gripit/
 redirect_from:
     - /gripit
-banner_image: "/images/curricula/banner_physical_computing.png"
+banner_image: "/images/curricula/banner_gripit_1.png"
 logo_image: "/images/curricula/logo_physical_computing.png"
 partner_images: ['/images/partners/dwengo.png', '/images/partners/ugent.svg']
 learning_paths: ["gripit_fiches"]
