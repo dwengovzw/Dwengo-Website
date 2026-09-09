@@ -16,7 +16,7 @@ Elk open lab werken we rond een bepaald thema. In dit open lab illustreren we de
 
 **Doelgroep:** Iedereen
 
-**Wanneer:** 18 november 2026, 12u00-17u00
+**Wanneer:** 16 december 2026, 12u00-17u00
 
 **Locatie:** Het makersatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, gelijkvloers
 
