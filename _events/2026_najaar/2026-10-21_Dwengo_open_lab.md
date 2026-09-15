@@ -18,7 +18,7 @@ Elk open lab werken we rond een bepaald thema. In dit open lab maak je kennis me
 
 **Wanneer:** 21 oktober 2026, 13u00-17u00
 
-**Locatie:** Het maakatelier 'De wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, gelijkvloers
+**Locatie:** Het maakatelier 'De wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, op -1
 
 **Prijs:** Gratis
 
