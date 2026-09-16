@@ -6,7 +6,7 @@ redirect_from:
     - /gripit
 banner_image: "/images/curricula/banner_gripit_1.png"
 logo_image: "/images/curricula/logo_physical_computing.png"
-partner_images: ['/images/partners/dwengo.png', '/images/partners/ugent.svg', '/images/partners/technopolis.png', '/images/partners/rtc_west_vlaanderen.png', '/images/logo_fluxlab.webp', '/images/partners/istem.png', '/images/partners/vlaio.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/industrial_cobotics.png']
+partner_images: ['/images/partners/dwengo.png', '/images/partners/ugent.svg', '/images/partners/technopolis.png', '/images/partners/rtc_west_vlaanderen.png', '/images/partners/logo_fluxlab.webp', '/images/partners/istem.png', '/images/partners/vlaio.png', '/images/partners/oost-vlaanderen.svg', '/images/partners/industrial_cobotics.png']
 learning_paths: ["gripit_fiches"]
 curricula:
 ---
