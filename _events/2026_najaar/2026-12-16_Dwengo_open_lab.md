@@ -1,6 +1,6 @@
 ---
 anchor: dwengo_open_lab_2026_12_16
-date: 2026-12-16T12:00
+date: 2026-12-16T13:00
 end_date: 2026-12-16T17:00
 item_theme_logo_url: /images/curricula/logo_algorithms.png
 language: nl
@@ -16,9 +16,9 @@ Elk open lab werken we rond een bepaald thema. In dit open lab illustreren we de
 
 **Doelgroep:** Iedereen
 
-**Wanneer:** 16 december 2026, 12u00-17u00
+**Wanneer:** 16 december 2026, 13u00-17u00
 
-**Locatie:** Het makersatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, gelijkvloers
+**Locatie:** Het maakatelier 'De wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, op -1
 
 **Prijs:** Gratis
 

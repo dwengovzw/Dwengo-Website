@@ -1,6 +1,6 @@
 ---
 anchor: dwengo_open_lab_2026_10_21
-date: 2026-10-21T12:00
+date: 2026-10-21T13:00
 end_date: 2026-10-21T17:00
 item_theme_logo_url: /images/curricula/logo_computational_thinking.png
 language: nl
@@ -16,9 +16,9 @@ Elk open lab werken we rond een bepaald thema. In dit open lab maak je kennis me
 
 **Doelgroep:** Iedereen
 
-**Wanneer:** 21 oktober 2026, 12u00-17u00
+**Wanneer:** 21 oktober 2026, 13u00-17u00
 
-**Locatie:** Het makersatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, gelijkvloers
+**Locatie:** Het maakatelier 'De wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, op -1
 
 **Prijs:** Gratis
 
