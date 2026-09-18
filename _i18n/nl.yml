@@ -359,6 +359,12 @@ curricula_page:
     description: "Onder dit lesthema bundelen we verschillende activiteiten waarin de basisprincipes van artificiële intelligentie (AI) aan bod komen. Leerlingen leren wat AI is, hoe het werkt en hoe het kan worden toegepast in verschillende domeinen."
     contact: ""
 
+  gripit:
+    title: Grip->IT
+    sub_title: Grip->IT
+    description: "Leerlingen uit de tweede en derde graad (SO) ontwerpen, bouwen en programmeren een robotgrijper die zo veel mogelijk alledaagse objecten kan vastnemen."
+    contact: ""
+
   kiks:
     title: AI en Klimaat
     sub_title: KIKS
