@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Grip->IT"
+title: "Grip-IT"
 permalink: /gripit/
 redirect_from:
     - /gripit
