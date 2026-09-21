@@ -19,7 +19,7 @@ In deze workshop ga je hands-on aan de slag met een neuraal netwerk dat emoties 
 
 **Wanneer:** 8 december van 13u30 tot 16u30
 
-**Locatie:** Het makersatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
+**Locatie:** Het maakatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
 
 **Prijs:** €65
 

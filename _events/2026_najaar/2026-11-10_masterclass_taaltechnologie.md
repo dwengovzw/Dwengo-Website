@@ -18,7 +18,7 @@ Deze activiteit kan je ook met je leerlingen doen. Op die manier verwerven ze me
 
 **Wanneer:** 10 november 2026 van 13u30-16u30
 
-**Locatie:** Het makersatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
+**Locatie:** Het maakatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
 
 **Prijs:** €65
 

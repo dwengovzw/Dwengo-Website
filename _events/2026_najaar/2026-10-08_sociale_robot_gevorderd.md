@@ -16,7 +16,7 @@ Bouw jij met je leerlingen al sociale robots in de klas of wil je gewoon je kenn
 
 **Wanneer:** 8 oktober 2026, 10u00-13u00
 
-**Locatie:** Het makersatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
+**Locatie:** Het maakatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
 
 **Prijs:** €65
 
