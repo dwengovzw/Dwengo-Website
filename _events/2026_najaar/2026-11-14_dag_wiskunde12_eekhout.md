@@ -10,7 +10,10 @@ registration_link:
 title: Dag van Wiskunde - eerste en tweede graad
 ---
 
-Dwengo brengt een sessie op de Dag van Wiskunde voor 1e en 2e graad van Eekhout Academy. We geven er een sessie over de wiskunde uit de eerste graad van het secundair onderwijs die gebruikt wordt in AI-systemen.
+Dwengo brengt een sessie op de Dag van Wiskunde voor 1e en 2e graad van Eekhout Academy.
+
+## AI ❤️ Wiskunde uit het secundair onderwijs
+Bij de ontwikkeling van artificieel intelligente systemen komt heel wat wiskunde kijken. In deze workshop ontdek je een deel van de wiskunde uit het secundair onderwijs die daarbij gebruikt wordt: optellen, vermenigvuldigen en  grafieken lezen bij een classificatieprobleem (perceptron), frequentieanalyse in taaltechnologie,  breuken bij regelgebaseerde chatbots, vectoren bij grote taalmodellen...
 
 [Meer info](https://aanbod.eekhoutacademy.be/course/dxEMy0)
 

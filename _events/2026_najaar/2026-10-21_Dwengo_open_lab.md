@@ -12,7 +12,7 @@ title: 'Dwengo open lab: Computationeel denken, van in het kleuter tot de impact
 
 Ben je benieuwd naar het materiaal dat Dwengo aanbiedt, maar voel je nog drempels om ermee aan de slag te gaan? Het Dwengo open lab is dan de ideale plaats om kennis te maken met alles wat Dwengo te bieden heeft. Elke derde woensdag van de maand kan je terecht in het Maakatelier van stadsbibliotheek De Krook in Gent. Daar krijg je de mogelijkheid om, onder professionele begeleiding, onze verschillende lesactiviteiten uit te proberen.
 
-Elk open lab werken we rond een bepaald thema. In dit open lab maak je kennis met ons lesmateriaal over computationeel denken. Daarbovenop ontdek je hoe computationeel denken vervat zit in de minimumdoelen. Ook zie je tal van voorbeelden van hoe je aan computationeel denken kan doen in je dagelijkse
+Elk open lab werken we rond een bepaald thema. In dit open lab maak je kennis met ons lesmateriaal over computationeel denken. Daarbovenop ontdek je hoe computationeel denken vervat zit in de minimumdoelen. Ook zie je tal van voorbeelden van hoe je aan computationeel denken kan toepassen in je dagelijkse leven.
 
 **Doelgroep:** Iedereen
 
