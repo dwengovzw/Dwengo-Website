@@ -16,9 +16,9 @@ In het minimumdoel “De leerlingen analyseren de impact van digitale systemen o
 Leerkrachten 2e graad secundair onderwijs<br>
 Leerkrachten die met het minimumdoel aan de slag willen/moeten gaan.
 
-**Wanneer:** 12 november 2026, 13u30-16u30
+**Wanneer:** donderdag 12 november 2026, 13u30-16u30
 
-**Locatie:** Het maakatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
+**Locatie:** Het maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
 
 **Prijs:** €65
 

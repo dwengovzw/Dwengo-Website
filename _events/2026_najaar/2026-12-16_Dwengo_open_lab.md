@@ -16,9 +16,9 @@ Elk open lab werken we rond een bepaald thema. In dit open lab illustreren we de
 
 **Doelgroep:** Iedereen
 
-**Wanneer:** 16 december 2026, 13u00-17u00
+**Wanneer:** woensdag 16 december 2026, 13u00-17u00
 
-**Locatie:** Het maakatelier 'De wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, op -1
+**Locatie:** Het maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, op -1
 
 **Prijs:** Gratis
 

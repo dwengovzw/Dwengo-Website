@@ -14,9 +14,9 @@ Bouw jij met je leerlingen al sociale robots in de klas of wil je gewoon je kenn
 
 **Doelgroep:** leerkrachten 1e en 2e graad secundair, leerkrachten STEM en Techniek
 
-**Wanneer:** 8 oktober 2026, 10u00-13u00
+**Wanneer:** donderdag 8 oktober 2026, 10u00-13u00
 
-**Locatie:** Het maakatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
+**Locatie:** Het maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
 
 **Prijs:** €65
 

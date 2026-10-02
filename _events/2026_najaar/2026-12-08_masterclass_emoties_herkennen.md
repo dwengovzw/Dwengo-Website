@@ -17,9 +17,9 @@ In deze workshop ga je hands-on aan de slag met een neuraal netwerk dat emoties 
 
 **Voorkennis:** Je hebt bij voorkeur een basiskennis programmeren. Dat kan in eender welke programmeertaal.
 
-**Wanneer:** 8 december van 13u30 tot 16u30
+**Wanneer:** dinsdag 8 december van 13u30 tot 16u30
 
-**Locatie:** Het maakatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
+**Locatie:** Het maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
 
 **Prijs:** €65
 

@@ -23,7 +23,7 @@ Dit project gaat niet enkel om het integreren van wiskunde en informaticawetensc
 
 **Doelgroep:** Leerkrachten secundair onderwijs met interesse voor STEM
 
-**Wanneer:** 15 oktober 2026, 9u00-17u30
+**Wanneer:** donderdag 15 oktober 2026, 9u00-17u30
 
 **Locatie:** VUB aan zee, Graaf De Smet de Naeyerlaan 4, 8400 Oostende
 

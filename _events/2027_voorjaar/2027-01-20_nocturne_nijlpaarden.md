@@ -17,7 +17,7 @@ Dit project gaat niet enkel om het integreren van wiskunde en informaticawetensc
 
 **Doelgroep:** Leerkrachten secundair onderwijs – derde graad
 
-**Wanneer:** 20 januari 2027, 20u00-...
+**Wanneer:** woensdag 20 januari 2027, 20u00-...
 
 **Locatie:** Online
 

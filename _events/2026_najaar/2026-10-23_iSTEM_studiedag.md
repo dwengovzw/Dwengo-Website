@@ -14,7 +14,7 @@ Ook Dwengo is van de partij en daagt je uit om een **moordmysterie** op te losse
 
 **Doelgroep:** Leerkrachten secundair onderwijs met interesse voor STEM
 
-**Wanneer:** 23 oktober 2026, 9u-16u30
+**Wanneer:** vrijdag 23 oktober 2026, 9u-16u30
 
 **Locatie:** Technopolis, Technologielaan 1, 2800 Mechelen
 

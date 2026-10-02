@@ -16,7 +16,7 @@ In plaats van zelf te programmeren, kunnen leerlingen de gewenste code nu razend
 
 **Doelgroep:** leerkrachten, onderwijsprofessionals
 
-**Wanneer:** 14 oktober 2026, 15u00-16u00
+**Wanneer:** woensdag 14 oktober 2026, 15u00-16u00
 
 **Locatie:** Het maakatelier van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, gelijkvloers
 

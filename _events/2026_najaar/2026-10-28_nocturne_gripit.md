@@ -16,7 +16,7 @@ In deze nocturne maak je kennis met het STEM-project **Grip->it**. Je verwerft i
 
 **Doelgroep:** Leerkrachten secundair onderwijs – derde graad
 
-**Wanneer:** 28 oktober 2026, 20u00-...
+**Wanneer:** woensdag 28 oktober 2026, 20u00-...
 
 **Locatie:** Online
 

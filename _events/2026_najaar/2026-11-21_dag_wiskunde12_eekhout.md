@@ -19,7 +19,7 @@ Bij de ontwikkeling van artificieel intelligente systemen komt heel wat wiskunde
 
 **Doelgroep:** Leraren en docenten
 
-**Wanneer:** 21 november 2026, 9u00-12u30
+**Wanneer:** zaterdag 21 november 2026, 9u00-12u30
 
 **Locatie:** KU Leuven Campus Kulak Kortrijk, Etienne Sabbelaan 53, 8500 Kortrijk
 
