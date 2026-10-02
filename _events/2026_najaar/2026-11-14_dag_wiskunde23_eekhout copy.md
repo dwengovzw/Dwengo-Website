@@ -12,10 +12,10 @@ title: Dag van Wiskunde - tweede en derde graad
 
 Dwengo brengt twee sessies op de Dag van Wiskunde voor 2e en 3e graad van Eekhout Academy.
 
-## AI ❤️ Wiskunde uit het secundair onderwijs
+##### AI ❤️ Wiskunde uit het secundair onderwijs
 Bij de ontwikkeling van artificieel intelligente systemen komt heel wat wiskunde kijken. In deze workshop ontdek je (een deel van) de wiskunde uit het secundair onderwijs die daarbij gebruikt wordt: eerstegraadsfuncties bij een classificatieprobleem, vectoren bij grote taalmodellen, tweedegraadsfuncties bij beslissingsbomen, matrices bij digitale beelden, afgeleiden bij neurale netwerken...
 
-## Artificiële intelligentie in de gezondheidszorg: beslissingsbomen
+##### Artificiële intelligentie in de gezondheidszorg: beslissingsbomen
 Artificieel intelligente systemen op basis van beslissingsbomen worden omwille van hun transparantie veel aangewend in de zorgsector. Zo’n beslissingsboom kan de arts of een andere zorgverlener helpen om op basis van patiëntengegevens sneller tot een diagnose of gewenste behandeling te komen. Dit STEM-project zet de M in STEM op het verdiende voetstuk. In deze sessie gaan we zonder computer aan de slag, maar je kan, indien gewenst, dit project in de klas nog uitbreiden met programmeren in Python; daarvoor is al kant-en-klaar lesmateriaal voorzien.
 
 [Meer info](https://aanbod.eekhoutacademy.be/course/ANXMGd)
