@@ -165,6 +165,10 @@ congres:
   paragraph2: "Vous pourrez vous inscrire pour une demi-journée ou pour la journée entière.<br><br> <a href='https://www.eventbrite.com/e/computationeel-denken-stem-en-artificiele-intelligentie-in-de-klas-tickets-599666999137'>Programme et inscrire</a><br><br> <strong>Date</strong>: 7 juin 2023<br> Keynotes: Kris Coolsaet, Gregorio Robles, Hannes Cools ... <br> Ateliers sur la façon de mettre en œuvre la pensée computationnelle en classe, sur la façon d'évaluer les projets STEM, sur l'IA dans l'agriculture et sur le ChatGPT.<br><br> <strong>Location:</strong> De Krook, Miriam Makebaplein 1, 9000 Gent<br><br> Soutenu par le gouvernement flamand, Departement Onderwijs en Vorming, Digital Belgium Skils Fund et le programme Erasmus+ de l'Union européenne"
   paragraph3: "tekst"
 
+studiedag:
+  intro_title: "Save the date : Journée d'étude Dwengo"
+  paragraph1: "Date : 26 avril<br>Lieu : De Krook, Miriam Makebaplein 1, 9000 Gent"
+
 
 privacy:
   detail: "Chez Dwengo, la transparence est importante pour nous. Nous voulons que nos utilisateurs sachent quelles données nous collectons et pourquoi nous les collectons. Nous utilisons un outil d'analyse appelé Matomo, hébergé sur notre serveur en Belgique. Cela signifie que nous possédons les données et ne les partageons pas avec d'autres. De plus, les données sont anonymes et ne contiennent aucune information personnelle. Nous suivons les pages que vous visitez sur notre site Web et pendant combien de temps. Cela nous aide à comprendre quel contenu vous trouvez intéressant, afin que nous puissions améliorer notre site Web. Nous suivons également comment vous avez trouvé notre site Web et sur quels liens vous avez cliqué, pour voir quelles sources sont les plus efficaces pour amener les visiteurs sur notre site. De plus, nous suivons le système d'exploitation, l'appareil et le navigateur que vous utilisez pour accéder à notre site Web. Cela nous aide à optimiser notre site Web pour différents appareils et à identifier tout problème technique. Nous suivons également le pays à partir duquel vous accédez à notre site Web, afin que nous puissions l'optimiser pour différentes régions. Nous n'utilisons ces données que pour une analyse interne visant à améliorer notre site Web et nous ne les partageons jamais avec des tiers. Votre vie privée est importante pour nous. Si vous avez des questions sur notre politique de confidentialité, veuillez nous contacter à l'adresse dpo@dwengo.org."
@@ -1180,6 +1184,7 @@ bot:
 about: À propos
 contact: Contact
 krook: '@De Krook'
+studiedag2027: Journée d'étude
 projects: Projets
 curricula: Curricula
 calendar: Calendrier

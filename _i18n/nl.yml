@@ -903,6 +903,10 @@ congres:
   paragraph2: ""
   paragraph3: ""
 
+studiedag:
+  intro_title: "Save the date: Dwengo Studiedag"
+  paragraph1: "Datum: 26 april<br>Locatie: De Krook, Miriam Makebaplein 1, 9000 Gent"
+
 
 # About page ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 about_page:
@@ -1239,6 +1243,7 @@ bot:
 about: Over
 contact: Contact
 krook: '@De Krook'
+studiedag2027: Studiedag
 projects: Projecten
 curricula: Leerlijnen
 content: Lesthema's
