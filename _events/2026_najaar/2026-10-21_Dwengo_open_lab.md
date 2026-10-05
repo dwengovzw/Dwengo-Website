@@ -7,7 +7,7 @@ language: nl
 location: De Krook
 location_link: https://maps.app.goo.gl/X2vNDaENmCMHDNqZ8
 registration_link: ''
-title: 'Dwengo open lab: Computationeel denken, van in het kleuter tot de impact van digitale systemen '
+title: 'Dwengo open lab: Computationeel denken, van in de kleuterklas tot de impact van digitale systemen '
 ---
 
 Ben je benieuwd naar het materiaal dat Dwengo aanbiedt, maar voel je nog drempels om ermee aan de slag te gaan? Het Dwengo open lab is dan de ideale plaats om kennis te maken met alles wat Dwengo te bieden heeft. Elke derde woensdag van de maand kan je terecht in het Maakatelier van stadsbibliotheek De Krook in Gent. Daar krijg je de mogelijkheid om, onder professionele begeleiding, onze verschillende lesactiviteiten uit te proberen.
