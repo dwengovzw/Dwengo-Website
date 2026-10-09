@@ -12,7 +12,7 @@ anchor: "STEMdag-iSTEM-23-10-26"
 Samen met Technopolis organiseren iSTEM inkleuren een STEM-studiedag voor leerkrachten over geïntegreerd STEM-onderwijs. <br><br>
 Ook Dwengo is van de partij en daagt je uit om een **moordmysterie** op te lossen met behulp van concepten van **artificiële intelligentie**.
 
-**Doelgroep:** Leerkrachten secundair onderwijs met interesse voor STEM
+**Doelgroep:** leerkrachten secundair onderwijs met interesse voor STEM
 
 **Wanneer:** vrijdag 23 oktober 2026, 9u-16u30
 
@@ -20,7 +20,7 @@ Ook Dwengo is van de partij en daagt je uit om een **moordmysterie** op te losse
 
 **Prijs:** €75
 
-**Meebrengen:** Laptop
+**Meebrengen:** laptop
 
 **Organisatie:** iSTEM inkleuren en Technopolis
 

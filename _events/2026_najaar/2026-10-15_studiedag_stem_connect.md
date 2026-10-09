@@ -21,7 +21,7 @@ Dit project gaat niet enkel om het integreren van wiskunde en informaticawetensc
 
 [Meer info](https://www.vub.be/nl/evenement/stemsports-education-project-stem-connect-15102026#paragraph-552516)
 
-**Doelgroep:** Leerkrachten secundair onderwijs met interesse voor STEM
+**Doelgroep:** leerkrachten secundair onderwijs met interesse voor STEM
 
 **Wanneer:** donderdag 15 oktober 2026, 9u00-17u30
 
@@ -29,6 +29,6 @@ Dit project gaat niet enkel om het integreren van wiskunde en informaticawetensc
 
 **Prijs:** €50
 
-**Meebrengen:** Laptop
+**Meebrengen:** laptop
 
 **Organisatie:** VUB en iSTEM

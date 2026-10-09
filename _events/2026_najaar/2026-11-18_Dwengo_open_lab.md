@@ -14,14 +14,14 @@ Ben je benieuwd naar het materiaal dat Dwengo aanbiedt, maar voel je nog drempel
 
 Elk open lab werken we rond een bepaald thema. In dit open lab maak je kennis met ons nieuw Grip-IT project. In dat project dagen we leerlingen van de tweede en derde graad van het secundair onderwijs uit om een robothand te bouwen die verschillende alledaagse objecten kan vastgrijpen. Tijdens het open lab kan je zelf een robothand bouwen en programmeren. Zo ontdek je hands-on hoe je aan de slag kan gaan met het project!
 
-**Doelgroep:** Iedereen
+**Doelgroep:** iedereen
 
 **Wanneer:** woensdag 18 november 2026, 13u00-17u00
 
-**Locatie:** Het maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, op -1
+**Locatie:** maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, op -1
 
-**Prijs:** Gratis
+**Prijs:** gratis
 
-**Meebrengen:** Laptop
+**Meebrengen:** laptop
 
 **Organisatie:** Dwengo

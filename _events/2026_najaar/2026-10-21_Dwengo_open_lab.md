@@ -14,14 +14,14 @@ Ben je benieuwd naar het materiaal dat Dwengo aanbiedt, maar voel je nog drempel
 
 Elk open lab werken we rond een bepaald thema. In dit open lab maak je kennis met ons lesmateriaal over computationeel denken. Daarbovenop ontdek je hoe computationeel denken vervat zit in de minimumdoelen. Ook zie je tal van voorbeelden van hoe je aan computationeel denken kan toepassen in je dagelijkse leven.
 
-**Doelgroep:** Iedereen
+**Doelgroep:** iedereen
 
 **Wanneer:** woensdag 21 oktober 2026, 13u00-17u00
 
-**Locatie:** Het maakatelier 'De wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, op -1
+**Locatie:** maakatelier 'De wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, op -1
 
-**Prijs:** Gratis
+**Prijs:** gratis
 
-**Meebrengen:** Laptop
+**Meebrengen:** laptop
 
 **Organisatie:** Dwengo

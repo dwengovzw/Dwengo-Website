@@ -14,14 +14,14 @@ Ben je benieuwd naar het materiaal dat Dwengo aanbiedt, maar voel je nog drempel
 
 Elk open lab werken we rond een bepaald thema. In deze sessie maak je kennis met de roboticaprojecten van Dwengo.
 
-**Doelgroep:** Iedereen
+**Doelgroep:** iedereen
 
 **Wanneer:** woensdag 17 februari 2027, 13u00-17u00
 
-**Locatie:** Het maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
+**Locatie:** maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
 
-**Prijs:** Gratis
+**Prijs:** gratis
 
-**Meebrengen:** Laptop
+**Meebrengen:** laptop
 
 **Organisatie:** Dwengo

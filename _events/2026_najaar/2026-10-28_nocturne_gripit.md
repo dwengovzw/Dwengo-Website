@@ -14,12 +14,12 @@ In deze nocturne maak je kennis met het STEM-project **Grip->it**. Je verwerft i
 
 [Meer info](https://www.istem.be/sessie/nocturne-bouw-zelf-een-robotgrijper-28-10-2026-online/)
 
-**Doelgroep:** Leerkrachten secundair onderwijs – derde graad
+**Doelgroep:** leerkrachten secundair onderwijs – derde graad
 
 **Wanneer:** woensdag 28 oktober 2026, 20u00-...
 
-**Locatie:** Online
+**Locatie:** online
 
-**Prijs:** Gratis
+**Prijs:** gratis
 
 **Organisatie:** iSTEM

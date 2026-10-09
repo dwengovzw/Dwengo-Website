@@ -15,12 +15,12 @@ Dit project gaat niet enkel om het integreren van wiskunde en informaticawetensc
 
 [Meer info](https://www.istem.be/sessie/nocturne-cocainenijlpaarden-20-01-2027-online/)
 
-**Doelgroep:** Leerkrachten secundair onderwijs – derde graad
+**Doelgroep:** leerkrachten secundair onderwijs – derde graad
 
 **Wanneer:** woensdag 20 januari 2027, 20u00-...
 
-**Locatie:** Online
+**Locatie:** online
 
-**Prijs:** Gratis
+**Prijs:** gratis
 
 **Organisatie:** iSTEM

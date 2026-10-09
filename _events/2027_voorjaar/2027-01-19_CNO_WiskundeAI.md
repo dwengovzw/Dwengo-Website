@@ -21,13 +21,12 @@ In deze nascholing bekijk je hoe de wiskunde uit het secundair onderwijs aan bod
 Je maakt kennis met de wiskunde die behandeld wordt in het lesmateriaal van AI Op School.
 
 In de voorbeelden die gegeven worden, zijn er zowel activiteiten op papier, als activiteiten waarin er geprogrammeerd wordt.
-Voor het programmeergedeelte ga je aan de slag met onze online Python notebooks. Hiervoor volstaat een computer met een internetbrowser. Er moet geen extra software worden geïnstalleerd.
+Voor het programmeergedeelte ga je aan de slag met onze online Python notebooks. Hiervoor volstaat een computer met een internetbrowser. Er moet geen extra software worden geïnstalleerd en geen voorkennis programmeren is vereist.
 
 **Doelgroep:** <br>
-Leerkrachten wiskunde, wetenschappen, informatica en STEM van de **2de en 3de graad** van het secundair onderwijs.<br>
-Ook pedagogische begeleiders en onderwijsinspectie betreffende diezelfde disciplines zijn welkom.<br>
+leerkrachten wiskunde, wetenschappen, informatica en STEM van de **2de en 3de graad** van het secundair onderwijs<br>
+pedagogische begeleiders en onderwijsinspectie betreffende diezelfde disciplines<br>
 De deelnemer moet in staat zijn om vrij eenvoudige wiskundige concepten van het secundair onderwijs te begrijpen en toe te passen, zoals matrices en afgeleiden.
-Er is geen voorkennis programmeren vereist om deze nascholing te kunnen volgen.
 
 **Wanneer:** dinsdag 19 januari 2027, 9u30-16u30
 
