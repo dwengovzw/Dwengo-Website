@@ -12,16 +12,16 @@ title: 'Dwengo open lab: Robotgrijper testen'
 
 Ben je benieuwd naar het materiaal dat Dwengo aanbiedt, maar voel je nog drempels om ermee aan de slag te gaan? Het Dwengo open lab is dan de ideale plaats om kennis te maken met alles wat Dwengo te bieden heeft. Elke derde woensdag van de maand kan je terecht in het Maakatelier van stadsbibliotheek De Krook in Gent. Daar krijg je de mogelijkheid om, onder professionele begeleiding, onze verschillende lesactiviteiten uit te proberen.
 
-Elk open lab werken we rond een bepaald thema. Deze namiddag krijg je de kans op je (zelfgebouwde) robotgrijper te testen. Een must voor de deelnemers aan de GripIT-wedstrijd.
+Elk open lab werken we rond een bepaald thema. Deze namiddag krijg je de kans om je (zelfgebouwde) robotgrijper te testen. Een must voor de deelnemers aan de GripIT-wedstrijd.
 
-**Doelgroep:** Iedereen
+**Doelgroep:** iedereen
 
 **Wanneer:** woensdag 19 mei 2027, 13u00-17u00
 
-**Locatie:** Het maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
+**Locatie:** maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
 
-**Prijs:** Gratis
+**Prijs:** gratis
 
-**Meebrengen:** Laptop
+**Meebrengen:** laptop
 
 **Organisatie:** Dwengo

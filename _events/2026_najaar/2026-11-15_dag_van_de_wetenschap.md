@@ -14,12 +14,12 @@ Dwengo neemt ook deel aan de Dag van de Wetenschap! Je vindt ons in het Maakatel
 
 Wil je meer te weten komen over de Dag van de Wetenschap? Dat kan [hier](https://www.dagvandewetenschap.be/).
 
-**Doelgroep:** Iedereen
+**Doelgroep:** iedereen
 
 **Wanneer:** zondag 15 november 2026, 00u00-23u59
 
-**Locatie:** Het maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, op -1
+**Locatie:** maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, op -1
 
-**Prijs:** Gratis
+**Prijs:** gratis
 
 **Organisatie:** Vlaamse Overheid

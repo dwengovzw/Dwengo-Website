@@ -20,7 +20,7 @@ Artificieel intelligente systemen op basis van beslissingsbomen worden omwille v
 
 [Meer info](https://aanbod.eekhoutacademy.be/course/ANXMGd)
 
-**Doelgroep:** Leraren en docenten
+**Doelgroep:** leraren en docenten
 
 **Wanneer:** zaterdag 14 november 2026, 9u00-10u30 en 11u00-12u30
 
@@ -28,6 +28,6 @@ Artificieel intelligente systemen op basis van beslissingsbomen worden omwille v
 
 **Prijs:** €78 of €25 (studententarief)
 
-**Meebrengen:** Laptop
+**Meebrengen:** laptop
 
 **Organisatie:** Eekhout Academy

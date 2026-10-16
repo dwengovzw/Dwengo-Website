@@ -17,7 +17,7 @@ Bij de ontwikkeling van artificieel intelligente systemen komt heel wat wiskunde
 
 [Meer info](https://aanbod.eekhoutacademy.be/course/dxEMy0)
 
-**Doelgroep:** Leraren en docenten
+**Doelgroep:** leraren en docenten
 
 **Wanneer:** zaterdag 21 november 2026, 9u00-12u30
 
@@ -25,6 +25,6 @@ Bij de ontwikkeling van artificieel intelligente systemen komt heel wat wiskunde
 
 **Prijs:** €78 of €25 (studententarief)
 
-**Meebrengen:** Laptop
+**Meebrengen:** laptop
 
 **Organisatie:** Eekhout Academy

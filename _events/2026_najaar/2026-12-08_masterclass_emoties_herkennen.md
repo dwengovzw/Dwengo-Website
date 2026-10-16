@@ -13,16 +13,16 @@ registration_link: "https://dwengo.eventgoose.com/events/6YaldE9laoaMG3LB/info"
 Heel wat AI-systemen maken gebruik van artificiële neurale netwerken. Een artificieel neuraal netwerk is een techniek van het machinaal leren waarmee je de computer, op basis van voorbeelden, een bepaalde taak kan aanleren.
 In deze workshop ga je hands-on aan de slag met een neuraal netwerk dat emoties leert herkennen. Je verzamelt zelf een dataset waarmee je het netwerk zal trainen, traint het neurale netwerk en evalueert de prestatie ervan. Dit doe je aan de hand van de programmeertaal Python.
 
-**Doelgroep:** Leerkrachten informaticawetenschappen, wetenschappen of STEM van de 2e of 3e graad van het secundair onderwijs.
+**Doelgroep:** leerkrachten informaticawetenschappen, wetenschappen of STEM van de 2e of 3e graad van het secundair onderwijs
 
-**Voorkennis:** Je hebt bij voorkeur een basiskennis programmeren. Dat kan in eender welke programmeertaal.
+**Voorkennis:** (bij voorkeur) basiskennis programmeren, in eender welke programmeertaal
 
 **Wanneer:** dinsdag 8 december van 13u30 tot 16u30
 
-**Locatie:** Het maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
+**Locatie:** maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
 
 **Prijs:** €65
 
-**Meebrengen:** Laptop en smartphone met werkende camera
+**Meebrengen:** laptop en smartphone met werkende camera
 
 **Organisatie:** Dwengo

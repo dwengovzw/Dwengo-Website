@@ -18,10 +18,10 @@ Deze activiteit kan je ook met je leerlingen doen. Op die manier verwerven ze me
 
 **Wanneer:** dinsdag 10 november 2026 van 13u30-16u30
 
-**Locatie:** Het maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
+**Locatie:** maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
 
 **Prijs:** €65
 
-**Meebrengen:** Laptop
+**Meebrengen:** laptop
 
 **Organisatie:** Dwengo

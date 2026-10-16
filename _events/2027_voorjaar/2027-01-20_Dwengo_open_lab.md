@@ -14,14 +14,14 @@ Ben je benieuwd naar het materiaal dat Dwengo aanbiedt, maar voel je nog drempel
 
 Elk open lab werken we rond een bepaald thema. In dit open lab gaan we in op de mogelijke rol van wiskunde in STEM-lessen. De M in STEM wordt vaak een beetje stiefmoederlijk behandeld. Nochtans speelt wiskunde wel degelijk een rol binnen STEM-lessen. Soms subtiel op de achtergrond, soms in een sleutelrol. Van wiskunde als tool, maar ook als overkoepelend concept om wetenschappelijke inzichten te versterken, tot wiskunde als instrument voor kritisch denken.
 
-**Doelgroep:** Iedereen
+**Doelgroep:** iedereen
 
 **Wanneer:** woensdag 20 januari 2027, 13u00-17u00
 
-**Locatie:** Het maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
+**Locatie:** maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
 
-**Prijs:** Gratis
+**Prijs:** gratis
 
-**Meebrengen:** Laptop
+**Meebrengen:** laptop
 
 **Organisatie:** Dwengo

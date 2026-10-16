@@ -13,15 +13,15 @@ title: Masterclass Minimumdoel impact digitale systemen
 In het minimumdoel “De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken” zit heel wat vervat. Wij hebben een kader ontworpen waarmee je met dit minimumdoel aan de slag kan gaan in jouw lessen. In deze sessie bekijken we enkele uitgewerkte voorbeelden en bespreken we een mogelijke aanpak en evaluatie. We geven zowel contexten voor de doorstroomfinaliteit, dubbele finaliteit als finaliteit arbeidsmarkt.
 
 **Doelgroep:**<br>
-Leerkrachten 2e graad secundair onderwijs<br>
-Leerkrachten die met het minimumdoel aan de slag willen/moeten gaan.
+leerkrachten 2e graad secundair onderwijs<br>
+leerkrachten die met het minimumdoel aan de slag willen/moeten gaan
 
 **Wanneer:** donderdag 12 november 2026, 13u30-16u30
 
-**Locatie:** Het maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
+**Locatie:** maakatelier 'de wondertuin' van stadsbibliotheek De Krook: Miriam Makebaplein 1, 9000 Gent, verdieping -1
 
 **Prijs:** €65
 
-**Meebrengen:** Laptop
+**Meebrengen:** laptop
 
 **Organisatie:** Dwengo
