@@ -1025,7 +1025,7 @@ theme_selection:
 
 donate:
   title: Faites un don!
-  info1: Dwengo est officiellement reconnu comme un organisme de bienfaisance. Avec un don d'au moins 40 €, vous recevrez un certificat d'impôt de notre part. Sur la base de ce certificat, vous pouvez obtenir une réduction d'impôt de 45% du montant payé.
+  info1: Dwengo est officiellement reconnu comme un organisme de bienfaisance. Avec un don d'au moins 30 €, vous recevrez un certificat d'impôt de notre part. Sur la base de ce certificat, vous pouvez obtenir une réduction d'impôt de 45% du montant payé.
   info2: "Vous pouvez transférer un montant de votre choix au numéro de compte:"
   account_nr: "BE74 0015 8122 6807"
   info3: "Dans l'annonce, indiquez les informations suivantes:"
