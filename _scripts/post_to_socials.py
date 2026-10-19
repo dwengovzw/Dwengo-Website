@@ -260,6 +260,15 @@ def upload_linkedin_image(data: bytes, content_type: str, access_token: str, org
     raise RuntimeError("Timed out waiting for LinkedIn image processing")
 
 
+def escape_linkedin_text(text: str) -> str:
+    """Escape reserved little-text characters so LinkedIn displays plain text.
+
+    https://learn.microsoft.com/en-us/linkedin/marketing/community-management/shares/little-text-format
+    Apply only to commentary at the API boundary, after building the post.
+    """
+    return re.sub(r"[\\|{}@\[\]()<>#*_~]", lambda match: "\\" + match.group(0), text)
+
+
 def create_linkedin_post(
     text: str, access_token: str, org_id: str, images: list[dict] | None = None
 ) -> str:
@@ -268,7 +277,7 @@ def create_linkedin_post(
 
     payload = {
         "author": f"urn:li:organization:{org_id}",
-        "commentary": text,
+        "commentary": escape_linkedin_text(text),
         "visibility": "PUBLIC",
         "distribution": {
             "feedDistribution": "MAIN_FEED",

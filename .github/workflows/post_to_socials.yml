@@ -5,6 +5,12 @@ on:
     paths:
       - "_news/**"
   workflow_dispatch:
+    inputs:
+      update_linkedin_news_file:
+        description: 'Update only the existing LinkedIn text for this news file (leave empty for normal posting)'
+        required: false
+        default: ''
+        type: string
 
 jobs:
   post-to-socials:
@@ -26,6 +32,7 @@ jobs:
 
       - name: Post to social media
         env:
+          UPDATE_LINKEDIN_NEWS_FILE: ${{ inputs.update_linkedin_news_file }}
           FACEBOOK_PAGE_TOKEN: ${{ secrets.FACEBOOK_PAGE_TOKEN }}
           FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
           FACEBOOK_GRAPH_VERSION: "v23.0"
@@ -36,9 +43,15 @@ jobs:
           LINKEDIN_ORG_ID: ${{ secrets.LINKEDIN_ORG_ID }}
           LINKEDIN_VERSION: "202606"
           WEBSITE_BASE_URL: "https://www.dwengo.org"
-        run: python _scripts/post_to_socials.py
+        run: |
+          if [ -n "$UPDATE_LINKEDIN_NEWS_FILE" ]; then
+            python _scripts/update_linkedin_post.py "$UPDATE_LINKEDIN_NEWS_FILE"
+          else
+            python _scripts/post_to_socials.py
+          fi
 
       - name: Commit updated social post IDs
+        if: ${{ !inputs.update_linkedin_news_file }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
