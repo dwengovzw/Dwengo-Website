@@ -68,7 +68,7 @@ def strip_markdown(text: str) -> str:
     """Remove the most common markdown / HTML syntax from text."""
     text = re.sub(r"!\[.*?\]\(.*?\)", "", text)                 # markdown images
     text = re.sub(r"!\[[^\]]*\]\[[^\]]*\]", "", text)          # reference images
-    text = re.sub(r"\[([^\]]+)\]\([^\)]+\)", r"\1", text)       # markdown links → keep label
+    text = re.sub(r"\[([^\]]+)\]\(([^\)]+)\)", r"\1 (\2)", text)  # keep link label and URL
     text = re.sub(r"<[^>]+>", "", text)                         # HTML tags (everything inside "<>" is deleted)
     text = re.sub(r"^#{1,6}\s+", "", text, flags=re.MULTILINE)  # markdown headings
     text = re.sub(r"\*{1,3}([^*]+)\*{1,3}", r"\1", text)        # markdown bold / italic
