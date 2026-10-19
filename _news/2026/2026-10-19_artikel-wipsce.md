@@ -7,11 +7,11 @@ title: Dwengo-onderzoek rond computationeel denken op WiPSCE 2026
 to_socials: true
 ---
 
-Hoe kunnen leerlingen de maatschappelijke impact van digitale systemen analyseren? En hoe kunnen leerkrachten hen hierbij ondersteunen, als zij hier zelf niet in opgeleid zijn?
+Hoe kunnen leerlingen de maatschappelijke impact van digitale systemen analyseren? En hoe kunnen leerkrachten hen hierbij ondersteunen, ook als zij hier zelf niet in opgeleid zijn?
 
-In de Vlaamse onderwijsdoelen staat dat leerlingen de impact van digitale systemen op de maatschappij moeten analyseren vanuit principes van **computationeel denken**. Dit is echter niet altijd even eenvoudig om te vertalen naar een praktische uitwerking in de klas.
+In de Vlaamse minimumdoelen staat dat leerlingen de impact van digitale systemen op de maatschappij moeten analyseren vanuit principes van **computationeel denken**. Dit is echter niet altijd even eenvoudig om te vertalen naar een praktische uitwerking in de klas.
 
-Daarom ontwikkelden Natacha Gesquière, Tom Neutens en Francis wyffels bij Dwengo het *Computational Thinking and Impact* (CTI) Framework. Dit biedt leerkrachten een gestructureerde aanpak om leerlingen met computationeel denken aan de slag te laten gaan en zo digitale systemen en hun maatschappelijke impact te doorgronden.
+Daarom ontwikkelden Natacha Gesquière, Tom Neutens en Francis wyffels bij Dwengo het *Computational Thinking and Impact* (CTI) *Framework*. Dit biedt leerkrachten een gestructureerde aanpak om leerlingen met computationeel denken aan de slag te laten gaan en zo digitale systemen en hun maatschappelijke impact te doorgronden.
 
 Het onderzoek werd gepubliceerd op WiPSCE 2026, een internationale wetenschappelijke conferentie over informaticaonderwijs in het basis- en secundair onderwijs.
 
