@@ -8,6 +8,7 @@
     {% else %}
       {% capture lang_prefix %}{{ site.lang }}/{% endcapture %}
     {% endif %}
+
     {%- if page_paths -%}
     <nav class="navbar navbar-expand-md navbar-light bg-light">
       {% if site.lang == "en" %}
@@ -46,9 +47,16 @@
               {%- assign nav_url = "/nieuws/" -%}
             {%- endif -%}
 
+            {%- assign nav_active = false -%}
+            {%- if page.url == nav_url -%}
+              {%- assign nav_active = true -%}
+            {%- elsif path == "news.md" and page.pagination.enabled -%}
+              {%- assign nav_active = true -%}
+            {%- endif -%}
+
             {%- if nav_title -%}
               {% if site.lang == "nl" %}
-                {% if page.url == nav_url %}
+                {% if nav_active %}
                   <li class="nav-item active">
                     <a class="nav-link active" href="{{ nav_url | relative_url }}">{% t nav_title %}</a>
                   </li>
@@ -60,7 +68,7 @@
               {% else %}
                 {% assign url_with_lang = '/' | append: site.lang | append: nav_url %}
 
-                {% if page.url == nav_url %}
+                {% if nav_active %}
                   <li class="nav-item active">
                     <a class="nav-link active" href="/{{site.lang}}{{ nav_url | relative_url }}">{% t nav_title %}</a>
                   </li>
@@ -69,7 +77,7 @@
                     <a class="nav-link" href="/{{site.lang}}{{ nav_url | relative_url }}">{% t nav_title %}</a>
                   </li>
                 {% endif %}
-              
+
               {%- endif -%}
             {%- endif -%}
           {%- endfor -%}
@@ -100,7 +108,7 @@
         <a href="/{{lang_prefix}}donate" class="btn simulator" role="button" aria-disabled="true">{% t global.donate %}</a>
         <a href="https://blockly.dwengo.org" class="btn simulator" target="_blank" role="button" aria-disabled="true">{% t global.simulator %}</a>
       </span>
-      
+
     </nav>
     {%- endif -%}
   </div>
