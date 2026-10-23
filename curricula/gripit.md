@@ -18,13 +18,6 @@ curricula:
 
 {% capture banner_info %} {{ site.translations[site.lang].gripit.banner_info }} {% endcapture %}
 
-<div style="max-width: 960px; margin: 2rem auto 1rem; padding: 0 1rem;">
-    <video controls playsinline preload="metadata" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); background: #000;">
-        <source src="/assets/video/gripit/20260821_Halberd-teaser.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
-
 {% capture challenge_title %} {{ site.translations[site.lang].gripit.challenge_title }} {% endcapture %}
 {% capture challenge %} {{ site.translations[site.lang].gripit.challenge }} {% endcapture %}
 {% capture learning_title %} {{ site.translations[site.lang].gripit.learning_title }} {% endcapture %}
@@ -39,6 +32,14 @@ intro_title=intro_title
 paragraph1=paragraph1
 paragraph2=paragraph2
 -%}
+
+
+<div style="max-width: 960px; margin: 2rem auto 1rem; padding: 0 1rem;">
+    <video controls playsinline preload="metadata" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); background: #000;">
+        <source src="/assets/video/gripit/20260821_Halberd-teaser.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
 
 {%- include page_wide_info_banner.html text=banner_info button_text="kiks.form_button_text" -%}
 
