@@ -6,7 +6,7 @@ language: "nl"
 anchor: "erkenning-nwd"
 ---
 
-Een nieuw jaar, nieuwe kansen — ook bij Dwengo.
+Een nieuw jaar, nieuwe kansen - ook bij Dwengo.
 
 We starten 2026 met trots nieuws: de expertise van onze collega **Natacha Gesquière** rond beslissingsbomen binnen het project AI in de Zorg krijgt een mooie erkenning. Haar werk toont hoe abstracte AI-concepten op een krachtige én toegankelijke manier tot leven kunnen komen in het onderwijs.
 
