@@ -10,4 +10,4 @@ registration_link: ''
 title: Finale 'Sociale Robot' en Grijper-wedstrijd
 ---
 
-*Save the date!*
+*Save-the-date!*
