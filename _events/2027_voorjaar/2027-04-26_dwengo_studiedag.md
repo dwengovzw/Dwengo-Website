@@ -11,4 +11,4 @@ title: Dwengo Studiedag
 ---
 Thema: leerlijn **Computationeel Denken** van basisonderwijs t.e.m. 3e graad secundair onderwijs.
 
-*Save the date!*
+*Save-the-date!*
