@@ -904,8 +904,9 @@ congres:
   paragraph3: ""
 
 studiedag:
-  intro_title: "Save the date: Dwengo Studiedag"
-  paragraph1: "Datum: 26 april<br>Locatie: De Krook, Miriam Makebaplein 1, 9000 Gent"
+  intro_title: "Save-the-date: Dwengo-studiedag met thema "Computationeel denken van basisonderwijs t.e.m. derde graad secundair onderwijs"
+  paragraph1: "Datum: 26 april 2027<br>Locatie: De Krook, Miriam Makebaplein 1, 9000 Gent"
+  paragraph2: "Partners: iSTEM, UGent, De Krook"
 
 
 # About page ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
