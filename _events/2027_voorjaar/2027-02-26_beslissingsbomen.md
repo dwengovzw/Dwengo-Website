@@ -18,9 +18,7 @@ Leerlingen stellen eerst het algoritme zelf op. Ze gebruiken het algoritme op pa
 
 Een beslissingsboom is een type graaf; een algemene inleiding tot de grafentheorie kan dus passen binnen dit project.
 
-Heel wat delen van dit project kunnen ook zonder computer gebeuren.
-
-De leerlingen moeten geen voorkennis van programmeren hebben. <br><br>
+Heel wat delen van dit project kunnen ook zonder computer gebeuren en de leerlingen hebben geen voorkennis van programmeren nodig.
 
 In deze workshop krijg je een overzicht van de inhoud van dit project. De inhoud omvat de ethische aspecten van artificiële intelligentie, grafen (op een originele manier aangepakt), beslissingsbomen, toepassing van tweedegraadsfuncties, computationeel denken en logische uitdrukkingen.
 
@@ -28,7 +26,7 @@ Dit gebeurt a.d.h.v.  enkele opdrachten zonder computer, maar je gaat ook zelf m
 
 In dit STEM-project met als focus wiskunde, computerwetenschappen en ethiek, gebruiken we Python als tool. Zoals met de eindtermen wordt bedoeld, gaan we niet programmeren om te programmeren, maar tonen we wat de voordelen zijn van het automatiseren van een bepaald proces.
 
-Het lesmateriaal staat gratis ter beschikking op onze (website)[https://dwengo.org/zorg].
+Het lesmateriaal staat gratis ter beschikking op onze [website](https://dwengo.org/zorg).
 
 
 **Doelgroep:**<br>
@@ -37,7 +35,7 @@ lerarenopleiders wiskunde, wetenschappen en STEM voor leraren secundair onderwij
 
 **Wanneer:** vrijdag 26 februari 2027, 9u30-12u30 en 12u30-16u30
 
-**Locatie:** KU Leuven Campus Kulak Kortrijk, Etienne Sabbelaan 53, 8500 KORTRIJK, België
+**Locatie:** KU Leuven Campus Kulak Kortrijk, Etienne Sabbelaan 53, 8500 Kortrijk, België
 
 **Prijs:** €120, inclusief broodjeslunch
 
@@ -45,4 +43,4 @@ lerarenopleiders wiskunde, wetenschappen en STEM voor leraren secundair onderwij
 
 **Organisatie:** Dwengo
 
-Meer info over deze workshop vind je (hier)[https://aanbod.eekhoutacademy.be/course/06pDmz].
+Meer info over deze workshop vind je [hier](https://aanbod.eekhoutacademy.be/course/06pDmz).
