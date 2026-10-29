@@ -873,6 +873,12 @@ curricula_page:
     title: "Robotics"
     sub_title: "Program robots in the classroom"
     description: "From a simple driving robot that moves in a square to a robot that learns by itself how to move using Q-learning. In this lesson theme, you will learn everything about how to design, build, and program a robot!"
+    curricula_files:
+      - file_title: "Bouw jouw eigen robot"
+        file_info: "Build your own driving robot (Dutch manual)."
+        file_location: "/assets/files/physical_computing/bouwjouweigenrobot.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
 
   wedstrijd_sr:
     teaser: "https://www.youtube.com/embed/tqSnpAKLsu8"

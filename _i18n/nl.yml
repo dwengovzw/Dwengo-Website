@@ -784,6 +784,12 @@ curricula_page:
     title: Robotica
     sub_title: Programmeer robots in de klas
     description: "Van een eenvoudige rijdende robot die in een vierkant rijdt tot een robot die zelf leert hoe deze zich moet verplaatsen met Q-learning. In dit lesthema leer je alles over hoe je een robot ontwerpt, bouwt en programmeert!"
+    curricula_files:
+      - file_title: "Bouw jouw eigen robot"
+        file_info: "Bouw je eigen rijdende robot."
+        file_location: "/assets/files/physical_computing/bouwjouweigenrobot.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
 
   wedstrijd_sr:
     teaser: "https://www.youtube.com/embed/tqSnpAKLsu8"

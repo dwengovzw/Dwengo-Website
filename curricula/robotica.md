@@ -40,4 +40,6 @@ paragraph3=paragraph3
 
 {%- include learning_paths.html filter_object=lp_filter -%}
 
+{%- include curricula_files.html page_translation_key="robotica" -%}
+
 {%- include partners.html images=page.partner_images -%}

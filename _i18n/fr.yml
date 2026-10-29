@@ -894,6 +894,12 @@ curricula_page:
     title: "Robotique"
     sub_title: "Programmez des robots en classe"
     description: "D’un robot simple qui roule en carré à un robot qui apprend lui-même à se déplacer grâce au Q-learning. Dans ce thème de cours, vous apprendrez tout sur la conception, la construction et la programmation d’un robot !"
+    curricula_files:
+      - file_title: "Bouw jouw eigen robot"
+        file_info: "Construisez votre propre robot mobile (manuel en néerlandais)."
+        file_location: "/assets/files/physical_computing/bouwjouweigenrobot.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
 
   wedstrijd_sr:
     teaser: "https://www.youtube.com/embed/tqSnpAKLsu8"

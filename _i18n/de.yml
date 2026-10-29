@@ -865,6 +865,12 @@ curricula_page:
     title: "Robotik"
     sub_title: "Programmiere Roboter im Unterricht"
     description: "Von einem einfachen fahrenden Roboter, der in einem Quadrat fährt, bis zu einem Roboter, der mit Q-Learning selbst lernt, sich zu bewegen. In diesem Unterrichtsthema lernst du alles über das Entwerfen, Bauen und Programmieren eines Roboters!"
+    curricula_files:
+      - file_title: "Bouw jouw eigen robot"
+        file_info: "Baue deinen eigenen fahrenden Roboter (Anleitung auf Niederländisch)."
+        file_location: "/assets/files/physical_computing/bouwjouweigenrobot.pdf"
+        file_icon_name: "description"
+        link_name: "Download"
 
   wedstrijd_sr:
     teaser: "https://www.youtube.com/embed/tqSnpAKLsu8"
